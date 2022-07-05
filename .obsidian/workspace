@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ravenloft/Ravenloft.md",
+            "file": "Items/Sun Amulet.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ravenloft/Ravenloft.md",
+                "file": "Items/Sun Amulet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,9 @@
   },
   "active": "a3e45f40e7f36c47",
   "lastOpenFiles": [
-    "Ravenloft/Ravenloft.md",
+    "Items/Sun Amulet.md",
+    "Ravenloft/Locations/Untitled.md",
+    "Ravenloft/Locations/Ravenloft.md",
     "NPCs/Strahd.md",
     "conflict-files-obsidian-git.md",
     "README.md"

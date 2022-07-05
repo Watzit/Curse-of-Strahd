@@ -1,0 +1,1 @@
+Rumoured as the only item capable of permanently killing Strahd
