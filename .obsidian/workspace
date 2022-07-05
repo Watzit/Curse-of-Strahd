@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cdf26b8dcb346674",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "a3e45f40e7f36c47",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Ravenloft/Ravenloft.md",
             "mode": "source"
           }
         }
@@ -76,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Ravenloft/Ravenloft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +96,8 @@
   },
   "active": "a3e45f40e7f36c47",
   "lastOpenFiles": [
+    "Ravenloft/Ravenloft.md",
+    "NPCs/Strahd.md",
     "conflict-files-obsidian-git.md",
     "README.md"
   ]
