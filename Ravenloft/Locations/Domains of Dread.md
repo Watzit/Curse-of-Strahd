@@ -1,1 +1,1 @@
-The Domains of Dread are an unknown number of demi-planes
+The Domains of Dread are an unknown number of demi-planes hidden within the [[Plane of Shadow]]
