@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Towns/Ravenloft.md",
+            "file": "Dark Powers.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Towns/Ravenloft.md",
+                "file": "Dark Powers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +96,11 @@
   },
   "active": "a3e45f40e7f36c47",
   "lastOpenFiles": [
-    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Towns/Ravenloft.md",
+    "Dark Powers.md",
     "Plane of Shadow/Plane of Shadow.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Untitled.md",
     "Plane of Shadow/Domains of Dread/Domains of Dread.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Towns/Ravenloft.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Untitled.md",
     "README.md",
     "Items/Sun Amulet.md",
     "NPCs/Strahd.md",
