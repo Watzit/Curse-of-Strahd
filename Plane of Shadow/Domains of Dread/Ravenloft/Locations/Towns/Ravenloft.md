@@ -2,10 +2,7 @@ Ravenloft exists as one of the many [[Domains of Dread]], therefore Ravenloft is
 
 Seven secrets of Ravenloft:
 
-1. Ravenlof
-2.
-3.
-4.
-5.
-6.
-7.
+1. Ravenloft
+2. The [[Dark Powers]] control all.
+3. Domains imprison Darklords,
+4. The [[Mists]]
