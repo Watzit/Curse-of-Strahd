@@ -1,6 +1,6 @@
 The Domains of Dread are an unknown number of demi-planes hidden within the [[Plane of Shadow]].
 
-Domains of Dread don't make sense. The setting's domains don't neatly flow into one another, histories don't record a collectively remembered past, fictions spawn terrible facts, and sheltered villagers remain stubbornly ignorant about the world beyond. Ravenloft is a setting designed to cultivate uncertainty, mystery, paranoia, and dread in defiance of logic or common sense.
+Domains of Dread don't make sense. The setting's domains don't neatly flow into one another, histories don't record a collectively remembered past, fictions spawn terrible facts, and sheltered villagers remain stubbornly ignorant about the world beyond. [[Ravenloft]] is a setting designed to cultivate uncertainty, mystery, paranoia, and dread in defiance of logic or common sense.
 
 The characters in your [[Ravenloft]] adventures might be the first to inquire after obvious inconsistencies or to notice plain impossibilities. But why has no one before them sought answers to such unignorable questions? The [[Dark Powers]], the [[Mists]], and the nature of domains and [[Darklords]] all claim part of the answer, but ultimately they reflect aspects of the same cause: nightmare logic.
 
@@ -12,7 +12,7 @@ Domains Are Finite. The domains vary in size from countries or geographic region
 
 Domains Are Isolated. Each domain is surrounded by the Mists, its boundaries fading away into haze. Domains share neither borders nor common geography, and you can't peer from one domain into another. The environments, cultures, and residents of one domain don't influence those of other domains.
 
-Domains Hold Darklords. Domains exist to contain and torment a villain. Though Darklords exert control over their domains, they are each tormented by a personal terror playing out in their realm.
+Domains Hold [[Darklords]]. Domains exist to contain and torment a villain. Though [[Darklords]] exert control over their domains, they are each tormented by a personal terror playing out in their realm.
 
 Domains Are Cages. Those who run afoul of a Darklord might find that the Mists prevent them from leaving the villain's domain. Like a haunted house that conveniently seals its doors or summons a deadly storm, so do domains create inescapable spaces where horror adventures unfold.
 
