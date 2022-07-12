@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ravenloft/Locations/Ravenloft.md",
+            "file": "Ravenloft/Locations/Domains of Dread.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ravenloft/Locations/Ravenloft.md",
+                "file": "Ravenloft/Locations/Domains of Dread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "a3e45f40e7f36c47",
   "lastOpenFiles": [
+    "Ravenloft/Locations/Domains of Dread.md",
     "Ravenloft/Locations/Ravenloft.md",
     "Ravenloft/Locations/Untitled.md",
     "README.md",
