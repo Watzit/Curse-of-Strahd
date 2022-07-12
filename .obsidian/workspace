@@ -7,11 +7,8 @@
         "id": "a3e45f40e7f36c47",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Plane of Shadow/Plane of Shadow.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plane of Shadow/Plane of Shadow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +92,10 @@
   },
   "active": "a3e45f40e7f36c47",
   "lastOpenFiles": [
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Untitled.md",
     "Plane of Shadow/Plane of Shadow.md",
     "Plane of Shadow/Domains of Dread/Domains of Dread.md",
-    "Ravenloft/Locations/Ravenloft.md",
-    "Ravenloft/Locations/Untitled.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Ravenloft.md",
     "README.md",
     "Items/Sun Amulet.md",
     "NPCs/Strahd.md",
