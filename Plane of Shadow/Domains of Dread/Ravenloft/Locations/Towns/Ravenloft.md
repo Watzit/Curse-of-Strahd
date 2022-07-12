@@ -2,7 +2,7 @@ Seven secrets of Ravenloft:
 
 1. Ravenloft is not a world. Ravenloft exists as one of the many [[Domains of Dread]].
 
-2. The [[Dark Powers]] control all.
+2. The [[Dark Powers]] control all. The Dark Powers are 
 
 3. Domains imprison [[Darklords]],
 
