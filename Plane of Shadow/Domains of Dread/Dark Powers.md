@@ -1,0 +1,7 @@
+Unfathomable, hidden forces manipulate life, death, and reality within Ravenloft. These mysterious, deathless beings are the architects of the Domains of Dread, and have secreted these pockets of terror deep within the Plane of Shadow. The Dark Powers watch and influence events within their dominion. When their gaze drifts, they reach into other planes to collect heroes and villains to add to their terrifying menagerie. To what end, no one knows.
+
+The Dark Powers don't move in the shadows of Ravenloft; they are the shadows. They're the Mists and the darkness. They're the reason water manifests as rivers and stars appear in skies divorced from universes. They are the wardens that hold the Darklords prisoner. Ever-present and inscrutable, the Dark Powers are akin to gods in Ravenloft, but they are unknown to mortals and desire no worship.
+
+Despite the control the Dark Powers exert, these beings remain distant from the domains they manipulate. Although some of their names whisper through sinister lore-names like Osybus, Shmi-Amourae, and Tenebrous-domain inhabitants know almost nothing of the Dark Powers. While some Darklords realize they're imprisoned by antag­ onistic entities, discourse regarding the Dark Pow­ ers remains the province of soothsayers, obsessed scholars, and otherworldly beings. Anyone who spreads tales of sinister forces manipulating real-
+
+ity is ignored or worse. For residents of Ravenloft, ignorance provides a well-defended shelter against unfathomable truths.
