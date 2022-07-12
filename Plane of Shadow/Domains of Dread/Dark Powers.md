@@ -4,7 +4,7 @@ The Dark Powers don't move in the shadows of Ravenloft; they are the shadows. Th
 
 Despite the control the Dark Powers exert, these beings remain distant from the domains they manipulate. Although some of their names whisper through sinister lore-names like Osybus, Shami-Amourae, and Tenebrous-domain inhabitants know almost nothing of the Dark Powers. While some Darklords realize they're imprisoned by antagonistic entities, discourse regarding the Dark Powers remains the province of soothsayers, obsessed scholars, and otherworldly beings. Anyone who spreads tales of sinister forces manipulating reality is ignored or worse. For residents of Ravenloft, ignorance provides a well-defended shelter against unfathomable truths.
 
-The true nature ofthe Dark Powers is for you to decide. How you perceive these forces can influ­ ence your view of their actions and agendas, who they abduct into Ravenloft and why. Through your adventures, you might reveal these mysteries and use them to hint at ways to escape the Domains of Dread. Consider the following possibilities when de­ veloping your perspective on the Dark Powers:
+The true nature ofthe Dark Powers is for you to decide. How you perceive these forces can influence your view of their actions and agendas, who they abduct into Ravenloft and why. Through your adventures, you might reveal these mysteries and use them to hint at ways to escape the Domains of Dread. Consider the following possibilities when developing your perspective on the Dark Powers:
 
 THE SECRET OF THE DARK POWERS
 
