@@ -12,8 +12,8 @@ Domains Are Finite. The domains vary in size from countries or geographic region
 
 Domains Are Isolated. Each domain is surrounded by the Mists, its boundaries fading away into haze. Domains share neither borders nor common geography, and you can't peer from one domain into another. The environments, cultures, and residents of one domain don't influence those of other domains.
 
-Domains Hold Darklords. Domains exist to con tain and torment a villain. Though Darklords exert control over their domains, they are each tormented by a personal terror playing out in their realm.
+Domains Hold Darklords. Domains exist to contain and torment a villain. Though Darklords exert control over their domains, they are each tormented by a personal terror playing out in their realm.
 
-Domains Are Cages. Those who run afoul of a Darklord might find that the Mists prevent them from leaving the villain's domain. Like a haunted house that conveniently seals its doors or sum­ mons a deadly storm, so do domains create ines­ capable spaces where horror adventures unfold.
+Domains Are Cages. Those who run afoul of a Darklord might find that the Mists prevent them from leaving the villain's domain. Like a haunted house that conveniently seals its doors or summons a deadly storm, so do domains create inescapable spaces where horror adventures unfold.
 
-Domains Are Themed. Each domain reflects its Darklord and facilitates horror tales related to that villain. Just as creepy manors suit ghostly inhabi­ tants, so does each domain inspire and encourage a distinct type of terror.
+Domains Are Themed. Each domain reflects its Darklord and facilitates horror tales related to that villain. Just as creepy manors suit ghostly inhabitants, so does each domain inspire and encourage a distinct type of terror.
