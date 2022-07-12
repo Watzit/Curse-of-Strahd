@@ -8,3 +8,12 @@ The characters in your [[Ravenloft]] adventures might be the first to inquire af
 
 As with any nightmare, the [[Domains of Dread]] aren't shackled to the laws of reality. Domains exist not to simulate a believable world, but to terrify. This flexibility provides a powerful tool to upend assumptions of safety and tailor your characters' struggles. It also encourages layers of mysteries about the nature of the setting. Is each domain unique or just one in a series of recurring nightmares? How many forms of [[Castle Ravenloft]] exist, have existed, and will yet reveal themselves in the Mists? What is truth among the Domains of Dread, and how long will that remain certain? The answers are for you to decide.
 
+Domains Are Finite. The domains vary in size from countries or geographic regions to a single city, structure, mobile conveyance, or specific location.
+
+Domains Are Isolated. Each domain is surrounded by the Mists, its boundaries fading away into haze. Domains share neither borders nor common geography, and you can't peer from one domain into another. The environments, cultures, and residents of one domain don't influence those of other domains.
+
+Domains Hold Darklords. Domains exist to con tain and torment a villain. Though Darklords exert control over their domains, they are each tormented by a personal terror playing out in their realm.
+
+Domains Are Cages. Those who run afoul of a Darklord might find that the Mists prevent them from leaving the villain's domain. Like a haunted house that conveniently seals its doors or sum­ mons a deadly storm, so do domains create ines­ capable spaces where horror adventures unfold.
+
+Domains Are Themed. Each domain reflects its Darklord and facilitates horror tales related to that villain. Just as creepy manors suit ghostly inhabi­ tants, so does each domain inspire and encourage a distinct type of terror.
