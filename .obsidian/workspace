@@ -86,13 +86,21 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "1ed8abe84e2e8fd7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "a3e45f40e7f36c47",
   "lastOpenFiles": [

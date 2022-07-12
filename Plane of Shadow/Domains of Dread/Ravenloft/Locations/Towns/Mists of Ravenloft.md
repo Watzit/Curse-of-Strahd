@@ -7,3 +7,15 @@ Beyond these truths, the Mists are your tool to establish the boundaries ofyour 
 The Mists can always b e found a t a domain's bor­ ders but can also appear in dense banks that rise wherever adventures demand. Such banks might veil strangers or hidden foes, or they can trans­ port those who enter them to distant lands, other domains, or even beyond the Domains of Dread. The Mists are inscrutable, but they ever serve the schemes of the Dark Powers, delivering creatures wherever these wicked forces desire.
 
 The Dark Powers also grant Darklords limited ability to manipulate the Mists surrounding their domains, allowing most to open or close their do­ mains' borders to others on a whim. If a domain's borders are closed, supernatural agitation is obvi­ ous to any who approach the Mists. This takes the form of roiling disturbances within the haze, menac­ ing silhouettes, threatening sounds, or other activity themed to the Darklord or domain. Creatures that enter the Mists at this time, including flying crea­ tures, are subject to the following effects:
+
+A creature that starts its turn in the Mists must succeed on a DC 20 Constitution saving throw or g a i n 1 l e v e l o f e x h a u s t i o n . T h i s e x h a u s t i o n c a n ' t be removed while the creature is in the Mists.
+
+• No matter how far a creature travels in the Mists, or which direction it goes, it gets turned around so that it eventually ends up back in the do-  
+main it left.
+
+• The area within the Mists is heavily obscured (see the Player's Handbook for details).
+
+Most Darklords can keep their domains' borders closed indefinitely and can reopen them at will. For some Darklords, slightly varied effects manifest when they close their domains. Others are limited in their ability to affect their borders. For each do­ main, specifics appear in the "Closing the Borders" portion of the section on that domain's Darklord.
+
+If a domain's borders are open, the domain is still not easy to escape from. The area within the Mists remains heavily obscured, but the Mists don't cause creatures to gain levels of exhaustion. Characters intent on passing through the Mists travel for ld6 hours, then roll on the Wandering the Mists table to determine what happens.
+
