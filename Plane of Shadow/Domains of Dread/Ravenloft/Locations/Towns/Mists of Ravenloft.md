@@ -40,7 +40,7 @@ If a domain's borders are open, the domain is still not easy to escape from. The
 
 
 
-Characters emerge on stable ground a mile from where they entered the Mists at midnight ofthe night after they entered the Mists.
+
 
 Characters emerge from the Mists inside a structure somewhere within the domain they tried to leave, perhaps a cave, crypt, shed, or closet.
 
@@ -48,6 +48,4 @@ Other creatures appear within the Mists. Roll any die. If you roll an even numbe
 
 Characters emerge from the Mists where they entered to find the domain changed. Perhaps someone the characters knew is gone, and no one has any knowledge ofthem ever existing.
 
-Characters emerge from the Mists on a world on the Material Plane. After 1d6 hour s , t h e M i s t s r i s e
-
-around them once more. Roll again on this table.	
+Characters emerge from the Mists on a world on the Material Plane. After 1d6 hours, the Mists rise around them once more. Roll again on this table.	
