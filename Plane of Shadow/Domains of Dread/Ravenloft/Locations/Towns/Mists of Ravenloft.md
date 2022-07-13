@@ -18,45 +18,33 @@ Most [[Darklords]] can keep their domains' borders closed indefinitely and can r
 
 If a domain's borders are open, the domain is still not easy to escape from. The area within the Mists remains heavily obscured, but the Mists don't cause creatures to gain levels of exhaustion. Characters intent on passing through the Mists travel for ld6 hours, then roll on the Wandering the Mists table to determine what happens.
 
-| Wandering the Mists |                                                                                   |
-| ------------------- | --------------------------------------------------------------------------------- |
-| d100                | Effect                                                                            |
-|                     |                                                                                   |
-| 01-20               | Characters emerge in a domain ofyour choosing.                                    |
-|                     |                                                                                   |
-| 21-40               | Characters wander the Mists for another 1d6 hours, then roll on this table again. |
-| 41-65               |                                                                                   |
-| 66-75               |                                                                                   |
-| 76-85               |                                                                                   |
-| 86-95               |                                                                                   |
-| 96-99               |                                                                                   |
-| 100                 |                                                                                   |
-|                     |                                                                                   |
+| Wandering the Mists |                                                                                            |
+| ------------------- | ------------------------------------------------------------------------------------------ |
+| d100                | Effect                                                                                     |
+|                     |                                                                                            |
+| 01-20               | Characters emerge in a domain ofyour choosing.                                             |
+|                     |                                                                                            |
+| 21-40               | Characters wander the Mists for another 1d6 hours, then roll on this table again.          |
+| 41-65               | Characters emerge from the Mists on stable ground 1d100 feet away from where they entered. |
+| 66-75               |                                                                                            |
+| 76-85               |                                                                                            |
+| 86-95               |                                                                                            |
+| 96-99               |                                                                                            |
+| 100                 |                                                                                            |
+|                     |                                                                                            |
 
 
 
 
 
 
-Characters emerge from the Mists on stable
 
-ground ldlOOfeetawayfromwheretheyentered.
 
-Characters emerge on stable ground a mile from
+Characters emerge on stable ground a mile from where they entered the Mists at midnight ofthe night after they entered the Mists.
 
-where they entered the Mists at midnight ofthe
+Characters emerge from the Mists inside a structure somewhere within the domain they tried to leave, perhaps a cave, crypt, shed, or closet.
 
-night after they entered the Mists.
-
-Characters emerge from the Mists inside a struc-
-
-ture somewhere within the domain they tried to
-
-leave, perhaps a cave, crypt, shed, or closet.
-
-Other creatures appear within the Mists. Roll any
-
-die. If you roll an even number, a lost and terrified
+Other creatures appear within the Mists. Roll any die. If you roll an even number, a lost and terrified
 
 commoner appears. Ifyou roll an odd number, 2d6 skeletons or 1 unspeakable horror (see chap- ter 5) appears. After the encounter, another ld6 hours pass, then roll on this table again. Characters emerge from the Mists where they en-
 
