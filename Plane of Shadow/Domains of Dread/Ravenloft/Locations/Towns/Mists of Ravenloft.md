@@ -18,3 +18,4 @@ Most [[Darklords]] can keep their domains' borders closed indefinitely and can r
 
 If a domain's borders are open, the domain is still not easy to escape from. The area within the Mists remains heavily obscured, but the Mists don't cause creatures to gain levels of exhaustion. Characters intent on passing through the Mists travel for ld6 hours, then roll on the Wandering the Mists table to determine what happens.
 
+| 
