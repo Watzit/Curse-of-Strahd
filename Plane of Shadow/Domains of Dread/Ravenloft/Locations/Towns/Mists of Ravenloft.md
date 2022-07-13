@@ -40,14 +40,15 @@ If a domain's borders are open, the domain is still not easy to escape from. The
 |       | even number, a lost and terrified commoner appears. Ifyou roll an odd number,    |
 |       | 2d6 skeletons or 1 unspeakable horror appears. After the encounter,              |
 |       | another ld6 hours pass, then roll on this table again.                           |
-|       | -------------------------------------------------------------------------------- |
+| ----- | -------------------------------------------------------------------------------- |
 | 96-99 | Characters emerge from the Mists where they entered to                           |
 |       | find the domain changed. Perhaps someone the characters                          |
 |       | knew is gone, and no one has any knowledge ofthem ever existing.                 |
-|       | -------------------------------------------------------------------------------- |
+| ----- | -------------------------------------------------------------------------------- |
 | 100   | Characters emerge from the Mists on a world on the Material Plane.               |
 |       | After 1d6 hours, the Mists rise around them once more. Roll again on this table. |
-|       | -------------------------------------------------------------------------------- |                                                                             |
+| ----- | -------------------------------------------------------------------------------- |
+|       |                                                                                  |
 
 
 
