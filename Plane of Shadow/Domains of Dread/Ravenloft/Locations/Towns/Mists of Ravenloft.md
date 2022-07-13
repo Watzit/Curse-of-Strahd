@@ -44,18 +44,10 @@ Characters emerge on stable ground a mile from where they entered the Mists at m
 
 Characters emerge from the Mists inside a structure somewhere within the domain they tried to leave, perhaps a cave, crypt, shed, or closet.
 
-Other creatures appear within the Mists. Roll any die. If you roll an even number, a lost and terrified
+Other creatures appear within the Mists. Roll any die. If you roll an even number, a lost and terrified commoner appears. Ifyou roll an odd number, 2d6 skeletons or 1 unspeakable horror appears. After the encounter, another ld6 hours pass, then roll on this table again. 
 
-commoner appears. Ifyou roll an odd number, 2d6 skeletons or 1 unspeakable horror (see chap- ter 5) appears. After the encounter, another ld6 hours pass, then roll on this table again. Characters emerge from the Mists where they en-
+Characters emerge from the Mists where they entered to find the domain changed. Perhaps someone the characters knew is gone, and no one has any knowledge ofthem ever existing.
 
-tered to find the domain changed. Perhaps some-
-
-one the characters knew is gone, and no one has
-
-any knowledge ofthem ever existing.
-
-Characters emerge from the Mists on a world on
-
-t h e M a t e r i a l P l a n e . A ft e r 1 d 6 h o u r s , t h e M i s t s r i s e
+Characters emerge from the Mists on a world on the Material Plane. After 1d6 hour s , t h e M i s t s r i s e
 
 around them once more. Roll again on this table.	
