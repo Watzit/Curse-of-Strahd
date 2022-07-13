@@ -17,3 +17,20 @@ Domains Hold [[Darklords]]. Domains exist to contain and torment a villain. Thou
 Domains Are Cages. Those who run afoul of a Darklord might find that the Mists prevent them from leaving the villain's domain. Like a haunted house that conveniently seals its doors or summons a deadly storm, so do domains create inescapable spaces where horror adventures unfold.
 
 Domains Are Themed. Each domain reflects its Darklord and facilitates horror tales related to that villain. Just as creepy manors suit ghostly inhabitants, so does each domain inspire and encourage a distinct type of terror.
+
+The realities o f the Domains o f Dread seem strange or impossible to individuals from other worlds, but for those who live among the Mists, they're facts of life. With no basis for comparison, domain inhabi­ tants call those who speak of other worlds liars. For them, the following topics are standard aspects of life in their home domain or in a broader collection of domains they call the Land of the Mists.
+
+CULTURE AND TECHNOLOGY
+
+Each domain boasts its own culture, either drawn from the Material Plane or a parody manufactured to torment a Darklord. As such, a domain might exhibit traditions and technologies unheard of i n other domains. The specifics o f each domain's technological advancements are left to you. Ifyou wish domains to feature cutting-edge weird science or inventions such as firearms (see the Dungeon Master's Guide), feel free to do so. Regardless of a domain's culture and innovations, the Mists prevent knowledge of them from spreading. Even if an in­ novation is taken from one domain to another, the suspicion of the new domain's inhabitants prevents it from gaining acceptance. Such is the subtle con­ trol ofthe Dark Powers, ensuring their nightmare realms remain just so.
+
+CURRENCY
+
+Many domains mint their own gold, silver, and cop­ per coins. Though these currencies bear different markings, merchants aren't particular about the de­ signs stamped on coinage. A gold piece from Baro­ via spends as well in Borca as it does in Har'Akir, as long as it weighs true. Platinum and electrum coins rarely circulate through the domains, but they appear often enough-originating from hidden troves or ancient vaults-that no trader questions their value.
+
+LANGUAGES
+
+By impossible coincidence, all domains share a language despite their profoundly different origins: Common, which functions as a shared tongue throughout the Land of the Mists. Beyond this, all the other languages noted in the Player's Hand­ book and Monster Manual are spoken among the Domains of Dread, some more pervasively than others. The same language spoken in multiple domains might bear subtle differences or unique words. Speakers from different domains might also have distinct accents, but their words are under­ standable.
+
+DMOption:DomainLanguages. Ifyouwantto highlight the differences between domains, you  
+can do away with Common and decide that the in­ habitants of each domain speak their own unique language, which either take the name of their do­ main or a culturally specific name. For example, the language of Barovia could be Barovian or Balok. The languages of specific races, such as Elvish or Dwarvish, remain the same in every domain. Those who wish to learn a domain's language can do so using the training downtime activity (see the Play­ er's Handbook). Although it takes 250 days to gain mastery of a language, consider allowing characters
