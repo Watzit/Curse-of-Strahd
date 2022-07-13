@@ -21,9 +21,9 @@ If a domain's borders are open, the domain is still not easy to escape from. The
 | Roll  | Wandering the Mists                                                              |
 | ----- | -------------------------------------------------------------------------------- |
 | d100  | Effect                                                                           |
-|       |                                                                                  |
+|       | ___________________________________________________________________________      |
 | 01-20 | Characters emerge in a domain ofyour choosing.                                   |
-|       |                                                                                  |
+|       | __                                                                               |
 | 21-40 | Characters wander the Mists for another 1d6 hours,                               |
 |       | then roll on this table again.                                                   |
 |       |                                                                                  |
