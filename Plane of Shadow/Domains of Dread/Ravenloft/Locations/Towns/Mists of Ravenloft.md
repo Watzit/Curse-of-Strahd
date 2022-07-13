@@ -21,6 +21,5 @@ If a domain's borders are open, the domain is still not easy to escape from. The
 | Wandering the Mists |        |
 | ------------------- | ------ |
 | d100                | Effect |
-|                     |        |
-|                     |        |
+| __________________  | ______ |
 |                     |        |
