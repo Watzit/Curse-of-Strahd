@@ -22,4 +22,60 @@ If a domain's borders are open, the domain is still not easy to escape from. The
 | ------------------- | ------ |
 | d100                | Effect |
 |                     |        |
-|                     |        |
+| 01-20               |        |
+
+21-40
+
+41-65
+
+66-75
+
+76-85
+
+86-95
+
+96-99
+
+100
+
+Effect
+
+Characters emerge in a domain ofyour choosing.
+
+Characters wander the Mists for another ld6
+
+hours, then roll on this table again.
+
+Characters emerge from the Mists on stable
+
+ground ldlOOfeetawayfromwheretheyentered.
+
+Characters emerge on stable ground a mile from
+
+where they entered the Mists at midnight ofthe
+
+night after they entered the Mists.
+
+Characters emerge from the Mists inside a struc-
+
+ture somewhere within the domain they tried to
+
+leave, perhaps a cave, crypt, shed, or closet.
+
+Other creatures appear within the Mists. Roll any
+
+die. If you roll an even number, a lost and terrified
+
+commoner appears. Ifyou roll an odd number, 2d6 skeletons or 1 unspeakable horror (see chap- ter 5) appears. After the encounter, another ld6 hours pass, then roll on this table again. Characters emerge from the Mists where they en-
+
+tered to find the domain changed. Perhaps some-
+
+one the characters knew is gone, and no one has
+
+any knowledge ofthem ever existing.
+
+Characters emerge from the Mists on a world on
+
+t h e M a t e r i a l P l a n e . A ft e r 1 d 6 h o u r s , t h e M i s t s r i s e
+
+around them once more. Roll again on this table.	
