@@ -18,15 +18,15 @@ Domains Are Cages. Those who run afoul of a Darklord might find that the Mists p
 
 Domains Are Themed. Each domain reflects its Darklord and facilitates horror tales related to that villain. Just as creepy manors suit ghostly inhabitants, so does each domain inspire and encourage a distinct type of terror.
 
-The realities o f the Domains o f Dread seem strange or impossible to individuals from other worlds, but for those who live among the Mists, they're facts of life. With no basis for comparison, domain inhabi­ tants call those who speak of other worlds liars. For them, the following topics are standard aspects of life in their home domain or in a broader collection of domains they call the Land of the Mists.
+The realities o f the Domains o f Dread seem strange or impossible to individuals from other worlds, but for those who live among the Mists, they're facts of life. With no basis for comparison, domain inhabitants call those who speak of other worlds liars. For them, the following topics are standard aspects of life in their home domain or in a broader collection of domains they call the Land of the Mists.
 
 CULTURE AND TECHNOLOGY
 
-Each domain boasts its own culture, either drawn from the Material Plane or a parody manufactured to torment a Darklord. As such, a domain might exhibit traditions and technologies unheard of i n other domains. The specifics o f each domain's technological advancements are left to you. Ifyou wish domains to feature cutting-edge weird science or inventions such as firearms (see the Dungeon Master's Guide), feel free to do so. Regardless of a domain's culture and innovations, the Mists prevent knowledge of them from spreading. Even if an in­ novation is taken from one domain to another, the suspicion of the new domain's inhabitants prevents it from gaining acceptance. Such is the subtle con­ trol ofthe Dark Powers, ensuring their nightmare realms remain just so.
+Each domain boasts its own culture, either drawn from the Material Plane or a parody manufactured to torment a Darklord. As such, a domain might exhibit traditions and technologies unheard of i n other domains. The specifics o f each domain's technological advancements are left to you. Ifyou wish domains to feature cutting-edge weird science or inventions such as firearms (see the Dungeon Master's Guide), feel free to do so. Regardless of a domain's culture and innovations, the Mists prevent knowledge of them from spreading. Even if an innovation is taken from one domain to another, the suspicion of the new domain's inhabitants prevents it from gaining acceptance. Such is the subtle control ofthe Dark Powers, ensuring their nightmare realms remain just so.
 
 CURRENCY
 
-Many domains mint their own gold, silver, and cop­ per coins. Though these currencies bear different markings, merchants aren't particular about the de­ signs stamped on coinage. A gold piece from Baro­ via spends as well in Borca as it does in Har'Akir, as long as it weighs true. Platinum and electrum coins rarely circulate through the domains, but they appear often enough-originating from hidden troves or ancient vaults-that no trader questions their value.
+Many domains mint their own gold, silver, and copper coins. Though these currencies bear different markings, merchants aren't particular about the designs stamped on coinage. A gold piece from Baro­ via spends as well in Borca as it does in Har'Akir, as long as it weighs true. Platinum and electrum coins rarely circulate through the domains, but they appear often enough-originating from hidden troves or ancient vaults-that no trader questions their value.
 
 LANGUAGES
 
