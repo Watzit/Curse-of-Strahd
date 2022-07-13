@@ -18,39 +18,25 @@ Most [[Darklords]] can keep their domains' borders closed indefinitely and can r
 
 If a domain's borders are open, the domain is still not easy to escape from. The area within the Mists remains heavily obscured, but the Mists don't cause creatures to gain levels of exhaustion. Characters intent on passing through the Mists travel for ld6 hours, then roll on the Wandering the Mists table to determine what happens.
 
-| Wandering the Mists |        |     |
-| ------------------- | ------ | --- |
-| d100                | Effect |     |
-|                     |        |     |
-| 01-20               |        |     |
-| 21-40               |        |     |
-| 41-65               |        |     |
-| 66-75               |        |     |
-| 76-85               |        |     |
-| 86-95               |        |     |
-| 96-99               |        |     |
-| 100                 |        |     |
-|                     |        |     |
+| Wandering the Mists |                                                                                   |
+| ------------------- | --------------------------------------------------------------------------------- |
+| d100                | Effect                                                                            |
+|                     |                                                                                   |
+| 01-20               | Characters emerge in a domain ofyour choosing.                                    |
+|                     |                                                                                   |
+| 21-40               | Characters wander the Mists for another 1d6 hours, then roll on this table again. |
+| 41-65               |                                                                                   |
+| 66-75               |                                                                                   |
+| 76-85               |                                                                                   |
+| 86-95               |                                                                                   |
+| 96-99               |                                                                                   |
+| 100                 |                                                                                   |
+|                     |                                                                                   |
 
 
 
 
 
-
-
-
-
-
-
-
-
-Effect
-
-Characters emerge in a domain ofyour choosing.
-
-Characters wander the Mists for another ld6
-
-hours, then roll on this table again.
 
 Characters emerge from the Mists on stable
 
