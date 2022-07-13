@@ -49,3 +49,13 @@ If a domain's borders are open, the domain is still not easy to escape from. The
 | 100   | Characters emerge from the Mists on a world on the Material Plane.               |
 |       | After 1d6 hours, the Mists rise around them once more. Roll again on this table. |
 | ----- | -------------------------------------------------------------------------------- |
+ 
+A Mist talisman is a nonmagical object, akin to a dowsing rod or a lodestone, that resonates with the unique nature of the domain where it originates, allowing the creature holding it to find a path through the Mists to that domain. By holding the talisman and focusing on its domain of origin, a creature in the Mists can reach that domain after 2d6 hours of travel. Any creatures that willingly follow the crea­ ture with the Mist talisman also reach the same destination. A Mist talisman is no help to a creature imprisoned within a domain's closed borders. If
+
+the borders of the destination domain are closed, roll on the Wandering the Mists table to determine what happens.
+
+Mist talismans take ominous forms, and no two are alike. A family's burned holy book, a battered stuffed toy, a papyrus scroll, or any of the items on the Horror Trinkets table in chapter 1 might serve as Mist talismans. Few who dwell in the Domains of Dread know how to use Mist talismans or have interest in traveling to other domains. Those who do, though, might share a Mist talisman with ad­ venturers or could know where such an item is located. You can use Mist talismans to guide char­ acters from one domain to another as your adven­ tures require.
+
+The domains detailed in this chapter suggest Mist talismans that can be used to reach them, but these aren't exhaustive lists. Use them as inspiration for Mist talismans of your own design.
+
+
