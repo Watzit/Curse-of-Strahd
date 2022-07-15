@@ -22,7 +22,7 @@ The realities o f the Domains o f Dread seem strange or impossible to individual
 
 CULTURE AND TECHNOLOGY
 
-Each domain boasts its own culture, either drawn from the Material Plane or a parody manufactured to torment a Darklord. As such, a domain might exhibit traditions and technologies unheard of i n other domains. The specifics o f each domain's technological advancements are left to you. Ifyou wish domains to feature cutting-edge weird science or inventions such as firearms (see the Dungeon Master's Guide), feel free to do so. Regardless of a domain's culture and innovations, the Mists prevent knowledge of them from spreading. Even if an innovation is taken from one domain to another, the suspicion of the new domain's inhabitants prevents it from gaining acceptance. Such is the subtle control ofthe Dark Powers, ensuring their nightmare realms remain just so.
+Each domain boasts its own culture, either drawn from the Material Plane or a parody manufactured to torment a [[Darklord]]. As such, a domain might exhibit traditions and technologies unheard of i n other domains. The specifics o f each domain's technological advancements are left to you. Ifyou wish domains to feature cutting-edge weird science or inventions such as firearms (see the Dungeon Master's Guide), feel free to do so. Regardless of a domain's culture and innovations, the Mists prevent knowledge of them from spreading. Even if an innovation is taken from one domain to another, the suspicion of the new domain's inhabitants prevents it from gaining acceptance. Such is the subtle control ofthe [[Dark Powers]], ensuring their nightmare realms remain just so.
 
 CURRENCY
 
