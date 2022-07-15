@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Krezk.md",
+            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Barovia.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Krezk.md",
+                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +102,17 @@
     "direction": "horizontal",
     "width": 175
   },
-  "active": "ca0067d0ec62b2c8",
+  "active": "238b9dafb3fc3465",
   "lastOpenFiles": [
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Krezk.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Barovia.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Abbey of Saint Markovia.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Castle Ravenloft.md",
     "Plane of Shadow/Domains of Dread/Domains of Dread.md",
     "Items/Sun Amulet.md",
     "NPCs/Count Strahd von Zarovich.md",
     "NPCs/Keepers of the Feather.md",
     "NPCs/Vistani.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Mists of Ravenloft.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Ravenloft.md",
-    "Plane of Shadow/Plane of Shadow.md"
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Mists of Ravenloft.md"
   ]
 }
