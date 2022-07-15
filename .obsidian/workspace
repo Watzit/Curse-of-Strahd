@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Items/Sun Amulet.md",
+            "file": "Plane of Shadow/Domains of Dread/Domains of Dread.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Sun Amulet.md",
+                "file": "Plane of Shadow/Domains of Dread/Domains of Dread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "238b9dafb3fc3465",
   "lastOpenFiles": [
+    "Items/Sun Amulet.md",
     "NPCs/Count Strahd von Zarovich.md",
     "NPCs/Keepers of the Feather.md",
     "NPCs/Vistani.md",
@@ -112,7 +113,6 @@
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Ravenloft.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Barovia.md",
     "Plane of Shadow/Plane of Shadow.md",
-    "Plane of Shadow/Domains of Dread/Dark Gifts.md",
-    "Plane of Shadow/Domains of Dread/Dark Powers.md"
+    "Plane of Shadow/Domains of Dread/Dark Gifts.md"
   ]
 }
