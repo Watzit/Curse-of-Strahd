@@ -37,6 +37,6 @@ What was your life like in Barovia? Were you the child ofa shepherd, vintner, or
 
 What superstitions do you cleave to? Is there something you do or say every morning or at night? Do animals-particularly bats, ravens, or wolves-feature in your superstitions? What superstitions do you have regarding coins, doorways, meals, or wounds?
 
-Do you have recurring dreams or visions ofunfamiliar experiences or past lives? Who were you in these dreams? What do they tell you about Barovia? Do you believe they hold any truth? Does Count Strahd von Zarovich feature in any ofthese visions?
+Do you have recurring dreams or visions of unfamiliar experiences or past lives? Who were you in these dreams? What do they tell you about Barovia? Do you believe they hold any truth? Does Count Strahd von Zarovich feature in any ofthese visions?
 
 
