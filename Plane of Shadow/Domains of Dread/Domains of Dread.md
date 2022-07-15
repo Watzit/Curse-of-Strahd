@@ -42,11 +42,11 @@ One noteworthy exception to this is the worship of the god Ezra, which has its o
 
 TIME AND DATES
 
-The [[Domains of Dread]] don't share a unified calendar. However, in most domains, locals measure time by "moons" rather than months. As a measurement of time, each moon begins on the first night of a full moon and lasts a full lunar cycle. A year consists of twelve moons, or twelve lunar cycles. While domains don't ascribe to a shared history, the populace of all domains inexplicably accept the current year as 735. Some local histories cleave to anomalous dates and methods of tracking years, but these are considered obsolete. No such irregularities exist in Barovia, though, where year 1 corresponds with the founding of Barovia by the von Zarovich family.
+The [[Domains of Dread]] don't share a unified calendar. However, in most domains, locals measure time by "moons" rather than months. As a measurement of time, each moon begins on the first night of a full moon and lasts a full lunar cycle. A year consists of twelve moons, or twelve lunar cycles. While domains don't ascribe to a shared history, the populace of all domains inexplicably accept the current year as 735. Some local histories cleave to anomalous dates and methods of tracking years, but these are considered obsolete. No such irregularities exist in [[Barovia]], though, where year 1 corresponds with the founding of [[Barovia]] by the von Zarovich family.
 
 TRAVEL AND CORRESPONDENCE
 
-In some domains, the residents are aware that realms exist beyond the Mists, but most have little interest in lands beyond their own. The Darklords' obsessions distract them from concerns about the nature of their domains or what lies beyond the Mists. This preoccupation, along with the lack of shared borders or reliable travel, means that mercantile ventures and military conquests between domains are essentially impossible.
+In some domains, the residents are aware that realms exist beyond the Mists, but most have little interest in lands beyond their own. The [[Darklords]]' obsessions distract them from concerns about the nature of their domains or what lies beyond the [[Mists]]. This preoccupation, along with the lack of shared borders or reliable travel, means that mercantile ventures and military conquests between domains are essentially impossible.
 
 Rare individuals do travel between the domains, such as adventurers or roving Vistani families (detailed at the end of this chapter). Others who wish to travel from one domain to another might wander into the Mists hoping to be carried elsewhere, or they can employ Mist talismans to guide them.
 
