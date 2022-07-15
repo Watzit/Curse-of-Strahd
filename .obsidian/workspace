@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Count Strahd von Zarovich.md",
+            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Barovia.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Count Strahd von Zarovich.md",
+                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "238b9dafb3fc3465",
   "lastOpenFiles": [
+    "NPCs/Count Strahd von Zarovich.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Krezk.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Barovia.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Village of Barovia.md",
@@ -112,7 +113,6 @@
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Abbey of Saint Markovia.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Castle Ravenloft.md",
     "Plane of Shadow/Domains of Dread/Domains of Dread.md",
-    "Items/Sun Amulet.md",
-    "NPCs/Count Strahd von Zarovich.md"
+    "Items/Sun Amulet.md"
   ]
 }

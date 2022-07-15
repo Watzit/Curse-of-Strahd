@@ -36,9 +36,9 @@ Eternity is a cruel consort. The following are just a few of the torments Strahd
     
 -   Strahd considers Barovia's people dull inferiors, even as he resents them for the simple pleasures of hope and companionship they possess.
 
- ROLEPLAYING STRAHD
-    
-    Strahd von Zarovich is infinitely egotistical, cruel, and manipulative-a charming monster who wears the trappings of power and class. The vampire vic­ timizes his subjects whenever the urge strikes, rev­ eling in the fear he causes.
+ROLEPLAYING STRAHD
+
+Strahd von Zarovich is infinitely egotistical, cruel, and manipulative-a charming monster who wears the trappings of power and class. The vampire victimizes his subjects whenever the urge strikes, reveling in the fear he causes.
 
 Personality Trait. "I am Barovia's lord. All within this land are mine."
 
