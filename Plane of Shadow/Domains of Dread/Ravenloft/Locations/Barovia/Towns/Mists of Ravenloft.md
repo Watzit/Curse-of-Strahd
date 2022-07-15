@@ -54,7 +54,7 @@ A Mist talisman is a nonmagical object, akin to a dowsing rod or a lodestone, th
 
 the borders of the destination domain are closed, roll on the Wandering the Mists table to determine what happens.
 
-Mist talismans take ominous forms, and no two are alike. A family's burned holy book, a battered stuffed toy, a papyrus scroll, or any of the items on the Horror Trinkets table in chapter 1 might serve as Mist talismans. Few who dwell in the Domains of Dread know how to use Mist talismans or have interest in traveling to other domains. Those who do, though, might share a Mist talisman with adventurers or could know where such an item is located. You can use Mist talismans to guide characters from one domain to another as your adventures require.
+Mist talismans take ominous forms, and no two are alike. A family's burned holy book, a battered stuffed toy, a papyrus scroll, or any of the items on the Horror Trinkets table in chapter 1 might serve as Mist talismans. Few who dwell in the [[Domains of Dread]] know how to use Mist talismans or have interest in traveling to other domains. Those who do, though, might share a Mist talisman with adventurers or could know where such an item is located. You can use Mist talismans to guide characters from one domain to another as your adventures require.
 
 The domains detailed in this chapter suggest Mist talismans that can be used to reach them, but these aren't exhaustive lists. Use them as inspiration for Mist talismans of your own design.
 
