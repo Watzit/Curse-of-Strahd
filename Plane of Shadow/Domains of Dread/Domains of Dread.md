@@ -36,15 +36,13 @@ DM Option: Domain Languages. If you want to highlight the differences between do
 
 RELIGION
 
-In many domains, locals maintain chilly relationships with aloof deities, knowing "the gods" only through hollow rituals and clergy with scant supernatural powers. Conversely, some people privately worship ancestral gods-deities of their family's tradition with whom they form deep, personal connections. Divergent faiths abound, and some that begin as charlatanry inexplicably gain the power of true faith. Ultimately, any deity from the Player's Handbook or any other setting might find followers among the Domains of Dread. By the same token, the Dark Powers breathe life into the beliefs of cruel practices and the faiths of false zealots.
+In many domains, locals maintain chilly relationships with aloof deities, knowing "the gods" only through hollow rituals and clergy with scant supernatural powers. Conversely, some people privately worship ancestral gods-deities of their family's tradition with whom they form deep, personal connections. Divergent faiths abound, and some that begin as charlatanry inexplicably gain the power of true faith. Ultimately, any deity from the Player's Handbook or any other setting might find followers among the [[Domains of Dread]]. By the same token, the [[Dark Powers]] breathe life into the beliefs of cruel practices and the faiths of false zealots.
 
-One noteworthy exception to this is the worship of the god Ezra, which has its origins in the Mists (see the "Ezra, God of the Mists" sidebar). For your ad­ ventures, you define what deities are worshiped in a domain and whether those deities are actual gods, manifestations of the Dark Powers, or one masquer­ ading as the other.
+One noteworthy exception to this is the worship of the god Ezra, which has its origins in the Mists (see the "Ezra, God of the Mists" sidebar). For your adventures, you define what deities are worshiped in a domain and whether those deities are actual gods, manifestations of the Dark Powers, or one masquerading as the other.
 
 TIME AND DATES
 
-The Domains of Dread don't share a unified calen­ dar. However, in most domains, locals measure time by "moons" rather than months. As a measurement of time, each moon begins on the first night of a full moon and lasts a full lunar cycle. A year consists
-
-of twelve moons, or twelve lunar cycles. While domains don't ascribe to a shared history, the pop­ ulace of all domains inexplicably accept the current year as 735. Some local histories cleave to anoma­ lous dates and methods of tracking years, but these are considered obsolete. No such irregularities exist in Barovia, though, where year 1 corresponds with the founding of Barovia by the von Zarovich family.
+The [[Domains of Dread]] don't share a unified calendar. However, in most domains, locals measure time by "moons" rather than months. As a measurement of time, each moon begins on the first night of a full moon and lasts a full lunar cycle. A year consists of twelve moons, or twelve lunar cycles. While domains don't ascribe to a shared history, the populace of all domains inexplicably accept the current year as 735. Some local histories cleave to anomalous dates and methods of tracking years, but these are considered obsolete. No such irregularities exist in Barovia, though, where year 1 corresponds with the founding of Barovia by the von Zarovich family.
 
 TRAVEL AND CORRESPONDENCE
 
