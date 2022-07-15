@@ -10,8 +10,7 @@ stronghold, tragic resurrection
 
 Mist Talismans: Barovian wine bottle, von Zarovich family crest, Mark of the Raven talisman
 
-In Barovia, the night is a curse. With the dying  
-of the light, wicked souls slip from the darkened spires of [[Castle Ravenloft]] to work the will of an immortal overlord. This is the realm of the vampire Count Strahd von Zarovich, whose depravities have doomed him and countless generations to endlessly repeating cycles of obsession and despair.
+In Barovia, the night is a curse. With the dying of the light, wicked souls slip from the darkened spires of [[Castle Ravenloft]] to work the will of an immortal overlord. This is the realm of the vampire Count Strahd von Zarovich, whose depravities have doomed him and countless generations to endlessly repeating cycles of obsession and despair.
 
 The howls of wolves and shrieks of raven swarms echo through the dismal valleys and oppressive forests of Barovia. In isolated communities, su­ perstitious villagers find the brightness in their lives smothered by dread of their aloof overlord,
 
