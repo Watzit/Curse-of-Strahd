@@ -7,100 +7,65 @@
         "id": "238b9dafb3fc3465",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Bluetspur/Bluetspur.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "665313b025da9fb6",
-    "type": "split",
+    "id": "b96e6ba2ec5b63b0",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "5796be29805449ff",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "79c0b6420f354008",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "39d60f4bd13ab558",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "4ff62020dd385d2d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "79aeea726770f220",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 246
+    "currentTab": 0
   },
   "right": {
-    "id": "45fc8f37dcae0063",
-    "type": "split",
+    "id": "7f33421fdd158221",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "2c12d345c2d5b225",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ca0067d0ec62b2c8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Bluetspur/Bluetspur.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "c8c39536cd42e00e",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "1ed8abe84e2e8fd7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
+        "id": "3aa853ce308f6b6f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 175
+    "currentTab": 0
   },
   "active": "238b9dafb3fc3465",
   "lastOpenFiles": [
