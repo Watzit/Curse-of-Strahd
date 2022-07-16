@@ -7,7 +7,7 @@
         "id": "238b9dafb3fc3465",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -69,15 +69,15 @@
   },
   "active": "238b9dafb3fc3465",
   "lastOpenFiles": [
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Mists of Ravenloft.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Ravenloft.md",
+    "Plane of Shadow/Domains of Dread/Dark Powers.md",
+    "Plane of Shadow/Domains of Dread/Domains of Dread.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Barovia.md",
     "NPCs/Count Strahd von Zarovich.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Krezk.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Village of Barovia.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Vallaki.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/The Amber Temple.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Abbey of Saint Markovia.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Castle Ravenloft.md",
-    "Plane of Shadow/Domains of Dread/Domains of Dread.md",
-    "Items/Sun Amulet.md"
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/The Amber Temple.md"
   ]
 }
