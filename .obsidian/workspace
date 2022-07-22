@@ -7,8 +7,12 @@
         "id": "238b9dafb3fc3465",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "NPCs/Strahd/Strahd's Goals.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPCs/Strahd/Strahd's Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +96,7 @@
   },
   "active": "238b9dafb3fc3465",
   "lastOpenFiles": [
-    "NPCs/Count Strahd von Zarovich.md",
+    "NPCs/Strahd/Count Strahd von Zarovich.md",
     "Plane of Shadow/Plane of Shadow.md",
     "Plane of Shadow/Domains of Dread/Domains of Dread.md",
     "Plane of Shadow/Domains of Dread/Darklords.md",
