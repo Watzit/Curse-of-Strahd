@@ -4,9 +4,7 @@ Domain ofthe First Vampire
 
 Darklord: Strahd von Zarovich  
 Genre: Gothic horror  
-Hallmarks: Undead despot, notorious haunted
-
-stronghold, tragic resurrection
+Hallmarks: Undead despot, notorious haunted stronghold, tragic resurrection.
 
 Mist Talismans: Barovian wine bottle, von Zarovich family crest, Mark of the Raven talisman
 
