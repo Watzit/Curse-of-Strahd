@@ -1,6 +1,6 @@
 TURN IREENA KOLYANA
 
-Strahd's unrequited love for Tatyana drove him to slay his brother, Sergei. Some time ago, Strahd glimpsed the young woman Ireena Kolyana in the village of Barovia and felt extreme deja vu. Ireena looked exactly like Tatyana! Strahd now believes that Ireena is the latest reincarnation of Tatyana, and thus he seeks to claim her.
+Strahd's unrequited love for [[Tatyana]] drove him to slay his brother, Sergei. Some time ago, [[Count Strahd von Zarovich]] glimpsed the young woman Ireena Kolyana in the village of [[Barovia]] and felt extreme deja vu. Ireena looked exactly like Tatyana! Strahd now believes that [[Ireena]] is the latest reincarnation of Tatyana, and thus he seeks to claim her.
 
 Strahd's evil courtship has led him to visit Ireena twice. On both occasions, he charmed his way into her home-the house of her adopted father, the burgomaster of the village of Barovia-and drank her blood. He intends to kill Ireena during their next meeting and turn her into his vampire spawn consort.
 

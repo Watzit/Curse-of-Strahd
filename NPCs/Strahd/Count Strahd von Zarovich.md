@@ -48,3 +48,4 @@ Ideal. "I sacrificed my life to forge this land. None deserve respect and love m
 Bond. "My subjects exist to serve and sustain me. The blood of the defiant tastes the sweetest."
 
 Flaw. "I crave the company of equals-if only such individuals existed."
+
