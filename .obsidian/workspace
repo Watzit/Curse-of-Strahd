@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "238b9dafb3fc3465",
+        "id": "f5da61a6984d37d2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Barovia.md",
+            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Mists of Ravenloft.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6468675c58852a74",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Barovia.md",
+                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Mists of Ravenloft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,24 +87,33 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "a7858ef7ac7a35ef",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "238b9dafb3fc3465",
+  "active": "f5da61a6984d37d2",
   "lastOpenFiles": [
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Barovia.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Krezk.md",
+    "Pillarstone of Ravenloft.md",
     "NPCs/Strahd/Roleplaying Strahd.md",
     "NPCs/Strahd/Count Strahd von Zarovich.md",
     "NPCs/Strahd/Strahd's Goals.md",
     "NPCs/Strahd/Strahd's Powers and Dominion.md",
     "NPCs/Strahd/Strahd's Torment.md",
     "NPCs/Ireena.md",
-    "NPCs/Keepers of the Feather.md",
-    "NPCs/Vistani.md",
-    "NPCs/Tatyana.md",
-    "NPCs/Strahd/Strahd.md"
+    "NPCs/Keepers of the Feather.md"
   ]
 }
