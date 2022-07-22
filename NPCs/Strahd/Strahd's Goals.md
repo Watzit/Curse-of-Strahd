@@ -1,11 +1,8 @@
 TURN IREENA KOLYANA
 
-Strahd's unrequited love for Tatyana drove him to slay his brother, Sergei. Some time ago, Strahd glimpsed  
-the young woman Ireena Kolyana in the village of Barovia and felt extreme deja vu. Ireena looked exactly like Tatyana! Strahd now believes that Ireena is the latest reincarnation of Tatyana, and thus he seeks to claim her.
+Strahd's unrequited love for Tatyana drove him to slay his brother, Sergei. Some time ago, Strahd glimpsed the young woman Ireena Kolyana in the village of Barovia and felt extreme deja vu. Ireena looked exactly like Tatyana! Strahd now believes that Ireena is the latest reincarnation of Tatyana, and thus he seeks to claim her.
 
 Strahd's evil courtship has led him to visit Ireena twice. On both occasions, he charmed his way into her home-the house of her adopted father, the burgomaster of the village of Barovia-and drank her blood. He intends to kill Ireena during their next meeting and turn her into his vampire spawn consort.
-
-Chapter 3 gives details about Ireena and where to find her in the village of Barovia. ·
 
 FIND RUDOLPH VAN RIGHTEN
 
@@ -19,3 +16,5 @@ Strahd can sense the a:rrival ofoew.bloodfo his·domain. WhennewcomersenterBatq�
 . ·: Stra·hd pays close attention to adventurers who are charismatic and arrogant, like himself. He focuses his attacks on them, to see how much they can withstand. If they crumble easily, he loses interest in them. If
 
 they exhibit great fortitude and defiance, his interest is piqued-even more so if the character displays uncom­ mon knowledge or beauty. Such a person might not be worthy to succeed him, but the man or woman might provide amusement to Strahd as a new possession.
+
+
