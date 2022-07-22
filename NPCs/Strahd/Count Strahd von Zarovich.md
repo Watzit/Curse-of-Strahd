@@ -14,18 +14,7 @@ After slaughtering the guards, Strahd saw the faces of his father and mother in 
 
 Strahd has been the master of [[Ravenloft]] for centuries now. Since becoming a vampire, he has taken several consorts-none as beloved as Tatyana, but each a person of beauty. All of them he turned into vampire spawn. Although he feeds on the hapless souls of [[Barovia]], they provide little nourishment and no comfort. From time to time, strangers from faraway lands are brought to his domain, to play the vampire's game of cat-and-mouse. Strahd savors these moments, for though these strangers offer him no lands to conquer, they aren't so easily destroyed and therefore provide a welcome diversion. Strahd believes that the key to his escaping [[Barovia]] lies in finding someone worthy to rule in his stead, but his arrogance are so indomitable that no one is ever good enough in his eyes. He believes in his cold heart that only a von Zarovich as great as he or his father could sway the [[Dark Powers]] to release him.
 
-STRAHD'S POWERS AND DOMINION
 
-Strahd is a patient and dramatic mastermind. His statistics are similar to those of a vampire and his spellcasting prowess is formidable, enabling him  
-to face most threats directly. Strahd ever seeks to escape his boredom and draws challenges out for as long as it entertains him. However, if insulted, the Darklord can turn all of [[Barovia]] against his foes.
-
-The Ancient, the Land. Strahd is bound to [[Barovia]] and it to him in a way few rulers or [[Darklords]] understand. As part of this relationship, Strahd knows when any creature enters or dies violently within [[Barovia]]-and takes personal offense when his agents or the domain's wolves are slain. Strahd can also manifest a variety of dramatic effects, such as causing his voice to be heard on the wind, making his visage appear in the clouds, changing the weather, and so forth. He can't use these effects to aid him in combat, but they can make his presence known throughout the land.
-
-Master Vampire. Strahd eagerly plays the parts of nobleman and gracious host, but drops these pretenses when they no longer serve him, revealing his megalomania and monstrous nature. Strahd believes he has no peers and eagerly cultivates servants, particularly vampire spawn. He hasn't survived for ages by being reckless, though, and he retreats or sacrifices even his favorite agents when necessary.
-
-[[Vistani]] Sanctuary. The ancient [[Vistani]] fortune-teller Madame Eva makes her home in [[Barovia]]. She knows much of Strahd and has occasionally served as an intermediary between him and various [[Vistani]] bands when it serves her own mysterious goals. As part of this arrangement, Strahd avoids harming [[Vistani]] who travel within his land.
-
-Closing the Borders. Strahd closes [[Barovia]]'s borders whenever something that interests him threatens to escape, surrounding the domain with poisonous mist. Those who enter the Mists choke and are affected as detailed in "The Mists" section at the start of this chapter.
 
 STRAHD'S TORMENT
 
