@@ -76,7 +76,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -92,10 +92,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "238b9dafb3fc3465",
+  "active": "e638f93647b6f7d9",
   "lastOpenFiles": [
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Mists of Ravenloft.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Towns/Ravenloft.md",
