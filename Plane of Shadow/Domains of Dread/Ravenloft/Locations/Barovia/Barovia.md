@@ -24,7 +24,7 @@ Those familiar with Barovia know the following facts:
 
 -   Many locals believe Count von Zarovich is a vampire. He dwells in [[Castle Ravenloft]], a citadel from which few return.
 
--   Vistani bands passing through Barovia are under the protection of the count. This protection stems from a past kindness the Vistani showed the count and from his long association with the fortune-teller Madam Eva. (See "Travelers in the Mists" at the end of this chapter for details on the Vistani.)
+-   [[Vistani]] bands passing through Barovia are under the protection of the count. This protection stems from a past kindness the [[Vistani]] showed the count and from his long association with the fortune-teller Madam Eva. (See "Travelers in the Mists" at the end of this chapter for details on the [[Vistani]].)
 
 -   The stories of Barovia's people are full of hidden evils: treacherous witches, secretive cults, portentous ravens, vicious werewolves, and worse.
 
