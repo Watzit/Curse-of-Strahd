@@ -7,11 +7,9 @@ The land now called Barovia is no longer part of the world that Strahd once trie
 
 Strahd allows the Vistani to come and go as they please because he admires their lust for life and their willingness to serve him when he needs them. He also owes an ancient debt to the Vistani people. As a soldier centuries ago, he suffered a grievous injury in battle, and the Vistani tended his wounds and returned him safely to his family without making any demand for payment. The Vistani claim to possess potions that allow them to leave Strahd's domain, but the potions are false concoctions with no magical power. Nevertheless, the Vistani are willing to sell them for a hefty price.
 
-Native Barovians have been terrorized for centuries by the one they call "the devil Strahd." Only a handful  
-of them have the will to oppose him. Barovians congre­ gate in the valley's three main settlements-the villages of Barovia and Krezk and the town of Vallaki-for fear of falling prey to wolves and other beasts that prowl  
-the woods. Among these people are the Keepers of the Feather, a secret society of wereravens. Not powerful enough to defeat Strahd on their own, the Keepers read­ ily assist adventurers who find themselves drawn into Strahd's domain.
+Native Barovians have been terrorized for centuries by the one they call "the devil Strahd." Only a handful of them have the will to oppose him. Barovians congregate in the valley's three main settlements-the villages of Barovia and Krezk and the town of Vallaki-for fear of falling prey to wolves and other beasts that prowl the woods. Among these people are the Keepers of the Feather, a secret society of wereravens. Not powerful enough to defeat Strahd on their own, the Keepers readily assist adventurers who find themselves drawn into Strahd's domain.
 
-Domain ofthe First Vampire
+Domain of the First Vampire
 
 Darklord: Strahd von Zarovich  
 Genre: Gothic horror  
