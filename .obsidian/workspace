@@ -11,7 +11,7 @@
           "state": {
             "file": "NPCs/Strahd/Roleplaying Strahd.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
