@@ -18,3 +18,6 @@ Bond. "My subjects exist to serve and sustain me. The blood of the defiant taste
 
 Flaw. "I crave the company of equals-if only such individuals existed."
 
+Strahd isn't a villain who remains out of sight until the final scene. Far from it-he travels as he desires to any place in his realm or his castle, and (from his perspective) the more often he encounters the characters, the better. The.characters can and should meet him multiple times before the final encounter, which most likely takes place in the location determined by the card reading. His combat details are_;wailable,in appendix D. When Strahd wants to terrprize the characters, he paysthemavisit,either.μntler·thecloak. ofnightorbeneath overcast skies duriqg the day. If they're indoors, he tries to charm or goad a charachter into inviting him inside (along with his vampire spaWn; if they are present). Strahd and his minions never attack Ireena.
+
+These encounters are meant to test the characters, not kill them. After: a few rounds of toying with them, Strahd and his creatures withdraw. If the characters retreat, Strahd is likely.to allow them to flee, savoring their fear and �elieving he has broken them.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Strahd/Count Strahd von Zarovich.md",
+            "file": "NPCs/Strahd/Roleplaying Strahd.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Strahd/Count Strahd von Zarovich.md",
+                "file": "NPCs/Strahd/Roleplaying Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "238b9dafb3fc3465",
   "lastOpenFiles": [
+    "NPCs/Strahd/Count Strahd von Zarovich.md",
     "NPCs/Strahd/Roleplaying Strahd.md",
     "NPCs/Strahd/Strahd's Goals.md",
     "NPCs/Strahd/Strahd's Powers and Dominion.md",
@@ -104,7 +105,6 @@
     "NPCs/Keepers of the Feather.md",
     "NPCs/Vistani.md",
     "NPCs/Tatyana.md",
-    "NPCs/Strahd/Count Strahd von Zarovich.md",
     "NPCs/Strahd/Strahd.md"
   ]
 }
