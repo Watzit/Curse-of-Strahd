@@ -4,7 +4,7 @@ Strahd's unrequited love for [[Tatyana]] drove him to slay his brother, Sergei. 
 
 Strahd's evil courtship has led him to visit Ireena twice. On both occasions, he charmed his way into her home-the house of her adopted father, the burgomaster of the village of Barovia-and drank her blood. He intends to kill Ireena during their next meeting and turn her into his vampire spawn consort.
 
-FIND RUDOLPH VAN RIGHTEN
+FIND RUDOLPH VAN RICHTEN
 
 Although he is usually focused on making Ireena Kolyana his bride, Strahd has been distracted by reports that a legendary vampire hunter named Rudolph van Richten has come to Barovia. It takes more than one old man with a death wish to frighten Strahd; nevertheless, the vampire has his spies searching Barovia for van Richten. Strahd would like very much to meet the old vampire hunter, lock him in the dungeons of Castle Ravenloft, and slowly break his spirit.
 
