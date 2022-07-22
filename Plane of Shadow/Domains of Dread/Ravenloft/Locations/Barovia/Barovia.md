@@ -20,7 +20,7 @@ Those familiar with Barovia know the following facts:
 
 -   Barovia is a gloomy realm of valleys isolated by wolf-prowled forests and treacherous mountains. Dense clouds cast the land in perpetual gloom.
 
--   The land's somber, superstitious people live in small, scattered villages. These communities are each led by a burgomaster who seeks to avoid the ire of the land's aloof lord, Count Strahd von Zarovich. Strangers are widely viewed with suspicion.
+-   The land's somber, superstitious people live in small, scattered villages. These communities are each led by a burgomaster who seeks to avoid the ire of the land's aloof lord, [[Count Strahd von Zarovich]]. Strangers are widely viewed with suspicion.
 
 -   Many locals believe Count von Zarovich is a vampire. He dwells in [[Castle Ravenloft]], a citadel from which few return.
 
@@ -37,6 +37,6 @@ What was your life like in Barovia? Were you the child ofa shepherd, vintner, or
 
 What superstitions do you cleave to? Is there something you do or say every morning or at night? Do animals-particularly bats, ravens, or wolves-feature in your superstitions? What superstitions do you have regarding coins, doorways, meals, or wounds?
 
-Do you have recurring dreams or visions of unfamiliar experiences or past lives? Who were you in these dreams? What do they tell you about Barovia? Do you believe they hold any truth? Does Count Strahd von Zarovich feature in any ofthese visions?
+Do you have recurring dreams or visions of unfamiliar experiences or past lives? Who were you in these dreams? What do they tell you about Barovia? Do you believe they hold any truth? Does [[Count Strahd von Zarovich]] feature in any ofthese visions?
 
 
