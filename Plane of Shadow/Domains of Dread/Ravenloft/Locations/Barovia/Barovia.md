@@ -1,7 +1,6 @@
 BAROVIA
 
-The idyllic valley nestled in the Balinok Mountains was a slice of heaven to those who knew of its existence before Strahd's arrival. The serenity of the place was forever shattered when Strahd led a bloody crusade against the enemies of bis family that ended here with the slaughter of hundreds. Struck by the 
- scenic beauty of his most recent conquest and eager to escape the shadow of his father's legacy, Strahd made the valley his home and named it Barovia after the late King Barov, his father.
+The idyllic valley nestled in the Balinok Mountains was a slice of heaven to those who knew of its existence before Strahd's arrival. The serenity of the place was forever shattered when Strahd led a bloody crusade against the enemies of bis family that ended here with the slaughter of hundreds. Struck by the scenic beauty of his most recent conquest and eager to escape the shadow of his father's legacy, Strahd made the valley his home and named it Barovia after the late King Barov, his father.
 
 The land now called Barovia is no longer part of the world that Strahd once tried to conquer. It now exists within a demiplane formed by Strahd's consciousness and surrounded by a deadly fog. No creature can leave without Strahd's permission, and those that try become lost in the mist.
 
