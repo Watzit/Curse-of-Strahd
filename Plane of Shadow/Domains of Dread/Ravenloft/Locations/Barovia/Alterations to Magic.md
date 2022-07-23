@@ -2,31 +2,24 @@ The land of Barovia resides in its own demiplane, isolated from all other planes
 
 For the purpose of spells whose effects change across or are blocked by planar boundaries (such as sending), Strahd's domain is considered its own plane. Magic that summons creatures or objects from other planes functions normally in Barovia, as does magic that involves an extradimensional space. Any spells cast within such an extradimensional space (such as that created by Mordenkainen's magnificent mansion) are subject to the same restrictions as magic cast in Barovia.
 
-While in Barovia, characters who receive spells from deities or otherworldly patrons continue to do so. In ad­ dition, spells that allow contact with beings from other planes function normally-with one proviso: Strahd can sense when someone in his domain is casting such a spell and can choose to make himself the spell's recipi­ ent, so that he becomes the one who is contacted.
+While in Barovia, characters who receive spells from deities or otherworldly patrons continue to do so. In addition, spells that allow contact with beings from other planes function normally-with one proviso: Strahd can sense when someone in his domain is casting such a spell and can choose to make himself the spell's recipient, so that he becomes the one who is contacted.
 
 COSMETIC SPELL MODIFICATIONS.  
-At your discretion, a spell can 6e �oqified·cosmeticaily
+At your discretion, a spell can modified cosmeticaily
 
 Find the path: A child's spirit appears and guides the caster to the desired location. The spirit can't be harmed and doesn't speak.
 
-Fog cloud: Misty, harmless claws form in the fog. Gust of wind: A ghastly moan accompanies the sum­
-
-moned wind.
+Fog cloud: Misty, harmless claws form in the fog. Gust of wind: A ghastly moan accompanies the summoned wind.
 
 Mage hand: The summoned hand is skeletal.  
-Maze: The surfaces of the demiplane's maze are made
 
-of mortared skulls and bones.
+Maze: The surfaces of the demiplane's maze are made of mortared skulls and bones.
 
-Phantom steed: The steed resembles a skeletal horse. Rary's telepathic bond: Characters linked together by
-
-the spell can't shake the feeling that something vile is
-
-telepathically eavesdropping on them.
+Phantom steed: The steed resembles a skeletal horse. Rary's telepathic bond: Characters linked together by the spell can't shake the feeling that something vile is telepathically eavesdropping on them.
 
 Revivify: A creature restored to life by a revivify spell screams upon regaining consciousness, as though waking from some horrible nightmare.
 
-Spirit guardians: The spirits.appear as ghostly, skele­ tal warriors.
+Spirit guardians: The spirits.appear as ghostly, skeletal warriors.
 
 Wall of stone: A wall created by the spell has ghastly faces sculpted into it, as though tortured spirits were somehow trapped within the stone.
 
