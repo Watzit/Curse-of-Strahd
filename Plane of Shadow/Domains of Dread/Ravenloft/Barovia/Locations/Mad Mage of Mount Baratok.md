@@ -5,21 +5,15 @@ is rocky, uneven, and tiring to navigate. Even the wolves avoid this neck of the
 
 You see an elk standing on a rocky spur about sixty feet away. Suddenly, it assumes the form of a man in tattered black robes. His hair and beard are long, black, and streaked with gray, and his eyes crackle with eldritch power.
 
-The Mad Mage of Mount Baratok (CN male human archmage) came to Barovia more than a year ago to free its people from Strahd's tyranny, but he underestimated Strahd's hold over the land and the creatures in it. After a battle between the two in Castle Ravenloft, Strahd drove the Mad Mage to the mountains and sent the wizard hurling over Tser Falls (area H). The wizard, his staff and spellbook lost, survived the fall and retreated into the mountains, hoping to regain his power, only to be driven mad by the realization that he no longer has any hope of defeating Strahd or freeing the people of the vampire's damned realm.
+The Mad Mage of Mount Baratok (CN male human archmage) came to Barovia more than a year ago to free its people from Strahd's tyranny, but he underestimated Strahd's hold over the land and the creatures in it. After a battle between the two in Castle Ravenloft, Strahd drove the Mad Mage to the mountains and sent the wizard hurling over Tser Falls (area H). The wizard, his staff and spellbook lost, survived the fall and retreated into the mountains, hoping to regain his power, only to be driven mad by the realisation that he no longer has any hope of defeating Strahd or freeing the people of the vampire's damned realm.
 
 The Mad Mage has forgotten his name and the world whence he came. In fact, he doesn't remember anything that happened before the madness. He suffers from the paranoia that powerful enemies are hunting him, and that their evil agents are everywhere and watching him.
 
 Believing that the characters aim to kill him, the Mad Mage unleashes his destructive magic. As he tears into them, he shouts, "You think my magic has grown weak? Think again!" If he is reduced to 50 hit points or fewer, he shouts, "Tell your dark masters they can break my body, but never my spirit!" He then tries to escape.
 
-Under normal circumstances, a greater restoration spell cast on the Mad Mage would restore his wits and ends the madness, allowing him to remember that he is none other than Mordenkainen, an archmage of Oerth and the leader of a powerful group of adventurers called the Circle of Eight But in this case, the Mad Mage has cast a mind blank spell on himself. As long as that spell
+Under normal circumstances, a greater restoration spell cast on the Mad Mage would restore his wits and ends the madness, allowing him to remember that he is none other than Mordenkainen, an archmage of Oerth and the leader of a powerful group of adventurers called the Circle of Eight But in this case, the Mad Mage has cast a mind blank spell on himself. As long as that spell remains in effect, his sanity can't be restored by any spell. If the characters surmise that powerful magic is preventing them from restoring the Mad Mage's wits, they can, with a successful DC 15 Charisma (Persuasion) check, convince the Mad Mage to divulge the reason why their spell failed. A character can also ascertain the cause of the spell's failure with a successful DC 18 Intelligence (Arcana) check. The Mad Mage's mind blank spell has a remaining duration of 3d6 hours, after which his madness can be cured normally.
 
-remains in effect, his sanity can't be restored by any spell. If the characters surmise that powerful magic is preventing them from restoring the Mad Mage's wits, they can, with a successful DC 15 Charisma (Persua­ sion) check, convince the Mad Mage to divulge the rea­ son why their spell failed. A character can also ascertain the cause of the spell's failure with a successful DC
-
-18 Intelligence (Arcana) check. The Mad Mage's mind blank spell has a remaining duration of 3d6 hours, after which his madness can be cured normally.
-
-The Mad Mage has a different spell list from that
-
-of the archmage in the Monster Manual, and he has already used one 1st-level spell slot to cast mage armor on himself, one 4th-level spell slot to cast polymorph on himself, one 7th-level spell slot to cast Mordenkainen's magnificent mansion (see "The Mad Mage's Mansion"), and one 8th-level spell slot to cast mind blank  
+The Mad Mage has a different spell list from that of the archmage in the Monster Manual, and he has already used one 1st-level spell slot to cast mage armor on himself, one 4th-level spell slot to cast polymorph on himself, one 7th-level spell slot to cast Mordenkainen's magnificent mansion (see "The Mad Mage's Mansion"), and one 8th-level spell slot to cast mind blank  
 on himself.
 
 Cantrips (at will):jire bolt, light, mage hand, prestidigitation, shocking grasp
