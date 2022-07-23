@@ -5,6 +5,6 @@ The Ancient, the Land. Strahd is bound to [[Barovia]] and it to him in a way few
 
 Master Vampire. Strahd eagerly plays the parts of nobleman and gracious host, but drops these pretenses when they no longer serve him, revealing his megalomania and monstrous nature. Strahd believes he has no peers and eagerly cultivates servants, particularly vampire spawn. He hasn't survived for ages by being reckless, though, and he retreats or sacrifices even his favorite agents when necessary.
 
-[[Vistani]] Sanctuary. The ancient [[Vistani]] fortune-teller Madame Eva makes her home in [[Barovia]]. She knows much of Strahd and has occasionally served as an intermediary between him and various [[Vistani]] bands when it serves her own mysterious goals. As part of this arrangement, Strahd avoids harming [[Vistani]] who travel within his land.
+[[NPCs/Vistani]] Sanctuary. The ancient [[NPCs/Vistani]] fortune-teller Madame Eva makes her home in [[Barovia]]. She knows much of Strahd and has occasionally served as an intermediary between him and various [[NPCs/Vistani]] bands when it serves her own mysterious goals. As part of this arrangement, Strahd avoids harming [[NPCs/Vistani]] who travel within his land.
 
 Closing the Borders. Strahd closes [[Barovia]]'s borders whenever something that interests him threatens to escape, surrounding the domain with poisonous mist. Those who enter the Mists choke and are affected as detailed in "The Mists" section at the start of this chapter.
