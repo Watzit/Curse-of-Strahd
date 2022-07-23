@@ -42,7 +42,7 @@ THE DEVIL STRAHD
 
 About Strahd and vampires, the Barovians believe the following:
 
-Strahd von Zarovich is a vampire, and he dwells in Castle Ravenloft. No one is welcome at the castle. The devil Strahd is a curse placed on the land because of a forgotten sin of the Barovians' ancestors. (This is untrue, but Barovians believe it nonetheless.)
+Strahd von Zarovich is a vampire, and he dwells in [[Castle Ravenloft]]. No one is welcome at the castle. The devil Strahd is a curse placed on the land because of a forgotten sin of the Barovians' ancestors. (This is untrue, but Barovians believe it nonetheless.)
 
 A vampire must rest in its coffin during the day. 
 
@@ -58,15 +58,15 @@ Barovians know the following facts about their homeland:
 
 Anyone who attempts to leave the land of Barovia begins to choke on the fog. Those who don't turn back perish. Many strangers have been drawn to Barovia over the years, but they all die or disappear before long. Wolves, dire wolves, ahd werewolves prowl the [[Svalich Woods]], and hungry bats fill the skies at night.
 
-The [[Village of Barovia]] sits at the east end of the valley. Its burgomaster is named Kolyan Indirovich. The town of Vallaki lies in the heart of the valley. Its burgomaster is named Baron Vargas Vallakovich. The fortified village of Krezk lies at the west end of the valley and is built around an old abbey. The village. burgomaster is named Dmitri Krezkov.
+The [[Village of Barovia]] sits at the east end of the valley. Its burgomaster is named Kolyan Indirovich. The town of Vallaki lies in the heart of the valley. Its burgomaster is named Baron Vargas Vallakovich. The fortified village of [[Krezk]] lies at the west end of the valley and is built around an old abbey. The village. burgomaster is named Dmitri Krezkov.
 
 BAROVIAN CALENDAR
 
 Barovia has its own calendar, and Barovians are accus­ tomed to measuring the passage of time in "moons" instead of months. As a measurement of time, each moon begins on the first night of a full moon and lasts a full lunar cycle. A year consists of twelve moons, or twelve lunar cycles.
 
-Strahd was born in 306. In 346, he inherited his father's crown, lands, and army. Strahd conquered the valley in 347, finished construction of Castle Ravenloft in 350, and died and became a vampire in 351. The current year is 735.
+Strahd was born in 306. In 346, he inherited his father's crown, lands, and army. Strahd conquered the valley in 347, finished construction of [[Castle Ravenloft]] in 350, and died and became a vampire in 351. The current year is 735.
 
-Wine is the lifeblood of Barovia-for some, it is the only reason to keep living. Barovian taverns get their wine from the Wizard of Wines winery near Krezk. A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's.
+Wine is the lifeblood of Barovia-for some, it is the only reason to keep living. Barovian taverns get their wine from the Wizard of Wines winery near [[Krezk]]. A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's.
 
 BELIEFS AND SUPERSTITIONS
 

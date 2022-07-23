@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Mad Mage of Mount Baratok.md",
+            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/River Ivlis Crossroads.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Mad Mage of Mount Baratok.md",
+                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/River Ivlis Crossroads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,20 +100,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f5da61a6984d37d2",
   "lastOpenFiles": [
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/River Ivlis.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Old Svalich Road.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Old Bonegrinder.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Mists of Ravenloft.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Mad Mage of Mount Baratok.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Lands of Barovia, Common Features.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Lake Zarovich.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Gates of Ravenloft.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Tser Falls.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Black Carriage.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Tser Pool Encampment.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/River Ivlis Crossroads.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/River Ivlis.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Svalich Woods.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Lands of Barovia, Common Features.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Krezk.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Gates of Barovia.md"
   ]
 }

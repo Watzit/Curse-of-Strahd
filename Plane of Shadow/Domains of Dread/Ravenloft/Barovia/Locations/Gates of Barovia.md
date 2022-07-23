@@ -6,7 +6,7 @@ If the characters are traveling on foot, the gates swing open as they approach, 
 
 The gates close behind the characters after they pass through. If the characters are riding in Vistani wagons, the gates open in front of the lead wagon and close when the rear one has entered.
 
-The eastern gates don't open for people trying to leave Strahd's domain unless they are accompanied by Vistani. The fog chokes any non-Vistani that passes through the gates or skirts around them when they are closed (see "Mists of Ravenloft" earlier in this chapter).
+The eastern gates don't open for people trying to leave Strahd's domain unless they are accompanied by Vistani. The fog chokes any non-Vistani that passes through the gates or skirts around them when they are closed (see "[[Mists of Ravenloft]]" earlier in this chapter).
 
 If Strahd is defeated, the gates of Barovia swing open, and the road east becomes clear of fog.
 

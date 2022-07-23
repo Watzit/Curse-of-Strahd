@@ -48,7 +48,7 @@ Strahd conquered this land centuries ago and named it after his father, KingBaro
 
 • Barovians are simple, frightened people. Some have old souls, but many do not. The soulless ones are easy tospot,fortheyknownothingbutfear.Theyhaveno charm, hope, or spark, and they don't cry.
 
-, The [[Old Svalich Road]] passes through Strahd's do­ main. Three settlements lie on the road like beads on a string: Krezk to the west,Vallaki in the heart of the valley,andBaroviatotheeast.Strahdhasspiesin each settlement.
+, The [[Old Svalich Road]] passes through Strahd's do­ main. Three settlements lie on the road like beads on a string: [[Krezk]] to the west,Vallaki in the heart of the valley,andBaroviatotheeast.Strahdhasspiesin each settlement.
 
 , There'sanoldwindmillontheroadbetweenthevil­ lage ofBarovia and the town ofVallaki. It should be avoided at all costs! (TheVistani refuse to say more.)
 
