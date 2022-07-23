@@ -66,7 +66,7 @@ BAROVIAN CALENDAR
 
 [[NPCs/Strahd/Strahd|Strahd]] was born in 306. In 346, he inherited his father's crown, lands, and army. [[NPCs/Strahd/Strahd|Strahd]] conquered the valley in 347, finished construction of [[Castle Ravenloft]] in 350, and died and became a vampire in 351. The current year is 735.
 
-Wine is the lifeblood of [[Barovia]]-for some, it is the only reason to keep living. Barovian taverns get their wine from the Wizard of Wines winery near [[Krezk]]. A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's.
+Wine is the lifeblood of [[Barovia]]-for some, it is the only reason to keep living. Barovian taverns get their wine from [[the Wizard of Wines]] winery near [[Krezk]]. A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's.
 
 BELIEFS AND SUPERSTITIONS
 

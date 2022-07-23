@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Untitled.md",
+            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Werewold Den.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Untitled.md",
+                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Werewold Den.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Yester Hill.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/The Wizard of Wines.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Van Richten's Tower.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Ruins of Berez.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Tsolenka Pass.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Raven River Crossroads.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Argynvostholt.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Luna River Crossroads.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Barovia.md",
-    "NPCs/Barovians.md",
-    "NPCs/Strahd/Strahd.md",
-    "NPCs/Vistani.md",
-    "NPCs/Tatyana.md"
+    "NPCs/Barovians.md"
   ]
 }
