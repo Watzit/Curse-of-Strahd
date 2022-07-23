@@ -4,19 +4,17 @@ For the purpose of spells whose effects change across or are blocked by planar b
 
 While in Barovia, characters who receive spells from deities or otherworldly patrons continue to do so. In addition, spells that allow contact with beings from other planes function normally-with one proviso: Strahd can sense when someone in his domain is casting such a spell and can choose to make himself the spell's recipient, so that he becomes the one who is contacted.
 
-COSMETIC SPELL MODIFICATIONS.  
-At your discretion, a spell can modified cosmeticaily to enhance the hor. rific atmosptt�rfi' ._Here are:examples: \.�-:.••'I .;-•� e
+COSMETIC SPELL MODIFICATIONS
+
+At your discretion, a spell can modified cosmeticaily to enhance the horrific atmosphere. Here are examples:
 
 Alarm: Instead of hearing a inerital ping wh n the alarm is triggered, the caster hears a scream.
 
-Bigby's hand: The ·conjured hand is skeletal.  
-Find familiar: The familiar is undead-not a celes­
+Bigby's hand: The conjured hand is skeletal.
 
-tial, fey, or fiend-and is immune to features that
+Find familiar: The familiar is undead-not a celestial, fey, or fiend-and is immune to features that turn undead.
 
-turn undead.
-
-Find steed: The summoned steed is undead-not a ce­ lestial, fey, or fiend-and is immune to features that turn
+Find steed: The summoned steed is undead-not a celestial, fey, or fiend-and is immune to features that turn undead.
 
 Find the path: A child's spirit appears and guides the caster to the desired location. The spirit can't be harmed and doesn't speak.
 
