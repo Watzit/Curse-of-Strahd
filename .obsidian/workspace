@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Locations/Black Carriage.md",
+            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Locations/Gates of Ravenloft.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Locations/Black Carriage.md",
+                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Locations/Gates of Ravenloft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   "active": "f5da61a6984d37d2",
   "lastOpenFiles": [
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Locations/Tser Falls.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Locations/Black Carriage.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Locations/Tser Pool Encampment.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Locations/River Ivlis Crossroads.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Locations/River Ivlis.md",
@@ -112,7 +113,6 @@
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Locations/Lands of Barovia, Common Features.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Locations/Gates of Barovia.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Locations/Old Svalich Road.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Vistani.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Barovians.md"
+    "Plane of Shadow/Domains of Dread/Ravenloft/Locations/Barovia/Vistani.md"
   ]
 }
