@@ -1,3 +1,3 @@
 Black pools of water stand like dark mirrors in and around the muddy roadway. Giant trees loom on both sides of the road, their branches clawing at the mist.
 
-If the characters are walking along the road, they arrive at area B after 5 hours. If the characters are traveling in [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]] wagons, the travel time is halved.
+If the characters are walking along the road, they arrive at area B after 5 hours. If the characters are traveling in [[Vistani|Vistani]] wagons, the travel time is halved.

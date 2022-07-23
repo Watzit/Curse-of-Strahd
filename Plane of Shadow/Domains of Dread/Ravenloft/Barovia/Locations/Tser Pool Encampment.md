@@ -4,19 +4,19 @@ The canopy of mist and branches suddenly gives way to black clouds boiling far a
 
 The mournful strains of an accordion clash with the singing of several brightly clad figures around bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest's edge."
 
-The eight draft horses drinking from the river are used to pull the [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]] wagons and aren't easily startled.
+The eight draft horses drinking from the river are used to pull the [[Vistani|Vistani]] wagons and aren't easily startled.
 
-If the characters are brought to this camp by the [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]], their escorts remain at the camp and don't accompany the adventuring party any farther.
+If the characters are brought to this camp by the [[Vistani|Vistani]], their escorts remain at the camp and don't accompany the adventuring party any farther.
 
-Twelve [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]] (CN male and female human bandits) are standing and sitting around the fire, telling stories and guzzling wine. They are intoxicated and have disadvantage on attack rolls and ability checks. Three sober [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]] (CN male and female human bandit captains) are resting in three of the four wagons but leap quickly into action if an alarm is raised.
+Twelve [[Vistani|Vistani]] (CN male and female human bandits) are standing and sitting around the fire, telling stories and guzzling wine. They are intoxicated and have disadvantage on attack rolls and ability checks. Three sober [[Vistani|Vistani]] (CN male and female human bandit captains) are resting in three of the four wagons but leap quickly into action if an alarm is raised.
 
-Although the [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]] in this camp are in league with [[NPCs/Strahd/Strahd|Strahd]], they attack only if the characters provoke them with threats or insults. Otherwise, the characters are offered flasks of wine and invited to join the reverie.
+Although the [[Vistani|Vistani]] in this camp are in league with [[NPCs/Strahd/Strahd|Strahd]], they attack only if the characters provoke them with threats or insults. Otherwise, the characters are offered flasks of wine and invited to join the reverie.
 
-If the characters linger at the camp, continue with "A Vistana's Tale" below. If they seem in a hurry to leave, one of the [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]] tells them, "It was fated that you would visit our humble camp. Madam Eva foretold your coming. She awaits you." The Vistana then points to the largest tent. If the characters head that way, continue with "Madam Eva's Tent."
+If the characters linger at the camp, continue with "A Vistana's Tale" below. If they seem in a hurry to leave, one of the [[Vistani|Vistani]] tells them, "It was fated that you would visit our humble camp. Madam Eva foretold your coming. She awaits you." The Vistana then points to the largest tent. If the characters head that way, continue with "Madam Eva's Tent."
 
 A V1sTANA's TALE
 
-If the characters linger by the fire, one of the [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]] recounts the following tale:
+If the characters linger by the fire, one of the [[Vistani|Vistani]] recounts the following tale:
 
 "A mighty wizard came to this land over a year ago. I remember him like it was yesterday. He stood exactly where you're standing. A very charismatic man, he was. He thought he could rally the people of [[Barovia]] against the devil [[NPCs/Strahd/Strahd|Strahd]]. He stirred them with thoughts of revolt and bore them to the castle en masse. "When the vampire appeared, the wizard's peasant army fled in terror. A few stood their ground and were never seen again.
 
@@ -34,11 +34,11 @@ If the characters decide to see Madam Eva, read:
 
 Madam Eva (see appendix D) speaks the name of each party member and makes some reference to that individual's past deeds. She then asks the characters if they want their fortunes read. If they say yes, Madam Eva produces a worn deck of cards and proceeds with the sequence outlined in chapter 1. (If the characters don't want a reading of their fates, continue play using the card reading you performed before starting the adventure.)
 
-Madam Eva might seem mad, but she is, in fact, cunning and sharp of mind. She has met a good many adventurers in her time and knows they can't be fully trusted. She wants to free the land of [[Barovia]] from its curse, and her fate is interwoven with [[NPCs/Strahd/Strahd|Strahd]]'s (see appendix D for details). She does the vampire's bidding when called upon and does nothing to anger [[NPCs/Strahd/Strahd|Strahd]] or bring harm to the [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]]. She never gives aid and never asks for any.
+Madam Eva might seem mad, but she is, in fact, cunning and sharp of mind. She has met a good many adventurers in her time and knows they can't be fully trusted. She wants to free the land of [[Barovia]] from its curse, and her fate is interwoven with [[NPCs/Strahd/Strahd|Strahd]]'s (see appendix D for details). She does the vampire's bidding when called upon and does nothing to anger [[NPCs/Strahd/Strahd|Strahd]] or bring harm to the [[Vistani|Vistani]]. She never gives aid and never asks for any.
 
 TREASURE
 
-For each [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]] tent of wagon that the characters search, roll once on the, following table to determine what treasure is found:
+For each [[Vistani|Vistani]] tent of wagon that the characters search, roll once on the, following table to determine what treasure is found:
 
 d20 Treasure
 
@@ -55,4 +55,4 @@ gp each
 
 FORTUNES OF [[RAVENLOFT]]
 
-If your card reading reveals that a treasure is here, it is hidden in one of the [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]] wagons. Madam Eva grants the characters permission to search the wagons if they ask, and any such search yields the treasure.
+If your card reading reveals that a treasure is here, it is hidden in one of the [[Vistani|Vistani]] wagons. Madam Eva grants the characters permission to search the wagons if they ask, and any such search yields the treasure.

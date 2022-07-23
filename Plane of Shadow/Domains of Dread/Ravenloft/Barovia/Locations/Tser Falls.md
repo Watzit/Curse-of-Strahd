@@ -1,6 +1,6 @@
 If the characters reach area H by following the footpath
 
-from the [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]] encampment (area G), read:
+from the [[Vistani|Vistani]] encampment (area G), read:
 
 You follow the river to the base of a canyon, at the far end of which a great waterfall spills into a pool, billowing forth clouds of cold mist. A great stone bridge spans the canyon nearly one thousand feet overhead.
 
