@@ -37,14 +37,3 @@ RESURRECTION MADNESS
 In Barovia, the souls of the dead are as trapped as the souls of the living. They become caught in the mists and can't travel to the afterlife.
 
 When a humanoid who has been dead for at least 24 hours returns to life, either by way of a spell or some supernatural means, it gains a random form of indefinite madness brought on by the realization that its spirit is trapped in Barovia, likely forever. To determine how this madness is expressed, roll on the Indefinite Madness table in chapter 8 of the Dungeon Master's Guide.
-
-BAROVIANS
-
-After his armies occupied the valley and slew its inhabitants, Strahd repopulated the area with human subjects drawn from his other conquered lands. As a result, Barovians have a wide variety of ethnic backgrounds.
-
-Barovians are deeply invested in their homes and their traditions. They are wary of strange peoples and customs. The way Barovians deal with strangers can be unsettling to those newcomers. Barovians have a tendency to stare openly, in silence, thereby expressing their disapproval of anything that isn't familiar to them. Barovians aren't talkative with strangers, to the extent of being pointedly rude. Most Barovians have violent tempers that boil up through their customary silence when they are provoked. They also have a social cohesiveness (thrust upon them by their weird circumstances) that can make them act together against outsiders if a Barovian is mistreated.
-
-Barovians were a happy people once, but their history and current conditions aren't pleasanr. If one manages to win the trust of a Barovi�p.. one_ has a friend for life and a stalwart ally. · ·
-
-Barovian children aren't happy-children. They are raised in a culture of fear and told time and again not  
-to wander too far from their homes or·enter the woods. They experience little hope or joy, and they are taught to _fear the devil �trahd above all.
