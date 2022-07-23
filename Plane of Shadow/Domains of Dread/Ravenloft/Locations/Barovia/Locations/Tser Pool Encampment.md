@@ -38,4 +38,21 @@ Madam Eva might seem mad, but she is, in fact, cunning and sharp of mind. She ha
 
 TREASURE
 
-For each Vistani tent ot wagon that the characters search, roll once on th<, following table to determine what treasure is found:
+For each Vistani tent of wagon that the characters search, roll once on the, following table to determine what treasure is found:
+
+d20 Treasure
+
+1-10 None  
+11-13 Sack of 100 ep (each coin stamped with Strahd's visage in profile)
+
+14-16 Pouch containing 4d6 gemstones worth 100 gp each 17-19 Sack containing 3d6 pieces of cheap jewelry worth
+
+25 gp total and ld6 pieces of fine jewelry worth 250
+
+gp each
+
+20 One magic item (roll once on Magic Item Table B in the Dungeon Master's Guide)
+
+FORTUNES OF RAVENLOFT
+
+If your card reading reveals that a treasure is here, it is hidden in one of the Vistani wagons. Madam Eva grants the characters permission to search the wagons if they ask, and any such search yields the treasure.
