@@ -8,7 +8,7 @@ COSMETIC SPELL MODIFICATIONS
 
 At your discretion, a spell can modified cosmeticaily to enhance the horrific atmosphere. Here are examples:
 
-Alarm: Instead of hearing a inerital ping wh n the alarm is triggered, the caster hears a scream.
+Alarm: Instead of hearing a inerital ping when the alarm is triggered, the caster hears a scream.
 
 Bigby's hand: The conjured hand is skeletal.
 
