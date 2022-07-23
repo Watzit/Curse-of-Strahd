@@ -36,17 +36,20 @@ Aside from the secretive dusk elves of Vallaki (see chapter 5), the only nonhuma
 
 BAROVIAN LORE
 
-Typical Barovians know certain facts, or have certain beliefs, about their existence and their surroundings. This common lore is summarized here. Characters can learnthisinformationafterearningaBarovian'strust.
+Typical Barovians know certain facts, or have certain beliefs, about their existence and their surroundings. This common lore is summarized here. Characters can learn this information after earning a Barovian's trust.
 
 THE DEVIL STRAHD
 
 About Strahd and vampires, the Barovians believe the following:
 
-Strahd von Zarovich is a vampire, and he dwells in Castle Ravenloft. No one is welcome at the castle.  
-The devil Strahd is a curse placed on the land because of a forgotten sin of the Barovians' ancestors. (This is untrue, but Barovians believe it nonetheless.)
+Strahd von Zarovich is a vampire, and he dwells in Castle Ravenloft. No one is welcome at the castle. The devil Strahd is a curse placed on the land because of a forgotten sin of the Barovians' ancestors. (This is untrue, but Barovians believe it nonetheless.)
 
-A vampire must rest in its coffin during the day. At night, it can summon wolves and vermin to do its bid­ ding. A vampire can transform into a bat, a wolf, or a cloud of mist. In its humanoid form, it can dominate you with its powerful gaze.  
-A vampire can't enter a residence without an invitation from one of the occupants.  
+A vampire must rest in its coffin during the day. 
+
+At night, it can summon wolves and vermin to do its bidding. A vampire can transform into a bat, a wolf, or a cloud of mist. In its humanoid form, it can dominate you with its powerful gaze. 
+
+A vampire can't enter a residence without an invitation from one of the occupants. 
+
 Running water burns a vampire like acid, and sunlight causes a vampire to burst into flame.
 
 THE LAND OF BAROVIA
