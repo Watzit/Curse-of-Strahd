@@ -33,11 +33,10 @@ If the characters rescue the archmage from his madness, he invites them to his "
 
 Mordenkainen is familiar with worlds beyond his own. For example, if the characters come from the Forgotten Realms and mention this fact to Mordenkainen, he asks them if they know his old friend Elminster of Shadowdale.
 
-If Mordenkainen isn't the party's ally as foretold in Madam Eva's card reading (see chapter 1), he declines to join them if asked. With his wits restored, he sets  
-out to find his missing staff and spellbook, leaving the characters on their own. He doesn't allow them to help him, for he fears they might be tempted to steal either his staff or his spellbook. (Being an adventurer himself, he k_nows how the lure of powerful magic can bring out the worst in adventurers.) Before he leaves, as a parting gift, the archmage imbues each character with a charm ofheroism (see "Supernatural .Gifts" i_n chapter 7 of the Dungeon Master's Guide). .
+If Mordenkainen isn't the party's ally as foretold in Madam Eva's card reading (see chapter 1), he declines to join them if asked. With his wits restored, he sets out to find his missing staff and spellbook, leaving the characters on their own. He doesn't allow them to help him, for he fears they might be tempted to steal either his staff or his spellbook. (Being an adventurer himself, he knows how the lure of powerful magic can bring out the worst in adventurers.) Before he leaves, as a parting gift, the archmage imbues each character with a charm ofheroism (see "Supernatural .Gifts" i_n chapter 7 of the Dungeon Master's Guide). .
 
-. FOR.TUNES OF·RAVENLOFT  
-, Ifyour·cardreadingrevealst,hattheMadMageisthe  
+FOR.TUNES OF·RAVENLOFT  
+If your card reading reveals that theMadMageisthe  
 " party's aHy in the battle against Strahd, Mordenkainen can be persuaded to help them once his sanity is re­ stored. He won't join them on their travels, but he will help them in a fight with Strahd if they have discovered where to find the vampire and how to destroy him.
 
 With his sanity restored, Mordenkainen can be stub­ born and difficult even with his friends, and doesn't suf­ fer fools. He normally spends more time listening than talking, but when he does speak, his pronouncements are authoritative and not to be questioned.
