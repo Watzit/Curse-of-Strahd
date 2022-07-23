@@ -56,7 +56,7 @@ THE LAND OF BAROVIA
 
 Barovians know the following facts about their homeland:
 
-, AnyonewhoattemptstoleavethelandofBarovia begins to choke on the fog. ·Those who don't turn back perish. · · · Many strangers )lave be�n d(awn to �arovia·over the years, but they all die or dis�pp'�ar;before long. Wolves, dire wolves, ahd wete\Volves prowl th� Sva- lich Woods, and hungry bats fi'tl the'skies at night.
+Anyone who attempts to leave the land of Barovia begins to choke on the fog. Those who don't turn back perish. Many strangers have been drawn to Barovia over the years, but they all die or disappear before long. Wolves, dire wolves, ahd werewolves prowl the Svalich Woods, and hungry bats fi'tl the'skies at night.
 
 , ThevillageofBaroviasitsatth·eeastendofthevalley. Its burgomaster is named Kolyan Indirovich.  
 The town of Vallaki lies in the heart of the valley. Its burgomaster is named Baron Vargas Vallakovich.  
