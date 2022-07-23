@@ -14,3 +14,5 @@ After slaughtering the guards, Strahd saw the faces of his father and mother in 
 
 Strahd has been the master of [[Ravenloft]] for centuries now. Since becoming a vampire, he has taken several consorts-none as beloved as [[Tatyana]], but each a person of beauty. All of them he turned into vampire spawn. Although he feeds on the hapless souls of [[Barovia]], they provide little nourishment and no comfort. From time to time, strangers from faraway lands are brought to his domain, to play the vampire's game of cat-and-mouse. Strahd savors these moments, for though these strangers offer him no lands to conquer, they aren't so easily destroyed and therefore provide a welcome diversion. Strahd believes that the key to his escaping [[Barovia]] lies in finding someone worthy to rule in his stead, but his arrogance are so indomitable that no one is ever good enough in his eyes. He believes in his cold heart that only a von Zarovich as great as he or his father could sway the [[Dark Powers]] to release him.
 
+
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Strahd/Strahd.md",
+            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Strahd/Strahd.md",
+                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "NPCs/Vistani.md",
+    "NPCs/Tatyana.md",
+    "NPCs/Ireena.md",
+    "NPCs/Strahd/Strahd.md",
+    "NPCs/Strahd/Strahd's Goals.md",
     "NPCs/Strahd/Roleplaying Strahd.md",
     "Strahd.md",
-    "NPCs/Strahd/Strahd.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani.md",
     "NPCs/Strahd/Strahd's Torment.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Gates of Barovia.md",
-    "NPCs/Strahd/Strahd's Powers and Dominion.md",
-    "NPCs/Strahd/Strahd's Goals.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Ravenloft.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Pillarstone of Ravenloft.md"
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Gates of Barovia.md"
   ]
 }
