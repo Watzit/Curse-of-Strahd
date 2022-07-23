@@ -52,7 +52,7 @@ Strahd conquered this land centuries ago and named it after his father, KingBaro
 
 , There'sanoldwindmillontheroadbetweenthevil­ lage ofBarovia and the town ofVallaki. It should be avoided at all costs! (TheVistani refuse to say more.)
 
-, Itiswisetosticktotheroad.Wilddruids,wayward ghosts, and packs of wolves and werewolves haunt the Svalich Woods.
+, Itiswisetosticktotheroad.Wilddruids,wayward ghosts, and packs of wolves and werewolves haunt the [[Svalich Woods]].
 
 BELIEFS AND SUPERSTITIONS
 
