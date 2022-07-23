@@ -8,7 +8,7 @@ Strahd allows the [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|V
 
 Native [[Barovians]] have been terrorized for centuries by the one they call "the devil Strahd." Only a handful of them have the will to oppose him. [[Barovians]] congregate in the valley's three main settlements-the villages of Barovia and [[Krezk]] and the town of [[Vallaki]]-for fear of falling prey to wolves and other beasts that prowl the woods. Among these people are the Keepers of the Feather, a secret society of wereravens. Not powerful enough to defeat Strahd on their own, the Keepers readily assist adventurers who find themselves drawn into Strahd's domain.
 
-By the will of the Dark Powers, the sun never fully shines in the lands of Barovia. Even during the day, the sky is dimmed by fog or storm clouds, or the light is strangely muted. Barovian daylight is bright light, yet it isn't considered sunlight for the purpose of effects and vulnerabilities, such as a vampire's, tied to sunlight.
+By the will of the [[Dark Powers]], the sun never fully shines in the lands of Barovia. Even during the day, the sky is dimmed by fog or storm clouds, or the light is strangely muted. Barovian daylight is bright light, yet it isn't considered sunlight for the purpose of effects and vulnerabilities, such as a vampire's, tied to sunlight.
 
 Nevertheless, Strahd and his vampire spawn tend to stay indoors most of the day and venture out at night, and they are subject to sunlight created by magic.
 
