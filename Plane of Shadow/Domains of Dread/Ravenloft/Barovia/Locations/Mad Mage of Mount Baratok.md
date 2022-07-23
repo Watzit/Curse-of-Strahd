@@ -13,29 +13,25 @@ Believing that the characters aim to kill him, the Mad Mage unleashes his destru
 
 Under normal circumstances, a greater restoration spell cast on the Mad Mage would restore his wits and ends the madness, allowing him to remember that he is none other than Mordenkainen, an archmage of Oerth and the leader of a powerful group of adventurers called the Circle of Eight But in this case, the Mad Mage has cast a mind blank spell on himself. As long as that spell remains in effect, his sanity can't be restored by any spell. If the characters surmise that powerful magic is preventing them from restoring the Mad Mage's wits, they can, with a successful DC 15 Charisma (Persuasion) check, convince the Mad Mage to divulge the reason why their spell failed. A character can also ascertain the cause of the spell's failure with a successful DC 18 Intelligence (Arcana) check. The Mad Mage's mind blank spell has a remaining duration of 3d6 hours, after which his madness can be cured normally.
 
-The Mad Mage has a different spell list from that of the archmage in the Monster Manual, and he has already used one 1st-level spell slot to cast mage armor on himself, one 4th-level spell slot to cast polymorph on himself, one 7th-level spell slot to cast Mordenkainen's magnificent mansion (see "The Mad Mage's Mansion"), and one 8th-level spell slot to cast mind blank  
-on himself.
+The Mad Mage has a different spell list from that of the archmage in the Monster Manual, and he has already used one 1st-level spell slot to cast mage armor on himself, one 4th-level spell slot to cast polymorph on himself, one 7th-level spell slot to cast Mordenkainen's magnificent mansion (see "The Mad Mage's Mansion"), and one 8th-level spell slot to cast mind blank on himself.
 
-Cantrips (at will):jire bolt, light, mage hand, prestidigitation, shocking grasp
+Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp
 
-1st level (4 slots): detect magic, mage armor, magic mis- sile, shield
-
+1st level (4 slots): detect magic, mage armor, magic missile, shield
 2nd level (3 slots): mirror image, misty step, web  
 3rd level (3 slots): counterspe/1,jly, lightning bolt  
-4th level (3 slots): Mordenkainen's faithful hound, poly-
-
-morph, stoneskin
-
-5th level (3 slots): Bigby's hand, cone of cold, scrying 6th level (1 slot): true seeing  
-7th level (1 slot): Mordenkainen's magnificent mansion 8th level (1 slot): mind blank
-
+4th level (3 slots): Mordenkainen's faithful hound, polymorph, stoneskin
+5th level (3 slots): Bigby's hand, cone of cold, scrying 
+6th level (1 slot): true seeing  
+7th level (1 slot): Mordenkainen's magnificent mansion 
+8th level (1 slot): mind blank
 9th level (1 slot): time stop
 
 THE MAD MAGE'S MANSION
 
-If the characters rescue the archmage from his mad­ ness, he invites them to his "mansion." He leads them up the mountain to an invisible doorway that serves as the entrance to his extradimensional lair, created using the Mordenkainen's magnificent mansion spell. There, he provides them with food and sanctuary away from the prying eyes of Strahd and his spies. Characters are free to take a short or long rest, during which time they aren't disturbed.
+If the characters rescue the archmage from his madness, he invites them to his "mansion." He leads them up the mountain to an invisible doorway that serves as the entrance to his extra-dimensional lair, created using the Mordenkainen's magnificent mansion spell. There, he provides them with food and sanctuary away from the prying eyes of Strahd and his spies. Characters are free to take a short or long rest, during which time they aren't disturbed.
 
-Mordenkainen is familiar with worlds beyond his own. For example, if the characters come from the For­ gotten Realms and mention this fact to Mordenkainen, he asks them if they know his old friend Elminster of Shadowdale.
+Mordenkainen is familiar with worlds beyond his own. For example, if the characters come from the Forgotten Realms and mention this fact to Mordenkainen, he asks them if they know his old friend Elminster of Shadowdale.
 
 If Mordenkainen isn't the party's ally as foretold in Madam Eva's card reading (see chapter 1), he declines to join them if asked. With his wits restored, he sets  
 out to find his missing staff and spellbook, leaving the characters on their own. He doesn't allow them to help him, for he fears they might be tempted to steal either his staff or his spellbook. (Being an adventurer himself, he k_nows how the lure of powerful magic can bring out the worst in adventurers.) Before he leaves, as a parting gift, the archmage imbues each character with a charm ofheroism (see "Supernatural .Gifts" i_n chapter 7 of the Dungeon Master's Guide). .
