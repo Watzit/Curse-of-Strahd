@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Krezk.md",
+            "file": "NPCs/Tatyana.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Krezk.md",
+                "file": "NPCs/Tatyana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
-    "Barovia/Locations/Gates of Ravenloft.md",
-    "Barovia/Locations/Gates of Barovia.md",
-    "Barovia/Locations/Castle Ravenloft.md",
-    "Barovia/Locations/Black Carriage.md",
-    "Barovia/Locations/Argynvostholt.md",
-    "Barovia/Locations/Abbey of Saint Markovia.md",
-    "Barovia/Locations/Village of Barovia/Village of Barovia.md",
+    "NPCs/Keepers of the Feather.md",
+    "NPCs/Ireena.md",
+    "NPCs/Barovians.md",
+    "NPCs/Strahd/Strahd.md",
+    "NPCs/Strahd/Strahd's Torment.md",
+    "NPCs/Strahd/Strahd's Powers and Dominion.md",
+    "NPCs/Strahd/Strahd's Goals.md",
+    "NPCs/Strahd/Roleplaying Strahd.md",
     "Barovia/Pillarstone of Ravenloft.md",
-    "Barovia/Barovia.md",
-    "Barovia/Alterations to Magic.md"
+    "Barovia/Barovia.md"
   ]
 }

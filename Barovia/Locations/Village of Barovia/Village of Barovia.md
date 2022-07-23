@@ -1,6 +1,6 @@
 The village of [[Barovia]] is the saddest place in the land, its residents so terrified of [[Strahd]] that they rarely venture from their homes. The village lies in the shadow of [[Castle Ravenloft]], buried under fog but still unable to hide from the vampire's sight.
 
-Until recently, [[Strahd]] had been paying nightly visits to lreena Kolyana, the adopted daughter of the village burgomaster. Ireena carries the soul of [[Strahd]]'s beloved Tatyana and looks exactly like her. [[Strahd]] intends to make Ireena his bride, turn her into a vampire, and lock her away in the castle crypts for all time.
+Until recently, [[Strahd]] had been paying nightly visits to lreena Kolyana, the adopted daughter of the village burgomaster. [[Ireena]] carries the soul of [[Strahd]]'s beloved Tatyana and looks exactly like her. [[Strahd]] intends to make [[Ireena]] his bride, turn her into a vampire, and lock her away in the castle crypts for all time.
 
 APPROACHING THE VILLAGE
 
