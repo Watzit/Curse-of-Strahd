@@ -64,5 +64,3 @@ Those familiar with Barovia know the following facts:
 -   [[Vistani]] bands passing through Barovia are under the protection of the count. This protection stems from a past kindness the [[Vistani]] showed the count and from his long association with the fortune-teller Madam Eva.
 
 -   The stories of Barovia's people are full of hidden evils: treacherous witches, secretive cults, portentous ravens, vicious werewolves, and worse.
-
-
