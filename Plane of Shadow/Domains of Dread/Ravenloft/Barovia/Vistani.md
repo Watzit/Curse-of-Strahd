@@ -1,4 +1,4 @@
-The Vistani (singular: Vistana) are wanderers who live outside civilization, traveling about in horse-drawn, bar­ rel-topped wagons called vardos, which they build them­ selves. Compared to Barovians:they are flamboyant. Vistanidressinbrightclothes,laughoften,ariddrink heartily. As much as they feel at home-in._Strahd's dreary land, they know they can leave it.whenever they" please and aren't damned fo spend eteinity there.
+The Vistani (singular: Vistana) are wanderers who live outside civilization, traveling about in horse-drawn, bar­ rel-topped wagons called vardos, which they build them­ selves. Compared to [[Barovians]]:they are flamboyant. Vistanidressinbrightclothes,laughoften,ariddrink heartily. As much as they feel at home-in._Strahd's dreary land, they know they can leave it.whenever they" please and aren't damned fo spend eteinity there.
 
 Vistani are silversmiths, copper�miths, haberdashers, cooks, weavers, musicians, entei:_ tainers,.storytelfers, toolmakers, and horse traders. They also earn money bytellingfortunesandsellinginforniation.Theyspend whatever they earn to support a lavish lifestyle, display their wealth openly a� a sign of prosperity, and share their good fortune with family and friends.
 
@@ -12,7 +12,7 @@ STRAHD'S VISTANI SERVANTS
 
 During one of Strahd's military campaigns, years before he became a vampire, a group ofVistani rescued him after he was wounded in battle. TheseVistani not only nursed Strahd back to health but also delivered him safely home. As a reward for their generosity, Strahd de­ clared that allVistani had the right to come and go from his land as they please, and this privilege extends to
 
-the present day. Thus,Vistani can travel freely through the fog that surrounds Barovia, without fear of harm or entrapment.
+the present day. Thus,Vistani can travel freely through the fog that surrounds [[Barovia]], without fear of harm or entrapment.
 
 Strahd honors his debt to theVistani in part because he envies theVistani way of life-the freedom they have to go where they please, their devotion to family, and their festive spirit. The courtesy he shows them is not simply a matter of honor but is also born from his admi­ ration of them.
 
@@ -22,7 +22,7 @@ sequences of disobeying him.
 
 When it comes to sharing information about their dark master, Strahd's
 
-Vistani pretend to be helpful, but the infor­ mation they impart is misleading at best and often deceptive. They readily tell adventur­ ers that they have a potion that protects them from the deadly fog that surrounds Barovia. Although this is a lie, they attempt to sell their fake potion for as much money as they can get.
+Vistani pretend to be helpful, but the infor­ mation they impart is misleading at best and often deceptive. They readily tell adventur­ ers that they have a potion that protects them from the deadly fog that surrounds [[Barovia]]. Although this is a lie, they attempt to sell their fake potion for as much money as they can get.
 
 VISTANI LORE
 
@@ -32,23 +32,23 @@ STRAHD VON ZAROVICH
 
 About Strahd, theVistani believe the following:
 
-Strahd comes from a royal bloodline. He died centu­ ries ago yet endures as one of the undead, feasting on the blood of the living. Barovians refer to him as "the devil Strahd."
+Strahd comes from a royal bloodline. He died centu­ ries ago yet endures as one of the undead, feasting on the blood of the living. [[Barovians]] refer to him as "the devil Strahd."
 
 Strahd has taken many consorts, but he has known only one true love: a Barovian peasant girl named Tatyana. (TheVistani don't know what hap­ pened to her.)
 
-• Strahdnamedhiscastle,Ravenloft,afterhisbeloved mother, Queen Ravenovia. Strangers aren't welcome at the castle without an invitation.
+• Strahdnamedhiscastle,[[Ravenloft]],afterhisbeloved mother, Queen Ravenovia. Strangers aren't welcome at the castle without an invitation.
 
-1)rn LAND OF BAROVIA
+1)rn LAND OF [[BAROVIA]]
 
-Vistani know the following facts about Barovia and Barovians:
+Vistani know the following facts about [[Barovia]] and [[Barovians]]:
 
 ?.8
 
 Strahd conquered this land centuries ago and named it after his father, KingBarov. Strahd uses wolves, bats, and other creatures to spy on all of his realm.
 
-• Barovians are simple, frightened people. Some have old souls, but many do not. The soulless ones are easy tospot,fortheyknownothingbutfear.Theyhaveno charm, hope, or spark, and they don't cry.
+• [[Barovians]] are simple, frightened people. Some have old souls, but many do not. The soulless ones are easy tospot,fortheyknownothingbutfear.Theyhaveno charm, hope, or spark, and they don't cry.
 
-, The [[Old Svalich Road]] passes through Strahd's do­ main. Three settlements lie on the road like beads on a string: [[Krezk]] to the west,Vallaki in the heart of the valley,andBaroviatotheeast.Strahdhasspiesin each settlement.
+, The [[Old Svalich Road]] passes through Strahd's do­ main. Three settlements lie on the road like beads on a string: [[Krezk]] to the west,[[Vallaki]] in the heart of the valley,andBaroviatotheeast.Strahdhasspiesin each settlement.
 
 , There'sanoldwindmillontheroadbetweenthevil­ lage ofBarovia and the town ofVallaki. It should be avoided at all costs! (TheVistani refuse to say more.)
 
@@ -89,7 +89,7 @@ When the curse ends, theVistana soffers a harmful psychicbacklash.Theamountofthi
 
 The Vistana chooses the curse's effect from the options that follow; otherVistani curses are possible. All such effects deal psychic damage to the Vistani who uttered them when they end:
 
-CHAPTER 2 J THE LANDS OF BAROVIA
+CHAPTER 2 J THE LANDS OF [[BAROVIA]]
 
 The target is unable to perform a certain kind of act involving fine motor control, such as tying knots, writ­ ing, playing an instrument, sewing, or casting spells that have somatic components. When this curse ends, theVistana takes ld6 psychic damage.
 

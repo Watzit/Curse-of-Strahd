@@ -16,23 +16,23 @@ Souls and Shells
 
 Barovians are made of flesh and blood. They are born, they live, they age, and they die. But not all of them only about one in every ten-have souls.
 
-When a being with a soul dies in Barovia, that soul remains trapped in Strahd's domain until it is reincarnated in a newborn. It can take decades for a bodiless soul to find a host, and Barovians who share the same soul over generations tend to look alike. That is why Ireena Kolyana looks exactly like Strahd's beloved Tatyana-both women were born with the same soul.
+When a being with a soul dies in [[Barovia]], that soul remains trapped in Strahd's domain until it is reincarnated in a newborn. It can take decades for a bodiless soul to find a host, and Barovians who share the same soul over generations tend to look alike. That is why Ireena Kolyana looks exactly like Strahd's beloved Tatyana-both women were born with the same soul.
 
 Strahd needs loyal subjects to feed his ego. Barovians without souls are empty shells created by his consciousness to fill out the local population. Although they are physically indistinguishable from Barovians with souls, they tend to be bereft of charm and imagination·and to be more compliant and depressed than the others. They dress in drab clothing, whereas Barovians who have souls wear .clothes with a splash of color or individuality.
 
-A Barovian woman, soulless or not, can give birth. A child born in Barovia might have a soul even if one or both parents do not. Conversely, the child of two parents with souls isn't certain to have a soul of its own. Barovians without souls are maudlin folk who experience fear but neither laugh nor cry.
+A Barovian woman, soulless or not, can give birth. A child born in [[Barovia]] might have a soul even if one or both parents do not. Conversely, the child of two parents with souls isn't certain to have a soul of its own. Barovians without souls are maudlin folk who experience fear but neither laugh nor cry.
 
-Ireena Kolyana and her brother Ismark both have souls, as do all Vistani. Which Barovians have souls and which don't is left up to you.
+Ireena Kolyana and her brother Ismark both have souls, as do all [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]]. Which Barovians have souls and which don't is left up to you.
 
 Strahd periodically feeds on the blood of Barovians who have souls, but he can't draw nourishment from the blood of the soulless. He can tell at a glance whether a Barovian has a soul or is merely a shell.
 
-If Strahd is defeated, the fog that surrounds Barovia fades away, allowing the inhabitants of the valley to leave if they wish. Only those who have souls, however, can truly leave this place. Soulless Barovians cease to exist as soon as they exit the valley.
+If Strahd is defeated, the fog that surrounds [[Barovia]] fades away, allowing the inhabitants of the valley to leave if they wish. Only those who have souls, however, can truly leave this place. Soulless Barovians cease to exist as soon as they exit the valley.
 
 BAROVIANS AND NONHUMANS
 
 Barovians are human. Although they know that dwarves, elves, halflings and other civilized races exist, few living Barovians have seen such "creatures," let alone interacted with them.
 
-Aside from the secretive dusk elves of Vallaki (see chapter 5), the only nonhumans most Barovians are familiar with are the adventurers that Strahd has lured to his dark realm. Barovians thus react to nonhuman characters the same way most humans in the real world would react to elf, dwarf, or half-ore adventurers suddenly walking the streets. Most such outsiders are scorned, feared, or shunned.
+Aside from the secretive dusk elves of [[Vallaki]] (see chapter 5), the only nonhumans most Barovians are familiar with are the adventurers that Strahd has lured to his dark realm. Barovians thus react to nonhuman characters the same way most humans in the real world would react to elf, dwarf, or half-ore adventurers suddenly walking the streets. Most such outsiders are scorned, feared, or shunned.
 
 BAROVIAN LORE
 
@@ -52,21 +52,21 @@ A vampire can't enter a residence without an invitation from one of the occupant
 
 Running water burns a vampire like acid, and sunlight causes a vampire to burst into flame.
 
-THE LAND OF BAROVIA
+THE LAND OF [[BAROVIA]]
 
 Barovians know the following facts about their homeland:
 
-Anyone who attempts to leave the land of Barovia begins to choke on the fog. Those who don't turn back perish. Many strangers have been drawn to Barovia over the years, but they all die or disappear before long. Wolves, dire wolves, ahd werewolves prowl the [[Svalich Woods]], and hungry bats fill the skies at night.
+Anyone who attempts to leave the land of [[Barovia]] begins to choke on the fog. Those who don't turn back perish. Many strangers have been drawn to [[Barovia]] over the years, but they all die or disappear before long. Wolves, dire wolves, ahd werewolves prowl the [[Svalich Woods]], and hungry bats fill the skies at night.
 
-The [[Village of Barovia]] sits at the east end of the valley. Its burgomaster is named Kolyan Indirovich. The town of Vallaki lies in the heart of the valley. Its burgomaster is named Baron Vargas Vallakovich. The fortified village of [[Krezk]] lies at the west end of the valley and is built around an old abbey. The village. burgomaster is named Dmitri Krezkov.
+The [[Village of Barovia]] sits at the east end of the valley. Its burgomaster is named Kolyan Indirovich. The town of [[Vallaki]] lies in the heart of the valley. Its burgomaster is named Baron Vargas Vallakovich. The fortified village of [[Krezk]] lies at the west end of the valley and is built around an old abbey. The village. burgomaster is named Dmitri Krezkov.
 
 BAROVIAN CALENDAR
 
-Barovia has its own calendar, and Barovians are accus­ tomed to measuring the passage of time in "moons" instead of months. As a measurement of time, each moon begins on the first night of a full moon and lasts a full lunar cycle. A year consists of twelve moons, or twelve lunar cycles.
+[[Barovia]] has its own calendar, and Barovians are accus­ tomed to measuring the passage of time in "moons" instead of months. As a measurement of time, each moon begins on the first night of a full moon and lasts a full lunar cycle. A year consists of twelve moons, or twelve lunar cycles.
 
 Strahd was born in 306. In 346, he inherited his father's crown, lands, and army. Strahd conquered the valley in 347, finished construction of [[Castle Ravenloft]] in 350, and died and became a vampire in 351. The current year is 735.
 
-Wine is the lifeblood of Barovia-for some, it is the only reason to keep living. Barovian taverns get their wine from the Wizard of Wines winery near [[Krezk]]. A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's.
+Wine is the lifeblood of [[Barovia]]-for some, it is the only reason to keep living. Barovian taverns get their wine from the Wizard of Wines winery near [[Krezk]]. A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's.
 
 BELIEFS AND SUPERSTITIONS
 
@@ -78,20 +78,20 @@ Two divine forces watch over the Barovian people: the Morninglord and Mother Nig
 
 , ThepresenceofMotherNightisfeltmoststrongly between dusk and dawn, although nighttime prayers to her go unanswered. It is widely believed that she has forsaken the Barovian people and sent the devil Strahd to punish them for their ancestors' offenses.
 
-• SpiritsdriftalongtheOldSvalichRoadtowardCastle Ravenloft in the dead of night. These phantoms are all that remain of Strahd's enemies, and this damnable fate awaits anyone who opposes him.
+• SpiritsdriftalongtheOldSvalichRoadtowardCastle [[Ravenloft]] in the dead of night. These phantoms are all that remain of Strahd's enemies, and this damnable fate awaits anyone who opposes him.
 
-The Vistani serve the devil Strahd. They alone are al­
+The [[Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani|Vistani]] serve the devil Strahd. They alone are al­
 
-lowed to leave Barovia.
+lowed to leave [[Barovia]].
 
 • Neverharmaraven,lestillfortunebefallyou!
 
 BAROVIAN CHARACTERS
 
-A diverse populace dwells in Barovia, their ancestors drawn from lands long ago conquered by Count von Zarovich. The people favor dressing in muted but functional clothes, have a wide range of skin and hair colors, and often have names inspired by Slavic peoples. When players create characters from Barovia, ask them the following questions.
+A diverse populace dwells in [[Barovia]], their ancestors drawn from lands long ago conquered by Count von Zarovich. The people favor dressing in muted but functional clothes, have a wide range of skin and hair colors, and often have names inspired by Slavic peoples. When players create characters from [[Barovia]], ask them the following questions.
 
-What was your life like in Barovia? Were you the child ofa shepherd, vintner, or burgomaster? Was your life humble, or were you spared scarcity ofcoin and food? Did someone in your life vanish, or did you suffer some brush with the creatures ofthe night?
+What was your life like in [[Barovia]]? Were you the child ofa shepherd, vintner, or burgomaster? Was your life humble, or were you spared scarcity ofcoin and food? Did someone in your life vanish, or did you suffer some brush with the creatures ofthe night?
 
 What superstitions do you cleave to? Is there something you do or say every morning or at night? Do animals-particularly bats, ravens, or wolves-feature in your superstitions? What superstitions do you have regarding coins, doorways, meals, or wounds?
 
-Do you have recurring dreams or visions of unfamiliar experiences or past lives? Who were you in these dreams? What do they tell you about Barovia? Do you believe they hold any truth? Does [[Count Strahd von Zarovich]] feature in any ofthese visions?
+Do you have recurring dreams or visions of unfamiliar experiences or past lives? Who were you in these dreams? What do they tell you about [[Barovia]]? Do you believe they hold any truth? Does [[Count Strahd von Zarovich]] feature in any ofthese visions?

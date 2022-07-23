@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/River Ivlis Crossroads.md",
+            "file": "Plane of Shadow/Domains of Dread/Dark Powers.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/River Ivlis Crossroads.md",
+                "file": "Plane of Shadow/Domains of Dread/Dark Powers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "f5da61a6984d37d2",
   "lastOpenFiles": [
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/River Ivlis.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Old Svalich Road.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Old Bonegrinder.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Mists of Ravenloft.md",
+    "Plane of Shadow/Domains of Dread/Dark Gifts.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Ravenloft.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Pillarstone of Ravenloft.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Barovians.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Barovia.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Mad Mage of Mount Baratok.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Lands of Barovia, Common Features.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Lake Zarovich.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Gates of Ravenloft.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Krezk.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Gates of Barovia.md"
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Alterations to Magic.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Village of Barovia.md"
   ]
 }

@@ -5,7 +5,7 @@ is rocky, uneven, and tiring to navigate. Even the wolves avoid this neck of the
 
 You see an elk standing on a rocky spur about sixty feet away. Suddenly, it assumes the form of a man in tattered black robes. His hair and beard are long, black, and streaked with gray, and his eyes crackle with eldritch power.
 
-The Mad Mage of Mount Baratok (CN male human archmage) came to Barovia more than a year ago to free its people from Strahd's tyranny, but he underestimated Strahd's hold over the land and the creatures in it. After a battle between the two in [[Castle Ravenloft]], Strahd drove the Mad Mage to the mountains and sent the wizard hurling over Tser Falls (area H). The wizard, his staff and spellbook lost, survived the fall and retreated into the mountains, hoping to regain his power, only to be driven mad by the realisation that he no longer has any hope of defeating Strahd or freeing the people of the vampire's damned realm.
+The Mad Mage of Mount Baratok (CN male human archmage) came to [[Barovia]] more than a year ago to free its people from Strahd's tyranny, but he underestimated Strahd's hold over the land and the creatures in it. After a battle between the two in [[Castle Ravenloft]], Strahd drove the Mad Mage to the mountains and sent the wizard hurling over [[Tser Falls]] (area H). The wizard, his staff and spellbook lost, survived the fall and retreated into the mountains, hoping to regain his power, only to be driven mad by the realisation that he no longer has any hope of defeating Strahd or freeing the people of the vampire's damned realm.
 
 The Mad Mage has forgotten his name and the world whence he came. In fact, he doesn't remember anything that happened before the madness. He suffers from the paranoia that powerful enemies are hunting him, and that their evil agents are everywhere and watching him.
 
@@ -35,7 +35,7 @@ Mordenkainen is familiar with worlds beyond his own. For example, if the charact
 
 If Mordenkainen isn't the party's ally as foretold in Madam Eva's card reading (see chapter 1), he declines to join them if asked. With his wits restored, he sets out to find his missing staff and spellbook, leaving the characters on their own. He doesn't allow them to help him, for he fears they might be tempted to steal either his staff or his spellbook. (Being an adventurer himself, he knows how the lure of powerful magic can bring out the worst in adventurers.) Before he leaves, as a parting gift, the archmage imbues each character with a charm ofheroism (see "Supernatural .Gifts" i_n chapter 7 of the Dungeon Master's Guide). .
 
-FOR.TUNES OF·RAVENLOFT  
+FOR.TUNES OF·[[RAVENLOFT]]  
 If your card reading reveals that the Mad Mage is the party's ally in the battle against Strahd, Mordenkainen can be persuaded to help them once his sanity is restored. He won't join them on their travels, but he will help them in a fight with Strahd if they have discovered where to find the vampire and how to destroy him.
 
 With his sanity restored, Mordenkainen can be stubborn and difficult even with his friends, and doesn't suffer fools. He normally spends more time listening than talking, but when he does speak, his pronouncements are authoritative and not to be questioned.

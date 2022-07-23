@@ -1,4 +1,4 @@
-THE LANDS OF BAROVIA: COMMON FEATURES
+THE LANDS OF [[BAROVIA]]: COMMON FEATURES
 
 Unless the text says otherwise, the following rules apply to doors, secret doors, locks, and webs in these lands.
 
