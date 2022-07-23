@@ -1,0 +1,3 @@
+Check for a random encounter whenever the characters reach area F, unless they are accompanied by Vistani.
+
+An old wooden gallows creaks in a chill wind that blows down from the high ground to the west. A frayed length of rope dances from its beam. The well-worn road splits here, and a signpost opposite the gallows points off in three directions: BAROVIA VILLAGE to the east, TSER Pool to the northwest, and RAVENLOFT/VALLAKI to the southwest.
