@@ -20,7 +20,7 @@ In the centuries since [[NPCs/Strahd/Strahd|Strahd]] became a vampire, manyVista
 vampire, and they fear the con­  
 sequences of disobeying him.
 
-When it comes to sharing information about their dark master, [[NPCs/Strahd/Strahd|Strahd]]'s
+When it comes to sharing information about their dark master, [[NPCs/[[NPCs/Strahd/Strahd|Strahd]]/[[NPCs/Strahd/Strahd|Strahd]]|[[NPCs]]/[[NPCs/Strahd/Strahd|Strahd]]/[[NPCs/Strahd/Strahd|Strahd]]|[[NPCs/Strahd/Strahd|Strahd]]]]'s
 
 Vistani pretend to be helpful, but the infor­ mation they impart is misleading at best and often deceptive. They readily tell adventur­ ers that they have a potion that protects them from the deadly fog that surrounds [[Barovia]]. Although this is a lie, they attempt to sell their fake potion for as much money as they can get.
 
@@ -28,13 +28,13 @@ VISTANI LORE
 
 Vistani know or believe certain facts about their people and their surroundings. This common lore is summa­ rized here. Characters can learn this information after earning aVistana's trust.
 
-STRAHD VON ZAROVICH
+[[NPCs/Strahd/Strahd|STRAHD]] VON ZAROVICH
 
-About Strahd, theVistani believe the following:
+About [[NPCs/Strahd/Strahd|Strahd]], theVistani believe the following:
 
-Strahd comes from a royal bloodline. He died centu­ ries ago yet endures as one of the undead, feasting on the blood of the living. [[Barovians]] refer to him as "the devil Strahd."
+[[NPCs/Strahd/Strahd|Strahd]] comes from a royal bloodline. He died centu­ ries ago yet endures as one of the undead, feasting on the blood of the living. [[Barovians]] refer to him as "the devil [[NPCs/Strahd/Strahd|Strahd]]."
 
-Strahd has taken many consorts, but he has known only one true love: a Barovian peasant girl named Tatyana. (TheVistani don't know what hap­ pened to her.)
+[[NPCs/Strahd/Strahd|Strahd]] has taken many consorts, but he has known only one true love: a Barovian peasant girl named Tatyana. (TheVistani don't know what hap­ pened to her.)
 
 • Strahdnamedhiscastle,[[Ravenloft]],afterhisbeloved mother, Queen Ravenovia. Strangers aren't welcome at the castle without an invitation.
 
@@ -44,11 +44,11 @@ Vistani know the following facts about [[Barovia]] and [[Barovians]]:
 
 ?.8
 
-Strahd conquered this land centuries ago and named it after his father, KingBarov. Strahd uses wolves, bats, and other creatures to spy on all of his realm.
+[[NPCs/Strahd/Strahd|Strahd]] conquered this land centuries ago and named it after his father, KingBarov. [[NPCs/Strahd/Strahd|Strahd]] uses wolves, bats, and other creatures to spy on all of his realm.
 
 • [[Barovians]] are simple, frightened people. Some have old souls, but many do not. The soulless ones are easy tospot,fortheyknownothingbutfear.Theyhaveno charm, hope, or spark, and they don't cry.
 
-, The [[Old Svalich Road]] passes through Strahd's do­ main. Three settlements lie on the road like beads on a string: [[Krezk]] to the west,[[Vallaki]] in the heart of the valley,andBaroviatotheeast.Strahdhasspiesin each settlement.
+, The [[Old Svalich Road]] passes through [[NPCs/Strahd/Strahd|Strahd]]'s do­ main. Three settlements lie on the road like beads on a string: [[Krezk]] to the west,[[Vallaki]] in the heart of the valley,andBaroviatotheeast.Strahdhasspiesin each settlement.
 
 , There'sanoldwindmillontheroadbetweenthevil­ lage ofBarovia and the town ofVallaki. It should be avoided at all costs! (TheVistani refuse to say more.)
 
@@ -60,7 +60,7 @@ The Vistani have deep-rooted beliefs and superstitions that they pass down from 
 
 The souls of those who die inBarovia can't escape to
 
-the afterlife. They are prisoners in Strahd's domain.  
+the afterlife. They are prisoners in [[NPCs/Strahd/Strahd|Strahd]]'s domain.  
 , SomeVistaniwomenareblessedwithprescience.Of all the great Vistani fortune-tellers, none compares
 
 to Madam Eva. If knowledge of the future is what you seek, Madam Eva will tell you your fate.  
