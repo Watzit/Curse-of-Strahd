@@ -58,7 +58,7 @@ Barovians know the following facts about their homeland:
 
 Anyone who attempts to leave the land of Barovia begins to choke on the fog. Those who don't turn back perish. Many strangers have been drawn to Barovia over the years, but they all die or disappear before long. Wolves, dire wolves, ahd werewolves prowl the Svalich Woods, and hungry bats fill the skies at night.
 
-The village of Barovia sits at the east end of the valley. Its burgomaster is named Kolyan Indirovich. The town of Vallaki lies in the heart of the valley. Its burgomaster is named Baron Vargas Vallakovich. The fortified village of Krezk lies at the west end of the valley and is built around an old abbey. The village. burgomaster is named Dmitri Krezkov.
+The [[village of Barovia]] sits at the east end of the valley. Its burgomaster is named Kolyan Indirovich. The town of Vallaki lies in the heart of the valley. Its burgomaster is named Baron Vargas Vallakovich. The fortified village of Krezk lies at the west end of the valley and is built around an old abbey. The village. burgomaster is named Dmitri Krezkov.
 
 BAROVIAN CALENDAR
 
