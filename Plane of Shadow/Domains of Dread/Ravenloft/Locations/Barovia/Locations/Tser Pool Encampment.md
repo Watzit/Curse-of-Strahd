@@ -23,3 +23,19 @@ If the characters linger by the fire, one of the Vistani recounts the following 
 "The wizard and the vampire cast spells at each other.
 
 Their battle flew from the courtyards of Ravenloft to a precipice overlooking the falls. I saw the battle with my own eyes. Thunder shook the mountainside, and great rocks tumbled down upon the wizard, yet by his magic he survived. Lightning from the heavens struck the wizard, and again he stood his ground. But when the devil Strahd fell upon him, the wizard's magic couldn't save him. I saw him thrown a thousand feet to his death. I climbed down to the river to search for the wizard's body, to see if, you know, he had anything of value, but the River lvlis had already spirited him away."
+
+The Vistana storyteller doesn't remember the wizard's name, but recalls that it sounded important. If the char­ acters haven't spoken with Madam Eva, the storyteller urges them to do so.
+
+MADAM EvA's TENT
+
+If the characters decide to see Madam Eva, read:
+
+"Magic flames cast a reddish glow over the interior of this tent, revealing a low table covered in a black velvet cloth. Glints of light seem to flash from a crystal ball on the table as a hunched figure peers into its depths. As the crone speaks, her voice crackles like dry weeds. "At last you have arrived!" Cackling laughter bursts like mad lightning from her withered lips."
+
+Madam Eva (see appendix D) speaks the name of each party member and makes some reference to that individual's past deeds. She then asks the characters if they want their fortunes read. If they say yes, Madam Eva produces a worn deck of cards and proceeds with the sequence outlined in chapter 1. (If the characters don't want a reading of their fates, continue play using the card reading you performed before starting the adventure.)
+
+Madam Eva might seem mad, but she is, in fact, cunning and sharp of mind. She has met a good many adventurers in her time and knows they can't be fully trusted. She wants to free the land of Barovia from its curse, and her fate is interwoven with Strahd's (see appendix D for details). She does the vampire's bidding when called upon and does nothing to anger Strahd or bring harm to the Vistani. She never gives aid and never asks for any.
+
+TREASURE
+
+For each Vistani tent ot wagon that the characters search, roll once on th<, following table to determine what treasure is found:
