@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f5da61a6984d37d2",
+        "id": "44c418a0971d9819",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Strahd/Count Strahd von Zarovich.md",
+            "file": "NPCs/Strahd/Strahd.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Strahd/Count Strahd von Zarovich.md",
+                "file": "NPCs/Strahd/Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +110,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f5da61a6984d37d2",
+  "active": "44c418a0971d9819",
   "lastOpenFiles": [
-    "Strahd.md",
-    "NPCs/Strahd/Count Strahd von Zarovich.md",
     "NPCs/Strahd/Strahd's Torment.md",
+    "NPCs/Strahd/Strahd.md",
+    "Strahd.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Locations/Gates of Barovia.md",
     "NPCs/Strahd/Strahd's Powers and Dominion.md",
     "NPCs/Strahd/Strahd's Goals.md",
     "NPCs/Strahd/Roleplaying Strahd.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Ravenloft.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Vistani.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Pillarstone of Ravenloft.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Barovians.md"
+    "Plane of Shadow/Domains of Dread/Ravenloft/Barovia/Pillarstone of Ravenloft.md"
   ]
 }

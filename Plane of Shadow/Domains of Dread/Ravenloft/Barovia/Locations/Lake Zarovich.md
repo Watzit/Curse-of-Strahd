@@ -20,4 +20,4 @@ Characters who act quickly can save Arabelle before she drowns. A character on t
 
 Arabelle has alabaster-white skin and raven-black hair. If rescued, she demands to be returned to her family's camp outside [[Vallaki]] (chapter 5, area N9). She is certain that her father, Luvash, will give the characters a reward for doing so.
 
-A descendant of Madam Eva with the blood of Barovian royalty in her veins, Arabelle is unaware of her connection to Strahd. She acts more like an adult than a child. Despite her recent misadventure, she believes that a great destiny awaits her.
+A descendant of Madam Eva with the blood of Barovian royalty in her veins, Arabelle is unaware of her connection to [[NPCs/Strahd/Strahd|Strahd]]. She acts more like an adult than a child. Despite her recent misadventure, she believes that a great destiny awaits her.
