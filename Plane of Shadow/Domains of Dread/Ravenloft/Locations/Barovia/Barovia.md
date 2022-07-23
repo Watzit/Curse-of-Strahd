@@ -12,30 +12,6 @@ By the will of the Dark Powers, the sun never fully shines in the lands of Barov
 
 Nevertheless, Strahd and his vampire spawn tend to stay indoors most of the day and venture out at night, and they are subject to sunlight created by magic.
 
-BAROVIANS
-
-After his armies occupied the valley and slew its inhabitants, Strahd repopulated the area with human subjects drawn from his other conquered lands. As a result, Barovians have a wide variety of ethnic backgrounds.
-
-Barovians are deeply invested in their homes and their traditions. They are wary of strange peoples and customs. The way Barovians deal with strangers can be unsettling to those newcomers. Barovians have a tendency to stare openly, in silence, thereby expressing their disapproval of anything that isn't familiar to them. Barovians aren't talkative with strangers, to the extent of being pointedly rude. Most Barovians have violent tempers that boil up through their customary silence when they are provoked. They also have a social cohesiveness (thrust upon them by their weird circumstances) that can make them act together against outsiders if a Barovian is mistreated.
-
-Barovians were a happy people once, but their history and current conditions aren't pleasanr. If one manages to win the trust of a Barovian, one has a friend for life and a stalwart ally.
-
-Barovian children aren't happy-children. They are raised in a culture of fear and told time and again not to wander too far from their homes or enter the woods. They experience little hope or joy, and they are taught to fear the devil Strahd above all.
-
-Barovian adults eke out modest livings. With no new wealth pouring into the valley, they trade in old coins that bear the profile of their dark lord, Strahd, as he looked when he was alive. They hide their precious baubles in their houses and dress plainly outdoors, so as not to attract the attention of Strahd or his spies.
-
-Barovians live within a closed ecosystem. Every Barovian adult is expected to learn a trade or serve a function. Barovians stitch their own clothing, craft their own furniture, grow their own food, and make their own wine. With fewer than three thousand people living in the entire valley, finding the perfect mate isn't easy, so Barovians have learned to settle for what they can get.
-
-BAROVIAN CHARACTERS
-
-A diverse populace dwells in Barovia, their ancestors drawn from lands long ago conquered by Count von Zarovich. The people favor dressing in muted but functional clothes, have a wide range of skin and hair colors, and often have names inspired by Slavic peoples. When players create characters from Barovia, ask them the following questions.
-
-What was your life like in Barovia? Were you the child ofa shepherd, vintner, or burgomaster? Was your life humble, or were you spared scarcity ofcoin and food? Did someone in your life vanish, or did you suffer some brush with the creatures ofthe night?
-
-What superstitions do you cleave to? Is there something you do or say every morning or at night? Do animals-particularly bats, ravens, or wolves-feature in your superstitions? What superstitions do you have regarding coins, doorways, meals, or wounds?
-
-Do you have recurring dreams or visions of unfamiliar experiences or past lives? Who were you in these dreams? What do they tell you about Barovia? Do you believe they hold any truth? Does [[Count Strahd von Zarovich]] feature in any ofthese visions?
-
 Domain of the First Vampire
 
 Darklord: Strahd von Zarovich  
