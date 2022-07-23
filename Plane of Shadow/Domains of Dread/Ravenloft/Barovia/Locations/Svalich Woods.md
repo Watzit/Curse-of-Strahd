@@ -1,6 +1,6 @@
 Towering trees, whose tops are lost in heavy gray mist, block out all but a death-gray light. The tree trunks are unnaturally close to one another, and the woods have the silence of a forgotten grave, yet exude the feeling of an unvoiced scream.
 
-If the characters are traveling in [[Vistani|Vistani]] wagons, they can continue on to the [[village of Barovia]] (area E) without incident.
+If the characters are traveling in [[Vistani|Vistani]] wagons, they can continue on to the [[Village of Barovia]] (area E) without incident.
 If the characters are following the road on foot, the party member who has the highest passive Wisdom (Perception) score notices something:
 
 You catch the scent of death on the air
@@ -15,4 +15,4 @@ The letter in Dalvan's hand has a large "B" set into its wax seal. The parchment
 
 Dalvan was instructed to place the letter at the gates, in the hope that visitors would find it and turn back.
 
-If the characters linger in the woods, they hear a lone wolf howl far off in the forest. Each round, one more wolf adds its voice to the howling, with the sound getting progressively closer to the party. If the characters are still in the woods after 5 rounds of five dire wolves arrive and attack. If the characters are trying to leave [[Barovia]], these dire wolves are joined by a pack of twenty wolves. The wolves and the dire wolves stop their attack if the characters return to the road and head toward the [[village of Barovia]] (area E).
+If the characters linger in the woods, they hear a lone wolf howl far off in the forest. Each round, one more wolf adds its voice to the howling, with the sound getting progressively closer to the party. If the characters are still in the woods after 5 rounds of five dire wolves arrive and attack. If the characters are trying to leave [[Barovia]], these dire wolves are joined by a pack of twenty wolves. The wolves and the dire wolves stop their attack if the characters return to the road and head toward the [[Village of Barovia]] (area E).

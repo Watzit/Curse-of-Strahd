@@ -1,4 +1,4 @@
-Two sets of these gates exist: one west of the [[village of Barovia]] and one east of the village.
+Two sets of these gates exist: one west of the [[Village of Barovia]] and one east of the village.
 
 The fog spills out of the forest to swallow up the road be­ hind you. Ahead, jutting from the impenetrable woods on both sides of the road, are high stone buttresses looming gray in the fog. Huge iron gates hang on the stonework. Dew clings with cold tenacity to the rusted bars. Two headless statues of armed guardians flank the gate, their heads now lying among the weeds at their feet. They greet you only with silence.
 
