@@ -13,3 +13,9 @@ THE HANGED ONE
 As the characters leave the area, read: 
 
 "You hear a creaking noise behind you, coming from the gallows. Where there was nothing before now hangs a lifeless, gray body. The breeze turns the hanged figure slowly, so that it can fix its dead eyes upon you."
+
+One random character sees him- or herself hanging from the gallows. The other characters see an unfamiliar Barovian. The corpse looks and smells real, and it rapidly melts away into nothing if touched or moved.
+
+FORTUNES OF RAVENLOFT
+
+If your card reading reveals that a treasure is here, it is buried in one of the graves. For each grave the charac­ ters dig up, there's a cumulative 10 percent chance of finding the treasure.
