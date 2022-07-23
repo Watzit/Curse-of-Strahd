@@ -40,10 +40,9 @@ When a humanoid who has been dead for at least 24 hours returns to life, either 
 
 BAROVIANS
 
-After his armies occupied the valley and slew its inhabi­ tants, Strahd repopulated the area with human subjects drawn from his other conquered lands. As a result, Barovians have a wide variety of ethnic backgrounds.
+After his armies occupied the valley and slew its inhabitants, Strahd repopulated the area with human subjects drawn from his other conquered lands. As a result, Barovians have a wide variety of ethnic backgrounds.
 
-Barovians are deeply invested in their homes and their traditions. They are wary of strange peoples and customs. The way Barovians deal with strangers can  
-be unsettling to those newcomers. Barovians have a tendency to stare openly, in silence, thereby express-  
+Barovians are deeply invested in their homes and their traditions. They are wary of strange peoples and customs. The way Barovians deal with strangers can be unsettling to those newcomers. Barovians have a tendency to stare openly, in silence, thereby express-  
 ing their disapproval of anything that isn't familiar to them. Barovians aren't talkative with strangers, to the extent of being pointedly rude, Most Barovians have violent tempers that boil up through their cus'tomary silence when they are provoked. They -also have a.social cohesiveness (thrust. upon ,them by their weird circum� stances) that can make tht:-:'m. acftogeth�r· ggainst outsid- ers if a Barovian is mistreat�d. ·
 
 Barovians were a happy people.once, but their history and current conditions aren't plef1san(�f one manages to win the trust of a Barovi�p.. one_ has a friend for life and a stalwart ally. · ·
