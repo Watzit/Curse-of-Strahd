@@ -38,7 +38,7 @@ About [[NPCs/Strahd/Strahd|Strahd]], theVistani believe the following:
 
 • Strahdnamedhiscastle,[[Ravenloft]],afterhisbeloved mother, Queen Ravenovia. Strangers aren't welcome at the castle without an invitation.
 
-1)rn LAND OF [[BAROVIA]]
+1)rn LAND OF [[Barovia]]
 
 [[NPCs/Vistani|Vistani]] know the following facts about [[Barovia]] and [[Barovians]]:
 
@@ -89,7 +89,7 @@ When the curse ends, theVistana soffers a harmful psychicbacklash.Theamountofthi
 
 The Vistana chooses the curse's effect from the options that follow; otherVistani curses are possible. All such effects deal psychic damage to the [[NPCs/Vistani|Vistani]] who uttered them when they end:
 
-CHAPTER 2 J THE LANDS OF [[BAROVIA]]
+CHAPTER 2 J THE LANDS OF [[Barovia]]
 
 The target is unable to perform a certain kind of act involving fine motor control, such as tying knots, writ­ ing, playing an instrument, sewing, or casting spells that have somatic components. When this curse ends, theVistana takes ld6 psychic damage.
 
