@@ -10,10 +10,14 @@ ROLEPLAYING BLUTO
 
 Bluto Krogarov is a destitute drunkard. He's desperate to catch some fish and trade them for wine at the Blue Water Inn. After he was unable to catch a single fish for a week, he kidnapped Arabelle, believing thatVistani are lucky. He intends to sacrifice her to the lake, hoping it will give up some of its fish in return.
 
-If the characters watch Bluto from the sh9re for sev­ eral minutes, or if they row out into the lake to greet him, he tosses the burlap sack into the water, watches it sink, and waits with fishing pole in hand for his reward..
+If the characters watch Bluto from the sh9re for several minutes, or if they row out into the lake to greet him, he tosses the burlap sack into the water, watches it sink, and waits with fishing pole in hand for his reward..
 
-Bluto is a hollow shell of a·man, barely able to under­ stand his own actions. He is unarmed and does nothing to aid or thwart the characters.
+Bluto is a hollow shell of a man, barely able to understand his own actions. He is unarmed and does nothing to aid or thwart the characters.
 
 ROLEPLAYING ARABELLE
 
-Characters who act quickly cari save Arabelle before she drowns. A character on the shore must succeed on a DC 15 Strength (Athletics) check to reach her in time. The DC is 10 for characters who took a rowboat out onto the lake.
+Characters who act quickly can save Arabelle before she drowns. A character on the shore must succeed on a DC 15 Strength (Athletics) check to reach her in time. The DC is 10 for characters who took a rowboat out onto the lake.
+
+Arabelle has alabaster-white skin and raven-black hair. If rescued, she demands to be returned to her family's camp outside Vallaki (chapter 5, area N9). She is certain that her father, Luvash, will give the characters a reward for doing so.
+
+A descendant of Madam Eva with the blood of Barovian royalty in her veins, Arabelle is unaware of her connection to Strahd. She acts more like an adult than a child. Despite her recent misadventure, she believes that a great destiny awaits her.
