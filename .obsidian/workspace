@@ -10,8 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "NPCs/Vistani.md",
-            "mode": "source",
-            "source": false
+            "mode": "preview",
+            "source": true
           }
         }
       }
