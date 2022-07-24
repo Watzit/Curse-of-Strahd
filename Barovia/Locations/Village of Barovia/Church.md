@@ -75,4 +75,41 @@ Every night at midnight, the spirits of dead adventurers rise up out of the chur
 
 Funeral for the Burgomaster. If the characters bring Kolyan Indirovich's body to the church, Donavich presses the characters into helping him bury the bur­ gomaster in the cemetery (area E6) at dawn. During the burial, Donavich offers prayers to the Morning­ lord in exchange for Kolyan Indirovich's deliverance from Barovia.
 
-Once Kolyan is put in the ground, Donavich suggests that Ireena be taken as far from Castle Ravenloft as
+Once Kolyan is put in the ground, Donavich suggests that Ireena be taken as far from Castle Ravenloft as possible. He proposes that the characters take her to the Abbey of Saint Markovia in Krezk (chapter 8) or, failing that, the fortified town of Vallaki (chapter 5). Donavich is unaware that the abbey, once a bastion of good, has become a den of evil.
+
+E5G. UNDERCROFT
+
+The church's undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pil­ lars strain under the weight of the wooden ceiling. Can­ dlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
+
+The shape is Doru, a vampire spawn sent by Strahd to torment Donavich and cast down the church. Doru is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, "I can smell your blood!" If they cut off his escape, he lunges forth and attacks.
+
+If the characters restrain Doru and either promise him blood or threaten to destroy him, or if they kill him and then raise him from the dead, he recounts the events that led to his downfall (see area ESf).
+
+FORTUNES OF RAVENLOFT
+
+If your card reading reveals that a treasure is in the undercroft, it's contained in a moldy, old chest in the southwest corner of the room. The chest is unlocked and not trapped.
+
+E6. CEMETERY
+
+A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
+
+During daytime, the cemetery is a still and peaceful place. Every night at midnight, however, a ghostly pro­ cession takes place (see "March of the Dead" below).
+
+E7. HAUNTED HOUSE  
+This haunted house is described in appendix B,
+
+"Death House."
+
+SPECIAL EVENTS
+
+You can use one or both of the following special events while the characters explore the village.
+
+MARCH OF THE DEAD
+
+Every night at midnight, one hundred spirits rise from the cemetery (area E6) and march up the Old Svalich Road to Castle Ravenloft.
+
+An eerie green light suffuses the graveyard. From this light emerges a ghostly procession. Wavering images of doughty women toting greatswords, woodwise men with slender bows, dwarves with glittering axes, and archa­ ically dressed mages with beards and strange, pointed hats-all these and more march forth from the grave­ yard, their numbers growing by the second.
+
+These aren't the spirits of the people buried here, but of previous adventurers who died trying to destroy Strahd. Every night, the ghostly adventurers attempt to complete their quest, and each night they fail. They have no inter­ est in the living and can't be hit, damaged, or turned. They will not communicate with the characters.
+
+Once they reach the castle, the spirits march straight to the chapel (area KlS) and up the high tower stair (area K18) to the top of the tower (area K59). There, they throw themselves down the shaft toward the crypts (area K84), where they disappear.
