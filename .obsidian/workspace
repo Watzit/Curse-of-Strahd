@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Village of Barovia/Church.md",
+            "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Village of Barovia/Church.md",
+                "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "NPCs/Strahd/Strahd.md",
+    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+    "Barovia/Locations/Black Carriage.md",
+    "Barovia/Locations/Village of Barovia/Church.md",
     "NPCs/Ireena.md",
     "Barovia/Locations/Village of Barovia/Burgomaster's Mansion.md",
     "Barovia/Locations/Village of Barovia/Mad Mary's Townhouse.md",
     "Barovia/Locations/Village of Barovia/Blood of the Vine Tavern.md",
     "Barovia/Locations/Village of Barovia/Bildrath's Mercantile.md",
-    "Barovia/Locations/Village of Barovia/Village of Barovia.md",
-    "Barovia/Locations/Old Svalich Road.md",
-    "NPCs/Strahd/Strahd's Torment.md",
-    "NPCs/Strahd/Strahd.md",
-    "Barovia/Barovia.md"
+    "Barovia/Locations/Village of Barovia/Village of Barovia.md"
   ]
 }
