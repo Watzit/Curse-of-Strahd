@@ -8,13 +8,13 @@ When the characters first approach the village, read:
 
 "Tall shapes loom out of the dense fog that surrounds everything. T he muddy ground underfoot gives way to slick, wet cobblestones. The tall shapes become recognizable as village dwellings. The windows of each house stare out from pools of blackness. No sound cuts the silence except for mournful sobbing that echoes through the streets from a distance."
 
-The sobbing comes from Mad Mary's townhouse (area E3). With the exception of areas El and E2, all the shops in the village are permanently closed, and the unoccupied shops have been looted of anything valuable. Claw marks cover most of the walls.
+The sobbing comes from [[Mad Mary's townhouse]] (area E3). With the exception of areas El and E2, all the shops in the village are permanently closed, and the unoccupied shops have been looted of anything valuable. Claw marks cover most of the walls.
 
 When the fog eventually burns off, [[Castle Ravenloft]] looms over the village, like a lance piercing the sky.
 
 HOUSE OCCUPANTS
 
-If the characters explore a residence other than Mad Mary's townhouse (area E3) or the burgomaster's mansion (area E4), roll a d20 and consult the following table to determine the house's occupants
+If the characters explore a residence other than [[Mad Mary's townhouse]] (area E3) or the [[burgomaster's mansion]] (area E4), roll a d20 and consult the following table to determine the house's occupants
 
 OCCUPANTS OF HOUSES IN [[BAROVIA]]
 

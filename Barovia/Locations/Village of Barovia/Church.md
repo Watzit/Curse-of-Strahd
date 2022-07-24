@@ -1,4 +1,4 @@
-"Atop a slight rise, against the roots of the pillar stone that supports Castle Ravenloft, stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is worn and weary. A bell tower rises toward the back, and flickering light shines through holes in the shingled roof. The rafters strain feebly against their load."
+"Atop a slight rise, against the roots of the pillar stone that supports [[Castle Ravenloft]], stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is worn and weary. A bell tower rises toward the back, and flickering light shines through holes in the shingled roof. The rafters strain feebly against their load."
 
 If the characters approach the church doors, add:
 
@@ -62,7 +62,7 @@ From beneath the chap I floor, you �ear a young man's � .
 
 voice cry out, "Father! I'm starving!"
 
-Donavich (LG male human acolyte) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed Castle Ravenloft in revolt, having been lured there by a wizard in black robes who came to Barovia from a faraway land (see chapter 2, area M, for more information on the wizard). By all accounts, the wizard died by Strahd's hand, and so too did Doru, who returned to his father as a vampire spawn. Donavich was able to trap his son in the church's undercroft, where he remains to this day.
+Donavich (LG male human acolyte) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed [[Castle Ravenloft]] in revolt, having been lured there by a wizard in black robes who came to Barovia from a faraway land (see chapter 2, area M, for more information on the wizard). By all accounts, the wizard died by Strahd's hand, and so too did Doru, who returned to his father as a vampire spawn. Donavich was able to trap his son in the church's undercroft, where he remains to this day.
 
 Doru hasn't fed since he was imprisoned, and he cries out to his father at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how  
 to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.
@@ -71,11 +71,11 @@ In addition to the lore known to all Barovians (see "Barovian Lore" in chapter 2
 
 lreena Kolyana isn't the natural daughter of Kolyan lndirovich. Although Ireena never knew, Kolyan found her at the edge of the Svalich Woods near the Pillarstone of Ravenloft. She was but a girl then and seemed to have no memory of her past. Kolyan ad­ opted her and loved her dearly.
 
-Every night at midnight, the spirits of dead adventurers rise up out of the church graveyard, forming a silent procession as they walk the road toward Castle Ravenloft. (See "March of the Dead" in the "Special Events" section at the chapter's end.)
+Every night at midnight, the spirits of dead adventurers rise up out of the church graveyard, forming a silent procession as they walk the road toward [[Castle Ravenloft]]. (See "March of the Dead" in the "Special Events" section at the chapter's end.)
 
 Funeral for the Burgomaster. If the characters bring Kolyan Indirovich's body to the church, Donavich presses the characters into helping him bury the bur­ gomaster in the cemetery (area E6) at dawn. During the burial, Donavich offers prayers to the Morning­ lord in exchange for Kolyan Indirovich's deliverance from Barovia.
 
-Once Kolyan is put in the ground, Donavich suggests that Ireena be taken as far from Castle Ravenloft as possible. He proposes that the characters take her to the Abbey of Saint Markovia in Krezk (chapter 8) or, failing that, the fortified town of Vallaki (chapter 5). Donavich is unaware that the abbey, once a bastion of good, has become a den of evil.
+Once Kolyan is put in the ground, Donavich suggests that Ireena be taken as far from [[Castle Ravenloft]] as possible. He proposes that the characters take her to the [[Abbey of Saint Markovia]] in [[Krezk]] (chapter 8) or, failing that, the fortified town of Vallaki (chapter 5). Donavich is unaware that the abbey, once a bastion of good, has become a den of evil.
 
 E5G. UNDERCROFT
 
@@ -106,7 +106,7 @@ You can use one or both of the following special events while the characters exp
 
 MARCH OF THE DEAD
 
-Every night at midnight, one hundred spirits rise from the cemetery (area E6) and march up the Old Svalich Road to Castle Ravenloft.
+Every night at midnight, one hundred spirits rise from the cemetery (area E6) and march up the [[Old Svalich Road]] to [[Castle Ravenloft]].
 
 An eerie green light suffuses the graveyard. From this light emerges a ghostly procession. Wavering images of doughty women toting greatswords, woodwise men with slender bows, dwarves with glittering axes, and archa­ ically dressed mages with beards and strange, pointed hats-all these and more march forth from the grave­ yard, their numbers growing by the second.
 
@@ -120,7 +120,7 @@ This event occurs as the characters make their way through the village.
 
 You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure bundled in rags, pushing a rickety wooden cart through the fog.
 
-Morgantha, a night hag in the guise of an old woman, has come to the village from Old Bonegrinder to sell her dream pastries for 1 gp apiece (see chapter 6 for a de­ scription of the pastries). She goes from house to house, knocking on doors. Most of the time, no one answers. When someone does, Morgantha tries to peddle her wares, offering customers an escape from the misery and despair of everyday Barovian life. If the characters shadow her for a while, she collects payment from one household in the form of a seven-year-old boy named Lucianjarov (LG male human noncombatant). Lucian's parents plead with Morgantha not to take their boy, but she snatches the crying child from their grasp, stuffs him in a sack, straps him down to her peddler's cart, and casually makes her way back to Old Bonegrinder.
+Morgantha, a night hag in the guise of an old woman, has come to the village from [[Old Bonegrinder]] to sell her dream pastries for 1 gp apiece (see chapter 6 for a de­ scription of the pastries). She goes from house to house, knocking on doors. Most of the time, no one answers. When someone does, Morgantha tries to peddle her wares, offering customers an escape from the misery and despair of everyday Barovian life. If the characters shadow her for a while, she collects payment from one household in the form of a seven-year-old boy named Lucianjarov (LG male human noncombatant). Lucian's parents plead with Morgantha not to take their boy, but she snatches the crying child from their grasp, stuffs him in a sack, straps him down to her peddler's cart, and casually makes her way back to [[Old Bonegrinder]].
 
 Morgantha recognizes that the characters are strang­ ers and does her best to avoid them. If the characters demand the release of the child, she grudgingly com­ plies, knowing that she can always come back for the boy later. She fights only in self-defense and offers the following information in exchange for her life:
 
@@ -129,6 +129,6 @@ Morgantha recognizes that the characters are strang­ ers and does her best to a
 -   There'saVistanicamptothewest,ontheshoresof Tser Pool (chapter 2, area G), and another on the out­ skirts ofVallaki (chapter 5, area N9).  
     Strahd has undead enemies in Barovia, namely the fallen knights of the Order of the Silver Dragon. These revenants cart be found in a ruined mansion west of
     
-    Vallaki (see chapter 7, "Argynvostholt").
+    Vallaki (see chapter 7, "[[Argynvostholt]]").
     
     • Strahd'smostcarefullyguardedsecretisatempleof forbidden lore hidden in the mountains (see chapter 13, "The Amber Temple"). The temple can be reached by following the long and winding Tsolenka Pass (see chapter 9).

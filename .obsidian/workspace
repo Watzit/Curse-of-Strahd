@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+            "file": "Barovia/Locations/Svalich Woods.md",
             "mode": "source",
             "source": false
           }
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+                "file": "Barovia/Locations/Svalich Woods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -100,20 +100,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
-    "NPCs/Strahd/Strahd.md",
-    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
-    "Barovia/Locations/Black Carriage.md",
-    "Barovia/Locations/Village of Barovia/Church.md",
-    "NPCs/Ireena.md",
-    "Barovia/Locations/Village of Barovia/Burgomaster's Mansion.md",
-    "Barovia/Locations/Village of Barovia/Mad Mary's Townhouse.md",
-    "Barovia/Locations/Village of Barovia/Blood of the Vine Tavern.md",
-    "Barovia/Locations/Village of Barovia/Bildrath's Mercantile.md",
-    "Barovia/Locations/Village of Barovia/Village of Barovia.md"
+    "Barovia/Locations/Ruins of Berez.md",
+    "Barovia/Locations/River Ivlis Crossroads.md",
+    "Barovia/Locations/River Ivlis.md",
+    "Barovia/Locations/Raven River Crossroads.md",
+    "Barovia/Locations/Old Svalich Road.md",
+    "Barovia/Locations/Old Bonegrinder.md",
+    "Barovia/Locations/Mists of Ravenloft.md",
+    "Barovia/Locations/Mad Mage of Mount Baratok.md",
+    "Barovia/Locations/Luna River Crossroads.md",
+    "Barovia/Locations/Lands of Barovia, Common Features.md"
   ]
 }
