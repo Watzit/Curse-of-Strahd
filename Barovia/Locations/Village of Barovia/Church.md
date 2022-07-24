@@ -62,20 +62,20 @@ From beneath the chap I floor, you �ear a young man's � .
 
 voice cry out, "Father! I'm starving!"
 
-Donavich (LG male human acolyte) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed [[Castle Ravenloft]] in revolt, having been lured there by a wizard in black robes who came to Barovia from a faraway land (see chapter 2, area M, for more information on the wizard). By all accounts, the wizard died by Strahd's hand, and so too did Doru, who returned to his father as a vampire spawn. Donavich was able to trap his son in the church's undercroft, where he remains to this day.
+Donavich (LG male human acolyte) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed [[Castle Ravenloft]] in revolt, having been lured there by a wizard in black robes who came to [[Barovia]] from a faraway land (see chapter 2, area M, for more information on the wizard). By all accounts, the wizard died by Strahd's hand, and so too did Doru, who returned to his father as a vampire spawn. Donavich was able to trap his son in the church's undercroft, where he remains to this day.
 
 Doru hasn't fed since he was imprisoned, and he cries out to his father at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how  
 to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.
 
 In addition to the lore known to all Barovians (see "Barovian Lore" in chapter 2), Donavich knows the fol­ lowing useful information:
 
-lreena Kolyana isn't the natural daughter of Kolyan lndirovich. Although Ireena never knew, Kolyan found her at the edge of the Svalich Woods near the Pillarstone of Ravenloft. She was but a girl then and seemed to have no memory of her past. Kolyan ad­ opted her and loved her dearly.
+lreena Kolyana isn't the natural daughter of Kolyan lndirovich. Although Ireena never knew, Kolyan found her at the edge of the [[Svalich Woods]] near the [[Pillarstone of Ravenloft]]. She was but a girl then and seemed to have no memory of her past. Kolyan ad­ opted her and loved her dearly.
 
 Every night at midnight, the spirits of dead adventurers rise up out of the church graveyard, forming a silent procession as they walk the road toward [[Castle Ravenloft]]. (See "March of the Dead" in the "Special Events" section at the chapter's end.)
 
-Funeral for the Burgomaster. If the characters bring Kolyan Indirovich's body to the church, Donavich presses the characters into helping him bury the bur­ gomaster in the cemetery (area E6) at dawn. During the burial, Donavich offers prayers to the Morning­ lord in exchange for Kolyan Indirovich's deliverance from Barovia.
+Funeral for the Burgomaster. If the characters bring Kolyan Indirovich's body to the church, Donavich presses the characters into helping him bury the bur­ gomaster in the cemetery (area E6) at dawn. During the burial, Donavich offers prayers to the Morning­ lord in exchange for Kolyan Indirovich's deliverance from [[Barovia]].
 
-Once Kolyan is put in the ground, Donavich suggests that Ireena be taken as far from [[Castle Ravenloft]] as possible. He proposes that the characters take her to the [[Abbey of Saint Markovia]] in [[Krezk]] (chapter 8) or, failing that, the fortified town of Vallaki (chapter 5). Donavich is unaware that the abbey, once a bastion of good, has become a den of evil.
+Once Kolyan is put in the ground, Donavich suggests that Ireena be taken as far from [[Castle Ravenloft]] as possible. He proposes that the characters take her to the [[Abbey of Saint Markovia]] in [[Krezk]] (chapter 8) or, failing that, the fortified town of [[Vallaki]] (chapter 5). Donavich is unaware that the abbey, once a bastion of good, has become a den of evil.
 
 E5G. UNDERCROFT
 
@@ -127,8 +127,8 @@ Morgantha recognizes that the characters are strang­ ers and does her best to a
 -   Strahdhasmasteryoverthelandandtheweather, and his spies include theV istani.
     
 -   There'saVistanicamptothewest,ontheshoresof Tser Pool (chapter 2, area G), and another on the out­ skirts ofVallaki (chapter 5, area N9).  
-    Strahd has undead enemies in Barovia, namely the fallen knights of the Order of the Silver Dragon. These revenants cart be found in a ruined mansion west of
+    Strahd has undead enemies in [[Barovia]], namely the fallen knights of the Order of the Silver Dragon. These revenants cart be found in a ruined mansion west of
     
-    Vallaki (see chapter 7, "[[Argynvostholt]]").
+    [[Vallaki]] (see chapter 7, "[[Argynvostholt]]").
     
-    • Strahd'smostcarefullyguardedsecretisatempleof forbidden lore hidden in the mountains (see chapter 13, "The Amber Temple"). The temple can be reached by following the long and winding Tsolenka Pass (see chapter 9).
+    • Strahd'smostcarefullyguardedsecretisatempleof forbidden lore hidden in the mountains (see chapter 13, "[[The Amber Temple]]"). The temple can be reached by following the long and winding [[Tsolenka Pass]] (see chapter 9).

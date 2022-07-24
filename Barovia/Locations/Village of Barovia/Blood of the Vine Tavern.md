@@ -6,7 +6,7 @@ ROLEPLAYING !SMARK
 
 Ismark (LG male human veteran) is a young man who sits by himself at a corner table, sipping his wine. Other villagers call him "lsmark the Lesser" because he has lived in the shadow of his father for most of his life.
 
-Ismark isn't a typically dour Barovian. He invites the characters to join him, offers to pay for their wine, and asks for their aid in protecting his adopted sister, Ireena Kolyana. If they agree to help, he takes them to the bur­ gomaster's residence (area E4). He wants the characters to help him escort Ireena to Vallaki, a settlement in the heart of the valley, beyond the view of [[Castle Ravenloft]] and (he hopes) beyond the reach of Strahd. Ismark knows that moving Ireena is a gamble, since she's vul­ nerable to Strahd when she is outside their home, but he has heard assertions that Vallaki is well defended.
+Ismark isn't a typically dour Barovian. He invites the characters to join him, offers to pay for their wine, and asks for their aid in protecting his adopted sister, Ireena Kolyana. If they agree to help, he takes them to the bur­ gomaster's residence (area E4). He wants the characters to help him escort Ireena to [[Vallaki]], a settlement in the heart of the valley, beyond the view of [[Castle Ravenloft]] and (he hopes) beyond the reach of Strahd. Ismark knows that moving Ireena is a gamble, since she's vul­ nerable to Strahd when she is outside their home, but he has heard assertions that [[Vallaki]] is well defended.
 
 Ismark is as tight-lipped as any of the other Barovian villagers, unless the talk deals with Ireena or Strahd. Ismark knows everything the other villagers know. He also knows that, for some unknown reason, Strahd is attracted to Ireena and desires her above all others.
 

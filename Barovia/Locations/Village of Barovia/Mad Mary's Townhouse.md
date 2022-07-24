@@ -4,4 +4,4 @@ The house, which is about 40 feet square, is boarded up and barricaded from the 
 
 Mary hid her beloved daughter, Gertruda, in this house for the girl's entire life. Gertruda, now a teenager, broke out of the house a week ago and has not been seen since. Her mother fears the worst-and is justified in doing so. See area K42 in chapter 4 for more informa­ tion on Gertruda's fate.
 
-The malformed doll has a strange leer and wears a sackcloth dress. It belonged to Mary in her youth and was passed down to Gertruda. Gadof Blinsky, the toy­ maker of Vallaki (see chapter 5, area N7), made the doll. Stitched into the hem of its dress is a frayed tag bearing the words "Is No Fun, Is No Blinsky!"
+The malformed doll has a strange leer and wears a sackcloth dress. It belonged to Mary in her youth and was passed down to Gertruda. Gadof Blinsky, the toy­ maker of [[Vallaki]] (see chapter 5, area N7), made the doll. Stitched into the hem of its dress is a frayed tag bearing the words "Is No Fun, Is No Blinsky!"
