@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Village of Barovia/Church.md",
+            "file": "NPCs/Vistani.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Village of Barovia/Church.md",
+                "file": "NPCs/Vistani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,19 +100,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
-    "Barovia/Pillarstone of Ravenloft.md",
     "Barovia/Barovia.md",
+    "NPCs/Strahd/Strahd.md",
+    "Barovia/Locations/Village of Barovia/Church.md",
+    "Barovia/Pillarstone of Ravenloft.md",
     "Barovia/Alterations to Magic.md",
     "Barovia/Locations/Yester Hill.md",
     "Barovia/Locations/Werewold Den.md",
     "Barovia/Locations/Van Richten's Tower.md",
     "Barovia/Locations/Vallaki.md",
-    "Barovia/Locations/Tsolenka Pass.md",
-    "Barovia/Locations/The Amber Temple.md",
-    "Barovia/Locations/The Wizard of Wines.md"
+    "Barovia/Locations/Tsolenka Pass.md"
   ]
 }
