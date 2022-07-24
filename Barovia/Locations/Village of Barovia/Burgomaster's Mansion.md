@@ -8,7 +8,7 @@ If the characters enter the mansion, read:
 
 "The interior of the mansion is well furnished, yet the fixtures show signs of great wear. Noticeable oddities are the boarded-up windows and the presence of holy sym­ bols in every room. The burgomaster is in a side drawing room on the floor-lying in a simple wooden coffin sur­ rounded by wilting flowers and a faint odor of decay."
 
-Ismark and. Treena made the coffin themselves.
+Ismark and Ireena made the coffin themselves.
 
 ROLEPLAYING !REENA
 
