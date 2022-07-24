@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Old Svalich Road.md",
-            "mode": "preview",
-            "source": true
+            "file": "NPCs/Strahd/Strahd.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -19,91 +19,63 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f32ddc32ed93022c",
-    "type": "split",
+    "id": "c8da34d218019346",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "d7d9e5d1cf6de6dc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1708bbb3a2696065",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "0a8341cef46b1fc0",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "0379df7c1ea114f2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "b394b3a1a8ac1fbe",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "6468675c58852a74",
-    "type": "split",
+    "id": "cd8fa6477c65629e",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "9ed8c3bd107470f5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e638f93647b6f7d9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Barovia/Locations/Old Svalich Road.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "1ee8c9b5289ea0cb",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "a7858ef7ac7a35ef",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
+        "id": "4393e1c60487ec27",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NPCs/Strahd/Strahd.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "Barovia/Locations/Castle Ravenloft.md",
+    "Plane of Shadow/Domains of Dread/Dark Gifts.md",
     "Barovia/Locations/Village of Barovia/Village of Barovia.md",
     "NPCs/Strahd/Strahd's Torment.md",
     "NPCs/Strahd/Strahd.md",
@@ -111,8 +83,6 @@
     "NPCs/Vistani.md",
     "Barovia/Alterations to Magic.md",
     "Barovia/Pillarstone of Ravenloft.md",
-    "README.md",
-    "Plane of Shadow/Plane of Shadow.md",
-    "Plane of Shadow/Domains of Dread/Domains of Dread.md"
+    "README.md"
   ]
 }
