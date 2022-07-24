@@ -10,7 +10,7 @@ The following areas correspond to labels on the map of the church on page 46.
 
 E5A. HALL
 
-The doors open to reveal a ten-foot-wide, twenty-foot­ long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side ofthe hall, lead to adjacent chambers.
+The doors open to reveal a ten-foot-wide, twenty-footlong hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.
 
 You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer. Sud­ denly, the prayer is blotted out by an inhuman scream that rises up from beneath the wooden floor.
 
@@ -32,9 +32,9 @@ This is Donavich's room and contains nothing of value.
 
 E5D. TRAPDOOR
 
-Time and neglect have punched holes in the ceiling of this moldy room, which contains a few broken roof shin­ gles amid puddles of water. In one corner, set into the floor, is a heavy wooden trapdoor held shut with a chain and a padlock. A young man's screams of anguish can be heardthroughthedoor.
+Time and neglect have punched holes in the ceiling of this moldy room, which contains a few broken roof shingles amid puddles of water. In one corner, set into the floor, is a heavy wooden trapdoor held shut with a chain and a padlock. A young man's screams of anguish can be heard through the door.
 
-Donavichlostthekeytotheironpadlock.Ifthechainis removed and the trapdoor is opened, the screaming in the undercroft stops. The trapdoor is swollen and stuck in its frame, so that a successful DC 12 Strength check is required to pull it open. Below it is a wooden staircase that descends 15 feet into the undercroft (area ESg).
+Donavich lost the key to the iron padlock. If the chain is removed and the trapdoor is opened, the screaming in the undercroft stops. The trapdoor is swollen and stuck in its frame, so that a successful DC 12 Strength check is required to pull it open. Below it is a wooden staircase that descends 15 feet into the undercroft (area ESg).
 
 E5E. OFFICE
 
