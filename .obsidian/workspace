@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Vistani.md",
-            "mode": "preview",
-            "source": true
+            "file": "NPCs/Keepers of the Feather.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -19,101 +19,70 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f32ddc32ed93022c",
-    "type": "split",
+    "id": "9fb580a25cfeb2d6",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "d7d9e5d1cf6de6dc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1708bbb3a2696065",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "0a8341cef46b1fc0",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "225393547204a3b5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e94d34cf989976c9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "6468675c58852a74",
-    "type": "split",
+    "id": "81d2431dee4b10bd",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "9ed8c3bd107470f5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e638f93647b6f7d9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "NPCs/Vistani.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "1ee8c9b5289ea0cb",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "a7858ef7ac7a35ef",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
+        "id": "00bdf271e5a65691",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NPCs/Keepers of the Feather.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
     "Barovia/Barovia.md",
+    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
     "NPCs/Strahd/Strahd.md",
+    "NPCs/Vistani.md",
     "Barovia/Locations/Village of Barovia/Church.md",
     "Barovia/Pillarstone of Ravenloft.md",
     "Barovia/Alterations to Magic.md",
     "Barovia/Locations/Yester Hill.md",
     "Barovia/Locations/Werewold Den.md",
-    "Barovia/Locations/Van Richten's Tower.md",
-    "Barovia/Locations/Vallaki.md",
-    "Barovia/Locations/Tsolenka Pass.md"
+    "Barovia/Locations/Van Richten's Tower.md"
   ]
 }
