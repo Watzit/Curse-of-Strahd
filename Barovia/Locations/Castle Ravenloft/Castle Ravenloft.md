@@ -12,31 +12,31 @@ In most circumstances, a random encounter occurs on a roll of 18 or higher on a 
 
 RANDOM ENCOUNTERS IN CASTLE RAVENLOFT
 
-| d12 + d8 | Encounter                                  |
-| -------- | ------------------------------------------ |
-| 2        | Ezmerelda d'Avenir (see appendix D)        |
-| 3        | Rahadin (see appendix D)                   |
-| 4        | 1 black cat                                |
-| 5        | 1 broom ofanimated attack (see appendix D) |
-| 6        | 1 d4 + 1 flying swords                     |
-| 7        | Blinsky toy                                |
-| 8        | Unseen servant                             |
-| 9        | ld4 Barovian commoners                     |
-| 10       | 2d6 crawling claws                         |
-| 11       | ld6 shadows                                |
-| 12       | ld6 swarms ofbats                          |
-| 13       | 1 crawling Strahd zombie (see appendix D)  |
-| 14       | ld4 + 1 Vistani thugs                      |
-| 15       | ld4 wights                                 |
-| 16       | Trinket                                    |
-| 17       | Giant spider cocoon                        |
-| 18       | 1 Barovian witch (see appendix D)          |
-| 19       | 1d4 + 1 vampire spawn                      |
-| 20       | Strahd von Zarovich (see appendix D)       |
-
+| d12 + d8 | Encounter                 |
+| -------- | ------------------------- |
+| 2        | Ezmerelda d'Avenir        |
+| 3        | Rahadin                   |
+| 4        | 1 black cat               |
+| 5        | 1 broom ofanimated attack |
+| 6        | 1 d4 + 1 flying swords    |
+| 7        | Blinsky toy               |
+| 8        | Unseen servant            |
+| 9        | ld4 Barovian commoners    |
+| 10       | 2d6 crawling claws        |
+| 11       | ld6 shadows               |
+| 12       | ld6 swarms ofbats         |
+| 13       | 1 crawling Strahd zombie  |
+| 14       | ld4 + 1 Vistani thugs     |
+| 15       | ld4 wights                |
+| 16       | Trinket                   |
+| 17       | Giant spider cocoon       |
+| 18       | 1 Barovian witch          |
+| 19       | 1d4 + 1 vampire spawn     |
+| 20       | Strahd von Zarovich       |
+         |                           |
 Use the descriptions that follow to run each encounter.
 
-BAROVIAN COMMONERS I
+BAROVIAN COMMONERS
 
 A loud clamor fills the unhallowed halls of Ravenloft. Cries of"Kill the vampire!" are mixed with bold voices shouting,"Never again!" and"To the crypts!"
 
