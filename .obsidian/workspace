@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Keepers of the Feather.md",
-            "mode": "source",
-            "source": false
+            "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -19,70 +19,101 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9fb580a25cfeb2d6",
-    "type": "mobile-drawer",
+    "id": "f32ddc32ed93022c",
+    "type": "split",
     "children": [
       {
-        "id": "225393547204a3b5",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "e94d34cf989976c9",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "d7d9e5d1cf6de6dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1708bbb3a2696065",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a8341cef46b1fc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "81d2431dee4b10bd",
-    "type": "mobile-drawer",
+    "id": "6468675c58852a74",
+    "type": "split",
     "children": [
       {
-        "id": "00bdf271e5a65691",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "NPCs/Keepers of the Feather.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "9ed8c3bd107470f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e638f93647b6f7d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1ee8c9b5289ea0cb",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7858ef7ac7a35ef",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
-    "Barovia/Barovia.md",
-    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
-    "NPCs/Strahd/Strahd.md",
     "NPCs/Vistani.md",
+    "Barovia/Barovia.md",
+    "NPCs/Strahd/Strahd.md",
     "Barovia/Locations/Village of Barovia/Church.md",
     "Barovia/Pillarstone of Ravenloft.md",
     "Barovia/Alterations to Magic.md",
     "Barovia/Locations/Yester Hill.md",
     "Barovia/Locations/Werewold Den.md",
-    "Barovia/Locations/Van Richten's Tower.md"
+    "Barovia/Locations/Van Richten's Tower.md",
+    "Barovia/Locations/Vallaki.md"
   ]
 }
