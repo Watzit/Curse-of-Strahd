@@ -12,45 +12,31 @@ In most circumstances, a random encounter occurs on a roll of 18 or higher on a 
 
 RANDOM ENCOUNTERS IN CASTLE RAVENLOFT
 
-| d12 + d8 | Encounter |
-| -------- | --------- |
-| 2        |           |
-| 3        |           |
-| 4        |           |
-| 5        |           |
-| 6        |           |
-| 7        |           |
-| 8        |           |
-| 9        |           |
-| 10       |           |
-| 11       |           |
-| 12       |           |
-| 13       |           |
-| 14         |           |
-
-2  
-3  
-4  
-5  
-6  
-7  
-8  
-9  
-10  
-11  
-12  
-13  
-14  
-15  
-16  
-17  
-18  
-19  
-20
+| d12 + d8 | Encounter                           |
+| -------- | ----------------------------------- |
+| 2        | Ezmerelda d'Avenir (see appendix D) |
+| 3        |                                     |
+| 4        |                                     |
+| 5        |                                     |
+| 6        |                                     |
+| 7        |                                     |
+| 8        |                                     |
+| 9        |                                     |
+| 10       |                                     |
+| 11       |                                     |
+| 12       |                                     |
+| 13       |                                     |
+| 14       |                                     |
+| 15       |                                     |
+| 16       |                                     |
+| 17       |                                     |
+| 18       |                                     |
+| 19       |                                     |
+| 20       |                                     |
+|          |                                     |
 
 
-
-Ezmerelda d'Avenir (see appendix D) Rahadin (see appendix D)  
+ Rahadin (see appendix D)  
 1 black cat  
 1 broom ofanimated attack (see appendix D) 1 d4 + 1 flying swords
 
