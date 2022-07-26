@@ -12,9 +12,9 @@ In most circumstances, a random encounter occurs on a roll of 18 or higher on a 
 
 RANDOM ENCOUNTERS IN CASTLE RAVENLOFT
 
-
-
-d12 + d8 
+| d12 + d8 | Encounter |
+| -------- | --------- |
+| 2        |           |
 
 2  
 3  
@@ -36,7 +36,7 @@ d12 + d8
 19  
 20
 
-Encounter
+
 
 Ezmerelda d'Avenir (see appendix D) Rahadin (see appendix D)  
 1 black cat  
