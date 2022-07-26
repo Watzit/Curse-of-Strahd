@@ -33,7 +33,7 @@ RANDOM ENCOUNTERS IN CASTLE RAVENLOFT
 | 18       | 1 Barovian witch          |
 | 19       | 1d4 + 1 vampire spawn     |
 | 20       | Strahd von Zarovich       |
-         |                           |
+
 Use the descriptions that follow to run each encounter.
 
 BAROVIAN COMMONERS
