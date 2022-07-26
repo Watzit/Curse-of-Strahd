@@ -19,15 +19,15 @@ RANDOM ENCOUNTERS IN CASTLE RAVENLOFT
 | 4        | 1 black cat                                |
 | 5        | 1 broom ofanimated attack (see appendix D) |
 | 6        | 1 d4 + 1 flying swords                     |
-| 7        | Blinsky toy                                           |
-| 8        |                                            |
-| 9        |                                            |
-| 10       |                                            |
-| 11       |                                            |
-| 12       |                                            |
-| 13       |                                            |
-| 14       |                                            |
-| 15       |                                            |
+| 7        | Blinsky toy                                |
+| 8        | Unseen servant                             |
+| 9        | ld4 Barovian commoners                     |
+| 10       | 2d6 crawling claws                         |
+| 11       | ld6 shadows                                |
+| 12       | ld6 swarms ofbats                          |
+| 13       | 1 crawling Strahd zombie (see appendix D)  |
+| 14       | ld4 + 1 Vistani thugs                      |
+| 15       | ld4 wights                                 |
 | 16       |                                            |
 | 17       |                                            |
 | 18       |                                            |
@@ -42,15 +42,15 @@ RANDOM ENCOUNTERS IN CASTLE RAVENLOFT
 
 
 
-Unseen servant
 
-ld4 Barovian commoners 2d6 crawling claws  
-ld6 shadows  
-ld6 swarms ofbats
 
-1 crawling Strahd zombie (see appendix D) ld4 + 1 Vistani thugs  
-ld4 wights  
-Trinket
+   
+ 
+
+
+   
+  
+
 
 Giant spider cocoon
 
