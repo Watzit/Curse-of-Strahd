@@ -28,35 +28,11 @@ RANDOM ENCOUNTERS IN CASTLE RAVENLOFT
 | 13       | 1 crawling Strahd zombie (see appendix D)  |
 | 14       | ld4 + 1 Vistani thugs                      |
 | 15       | ld4 wights                                 |
-| 16       |                                            |
-| 17       |                                            |
-| 18       |                                            |
-| 19       |                                            |
-| 20       |                                            |
-|          |                                            |
-
-
-  
-
- 
-
-
-
-
-
-   
- 
-
-
-   
-  
-
-
-Giant spider cocoon
-
-1 Barovian witch (see appendix D) 1d4 + 1 vampire spawn  
-Strahd von Zarovich (see appendix D)
-
+| 16       | Trinket                                    |
+| 17       | Giant spider cocoon                        |
+| 18       | 1 Barovian witch (see appendix D)          |
+| 19       | 1d4 + 1 vampire spawn                      |
+| 20       | Strahd von Zarovich (see appendix D)       |
 
 Use the descriptions that follow to run each encounter.
 
