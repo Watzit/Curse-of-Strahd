@@ -332,3 +332,75 @@ lying on the bone table. ' ·
 If your card reading indicates' an ertcounter with
 
 Strahd in this area, he is sitting comfort;ibly at one end of the table, holding the skull of a long-dead foe.
+
+K68. GUARDS' RUN
+
+This ten-foot-wide arched corridor is cold and moist. The cold seems to emanate from an open archway in the west wall.
+
+The archway leads to area K69. A door at the north end of the hall opens into area K67. To the south, the hallway ends at the foot of a staircase (area K64) that spirals upward.
+
+K69. GUARDS' QUARTERS
+
+Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten-foot-square alcoves that contain rotting cots, rags, and the skeletal remains of castle guards. A deathly silence fills the hall.
+
+The yellow lichen is harmless. When one or more char­ acters reach the midpoint of the hall, ten human skele­ tons leap from the alcoves and attack.
+
+K70. KINGSMEN HALL
+
+This thirty-foot-square room is a shambles. Scattered fur­ niture lies in heaps near the walls. Broken bones lie scat­ tered amid crumpled and crushed plate armor. Shields and swords jut from the walls as if driven into them by some tremendous force.
+
+Two doors stand opposite one another in the center of the north wall and the south wall. A dark archway leads out through the east wall.
+
+After Strahd was transformed into a vampire, several of the castle guards retreated to this room, but Strahd caught them and slaughtered them in a brutal show of violence. Removing one of the shields or swords from the wall requires a successful DC 10 Strength check. None of the items found here are valuable.
+
+K71. KINGSMEN QUARTERS
+
+This dark passage runs for twenty feet, connecting an archway to the west with an ascending stone staircase to the east. To the north and south are four ten-foot-square alcoves cluttered with rotting cots and dirty rags. The ceilings here are covered with yellow lichen.
+
+Theyellowlichenis. ha/mless.·Beyondthearchwayto
+
+the west is area E:'7.0, The'�taircase (area_K20a) that
+
+goes up along'the'e. astwaUle_ adsto area.K20.-
+
+TREASURE
+
+Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cub­ byhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of Strahd von Zarovich stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom (Perception) check.
+
+K72. CHAMBERLAIN'S OFFICE
+
+This shadowy room is in perfect order. A great table stands here with its chair, inkwell, and quill set carefully in place. Lances, swords, and shields that bear the Baro­ vian crest are hung neatly on the dark, oak-paneled walls.
+
+If he has not been defeated elsewhere, Rahadin (see appendix D) is here, waiting for the characters to arrive so he can kill them.
+
+A shadow demon also haunts this room. In the round after the characters engage Rahadin, the demon leaps out and attacks the nearest character from behind.  
+The character doesn't notice the demon, unless the character's passive Wisdom (Perception) score meets or exceeds the demon's Dexterity (Stealth) check. Both Rahadin and the shadow demon fight until slain.
+
+A secret door is set into the north end of the west wall.
+
+It can be pulled open to reveal a dusty, web-choked stair­ case of ancient, worn stone (area K79) that descends into darkness.
+
+DUNGEON AND CATACOMBS
+
+Refer to map 12 of the castle for areas K73 through K88.
+
+K73. DUNGEON HALL
+
+The following boxed text assumes that the characters arrive by way of the staircase to the east (area K21). Adjust as needed if the characters enter this hall from another direction.
+
+The stairs descend into black, still water that fills an arched hallway before you. The water's surface is like dark, mirrored glass, disturbed only occasionally by the "thwick" of a drop falling from the ceiling. Twenty feet ahead, arched doorways lead downward from each side of the hallway. In each arched doorway, an iron door stands closed and partially submerged. You hear a weak cry for help from beyond the south door.
+
+: :thi }Yater is3 feet deep in tJe_hallway an_ d·�p�que:
+Tht,.ste-ps .on'both sjd�i of thih:�!l\Vay/descend an:
+
+anct�"a:ihh�:\> ,\�".'-_,.,.·:->,·.·:,. :'(htilo:oibt:°ne;i'tfi'the.'water'.isq\_afs'dUd.asonemight
+
+.c1
+
+Theyellowlichenis. ha/mless.·Beyondthearchwayto
+
+the west is area E:'7.0, The'�taircase (area_K20a) that
+
+goes up along'the'e. astwaUle_ adsto area.K20.- .,· - ..•... ..
+
+: c\}.''·.... :\:;:: .. --expect' : J"h�;e is a ifafe path. a;d�'nd �iverif w.'eight-sen-
