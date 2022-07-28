@@ -214,4 +214,16 @@ A sickly mist fills the stairway ahead, then coalesces into the form of the vamp
 Have the characters roll initiative. Any attack or spell that hits "Strahd" passes through, revealing that he is an illusion. On initiative count 0, the illusory vampire chuckles and melts away like a wax doll in a bonfire, leaving no trace behind, and the glyph disappears.
 
 K80. CENTER STAIR  
-If the characters enter this area through the door at the
+If the characters enter this area through the door at the bottom of the stairs read:
+
+The door creaks open to reveal a stone staircase between rough masonry walls. There is little dust on the steps, but light fog tumbles down the steps from above.
+
+If the characters enter this area at the top of the stair­ case, read:
+
+The rough-hewn corridor ends at a stone staircase that descends to the south. Flanked by walls of rough ma­ sonry and relatively free of dust, these stairs descend before ending at a lonely door.
+
+The stairs slope at a 45-degree angle for a distance of 20 feet horizontally, connecting areas K78 and K81.
+
+K81. TuNNEL
+
+This tunnel is cut into the Pillarstone of Ravenloft itself. Its surface is slick, and its ceiling is barely 6 feet high. A lingering fog limits visibility to a few feet.
