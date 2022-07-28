@@ -342,3 +342,50 @@ Two of the locked chests contain 10,000 cp each. A third chest contains 1,000 gp
 K31. TRAPWORKS
 
 The aromas of grease and well-oiled wood hit your nos­ trils as you pull open the door. This ten-by-twenty-foot room is filled with intricate machinery, except for small spaces between the stone gears and the iron chains and pulleys. On the other side of the machinery, to the south, is a rectangular shaft that rises up from the darkness and continues past this room. Attached to the west wall is a steel plate that has an iron lever protruding downward.
+
+See the diagram on page 76. The shaft (area K31a) de­ scends 90 feet from here to area K61, and ascends 40 feet to area K3lb. Another 40 feet above that is a stone trapdoor in the ceiling that opens into area K47.
+
+Operating the machinery in this room raises a stone elevator compartment from the bottom of the shaft, l i f t ­ ing it past this room to the top of the shaft. See area K61 for more information on the elevator trap.
+
+A character can spend 1 minute disabling the machin­ ery in this room. The elevator trap won't function until the machinery is repaired.
+
+The iron lever set into the western wall is normally
+
+in the "down" position. Moving it to the "up" position activates the trap and raises the elevator. Sliding it back down lowers the elevator and resets the trap.
+
+When the elevator trap in area K61 is activated, all the chains, pulleys, and gears in this room move at once. It takes 10 seconds (1 round) for the elevator to reach the top of the shaft, and the machinery doesn't stop·until the elevator completes its journey.
+
+A secret door in the north wall is easy to spot from this side (no ability check required) and opens into area K27.
+
+K31A. ELEVATOR SHAFT
+
+Cold air fills this rectangular shaft, the walls of which are coated with mildew and worn smooth. Taut iron chains extend up and down the shaft. The links of the chains are thick and covered with grease.
+
+The shaft is 170 feet tall. It starts at area K61, climbs 90 feet to area K31, another 40 feet to area K31b, and another 40 feet to area K47. When the elevator trap is activated (see areaK61 for details), a stone elevator compartment measuring 10 feet on a side rises up the western half of the shaft. At the same time, a solid block of stone, also 10 feet on a side, descends in the eastern half of the shaft, acting as a counterweight. Both stone blocks have thick iron chains bolted to them, by which they are hoisted and lowered them as needed.
+
+Scaling the shaft is impossible without the aid of magic or the use of a climber's kit, because the walls are smooth and slick with mildew, and the greasy iron chains are too thick and slippery to grasp.
+
+Set into the roof of the shaft is a 5-foot-square stone trapdoor that can be pushed open to reveal areaK47.
+
+K31B. SHAFT ACCESS
+
+This ten-foot-square room overlooks a vertical shaft to the south that plunges into darkness and contin­ ues upward.
+
+This vantage point is 130 feet from the bottom of the shaft (areaK31a). Forty feet down is areaK31, and 40 feet up is a stone trapdoor in the ceiling that opens into areaK47.
+
+A door in the north wall is easy to spot from this side (no ability check required) and opens into areaK39.
+
+K32. MAID IN HELL
+
+Oil lamps illuminate this long, rectangular chamber with oak-paneled walls. Stained, yellowed lace hangs neatly from eight canopied beds. The figure of a woman moves lithely about the room, dusting furniture and humming quietly. Around her pale, slender neck is a gold necklace with a ruby pendant.
+
+The maid, Helga Ruvak, is a vampire spawn who claims to be the daughter of the village bootmaker, kid­ napped and forced into service by Strahd. She pleads, on her hands and knees if necessary, to be saved from this awful place.
+
+Helga will join the party if the characters ask her along. She intends to attack the characters but does so onlyifshesensesanopportunityth_ atdoesn'tinvolve having to fight the entire party. �be also attacks if com- mandedtodosobyStrahd. . __ _ .
+
+Helgaplaysthep�rtofthein11,oc��·fd�rris_elindistress to the last, revealing hei; fefo9f�,9,!\lY "."hen she attacks.
+
+She is, in fact, the bootm�_ker'{cf�ug�tei- she claims to be,butshechoseali(e-ofevilwithSt:ah: d;
+
+TREASURE
+Helga's gold necklace with its ruby pendant is a gift from Strahd. 
