@@ -159,4 +159,60 @@ Although he appears to be a petite man wearing face paint and a fool's costume, 
 
 If the characters see Pidlwick II in bright light, read:
 
-It's obvious that you're looking not at a small man, but a mockery of one. This thing is not a creature of flesh and bone, but a construct made of dyed leather stitched and tightly wrapped over an articulated frame. You hear the soft tumbling and clicking of gears.
+It's obvious that you're looking not at a small man, but a mockery of one. This thing is not a creature of flesh and bone, but a construct made of dyed leather stitched and tightly wrapped over an articulated frame. You hear the soft tumbling and clicking of gears
+
+Pidlwick II can't speak and doesn't have an expressive face, so he relies mostly on hand gestures and simple di­ agrams to communicate. He understands Common but can't read or write.
+
+If the characters show kindness to the clockwork ef­ figy, it accompanies them and tries its best to be helpful and entertaining. It knows its way around the castle and can serve as a silent guide.
+
+If one or more characters are mean toward Pidlwick II, its quiet resentment of them grows, and at some point when the group is at the top of a staircase, it pushes one of the offending party members down the stairs. The target must succeed on a DC 10 Dexterity saving throw or tumble to the bottom of the staircase, taking ld6 bludgeoning damage per 10 feet fallen.
+
+K60. NORTH TOWER PEAK
+
+If the characters climb the stairs to this area, read:
+
+The stairs end at a dark and dreary room with manacles attached to the walls. In the middle of the room is a wood-framed bed fitted with leather restraints. At the foot of the bed rests a closed iron chest, is lid sculpted with an emblem.
+
+A wooden ladder leads up to a trapdoor in the ceiling.
+
+Thin streams of water drip through the trapdoor's rotting wood, forming a puddle around the base of the ladder.
+
+The ceiling here is 9 feet high. The manacles are rusted and can be easily torn from the walls. The trapdoor in the ceiling leads to the tower rooftop (area K60a).
+
+The emblem worked into the lid of the iron chest is Strahd's family crest. (Show the players Strahd's crest on page 239.) Cyrus Belview (see area K62) stashed the chest here for safekeeping.
+
+TREASURE
+
+The iron chest is locked, and its key is with Cyrus Bel­ view in area K62.
+
+The chest contains a bejeweled gold crown (worth 2,500 gp) resting on a silk pillow.
+
+TELEPORT DESTINATION
+
+Characters who teleport to this location from area K78 arrive in the middle of the room.
+
+FORTUNES OF .RAVENLO,FT  
+If your card reading reveals.that a treasure'. is here, it is
+
+K60A. NORTH TOWER ROOFTOP
+
+A cold wind greets you atop the tower roof, its rain­ slicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. The thunderclouds above sud­ denly coalesce into the terrible visage of Strahd. The face utters a ghastly moan as thousands of bats fly out of its gaping maw and descend upon the tower.
+
+Characters who remain on the roof are accosted by ten swarms of bats, which arrive in 3 rounds. If the char­ acters descend into the tower, the bats don't follow and instead fly into the high tower (area K59), descend its central shaft (area K 18a), and roost in the catacombs (area K84).
+
+The courtyard lies 260 feet below, and the roof of the keep is 130 feet below.
+
+LARDERS OF ILL OMEN  
+Refer to map 11 of the castle for areas K61 through K72.
+
+K61. ELEVATOR TRAP
+
+See area K31 and the accompanying Elevator Trap dia­ gram before running this encounter.
+
+This dusty, ten-foot-wide, thirty-foot-long corridor has a flat ceiling ten feet overhead. To the south, a web-filled stairway spirals down into darkness. The north end of the hall ends at a wooden door.
+
+This hallway contains an elevator trap, triggered when at least 400 pounds of pressure is applied to the 10-foot­ square section of floor in the center of the hall (marked T on the map), or when the lever in area K31 is raised. A party of adventurers moving in close formation down the hall is certainly heavy enough to trigger the trap.
+
+A character who searches for traps while crossing the hall and succeeds on a DC 15 Wisdom (Perception) check detects seams in the floor, walls, and ceiling that suggest that the middle section isn't attached to. the rest of the hall. A character.who makes a successful DC 15 Intelligence ( Investigation) check discerris that the trap· can't be disarmed from this location..
+
+The middle 10-foot section of .tbe hall is;a cl�verly hid­ den elevator compartment, open tolben. orth �nd ·south so that it appears to b.e pirtqfthe p�ssageway. When the trap is sprung, two·st��l portcullis�s drop frdm the ceiling at lightning speed -to seal-9ff the compartment, trapping within those creatur¢sl�atctdgger�d the trap. An instant later, the closed-off ele�ator fa .propelled up the western half of a 20-focit�wide:'i70�foot-tall shaft (area K3la) to the sounds.of turni�·g ge�rs and rattling chains. Magic sleep gas 'fflls the compartment as it rises,
