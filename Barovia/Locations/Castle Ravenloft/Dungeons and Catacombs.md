@@ -350,4 +350,10 @@ CRYPT 7
 
 The stone door of this crypt lies on the floor, its inscrip­ tion obscured by fog. The crypt gapes open. A skull, some bones, and a few bits of rusted armor lie atop a marble slab with a leering stone gargoyle squatting at each end.
 
+The epitaph on the door reads "Endorovich (Endorovich the Terrible): What the blood of a hundred wars did not
+
+yles. If anyone disturbs the bones on the slab, one  
+of the gargoyles awakens and attacks. If the gargoyle is reduced to O hit points, Endorovich's spirit moves to the second gargoyle, which then awakens and attacks. Both gargoyles have maximum hit points (77 ). Once the second gargoyle is destroyed, Endorovich's spirit is laid to rest.
+
+FORTUNES OF RAVENLOFT
 If your card reading reveals that a treasure is here, it is contained in a secret compartment under Endorovich's remains. Once his bones and dust are swept away, the compartment can be found and opened without an ability check.
