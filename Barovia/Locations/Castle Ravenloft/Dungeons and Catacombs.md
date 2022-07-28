@@ -560,18 +560,17 @@ A skeleton draped in rags lies atop a marble slab in the center of the crypt. Mo
 
 A detect magic spell cast here reveals that Intree's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about Strahd or the castle, the information it provides is true.
 
-II
+CRYPT 27
+
+"This crypt is missing its door."
 
 Three giant wolf spiders infest this otherwise empty crypt. The spiders make no noise and leap out to attack anyone who moves in front of the crypt's gap- ing doorway.
 
 CRYPT 28.  
-Bascal Ofenheiss - ChefDeluxe
+Bascal Ofenheiss - Chef Deluxe
 
--� .
+"A skeleton draped in white linen lies atop a marble slab in the center of the crypt, clutching a bell to its sunken chest. Fitted over its skull is a tall chef's hat."
 
-A skeleton draped in white linen lies atop a marble slab in the center of the crypt, clutching a bell to its sunken chest. Fitted over its skull is a tall chef's hat.
-
-This crypt is missing its door.
 
 ..
 
