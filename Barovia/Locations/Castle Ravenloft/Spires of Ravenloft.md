@@ -558,4 +558,26 @@ Yellow to the master's tomb.
 
 The brazier;s flame is magical and sheds no war'mth. A .. successful casting of dispel magic (DC 16) extinguishes. . the fl_ame· for 1 bour. The fire is permanently extin-
 
-. ··-guisnecHf the brazier is destroyed. The brazier.has AC
+. ··-guisnecHf the brazier is destroyed. The brazier.has AC 17, 25 hit points, immunity to poison and psychic damage, and resistance to all other damage.
+The stones set into the brazier's rim are colored red, orange, yellow, green, blue, indigo, and violet, respec­ tively. Tossing one into the brazier causes its flame to change from white to the color of the stone, and the sand begins falling through the hourglass. Any creature that touches the colored flame is teleported to a location within Strahd's domain, as determined by the color:
+
+Flame Color
+
+Red
+
+Orange Yellow Green Blue Indigo Violet
+
+Teleports to ...
+
+Study (area K37)
+
+North tower peak (area K60)  
+Strahd's tomb (area K86)  
+Coffin maker's shop (chapter 5, area N6f) Amber Temple (chapter 13, area X42)  
+Abbey of Saint Markovia (chapter 8, area S17) Tsolenka Pass (chapter 9, area T4)
+
+After 5 rounds, the sand runs out, and the color of the flame returns to white. When the flame does so, the sand instantly reappears in the top part of the hourglass (provided the hourglass is intact), and the stone that was cast into the fire reappears in the brazier's rim.
+
+DEVELOPMENT
+
+If the brazier, the hourglass, or either golem is attacked, the doors of the room magically slam shut and lock (unless they are being held or wedged open), and the golems animate and attack. On the first round, the golems fill the room with their poison breath, which issues from the horses' mouths. (Each creature in the room must make two saving throws, one for each breath weapon.) On subsequent rounds, each golem makes one attack with its sword and one slam attack with its hoof. When there are no creatures left to fight in the room, the golems return to their alcoves, and the doors unlock. Forcing open a locked door requires a successful DC 25 Strength (Athletics) check. Each door has AC 15, 25 hit points, and immunity to poison and psychic damage.
