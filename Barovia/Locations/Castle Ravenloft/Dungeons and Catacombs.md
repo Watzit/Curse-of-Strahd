@@ -337,3 +337,17 @@ Saint Markovia: Dead for all time
 The 10-foot-square section of floor in front of this crypt is a pressure plate that releases four poison darts hid­ den in tiny holes in the north wall. (See "Sample Traps" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide for the rules on how this trap functions.) The trap resets when the weight is lifted and can be triggered a total of four times before its supply of darts is depleted.
 
 If the door to the crypt is opened, read:
+
+"This crypt smells of roses. The remains atop its marble
+
+slab have disintegrated, except for one thighbone."
+
+If the charc,1cters disturb Safot Mar. kovia's remains, add: "A ghostly form appears above the dust, so faint that you can barely discern more than part of a face. From this apparition comes the faintest of whispers: "The vampire must be destroyed. Use me as your weapon." With that, it fades away."
+
+Treasure. A detect magic spell reveals that the thigh­ bone radiates an aura of evocation magic. See appendix C for more information on Saint Markovia's thighbone.
+
+CRYPT 7
+
+The stone door of this crypt lies on the floor, its inscrip­ tion obscured by fog. The crypt gapes open. A skull, some bones, and a few bits of rusted armor lie atop a marble slab with a leering stone gargoyle squatting at each end.
+
+If your card reading reveals that a treasure is here, it is contained in a secret compartment under Endorovich's remains. Once his bones and dust are swept away, the compartment can be found and opened without an ability check.
