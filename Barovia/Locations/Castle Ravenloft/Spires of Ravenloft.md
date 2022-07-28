@@ -56,3 +56,54 @@ K51. CLOSET
 This small, wood-paneled room reeks of mildew and has a ten-foot-high ceiling. Iron hooks line the walls, and a dusty black cloak hangs from one hook in the center of the south wall.
 
 The cloak is ordinary. The witches in area K56 placed it here to help them remember which hook opens the secn,t trapdoor in. the ceiling.
+
+The trapdoor can be found after a search of the room and a successful DC 13 Wisdom (Perception) check. Lo­ cating the trapdoor doesn't enable someone to discover its opening mechanism. The door has a hidden lock and can be opened by pulling down on the hook from which the black cloak hangs. Once it has been found, the trap­ door can be opened by pulling on the hook, or it can be unlocked by someone using thieves' tools, a knock spell, or similar magic. It swings down when unlocked
+
+K52. SMOKESTACK
+
+Jutting from the steeply sloping rooftop of the castle, a spindly smokestack, five feet in diameter at the top, rises thirty feet above the roof's peak. Smoke belches from its iron-pronged capstone.
+
+The chimney leads down 60 feet to the blazing fireplace in area K37. A creature that starts its turn in the chim­ ney takes 3 (ld6) fire damage.
+
+K53. ROOFTOP
+
+Rain splashes against the sagging, sloping rooftop. Flashes of lightning illuminate gargoyles perched on the roof's end peaks, their hideous stares forever fixed on the courtyard some one hundred thirty feet below.
+
+If a character tries to traverse the rooftop, read:
+
+Some of the ancient roof tiles slide easily underfoot, eas­ ily dropping into the fog-shrouded darkness. Each falling tile resounds with a hollow click as it hits the flagstones of the parapet or courtyard below.
+
+A character must succeed on a DC 15 Dexterity (Acro­ batics) check to traverse the roof. The check succeeds automatically if the character crawls. If the check fails by 5 or more, the character slides off the edge of the roof ans falls 40 feet to the castle parapet (area K46).
+
+K54. FAMILIAR ROOM
+
+The low ceiling of this twenty-foot-square room presses down on you. Torn and broken couches lie in heaps, hap­ hazardly strewn about. Deep claw marks cover the hard­ wood furniture, and the once lush upholstery has been sliced to shreds. From the dark shadows amid the rubble, three pairs of green eyes stare back at you.
+
+The three c.ats are familiars ·of-the•lit��es in ai,ea .�so..  
+If the fa miliars see the characters here, the witches are ....
+
+alerted\�t��irpreserit'y
+
+K55. ELEMENT ROOM
+
+Heavy beams support the ceiling of this large room, the outer wall of which curves to follow the shape of the tower. Dim light filters into the room through the steel lattice squares of two leaded glass windows. Several ta­ bles stand throughout the room, weighed down by stacks of glass jars and bottles, all of them bearing labels.
+
+The labeled glass containers hold various elements that the witches use in their fell concoctions and rituals. The labels identify such items as "Eye of Newt," "Hair of Bat," "Snail Hearts," and "Frog's Breath." There are no magic potions among the bottles and jars.
+
+The leaded windows are fitted with iron hinges and can be opened. They are currently locked from the in­ side. If a character opens a window and leaves it open, there's a 50 percent chance that a vampire spawn crawling around the outside wall of the tower notices the open window and investigates.
+
+Characters who search the room spot numerous boot prints in the dust, as well as a short trail in the dust on the floor, leading from the northeast corner of the room to the easternmost door. It looks like something heavy was dragged across the floor toward the doorway.
+
+There is a secret trapdoor in the northeast corner
+
+of the floor. Because of the trail through the dust, the trapdoor can be found without an ability check. Tapping or knocking on the trapdoor three times releases a hidden latch, causing the trapdoor to swing down. Area KSl lies below. (There's no ability check that will let the characters figure out the trick to opening the door. They can get that information from the witches, or perhaps by using a divination spell or similar magic.)
+
+K56. CAULDRON
+
+Characters who stand outside the door to this room can smell a pungent odor coming from within.
+
+If the witches in this room have not been warned that the characters are coming, the characters can hear their horrid cackling. If the characters open the door slightly, they witness the scene described below:
+
+Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppressive room. Surrounding the cauldron are several gaunt women in soiled black robes. These witches sit hunched on tall wooden stools, their tangled hair tucked under black, pointed hats. They take turns tossing ingredients into the cauldron, uttering fell incantations, and cackling maniacally.
+
+: If the 'witches know the characters are coming, read the ·following text instead:
