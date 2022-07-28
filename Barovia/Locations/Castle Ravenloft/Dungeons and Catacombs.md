@@ -237,3 +237,25 @@ If one or more characters fall through the trapdoor in area K81, read:
 "You fall into a chute of polished black marble slide into the darkness"
 
 The chute plunges from the trapdoor in area K81 through a one-way secret door into a flooded cell (area K74e). Characters who slide all the way to the bottom are deposited in the cell, but take no damage. The slide contains no handholds and is too slippery to ascend without the aid of magic.
+
+K83. SPIRAL STAIR
+
+Behind the door lies a dark spiral staircase.
+
+The staircase starts at area K78, climbs to a landing at area K83a, and continues upward to area K37.
+
+K83A. SPIRAL STAIR LANDING
+
+An extension of area K83, this landing is shown on map 11.
+
+This forty-foot-long corridor connects two spiral stair­ ways, one leading up and the other descending into the depths of Castle Ravenloft. Hanging from an iron rod bolted to the eastern wall is a dusty, ten-foot-square tap­ estry depicting knights on horseback charging across a battlefield under a bloodred sky. The lead knight rides a black horse and wears a fur-lined black cloak, dark gray armor, and a visored helm shaped like a wolf's head. His sword glows with the light of the sun.
+
+The stairs at the nor.th end of the west wall descends to a door leading to area K78. The stairs at the south end of the west wall lead up, ending at door that opens into area K37.
+
+TREASURE
+
+The tapestry depicts Strahd's father, King Barov, lead­ ing his fearsome knights into.glorious battle. The tap­ estry weighs 10 pounds arid ·is· worth 750 gp intact. If it becomesdamageifwhileiiith_ eparty'spossession,itis worthless unless mende,d.
+
+K84. CATACOMBS
+
+Buried deep beneath the �eep of Ravenloft lie ancient catacombs, with arched ceilings supported by wide, hol­ low columns that double as crypts. Cobwebs hang limp in the musty air. A thick fog clings to the Acor, which is covered in putrid waste. The black ceiling is moving.
