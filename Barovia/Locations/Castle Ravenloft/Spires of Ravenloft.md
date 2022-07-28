@@ -407,6 +407,14 @@ The rusty iron door connecting this hall to area K73 is submerged in 5 feet of w
 
 A mold-covered ceiling hangs three feet above the still, black water that fills this dungeon corridor. The water is five feet deep. Ten-foot-square cells, their entrances blocked by iron bars, line both sides of the hall. One of the cells is dimly lit.
 
+The corridor is 40 feet long. Branching off it are eight cells, four along each wall. Light spills out of cell K74h.
+
+A hinged door made up of 1-inch-thick rusted iron bars spaced 4 inches apart, with horizontal crossbars spaced 6 inches apart, closes off each cell. Each door is fitted with an iron lock. A character using thieves' tools can try to pick a lock, which requires 1 minute and a successful DC 20 Dexterity check. The check is made with disadvantage if the character is trying to pick the lock from inside the cell. If the check fails, the character can try again.
+
+A character can force open a barred door by using an action and succeeding on a DC 25 Strength check.
+
+Strahdvisitsthedungeonoccasion.allytos·eewh_ ether any characters have be.come trapped hereiHe'can enter
+
 K74B. FORGOTTEN 'TREASURE
 
 II
@@ -421,15 +429,9 @@ Treasure. Scattered across the floor of this cell are 300 pp. The coins have the
 
 IZarovich stamped on them. A character can scoop up one hundred coins every minute.
 
-K74c. ROTTING CORPSE I cells, four along each wall. Light spills out of cell K74h.
+K74c. ROTTING CORPSE 
 
-The corridor is 40 feet long. Branching off it are eight
 
-A hinged door made up of 1-inch-thick rusted iron bars spaced 4 inches apart, with horizontal crossbars spaced 6 inches apart, closes off each cell. Each door is fitted with an iron lock. A character using thieves' tools can try to pick a lock, which requires 1 minute and a successful DC 20 Dexterity check. The check is made with disadvantage if the character is trying to pick the lock from inside the cell. If the check fails, the character can try again.
-
-A character can force open a barred door by using an action and succeeding on a DC 25 Strength check.
-
-Strahdvisitsthedungeonoccasion.allytos·eewh_ ether any characters have be.come trapped hereiHe'can enter
 
 Clinging to the bars of this otherwise empty cell is the rotting corpse of a male half-elf dressed in leather armor.
 
