@@ -11,11 +11,7 @@ An ornate, square rug covers the floor to the south. Set into the west wall is a
 The ornate rug is actually a rug of smothering. It at­ tacks creatures, other than undead, that move across it or anyone who tries to move it or otherwise disturb it.
 Underneath the rug is a bare stone .floor.
 
-The wooden, square trapdoor is 4 feet on.a.side and as thick as··the floor, with recessed iron hinges and an iron ring buiit into the si. de cipposJt¢,the-h,inges. Puiling·up ...,  
-. on the-r.ing· ope'ri� the ·c:100:r. B�iowt6'e.1r;;'pdoor, charac/
-
-.
-
-, · te1lsee ��- e. of t»1i?" thi�gs; �ithe�·�'1io-(oot-dee·t> shaff .:: · ;'(area 'K3Jaf�r;' i(thi{ elev�'to'i;-trap Kas b�en activ:�te. d�; ·
+The wooden, square trapdoor is 4 feet on.a.side and as thick as··the floor, with recessed iron hinges and an iron ring buiit into the si. de opposit ethe hinges. 
+Puiling·up on the-r.ing· ope'ri� the ·c:100:r. B�iowt6'e.1r;;'pdoor, characters see ��- e. of t»1i?" thi�gs; �ithe�·�'1io-(oot-dee·t> shaff .:: · ;'(area 'K3Jaf�r;' i(thi{ elev�'to'i;-trap Kas b�en activ:�te. d
 
 . ', ...:. cret'·Hilt�r·'in)fs.fop/
