@@ -227,3 +227,11 @@ The stairs slope at a 45-degree angle for a distance of 20 feet horizontally, co
 K81. TuNNEL
 
 This tunnel is cut into the Pillarstone of Ravenloft itself. Its surface is slick, and its ceiling is barely 6 feet high. A lingering fog limits visibility to a few feet.
+
+Characte�s who have knoJi�dge. of stdnecutting'dm tell· .- ._· that this passage is a relatively°pew consfr.uction tom-. pared to other areas of Ravenlofi;. The t�nn�Us-120 feet long, with a stone door at its·easte�n end.
+Nearthemidpointofthe'turu'i�lis·iitrapdoorhidden under a layer 9f fog. Characters can't spot the trap­ door passively, but art ��tive search accompanied by a successful DC 20 Wisdom (Perception) check locates it. Unless the tr�pdoor is fastened shut with an iron spike or by some other means, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone who is standing on it slides into the marble chute below (area K82). The trapdoor then resets.
+
+K82. MARBLE SLIDE
+
+If one or more characters fall through the trapdoor in area K81, read:
+"You fall into a chute of polished black marble slide "
