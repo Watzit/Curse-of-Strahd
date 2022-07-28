@@ -388,4 +388,28 @@ Helgaplaysthep�rtofthein11,oc��·fd�rris_elindistress to the last, revea
 She is, in fact, the bootm�_ker'{cf�ug�tei- she claims to be,butshechoseali(e-ofevilwithSt:ah: d;
 
 TREASURE
-Helga's gold necklace with its ruby pendant is a gift from Strahd. 
+Helga's gold necklace with its ruby pendant is a gift from Strahd. The necklace is almost five centuries old and is worth 750 gp.
+
+K33. KING'S APARTMENT STAIR
+
+This dark hall is concealed behind two secret doors.
+
+This arched corridor has been swept clean. Oak paneling decorates the walls to a height of four feet. Mounted on the east wall above the wood paneling are three unlit oil lamps spaced ten feet apart. A plain wooden door is set into the west wall, and light seeps through its cracks. A staircase at the north end of the west wall ascends into darkness.
+
+The staircase climbs 40 feet to areaK45. The door in the west wall opens into areaK32.
+
+K34. SERVANTS' UPPER FLOOR
+
+Dirt-caked windows allow little light to enter this upstairs room. Broken bed frames and torn bits of mattress litter the floors. A tall, dusty wardrobe roughly shaped like a coffin, its black doors painted with fey creatures, stands between two cracked, full-length mirrors hanging on the
+
+Isouth wall. A staircase descends along the north wall. I
+
+If someone opens the wardrobe, read:
+
+A plain white dress yellowed with age flies out of the wardrobe and begins to dance in the middle of the room. The dress flaps around to the music of the storm.
+
+If anyone touches the dancing dress, it collapses in a lifeless heap on the floor. Otherwise, it dances forever. Hanging in the wardrobe are a few rotted servant's uni­ forms, none of which are animate or valuable.
+
+Set into the south wall, behind the hanging mirror west of the wardrobe, is a secret door. It can be pulled open to reveal a closet choked with dust and cobwebs and that contains a wooden ladder that leads-up 20 feet to another secret door in the tower stairway (areaK20).
+
+The staircase leads down to areaK24.
