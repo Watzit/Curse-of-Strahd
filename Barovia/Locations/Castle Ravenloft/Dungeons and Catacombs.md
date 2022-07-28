@@ -375,4 +375,7 @@ lies atop a stumpy marble slab in the center of the crypt.
 
 to enter the crypt. .Tlie slab in this crypt is 4 feet long (in- stead of the usua· 1 ,6 feitJ�ng/'rhe bones atop the slab belong to the fool sen:ant _of Duc. hess Dorfniya Dilisnya (see crypt 8).
 
-Treasure. If the characters explore this crypt after summoning the ghost of Pidlwick in area K36, they find a small, flat wooden box on the marble slab next to Pid
+Treasure. If the characters explore this crypt after summoning the ghost of Pidlwick in area K36, they find a small, flat wooden box on the marble slab next to Pidlwick's bones. The box contains a full deck of illusions.
+
+Crypt 10
+Sir Leonid Krushkin (Sir Lee the Crusher): Bigger than life, he loved hisjewelry
