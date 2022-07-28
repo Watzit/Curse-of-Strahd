@@ -8,7 +8,10 @@ ___________________________________________
 ___________________________________________
 The character can follow the stench to its source:
 
-The foul scent leads you to a human corpse half-buried in the underbrush about fifteen feet from the road. The young man appears to be a commoner. His muddy clothes are torn and raked with claw marks. Crows have been at the body, which is surrounded by the paw prints. The man has obviously been dead for several days. He holds a crumpled envelope in one hand.
+___________________________________________
+"The foul scent leads you to a human corpse half-buried in the underbrush about fifteen feet from the road. The young man appears to be a commoner. His muddy clothes are torn and raked with claw marks. Crows have been at the body, which is surrounded by the paw prints. The man has obviously been dead for several days. He holds a crumpled envelope in one hand."
+____________________________________________
+
 
 The dead man, Dalvan Olensky, was trying to escape from [[Barovia]] with a letter from his master when he was killed on the road by [[NPCs/Strahd/Strahd|Strahd]]'s dire wolves. Wanting to return at once to [[NPCs/Strahd/Strahd|Strahd]], the wolves left the body in the woods but have not yet returned to feast.
 
