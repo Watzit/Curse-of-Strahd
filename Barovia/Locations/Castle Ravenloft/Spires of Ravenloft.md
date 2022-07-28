@@ -413,7 +413,7 @@ A hinged door made up of 1-inch-thick rusted iron bars spaced 4 inches apart, wi
 
 A character can force open a barred door by using an action and succeeding on a DC 25 Strength check.
 
-Strahdvisitsthedungeonoccasion.allytos·eewh_ ether any characters have be.come trapped hereiHe'can enter
+Strahdvisitsthedungeonoccasion.allytos·eewh_ ether any characters have be.come trapped hereiHe'can enter a cell by entering mist form.
 
 K74B. FORGOTTEN 'TREASURE
 
