@@ -599,3 +599,54 @@ Treasure. The prefect's gold holy symbol is festooned with tiny gemstones and is
 lCRYPT 31 l We knew him onlybyhis wealth
 
 This crypt is empty. Its walls are painted to depict moun­ tains of gold coins.
+
+The floor of the crypt is actually the cover of a 30-foot­ deep spiked pit. The cover opens if 100 pounds of weight or more are placed on it. It splits down the mid­ dle, east to west, and its doors are spring-loaded. After  
+a victim or victims fall into the pit, its doors snap shut. (See "Sample Traps" in chapter 5, "Adventure Environ­ ments," of the Dungeon Master's Guide for the rules on locking pits and spiked pits.) The spikes at the bottom of the pit are made of iron but aren't poisoned.
+
+Treasure. A human skeleton (the remains of a dead adventurer) wrapped in bits of studded leather armor lies amid the spikes at the bottom of the pit. A ·shattered lantern and a rusty crowbar lie nearby. Tied to the corpse's leather belt is a SO-foot coil of hempen rope, a dagger in a worn scabbard, a pouch containing 25 pp, and a stoppered wooden tube containing a spell scroll of magic circle.
+
+FORTUNES OF RAVENLOFT
+
+If your card reading reveals that a treasure is here, it is lying next to the skeleton at the bottom of the pit.
+
+CRYPT 32
+
+The door to this crypt has no name or epitaph on it.
+
+This crypt is empty except for two alcoves in the back wall. Above the alcoves are carved the following words: PASS Nor THESE PORTALS YE FOOLISH MORTALS
+
+A detect magic spell reveals that both alcoves radiate strong auras of conjuration magic.
+
+Creatures that enter the eastern alcove of this crypt are teleported to the eastern alcove of Strahd's tomb (area K86). Stepping into the western alcove of this crypt has no effect, but any creature that teleports from the western alcove of area K86 appears here.
+
+CRYPT 33
+
+Sir Klutz Tripalotsky: He fell on his own sword
+
+In the center of this crypt, atop a marble slab, human bones lie amid the empty shell of a suit of rusty plate armor. Plunged through the armor's breastplate is a longsword.
+
+Neither Sir Klutz's armor nor his longsword are magical or valuable.
+
+If the sword is pulled from the armor, Sir Klutz ap­ pears as a phantom warrior (see appendix D), thanks whoever pulled his weapon free, ?nd agrees to fight alongside that character for the next seven days. Sir
+
+· Klutz perished years before Strahd'became a va_mpire,  
+··. so the phantom \IVarrior kno�� nothing of St�ahd's ...: ..
+
+dowilf'!!I or the cu,r.se �fflicttfig:l;!atpvfa.
+
+CRYPT 34
+
+King Dostron the Hellborn
+
+Resting in the center of this crypt is a seven-foot-long gilded sarcophagus, its lid painted with the likeness of a screaming king wearing a crown of horns. Looming behind the sarcophagus is a stuffed owlbear frozen in a roar, with claws outstretched.
+
+King Dostron was an ancient ruler of this land, long before the arrival of Strahd. He claimed descent from a duke of the Nine Hells, and his deeds did justice to this ancestry. His sarcophagus is made of beaten lead and encased in gold (see "Treasure" below). Its lid can be pried open with a crowbar or similar tool, revealing nothing but dust within. The stuffed owlbear is a late addition to the crypt's decor-a gift given to Strahd that wound up here. It looks almost alive but is harmless.
+
+An invisible imp is perched atop the owlbear. If some­ one tries to open the sarcophagus, the imp says in Com­ mon, "I wouldn't do that if I were you!" The imp is mag­ ically bound to King Dostron's remains and must watch over them for several more centuries before its contract are fulfilled. It isn't obligated to protect the contents of the crypt (so it will not attack), and it delights in telling lies and engaging in mischief. For instance, it warns the characters that the sarcophagus is trapped, and that opening the lid will free a pit fiend bound within.
+
+Treasure. Characters who take the time to pry the gold from the sarcophagus can amass 500 gp worth of the precious metal, weighing 10 pounds.
+
+CRYPT 35  
+SirJarnwald the Trickster: The joke was on him
+
+A charnel stench fills this empty crypt.
