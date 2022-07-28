@@ -39,15 +39,3 @@ The elf is Rahadin, the castle chamberlain (see appendix D). He fights only if a
 DEVELOPMENT
 
 After all the characters leave this room, the eight gargoyles attack any character who dares to return. The gargoyles also swoop down to fight if they are attacked. When the gargoyles attack, the turbulence in the air from their wings extinguishes the feeble torches in the sconces, plunging the hall into darkness unless the characters have light sources.
-
-MAP3
-
-Main Floor
-
-he says**
-
-The elf is Rahadin, the castle chamberlain (see appendix D). He fights only if attacked. Otherwise, he leads the characters to the dining hall (area KlO), points them inside, pulls the doors shut behind them, and withdraws to area K72 by way of the South Tower Stair (area K21).
-
-DEVELOPMENT
-
-After all the characters leave this room, the eight gargoyles attack any character who dares to return. The gargoyles also swoop down to fight if they are attacked. When the gargoyles attack, the turbulence in the air from their wings extinguishes the feeble torches in the sconces, plunging the hall into darkness unless the characters have light sources.
