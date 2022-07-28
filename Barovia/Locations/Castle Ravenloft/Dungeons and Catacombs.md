@@ -234,4 +234,4 @@ Nearthemidpointofthe'turu'i�lis·iitrapdoorhidden under a layer 9f fog. Charac
 K82. MARBLE SLIDE
 
 If one or more characters fall through the trapdoor in area K81, read:
-"You fall into a chute of polished black marble slide "
+"You fall into a chute of polished black marble slide into the darkness"
