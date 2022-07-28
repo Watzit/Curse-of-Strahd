@@ -413,7 +413,7 @@ A hinged door made up of 1-inch-thick rusted iron bars spaced 4 inches apart, wi
 
 A character can force open a barred door by using an action and succeeding on a DC 25 Strength check.
 
-Strahd visits the dungeon occasionally to see whether any characters have become trapped here iHe'can enter a cell by entering mist form.
+Strahd visits the dungeon occasionally to see whether any characters have become trapped here. He can enter a cell by entering mist form.
 
 K74A . FORGOTTEN''TREASUR,E.
 
@@ -422,13 +422,9 @@ Treasure. Scattered across the floor of this cell are 3,000 ep. The coins have t
 
 K74B. FORGOTTEN 'TREASURE
 
-II
-
 The rusted door to this cell hangs open slightly.
 
-I
-
-Characters who enter the cell can feel coins shifting be­ neath their feet.
+Characters who enter the cell can feel coins shifting beneath their feet.
 
 Treasure. Scattered across the floor of this cell are 300 pp. The coins have the profiled visage of Strahd von
 
