@@ -107,3 +107,66 @@ If the witches in this room have not been warned that the characters are coming,
 Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppressive room. Surrounding the cauldron are several gaunt women in soiled black robes. These witches sit hunched on tall wooden stools, their tangled hair tucked under black, pointed hats. They take turns tossing ingredients into the cauldron, uttering fell incantations, and cackling maniacally.
 
 : If the 'witches know the characters are coming, read the ·following text instead:
+
+Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppres­ sive room. Surrounding the cauldron are seven tall wooden stools.
+
+The Barovian witches (see appendix D) that dwell in this area have sworn themselves to Strahd's service  
+in exchange for arcane power. Seven witches are pres­ ent when the characters arrive, minus any that might have been encountered and defeated in area KSO. If  
+the witches are expecting the characters, they cast in­ visibility spells and stand quietly in the corners of the room, hoping that the cauldron draws their prey inside. Although they prefer to attack at range with their spells, they can grow magic claws using alter self
+
+When the cauldron is touched by someone who also speaks the proper command word ("Gorah!"), it magi­ cally heats any liquid placed inside it and remains hot for 3 hours, or until the command word is spoken again by someone within 5 feet of the cauldron. Once the cauldron's property has been used, the cauldron can't be activated again until the next dawn.
+
+Captured witches will trade information in exchange for their lives and freedom, and can be forced to divulge the command word for activating and deactivating the cauldron. They also know how to open the trapdoor  
+in area KSS.
+
+TREASURE
+
+Each witch carries a potion of healing that she made herself. There is a 30 percent chance that a potion has "gone bad," in which case it's actually a potion ofpoison.
+
+Not visible from the entrance is a small table behind the cauldron on which sits an opened spellbook, seem­ ingly on the verge of falling apart. The book is evil. Any non-evil creature that touches it or starts its turn with the book in its possession takes 5 (ldlO) psychic dam­ age. The book contains the following spells:
+
+1st level: burning hands, charm person, detect magic, find familiar, fog cloud, mage armor, protection from evil and good, ray ofsickness, sleep, Tasha's hideous laugh­ ter, unseen servant, witch bolt
+
+2nd level: alter self, arcane lock, cloud ofdaggers, darkness, enlarge/reduce, invisibility, knock, misty step
+
+K57. TOWER ROOF
+
+The sixty-foot-diameter tower roof is rimmed with battle­ ments. A slender stone bridge with no railing spans the gap between this tower and the slightly taller tower to the north. To the east, the high tower of Ravenloft thrusts skyward with no apparent opening at this level. Black, boiling clouds hurl rain down from above.
+
+The courtyard is 190 feet below, the roof of the keep 80 fe�t below. A stone railing encloses a stone spiral stair­ case _that descends into the tower.
+
+K58. BRIDGE
+
+A strong wind blows across this slender bridge of stone and masonry. The bridge's old iron railings have rusted away years ago, leaving the bridge without handholds.
+
+K59. HIGH TOWER PEAK
+
+MAP9
+
+North Tower Peak
+
+DOWN 50FEET TOMAPS
+
+The bridge connects areas K20 and K57. The wind isn't strong enough to knock creatures off the bridge, but a creature that takes damage while standing on the bridge must succeed on a DC 10 Dexterity saving throw or fall 60 feet onto the roof of the keep.
+
+DROPS3IOFEET TOMAP12
+
+K59. HIGH TOWER PEAK
+
+If the characters climb the stairs to reach the tower peak, read:
+
+The spiral staircase finally ends at a five-foot-wide stone walkway that circles the shaft. In the center of the tower's highest floor, a fifteen-foot-diameter ·hole drops into the cold heart of Ravenloft itself. Cold air rushes up out of the shaft, sending a chill through you. Arrow slits line the walls, and aging beams support a steep, cone-shaped roof. One beam and part of the roof have fallen away, leaving a gaping hole open to the stormy sky.
+
+The hole in the floor forms the mouth of an enclosed shaft (area K18a) that descends 450 feet to the castle catacombs (area K84).
+
+PIDLWICK II
+
+Hiding in the rafters is Pidlwick II (see appendix D). A character spots Pidlwick II with a passive Wisdom (Perception) score that meets or exceeds its Dexterity (Stealth) check. If Pidlwick II is spotted, read:
+
+Something lurks among the rafters-a small, spindly man not much larger than a child. A flash of lightning illuminates his face, which is painted like a grinning jack­ o'-lantern.
+
+Although he appears to be a petite man wearing face paint and a fool's costume, Pidlwick II is actually a clockwork effigy of the real-life Pidlwick, who lies entombed in the catacombs. The dark paint on his face is soot.
+
+If the characters see Pidlwick II in bright light, read:
+
+It's obvious that you're looking not at a small man, but a mockery of one. This thing is not a creature of flesh and bone, but a construct made of dyed leather stitched and tightly wrapped over an articulated frame. You hear the soft tumbling and clicking of gears.
