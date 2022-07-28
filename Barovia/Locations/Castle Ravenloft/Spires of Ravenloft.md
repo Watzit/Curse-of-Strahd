@@ -438,7 +438,7 @@ Treasure. A search of the corpse yields a sheathed longsword and two belt pouche
 
 K74D. EMPTY CELL
 
-This cell contains nothing of interes�.
+This cell contains nothing of interest.
 
 K74E. END OFTHE RIDE·  
 This cell is linked to a telt,port trap in are.a K73.
@@ -448,3 +448,37 @@ Secret Door. A secret door is:s fe.et up from the floor on the north wall of thi
 K74F. EMPTY CELL
 
 This cell contains nothing of interest.
+
+K74G. GRAY OOZE
+
+Clinging to the floor of this cell is a gray ooze that at­ tacks anything that enters. While underwater, the ooze is effectively invisible. 
+
+K74H. LOST SWORD
+
+A glowing blade can be seen beneath the water near the back of the cell.
+
+This cell is linked to a teleport trap in area K73.
+
+Treasure. The source of the underwater glow is a sen­ tient lawful good +1 shortsword (Intelligence 11, Wis­ dom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmit­ ting emotion to the creature carrying or wielding it.
+
+The sword's purpose is to fight evil. The sword has the following additional properties:
+
+The sword continually sheds bright light in a 15-foot radius and dim light for an additional 15 feet. Only by destroying the sword can this light be extinguished.
+
+, Alawfulgoodcreaturecanattuneitselftothesword in 1 minute.  
+While attuned to the weapon, the sword's wielder can use the sword to cast the crusader's mantle spell. Once used, this property of the sword can't be used again until the next dawn.
+
+K75. SOUTH DUNGEON
+
+The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength (Athletics) check to open.
+
+A mold-covered ceiling hangs three feet above the still, black water that fills this dungeon corridor. The water  
+is five feet deep. Ten-foot-square cells, their entrances blocked by iron bars, line both sides of the hall. From one of the cells, you hear a gruff voice ask, "Who's there?"
+
+The corridor is 40 feet long. Branching off it are eight cells, four along each wall. The voice comes from one of the southernmost cells (area K75a).
+
+K75A. PRISONER
+
+A strong young man clutches the bars of his cell while struggling to keep his teeth from chattering. His clothes are shredded, and he is soaked from head to toe.
+
+The man is Emil Toranescu, a werewolf with 72 hit points. He claims to be a resident of Vallaki who was chased by dire wolves to the castle. He begs the charac­ ters to rescue him, offering to help them in exchange.
