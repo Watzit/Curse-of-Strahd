@@ -465,7 +465,23 @@ Any creature that stands inside the crypt and boldly speaks the name "Khazan" ca
 CRYPT 16  
 Elsa Fallona von Twitterberg (Beloved Actor): She had many followers
 
-A skeleton draped in rags lies atop a marble slab in the· center of the crypt. Nine shallow alcoves are carved into the surrounding walls. The back wall of each alcove is painted with a full-body image of a handsome man. Some of the men wear fine clothes; others wear armor. At the feet of each painting rests a skull atop a pile of bones
+A skeleton draped in rags lies atop a marble slab in the· center of the crypt. Nine shallow alcoves are carved into the surrounding walls. The back wall of each alcove is painted with a full-body image of a handsome man. Some of the men wear fine clothes; others wear armor. At the feet of each painting rests a skull atop a pile of bones.
+
+The bones in the niches belong to Elsa's nine consorts. There is nothing of value here.
+
+CRYPT 17
+
+Sir Sedrik Spinwitovich (Admiral Spinwitovich): Con­ fused though he was, he built the greatest naval force ever assembled in a landlocked country
+
+"An eleven-foot-long funeral barge dominates this crypt, wedged diagonally into the available space. Lying in the boat is a skeleton draped in rags, with hundreds of gold coins piled around it."
+
+The coins are made of clay painted gold and are worth­ less. The funeral barge, whi�h was assembled inside the crypt, is too big to fit through the door.
+
+CRYPT 18
+
+The stone door of this crypt has been carefully laid to one side. Through the swirly �ists of the perpetual fog, freshlyengravedlettersspelloutthewords"Ireena Kolyana: Wife." · ·
+
+The crypt is empty and has �een swept clean. This is where Strahd intends to keep Ireena once he turns her into a vampire spawn
 
 CRYPT 19  
 Artimus (Builder of the Keep): T hou standest amidst the monument to his life
@@ -501,9 +517,3 @@ The spectral elr'is a banshee that attacks the characters on sight, using her wa
 In life, Patrina Velikovna was a dusk elf who, having learned a great deal about the black arts, was nearly a match for Strahd's powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, Strahd consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart Strahd's plans. Strahd demanded, and got, Patrina's body. She then became the banshee trapped here.
 
 . ·ReducingthebansheetoOhitpointscausesittodis­ corporate. Patrina's spirit can: 't rest, howevtr, until she is formally wed to Strahd;· the.banshee re-forms iri her crypt 24 J;tpurs later. Casting; ha1Joi1i'�1>ell on.the_cr,ypt prevents the:baqshee fromreturning·for.as long:as the.
-
-'spel)Ja�ts.. ' '- . ' .  
-CHAPTER 4 I CASTLE RAVENLOFT
-
-The bones in the niches belong to Elsa's nine consorts. There is nothing of value here.
-
