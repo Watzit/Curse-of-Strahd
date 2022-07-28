@@ -39,3 +39,16 @@ The elf is Rahadin, the castle chamberlain (see appendix D). He fights only if a
 DEVELOPMENT
 
 After all the characters leave this room, the eight gargoyles attack any character who dares to return. The gargoyles also swoop down to fight if they are attacked. When the gargoyles attack, the turbulence in the air from their wings extinguishes the feeble torches in the sconces, plunging the hall into darkness unless the characters have light sources.
+
+K9. GUESTS' HALL
+
+Torchlight flutters against the walls of this vaulted hall. To the east, an arched hallway stretches for twenty feet, ending at a spiral staircase that goes up and down. Next to the hallway, a suit of armor, oiled and glistening, stands at attention in a shallow alcove. To the west, large double doors hang slightly open, and a steady bright light escapes through the opening. Swells of organ music come from behind the doors, spilling their melody of power and defeat into the hall.
+
+The suit of armor standing in the alcove is merely a nor­ mal suit of plate armor that is well cared for.
+
+The staircase leads down to area K61 and up to area K30. The double doors provide access to area KlO.
+
+KlO. DINING HALL  
+The first time the characters enter this room, read:
+
+Three enormous crystal chandeliers brilliantly illuminate this magnificent chamber. Pillars of stone stand against dull white marble walls, supporting the ceiling. In the
