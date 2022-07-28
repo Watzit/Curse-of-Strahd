@@ -404,3 +404,21 @@ The message refers to a gravestone in the Abbey of Saint Markovia
 CRYPT 12
 King Troisky - The Three Faced King
 
+"There are no bones atop the marble slab in this crypt, only a steel helm with a visor shaped line an angry face."
+
+,nic:; hetmhas tl!ree even' ly spaced visdrs crafted to look .
+
+to enter the crypt. .Tlie slab in this crypt is 4 feet long (in- stead of the usua· 1 ,6 feitJ�ng/'rhe bones atop the slab .·
+
+belong to the fool sen:ant _of Duc. hess Dorfniya Dilisnya (see crypt 8). .. . .
+
+.
+
+. : dnlY:the angry visage is.vjsio!e ft6'rrdhe-ci:ypt's door­
+
+...,like-�t:rna�·fa°c!'!{--.,6ne·��c{:one.happy; '!ind qne.!an�fy.
+
+....  
+·'
+
+": way. �frig ttqisky ��re this thtee�fa��d h'f:l�·in battle,
