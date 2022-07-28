@@ -161,15 +161,13 @@ If your card reading indicates an encounter with Strahd in this area, he is perc
 
 K42. KING'S BEDCHAMBER
 
-Sweet smells waft from this delicately lit room. A great arched window along the west wall is covered by heavy red draperies, their golden tassels glinting in the light  
-of three candelabras sitting atop small tables about the room. Tall white candles burn with bright, steady light.  
+Sweet smells waft from this delicately lit room. A great arched window along the west wall is covered by heavy red draperies, their golden tassels glinting in the light of three candelabras sitting atop small tables about the room. Tall white candles burn with bright, steady light.  
 A large bed, canopied by silk curtains, sits with its headboard against the north wall. Carved into the head­ board with great skill is a large "Z." Lying amid the velvet and satin sheets and bedclothes is a young woman in a nightgown. One of her dainty slippers has fallen to the floor at the bed's foot.
 
 Arched double doors.Jead 'rrom th. is ro·om to the south and east.
 
-The window is divided into four tall panes of glass, each enclosed by a lead framework. The two outermost sections have small iron hinges built into them so that
+The window is divided into four tall panes of glass, each enclosed by a lead framework. The two outermost sections have small iron hinges built into them so that they can be opened, as well as iron latches to lock them .Jn place when they're closed. The window looks out onto the parapet (area K46).
 
-·they can be opened, as well as iron latches to lock them .Jn place when they're closed. The window looks out onto the parapet (area K46).
 The figure on the bed is Gertruda (NG female human commoner), the daughter of Mad Mary (see chapter 3, area E3). Gertruda is oblivious to any danger to her­ self-especially from Strahd, who has charmed her. Sheltered by her mother, she was never allowed to leave home as a child. She finally slipped away and made her way to the castle, drawn by its majesty.
 
 Gertruda is innocent, and years spent as a shut-in have twisted her sense of reality. Consequently, she maintains a fairy-tale view of life. When faced with a decision, she almost always makes the most simplistic choice. She is naive to the point of being a danger to her­ self and others. Fortunately for her, Strahd has not yet bitten her, though he intends to. (If he can do so while the characters look on helplessly, so much the better.)
