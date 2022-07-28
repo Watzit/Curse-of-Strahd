@@ -588,4 +588,14 @@ This staircase of ancient stone is worn smooth. Thick dust covers its steps, and
 
 The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, leading to a· 10�foot�square landing (see below).A·secondset-of.stairscontjnuis.upwar.d}o_t�_ e east at a similar angle for p0 di13fan<::�- of 30'fee�liorizon­ tally, ending at a-se.cret.door thai:"c:Stiens-irito:a"rea Kn
 
-Inscribed on the landing, hidden 'under years of dust, is aglyphofwarding.Ifthecharactersbrushaway'the dust, someone can spot the glyph with a successful DC 15 Intelligence (Investigation) check.
+LANDING
+Inscribed on the landing, hidden 'under years of dust, is a glyph of warding. If the characters brush away the dust, someone can spot the glyph with a successful DC 15 Intelligence (Investigation) check.
+
+The glyph triggers the first time a living creature passes over it. Triggering it activates a major image spell, conjuring an illusion of Strahd von Zarovich that appears either halfway up the stairs leading to area K72 or halfway down the stairs leading to area K78, so that the vampire appears in front of the triggering character. When "Strahd" appears, read:
+
+A sickly mist fills the stairway ahead, then coalesces into the form of the vampire Strahd, his eyes burning red with anger. "You have worn out your welcome," he says. "Whatever gods you believe in cannot save you now!"
+
+Have the characters roll initiative. Any attack or spell that hits "Strahd" passes through, revealing that he is an illusion. On initiative count 0, the illusory vampire chuckles and melts away like a wax doll in a bonfire, leaving no trace behind, and the glyph disappears.
+
+K80. CENTER STAIR  
+If the characters enter this area through the door at the
