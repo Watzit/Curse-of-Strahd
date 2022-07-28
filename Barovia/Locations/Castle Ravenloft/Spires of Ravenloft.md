@@ -413,7 +413,12 @@ A hinged door made up of 1-inch-thick rusted iron bars spaced 4 inches apart, wi
 
 A character can force open a barred door by using an action and succeeding on a DC 25 Strength check.
 
-Strahdvisitsthedungeonoccasion.allytos·eewh_ ether any characters have be.come trapped hereiHe'can enter a cell by entering mist form.
+Strahd visits the dungeon occasionally to see whether any characters have become trapped here iHe'can enter a cell by entering mist form.
+
+K74A . FORGOTTEN''TREASUR,E.
+
+This cell is linked to a teleport trap in area K73: Characters who enter the cell can feel coins shifting beneath their feet.  
+Treasure. Scattered across the floor of this cell are 3,000 ep. The coins have the profiled visage of Strahd von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
 
 K74B. FORGOTTEN 'TREASURE
 
@@ -448,16 +453,4 @@ This cell is linked to a telt,port trap in are.a K73.
 
 Secret Door. A secret door is:s fe.et up from the floor on the north wall of this cell. Tlie secret door can't be opened from this side without.the use of a knock spell or similar magic. Behind the secret door 1s a chute of pol­ ished black marble that slants upward (area K82).
 
-K74F. EMPTY C:�LL
-
- K74A . FORGOTTEN''TREASUR,E.
-
-·.
-
-This cell is linked to a teleport trap in area K73: Char
-acters who enter the cell can feel coins shifting beneath
-
-. their feet.  
-Treasure. Scattered across the floor of this cell are
-
-3,000 ep. The coins have the profiled visage of Strahd von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
+K74F. EMPTY CELL
