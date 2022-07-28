@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Gates of Barovia.md",
+            "file": "Barovia/Locations/Old Svalich Road.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Gates of Barovia.md",
+                "file": "Barovia/Locations/Old Svalich Road.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "Barovia/Locations/Lands of Barovia, Common Features.md",
     "Barovia/Locations/Old Svalich Road.md",
+    "Barovia/Locations/Gates of Barovia.md",
     "Barovia/Barovia.md",
     "Barovia/Locations/Village of Barovia/Bildrath's Mercantile.md",
     "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
     "Barovia/Locations/Castle Ravenloft/Spires of Ravenloft.md",
     "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
     "Barovia/Locations/Castle Ravenloft/Rooms of Weeping.md",
-    "Barovia/Locations/Castle Ravenloft/Main Floor.md",
-    "Barovia/Locations/Castle Ravenloft/Walls of Ravenloft.md",
-    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md"
+    "Barovia/Locations/Castle Ravenloft/Main Floor.md"
   ]
 }
