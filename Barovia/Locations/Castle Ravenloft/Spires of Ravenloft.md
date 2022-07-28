@@ -393,14 +393,70 @@ The stairs descend into black, still water that fills an arched hallway before y
 : :thi }Yater is3 feet deep in tJe_hallway an_ d·�p�que:
 Tht,.ste-ps .on'both sjd�i of thih:�!l\Vay/descend an:
 
-anct�"a:ihh�:\> ,\�".'-_,.,.·:->,·.·:,. :'(htilo:oibt:°ne;i'tfi'the.'water'.isq\_afs'dUd.asonemight
+anct�"a:ihh�:\> ,\�".'-_,.,.·:->,·.·:,. :'(htilo:oibt:°ne;i'tfi'the.'water'.isq\_afs'dUd.asonemight-expect' : J"h�;e is a ifafe path. a;d�'nd �iverif w.'eight- sensitive trapdoors (see the Traps in Area K73 diagram), but the water makes it impossible to see where the trap­ doors are. For every 10 pounds of weight on a trapdoor, there is a 5 percent chance that the trapdoor will open. The 10-foot-deep pit under each trapdoor contains a magic teleport trap that activates as soon as the trap­ door opens. Any Medium or smaller creature on a trap­ door when it opens plunges into the pit and is teleported to a cell in either area K74 or K75, as the diagram indicates.
 
-.c1
+When a character sets off a trap, other characters in the hall see an explosion of air and water fly up around the triggering character (air that was trapped in the  
+pit is released suddenly when the trapdoor opens).  
+The triggering character suddenly falls from sight. An instant later, the trapdoor closes, leaving only a slowly dissipating swirl in the water. It doesn't open again until 24 hours have passed, at which point its teleport trap is recharged.
 
-Theyellowlichenis. ha/mless.·Beyondthearchwayto
+Characters who fall victim to the teleport traps are transported to dungeon cells closed with iron bars and under 5 feet of brackish water (areas K74 and K75).
 
-the west is area E:'7.0, The'�taircase (area_K20a) that
+K74. NORTH DUNGEON
 
-goes up along'the'e. astwaUle_ adsto area.K20.- .,· - ..•... ..
+The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength (Athletics) check to open.
 
-: c\}.''·.... :\:;:: .. --expect' : J"h�;e is a ifafe path. a;d�'nd �iverif w.'eight-sen-
+A mold-covered ceiling hangs three feet above the still, black water that fills this dungeon corridor. The water is five feet deep. Ten-foot-square cells, their entrances blocked by iron bars, line both sides of the hall. One of the cells is dimly lit.
+
+K74B. FORGOTTEN 'TREASURE
+
+II
+
+The rusted door to this cell hangs open slightly.
+
+I
+
+Characters who enter the cell can feel coins shifting be­ neath their feet.
+
+Treasure. Scattered across the floor of this cell are 300 pp. The coins have the profiled visage of Strahd von
+
+IZarovich stamped on them. A character can scoop up one hundred coins every minute.
+
+K74c. ROTTING CORPSE I cells, four along each wall. Light spills out of cell K74h.
+
+The corridor is 40 feet long. Branching off it are eight
+
+A hinged door made up of 1-inch-thick rusted iron bars spaced 4 inches apart, with horizontal crossbars spaced 6 inches apart, closes off each cell. Each door is fitted with an iron lock. A character using thieves' tools can try to pick a lock, which requires 1 minute and a successful DC 20 Dexterity check. The check is made with disadvantage if the character is trying to pick the lock from inside the cell. If the check fails, the character can try again.
+
+A character can force open a barred door by using an action and succeeding on a DC 25 Strength check.
+
+Strahdvisitsthedungeonoccasion.allytos·eewh_ ether any characters have be.come trapped hereiHe'can enter
+
+Clinging to the bars of this otherwise empty cell is the rotting corpse of a male half-elf dressed in leather armor.
+
+This cell is linked to a teleport trap in area K73.
+
+Treasure. A search of the corpse yields a sheathed longsword and two belt pouches, one containing five gemstones (50 gp each) and the other containing a po­ tion ofheroism.
+
+K74D. EMPTY CELL
+
+This cell contains nothing of interes�.
+
+K74E. END OFTHE RIDE·  
+This cell is linked to a telt,port trap in are.a K73.
+
+Secret Door. A secret door is:s fe.et up from the floor on the north wall of this cell. Tlie secret door can't be opened from this side without.the use of a knock spell or similar magic. Behind the secret door 1s a chute of pol­ ished black marble that slants upward (area K82).
+
+K74F. EMPTY C:�LL
+
+,-·>·. � ·, K74A . FORGOTTEN''TREASUR,E.
+
+·.
+
+This cell is linked to a teleport trap in area K73: Char­
+
+acters who enter the cell can feel coins shifting beneath
+
+. their feet.  
+Treasure. Scattered across the floor of this cell are
+
+3,000 ep. The coins have the profiled visage of Strahd von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
