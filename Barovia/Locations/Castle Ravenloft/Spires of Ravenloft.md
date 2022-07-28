@@ -426,13 +426,9 @@ The rusted door to this cell hangs open slightly.
 
 Characters who enter the cell can feel coins shifting beneath their feet.
 
-Treasure. Scattered across the floor of this cell are 300 pp. The coins have the profiled visage of Strahd von
-
-IZarovich stamped on them. A character can scoop up one hundred coins every minute.
+Treasure. Scattered across the floor of this cell are 300 pp. The coins have the profiled visage of Strahd von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
 
 K74c. ROTTING CORPSE 
-
-
 
 Clinging to the bars of this otherwise empty cell is the rotting corpse of a male half-elf dressed in leather armor.
 
@@ -450,3 +446,5 @@ This cell is linked to a telt,port trap in are.a K73.
 Secret Door. A secret door is:s fe.et up from the floor on the north wall of this cell. Tlie secret door can't be opened from this side without.the use of a knock spell or similar magic. Behind the secret door 1s a chute of pol­ ished black marble that slants upward (area K82).
 
 K74F. EMPTY CELL
+
+This cell contains nothing of interest.
