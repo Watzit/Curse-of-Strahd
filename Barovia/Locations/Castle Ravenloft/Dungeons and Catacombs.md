@@ -378,4 +378,15 @@ to enter the crypt. .Tlie slab in this crypt is 4 feet long (in- stead of the us
 Treasure. If the characters explore this crypt after summoning the ghost of Pidlwick in area K36, they find a small, flat wooden box on the marble slab next to Pidlwick's bones. The box contains a full deck of illusions.
 
 Crypt 10
-Sir Leonid Krushkin (Sir Lee the Crusher): Bigger than life, he loved hisjewelry
+Sir Leonid Krushkin (Sir Lee the Crusher): Bigger than life, he loved his jewelry
+
+An oversized skeleton draped in jewelry and rags lies atop an elongated marble slab in the center of the crypt. Leaning against the slab is a bloodstained maul strung with cobwebs.
+
+Sir Lee stood well over seven feet tall. His maul might give the characters pause, but it is harmless and nonmagical.
+
+TREASURE
+Three jeweled necklaces (worth 750 gp each) are lying across Sir Lee's skeleton.
+
+CRYPT 11
+
+Tasha Petrovna - Healer ofKings, Light unto the West, Servant, Companion
