@@ -235,3 +235,5 @@ K82. MARBLE SLIDE
 
 If one or more characters fall through the trapdoor in area K81, read:
 "You fall into a chute of polished black marble slide into the darkness"
+
+The chute plunges from the trapdoor in area K81 through a one-way secret door into a flooded cell (area K74e). Characters who slide all the way to the bottom are deposited in the cell, but take no damage. The slide contains no handholds and is too slippery to ascend without the aid of magic.
