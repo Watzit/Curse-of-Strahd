@@ -192,7 +192,8 @@ TELEPORT DESTINATION
 Characters who teleport to this location from area K78 arrive in the middle of the room.
 
 FORTUNES OF .RAVENLO,FT  
-If your card reading reveals.that a treasure'. is here, it is
+If your card reading reveals.that a treasure'. is here, it is inside the iron chest.
+If your card reading indicates an encounter with Strahd in this area, he is standing next to the iron chest.
 
 K60A. NORTH TOWER ROOFTOP
 
@@ -215,4 +216,24 @@ This hallway contains an elevator trap, triggered when at least 400 pounds of pr
 
 A character who searches for traps while crossing the hall and succeeds on a DC 15 Wisdom (Perception) check detects seams in the floor, walls, and ceiling that suggest that the middle section isn't attached to. the rest of the hall. A character.who makes a successful DC 15 Intelligence ( Investigation) check discerris that the trap· can't be disarmed from this location..
 
-The middle 10-foot section of .tbe hall is;a cl�verly hid­ den elevator compartment, open tolben. orth �nd ·south so that it appears to b.e pirtqfthe p�ssageway. When the trap is sprung, two·st��l portcullis�s drop frdm the ceiling at lightning speed -to seal-9ff the compartment, trapping within those creatur¢sl�atctdgger�d the trap. An instant later, the closed-off ele�ator fa .propelled up the western half of a 20-focit�wide:'i70�foot-tall shaft (area K3la) to the sounds.of turni�·g ge�rs and rattling chains. Magic sleep gas 'fflls the compartment as it rises,
+The middle 10-foot section of .tbe hall is;a cl�verly hid­ den elevator compartment, open tolben. orth �nd ·south so that it appears to b.e pirtqfthe p�ssageway. When the trap is sprung, two·st��l portcullis�s drop frdm the ceiling at lightning speed -to seal-9ff the compartment, trapping within those creatur¢sl�atctdgger�d the trap. An instant later, the closed-off ele�ator fa .propelled up the western half of a 20-focit�wide:'i70�foot-tall shaft (area K3la) to the sounds.of turni�·g ge�rs and rattling chains. Magic sleep gas 'fflls the compartment as it rises, and a creature trapped inside must succeed on a DC 15 Constitution saving throw or fall unconscious as though affected by a sleep spell.
+
+At the same time the elevator rises, a 10-foot cube of granite suspended from heavy chains descends in the eastern half of the shaft, acting as a counterweight. The massive block lands gently at the bottom of the shaft, fill­ ing the previously open 10-foot-by-10-foot space adjacent to where the elevator stood. The block weighs thousands of tons and pulverizes anything in the space where it comes to rest.
+
+Once the elevator starts rising, its portcullises are locked in place and can't be lifted. The walls of the shaft are nearly flush with the elevator compartment; only a few inches of space exist between the portcullises and the shaft walls.
+
+All creatures trapped inside the elevator (including unconscious ones) must roll initiative. The compartment takes 1 round to reach the top of the shaft, stopping just beneath area K47. Each creature inside has one turn to act before the compartment comes to a dead stop. Their initiative rolls determine the order in which the occu­ pants act. Conscious party members can take whatever actions they like. They might search for a way out, wake sleeping party members, cast spells, or take other ac­ tions. Unconscious ones can do nothing.
+
+A character who uses an action to search the ceiling of the elevator finds a secret trapdoor with a success­ ful DC 10 Wisdom (Perception) check. The trapdoor opens downward.
+
+Any creature on top of the elevator when it reaches the top of the shaft must make a successful DC 15 Dexterity saving throw to avoid being crushed against the ceiling of the shaft. The character takes 44 (8d10) bludgeoning damage on a failed save, or half as much damage on a successful one. When the elevator comes to a stop, its portcullises retract.
+
+The elevator remains at the top of the shaft until the lever in area K31 is moved to the "down" position. When that happens, the trap resets in 1 round: the portcullises come down, and the elevator compartment descends to its place in the hallway at the bottom of the shaft as the stone block rises to the top of the shaft. When the eleva­ tor reaches the bottom, its portcullises rise again.
+
+DEVELOPMENT
+
+The sound of the elevator moving can be heard th.rough, out the castle. Characters who-are. trapped or asleep in the elevator compartment.are e:asy prey}or:Stt:ahd, who
+
+·can reach them by way ofth� tral?doqr 1n. '�reaK.47. K62. SERVANTS' HA'.LL
+
+This hall stands in deadly silence. Heavy beams support a sagging, ten-foot-high ceiling. Fog clings to the floor, obscuring everything that lies less than three feet above it. A giant shadow lurches across the ceiling as a dark fig­ ure shuffles purposefully down the corridor toward you.
