@@ -390,3 +390,9 @@ Three jeweled necklaces (worth 750 gp each) are lying across Sir Lee's skeleton.
 CRYPT 11
 
 Tasha Petrovna - Healer ofKings, Light unto the West, Servant, Companion
+
+A skeleton wearing tattered priestly vestments lies atop a marble slab in the center of the crypt. The domed ceiling overhead is painted with a glorious sun mural.
+
+Creatures that would take damage from exposure to sunlight (such as vampires) have disadvantage on all ability checks, attack rolls, and saving throws while in­
+
+**Treasure**. Draped around the neck of the skeleton is a sun-shaped holy symbol (worth 25 gp). A good-aligned character who picks up the holy symbol hears a ghostly female voice. It whispers the following message:
