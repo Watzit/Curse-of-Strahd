@@ -289,3 +289,56 @@ A character who attacks the mannequin from the floor needs a range of at least 1
 K28. KING'S BALCONY
 
 A sculpted stone railing encloses this long balcony, which overlooks Ravenloft's chapel. Two ornate thrones stand side by side in the center of the balcony, covered with dust and strung with cobwebs. The thrones face away from the double doors that give access to the balcony.
+
+Two Strahd zombies (see appendix D) are slouched on the thrones. They remain motionless until one of them is disturbed or another creature comes within a zom­ bie's reach, whereupon they attack.
+
+The balcony is 50 feet above the floor of the chapel (area K15). A staircase north of the double doors leads down to area K29.
+
+K29. CREAKY LANDING
+
+II
+
+The staircase climbs from area K16 to area K28. It seems unstable but is sturdy. The creatures in area K28 can't be surprised by anyone climbing the creaky steps.
+
+K30. KING'S ACCOUNTANT
+
+Dusty scrolls and tomes line the walls of this room. More scrolls and books lie scattered on the floor, around four heavy wooden chests fitted with study iron locks. The only unobstructed floor space is directly in front of the doors on the east and west walls.
+
+In the center of this clutter stands a great black desk.
+
+A figure crouches atop a tall stool, scratching on a seem­ ingly endless scroll of paper with a dry quill pen. Nearby a tasseled rope hangs from a hole in the ceiling.
+
+The figure is Lief Lipsiege (CE male human com­ moner), an accountant. He is chained to the heavy wooden desk and has no interest in the characters or their concerns. Under no circumstances does he voluntarily leave the room. Lief pulls the rope the instant he feels threatened.
+
+Pulling the rope requires an action. When the rope is pulled, a tremendously loud gong sounds. One or more creatures arrive ld6 rounds later, attacking any charac­ ters still in the room. Determine the creatures randomly by rolling a d4:
+
+d4 Creature
+
+ld6 shadows
+
+2.  2  ld4 vampire spawn
+    
+3.  3  ld4 wights
+    
+4.  4  l wraith and ld4 + l specters
+    
+
+Lief was pressed into service by Strahd many years ago. He keeps all the books for Strahd, recording the vampire's riches and conquests. Lief has been here longer than he can remember. He is grumpy because Strahd doesn't allow him to know about all his trea­ sures. Even so, Lief has found out where one of Strahd's secret treasures lies. If he is treated with kindness,
+
+Lief will divulge the hiding place of the Holy Symbol of Ravenkind (see appendix C), as indicated by your card reading. Lief can draw a crude map showing a route to that location. His map is geographically accurate, but he admits that it doesn't acknowledge or avoid any dangers that might lie along the way. Lief doesn't necessarily know the most direct path to the symbol's location.
+
+Lief knows that there's a key that unlocks all four chests, but he can't remember where he hid it. See "Treasure" below for more information.
+
+The western door leads to area K25. The eastern
+
+door provides access to a staircase (area K21) that leads down to area K9 and up to a landing outside area K35, continuing upward from there to area K47.
+
+TREASURE
+
+The room contains hundreds of worthless books and scrolls describing accounting procedures. The first character who spends at least 10 minutes searching the room and succeeds on a DC 15 Intelligence (Inves­ tigation) check finds a book with a bloodstained leather cover. The pages of this book have been hollowed out, creating a hole in which Lief has hidden the iron key that unlocks the four wooden chests in this room.
+
+Two of the locked chests contain 10,000 cp each. A third chest contains 1,000 gp. The fourth chest holds 500 pp, hidden under which is a manual ofbodily health.
+
+K31. TRAPWORKS
+
+The aromas of grease and well-oiled wood hit your nos­ trils as you pull open the door. This ten-by-twenty-foot room is filled with intricate machinery, except for small spaces between the stone gears and the iron chains and pulleys. On the other side of the machinery, to the south, is a rectangular shaft that rises up from the darkness and continues past this room. Attached to the west wall is a steel plate that has an iron lever protruding downward.
