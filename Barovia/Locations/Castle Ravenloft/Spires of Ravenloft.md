@@ -549,4 +549,13 @@ The hourglass has AC 12, 20 hit points, immunity to poison and psychic damage, a
 
 Cast a stone into the fire:
 Violet leads to the mountain spire
-Orange to the castle\s
+Orange to the castle's peak
+Red if lore is what you seek
+Green to where the coffins hide
+Indigo to the master's bride
+Blue to ancient magic's womb
+Yellow to the master's tomb.
+
+The brazier;s flame is magical and sheds no war'mth. A .. successful casting of dispel magic (DC 16) extinguishes. . the fl_ame· for 1 bour. The fire is permanently extin-
+
+. ··-guisnecHf the brazier is destroyed. The brazier.has AC
