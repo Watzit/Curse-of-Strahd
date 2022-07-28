@@ -262,7 +262,11 @@ Buried deep beneath the �eep of Ravenloft lie ancient catacombs, with arched c
 
 The catacombs fill an area roughly 110 feet east to west by 180 feet north to south, and the floor is covered in several inches of bat guano. The catacombs are made up of 10-foot-wide arched walkways running between 10-foot-square crypts, which serve as pillars that sup­ port the 20-foot-high ceiling. The area has five means of entry and exit:
 
+Thedooradjacenttocrypt1(connecting with area K81)
 
+, Abarredarchwaytothenorth(connecting with area K85)
+
+A barred archway to the west
 
 • Thehightowerstair(areaK18)ortheshaft(area K18a) to the west
 
@@ -280,15 +284,4 @@ The bats hang here during daytime hours and fly out in the evening through the h
 
 TELEPORT TRAPS
 
-Invisible teleport traps are lo.cated between crypts 37
-
-and 38, .between crypt 3� and the wall south of it, and · between crypt 38 and the wa!Lsciuth of it. The. traps can'tbeperceiveqexcepf�it1{�f}a¢;cfpiagic'spell,.··.
-
-, ..  
-,·...,.. ·.;·
-
-··.·
-
-. .,-
-
-... whtih.i:ey_�13ii,ran',a1,1ra of cd�}ur�tlonr· iiagic in the,
+Invisible teleport traps are lo.cated between crypts 37 and 38, .between crypt 3� and the wall south of it, and · between crypt 38 and the wa!Lsciuth of it. The. traps can'tbeperceiveqexcepf�it1{�f}a¢;cfpiagic'spell, whtih.i:ey_�13ii,ran',a1,1ra of cd�}ur�tlonr· iiagic in the,
