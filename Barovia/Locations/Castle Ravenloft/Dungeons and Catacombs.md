@@ -310,4 +310,30 @@ A skeleton draped in rags lies atop a marble slab in the center of the crypt. Pi
 
 Characters could spend hours searching the crypt. Though the antiques here might fetch a fair amount of coin, they are hardly worth the trouble to transport.
 
-CRYPT4
+CRYPT 4
+Prince Ariel du Plumette (Ariel.t,heHeaD'f.  
+If the characters. open tti(d�o�\9-)�_is,crypt,·r_e�d:
+
+The apparition of a large, rotund man forms within the dark crypt, its eyes wild with insanity. Large, artificial wings unfold from its back.
+
+Prince Ariel was a terrible man who longed to fly. He attached artificial wings to a harness and empowered the device with magic, but the apparatus still couldn't bear his weight, and he plunged from the Pillarstone of Ravenloft to his death. His evil ghost attacks the char­ acters on sight. If Ariel succeeds in possessing a char­ acter, his host climbs the high tower (area K18) until it reaches the peak (area K59), then hurls itself down the tower's central shaft (area K18a), screaming, "I can fly!" the whole way down.
+
+CRYPT 5
+
+Artank Swilovich: Friend and member ofthe Barovian Wine Distillers Guild
+
+You are greeted by the faint smell of wine. A skeleton draped in rags lies atop a marble slab in the center of the crypt. Heaped around it, covering the entire floor, are thousands of empty wine bottles.
+
+Each bottle's label shows that it is from the Wizard of Wines winery, and the label names the wine inside: Champagne du le Stomp, Red Dragon Crush, or Purple Grapemash No. 3.
+
+FORTUNES OF RAVENLOFT
+
+If your card reading reveals that a treasure is here, it is buried under the wine bottles. A character who searches under the bottles finds the treasure automatically.
+
+CRYPT 6
+
+Saint Markovia: Dead for all time
+
+The 10-foot-square section of floor in front of this crypt is a pressure plate that releases four poison darts hid­ den in tiny holes in the north wall. (See "Sample Traps" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide for the rules on how this trap functions.) The trap resets when the weight is lifted and can be triggered a total of four times before its supply of darts is depleted.
+
+If the door to the crypt is opened, read:
