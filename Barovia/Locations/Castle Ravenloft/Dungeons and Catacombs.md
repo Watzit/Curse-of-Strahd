@@ -406,4 +406,52 @@ King Troisky - The Three Faced King
 
 "There are no bones atop the marble slab in this crypt, only a steel helm with a visor shaped line an angry face."
 
-The helm has three evenly spaced visors crafted to look like human faces - one sad, one happy, and one angry. Only the angry visage is visible from the crypt's
+The helm has three evenly spaced visors crafted to look like human faces - one sad, one happy, and one angry. Only the angry visage is visible from the crypt's doorway. King Troisky wore this three helm in battle, earning him the moniker of Three-Faced King. The helm is nonmagical and weighs 10 pounds.
+
+The slab upon which the helm rests is weight-sensi­ tive. If the helm is removed from the slab without 10 pounds of weight immediately being added, poisonous gas pours out of the slab's hollow interior and fills the crypt. A character who searches the slab for traps and succeeds on a DC 12 Wisdom (Perception) check spots tiny holes bored into the slab's marble base. It's from these holes that the gas spews forth.
+
+A creature in the crypt when the gas is released must make a DC 14 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
+
+CRYPT 13
+
+King Katsky (Katsky the Bright): Ruler, inventor, and self-proclaimed time traveler
+
+A skeleton draped in rags lies atop a marble slab in the center of the crypt. Lying amid the bones is a stoppered drinking horn, a fat pouch, and a weird-looking scepter made of metal and wood. Above the bones, hanging from the domed ceiling by wires, is a wooden flying contraption that looks like a set of folding dragon wings fitted with leather straps, metal buckles, and taut leather wing flaps.
+
+The stoppered drinking horn is a water-resistant pow­ der horn loaded with gunpowder, and the "weird-looking scepter" is a musket. The fat pouch contains 20 silver marbles (silvered bullets for the musket). For more information on firearms and explosives, see chapter 9, "Dungeon Master's Workshop," of the Dungeon Mas­ ter's Guide.
+
+Glider. Any Small or Medium humanoid can wear the dragon-wing glider. (It takes 1 minute to don or doff the glider.) It can't support more than 80 pounds, although the amount of weight it can carry is not evident. A char­ acter who inspects the glider in an attempt to discern its maximum weight allowance can do so accurately with a successful DC 15 Intelligence check.
+
+If its wearer is light enough (accounting for gear), the apparatus can be used to glide, but only in wide-open spaces where there is room to maneuver. The wearer can become airborne by stepping or jumping off a high place, or by performing a high jump to take off from level ground. While aloft, the wearer_ga�ns a flying speed equal to its walking speed, with the follo�ing lim­ itations: except in a significaqi Gp&iaJt,-the·�earer can'f use the glider to gain 3;ltguiie, ;:iti{the'.glider des_cends 1 foot for every 10 feet ·ofhorizontai distance covered. At the end of the flight, the wearer iands.on its feet and the glider is intact. If the wearer tries to accelerate the rate of descent, the glider breaks, and the wearer falls.
+
+The glider has AC 12, 1 hit point, and a 15-foot wingspan. Any damage causes it to break and become inoperable. A mending cantrip can repair the damage, provided all the broken pieces are present.
+
+CRYPT 14
+
+Stahbal Indi-Bhak: A truer friend no ruler ever had. Here lies his family in honor.
+
+If the characters open the door to this crypt, read: I
+
+A ten-foot-square shaft plunges into darkness. The sound of slowly dripping water echoes up the shaft.
+
+Characters who have darkvision or a sufficient light source can see that the shaft descends 40 feet to some kind of vault deep in the Pillarstone of Ravenloft. Stones protrude from the shaft at regular intervals, offering handholds and footholds. The stones are slippery, how­ ever, so a character who tries to scale the wall without the aid of magic or the use of a climber's kit must make a successful DC 10 Strength (Athletics) check.
+
+Vault. When the characters reach the bottom of the shaft, read:
+
+At the bottom of the shaft is a dank vault with a ten-foot­ high ceiling. The room is awkwardly shaped and smells of rotten meat. Fifteen stone coffins are scattered through­ out the vault, all oriented with their heads pointed north. The floor is covered with human bones and rusty swords.
+
+If a character teleports into a coffin from one of the tele, port traps that protect Strahd's tomb (area K86), read the following to that character's player:
+
+A flash of light explodes around you, and then you are plunged into absolute darkness, suddenly lying in a con­ fined space choked with dust.
+
+This vault contains fifteen wights (one per coffin), minus any that have been teleported away (see "Tele­ port Traps" at the start of this section). Lifting a cof­ fin's lid requires an action and a successful DC 15 Strength check.
+
+Each wight remains inactive until it is teleported away or until its coffin is opened, whereupon it attacks.
+
+The bones and rusty swords cover the floor to a depth of 6 inches, and are the remains of ser.vants who swore to avenge Stahbal Indi-B'1ak's family. Wh�never a wight is killed in this vault, some of the bones knit together, forming 2d6 animated human skeieforis. These skel­ etons attack intruders on s,ight but h·aye no ranged at­ tacks. There are enough·bones and sw:ords in the·r· oom for one hundred skeletons tb for' rti in this,tnanner.
+
+CRYPT 15
+
+Khazan: His word was po.Wer-:·-..·: ..
+
+A skeleton draped in rags lies atop a marble slab in the center of the crypt. The skull has black opals set in its eye sockets and shards of amber where its teeth should be.
