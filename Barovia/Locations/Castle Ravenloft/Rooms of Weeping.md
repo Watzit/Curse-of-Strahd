@@ -109,4 +109,29 @@ The seeret .door. to the west is set into the back wall ... ; o( the·fueplace'.
 
 The secret door at the northern end of the east wall
 
-is sealed shut. If the torch is taken from the skeleton's hand and placed back in the empty sconce, the secret door swings inward, revealing area K39 beyond. Re­ moving the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before. Characters can locate this secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a
+is sealed shut. If the torch is taken from the skeleton's hand and placed back in the empty sconce, the secret door swings inward, revealing area K39 beyond. Re­ moving the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before. Characters can locate this secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a knock spell or similar magic.
+
+K39. HALL OF WEBS 
+
+This ancient hall is choked with spider webs broken by a single clear path down its center.
+The hall has an arched ceiling 20 feet overhead, hidden behind thick webbing. At the eastern end are a pair of arched bronze doors of ornate design. These doors can be pulled open to reveal area K40 beyond.
+
+Most of the hall is full of giant spider webs (see "Dun­ geon Hazards" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide). Characters who stray from the unobstructed path through the webs risk be­ coming stuck.
+
+SECRET DOORS
+
+At the west end of the hall are two secret doors.
+
+The secret door on the west wall can't be opened from this side, except by magic (such as a knock spell). See area K38 for more information on this secret door. If the characters pass through this door coming from area K38, it closes and locks behind them if they don't take measures to prop it open.
+
+A narrow secret door at the western end of the south wall is hidden behind a mass of webs. If these webs are cleared away, characters can search for the secret door, finding it with a successful DC 15 Wisdom (Perception) check. The door can be pulled open to reveal area K3lb.
+
+K40. BELFRY
+
+You can hear the rain and thunder outside, and the air here is cold and damp. Veils and curtains of webbing fill the room, making it hard to gauge its width and depth. A single, narrow path leads to the dark center of the room, where a rope dangles from high above.
+
+The rope is attached to a great bell mounted in a wooden framework 50 feet overhead. Pulling the rope or attempting to climb it brings forth a loud, long "GONG." That sound causes five giant spiders to drop from their webs and attack. The spiders attack only if they are at­ tacked or if the bell is sounded.
+
+Most of the belfry is filled with giant spider webs (see "Dungeon Hazards" in chapter 5, "Adventure Environ­ ments," of the Dungeon Master's Guide). Characters who blunder into them risk becoming stuck.
+
+At the west end of the north wall, behind thick webs, is a secret door that opens into area K41.
