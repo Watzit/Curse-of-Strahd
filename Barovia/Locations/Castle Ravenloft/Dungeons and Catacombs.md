@@ -741,3 +741,67 @@ FORTUNES OF RAVENLOFT
 If your card reading reveals that a treasure is here, it is inside the coffin next to Sergei's body.
 
 If your card reading indicates an encounter with Strahd in this area, he is lying across Sergei's cof­ fin, weeping.
+
+K86. STRAHD'S TOMB
+
+A heavy portcullis stands closed in the archway lead­ ing to this tomb. Lifting it requires a successful DC 25 Strength check.
+
+Black marble steps descend to a dark tomb that has a vaulted ceiling thirty feet overhead. The essence of evil permeates the very air. The smell of freshly turned earth is here. Settled into the dirt on the floor is a shining black coffin of finely waxed wood. The coffin's fittings are of brilliant brass, and the lid is closed. South of the coffin are three gloomy alcoves. An iron lever protrudes from the north wall, east of the tomb's entrance.
+
+Raising the lever lifts the J?Ortcullis· at the top of the ,stairs..Pullipgitdownlowersthepor.tcU' llis.
+
+Lying-an4er the ea;t\l:n�;r the east wall of the· tomb:are three vampire spawn°br1deitdressed in SQiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who ap­ proaches Strahd's coffin.
+
+A detect magic spell reveals that the western and east­ ern alcoves radiate strong auras of conjuration magic. The central alcove is nonmagical.
+
+Creatures that enter the western alcove are instantly teleported to the western alcove of crypt 32 in area K84. Stepping into the eastern alcove has no effect, but any creature that teleports from the eastern alcove of crypt 32 appears here.
+
+TREASURE
+
+Strahd lavished many fine gifts on his three brides.
+
+Ludmilla Vilisevic wears a soiled white wedding gown, a gold tiara (worth 750 gp), and ten gold bracelets (worth 100 gp each).
+
+Anastrasya Karelova wears a stained and tattered red wedding gown, a black and crimson silk head scarf sewn with precious jewels (worth 750 gp), and a platinum necklace with a black opal pendant (worth 1,500 gp).
+
+Valenta Popofsky wears a faded gold wedding gown, a platinum mask shaped vaguely like a skull (750 gp), and ten platinum rings set with gemstones (worth 250 gp each).
+
+TELEPORT DESTINATION
+
+Characters who teleport to this location from area K78 arrive at the bottom of the stairs, just inside the tomb.
+
+FORTUNES OF RAVENLOFT
+
+If your card reading reveals that a treasure is here, it lies in the center alcove.
+
+If your card reading indicates an encounter with Strahd in this area, he is in his coffin, ready to attack anyone who opens the lid.
+
+K87. GUARDIANS
+
+The following text assumes that the characters are approaching from area K84. If they approach this area from area K88, references to descending stairs should be changed to ascending stairs.
+
+Wide steps descend to a landing flanked by two alcoves. Within each alcove, taking up the full thirty-foot height of the ceiling, is a bronze statue of a warrior holding a spear. A soft blue curtain of light flows between the two alcoves. Dimly visible on the other side of the curtain are more descending stairs.
+
+The curtain has no effect �-� cr�·att.i'res,that mo· ve east to west (from area K88 to area :K84)'.
+
+A creature of lawful good. alignment that moves west to east through the curtain can do so without difficulty, but creatures of other alignments that do so are tele­ por:ted back to the top of the stairs behind them. A Small creature can squeeze behind and around one of the bronze statues to circumvent the light curtain.
+
+K88. TOMB OF KING BAROV AND UEEN RAVENOVIA
+
+This tomb rests in hushed silence. Tall, stained glass windows dominate the eastern walls, allowing dim light to fall on two coffins resting atop white marble slabs. The one against the north wall is marked King Barov von Zarovich, and the one against the south wall is marked Queen Ravenovia van Roeyen. The vaulted ceiling thirty feet overhead is inlaid with a beautiful gold mosaic.
+
+The stained glass windows are so dirty on the outside
+
+as to be nearly opaque. The windows don't open, but they can be smashed easily. Anyone who looks upward through a window can see, 110 feet above, the castle's stone overlook (area K6). Anyone who falls out a window here plummets almost 900 feet to the base of the Pillar­ stone of Ravenloft.
+
+Prying the gold from the ceiling of this tomb would be a long and tedious effort for little reward.
+
+The north coffin holds a beautifully sculpted, life-sized wax effigy of Strahd's father, King Barov. The old king's bones lie in a compartment beneath his effigy.
+
+The south coffin holds the skeleton of Strahd's mother, Queen Ravenovia. (The magic that was meant to pre­ serve her earthly remains failed years ago.) A tattered white shroud covers her bones.
+
+FORTUNES OF RAVENLOFT
+
+If your card reading reveals that a treasure is here, it lies atop Queen Ravenovia's coffin.
+
+If your card reading indicates an encounter with Strahd in this area, he is in a frenzy of rage and despair.
