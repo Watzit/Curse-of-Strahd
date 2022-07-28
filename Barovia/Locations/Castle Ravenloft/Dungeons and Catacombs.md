@@ -348,9 +348,11 @@ Treasure. A detect magic spell reveals that the thigh­ bone radiates an aura of
 
 CRYPT 7
 
-The stone door of this crypt lies on the floor, its inscrip­ tion obscured by fog. The crypt gapes open. A skull, some bones, and a few bits of rusted armor lie atop a marble slab with a leering stone gargoyle squatting at each end.
+"The stone door of this crypt lies on the floor, its inscription obscured by fog. The crypt gapes open. A skull, some bones, and a few bits of rusted armor lie atop a marble slab with a leering stone gargoyle squatting at each end."
 
-The epitaph on the door reads "Endorovich (Endorovich the Terrible): What the blood of a hundred wars did not
+The epitaph on the door reads "Endorovich (Endorovich the Terrible): What the blood of a hundred wars did not do, the spurn of a woman accomplished."
+Endorovich was a ruthless soldier and self-aggrandizing 
+
 
 yles. If anyone disturbs the bones on the slab, one  
 of the gargoyles awakens and attacks. If the gargoyle is reduced to O hit points, Endorovich's spirit moves to the second gargoyle, which then awakens and attacks. Both gargoyles have maximum hit points (77 ). Once the second gargoyle is destroyed, Endorovich's spirit is laid to rest.
