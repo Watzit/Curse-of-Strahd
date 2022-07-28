@@ -664,3 +664,40 @@ Claw marks obliterate the name on this crypt's door.. .·]
 "Askeletondrapedinragsliesatopamarbleslabinthe center of the crypt."
 
 This crypt contains nothing of interest.
+
+CRYPT 37
+
+Gralmore Nimblenobs - Wizard Ordinaire
+
+Lying on a marble slab in the center of this crypt is the corpse of a man with a long white beard. His skin clings tightly to his skull and bones, and he wears dusty red robes. Clutched to his chest is a wooden staff that has a brass knob on one end and a marble knob on the other.
+
+The staff is a nonmagical quarterstaff.
+
+Inspection of the marble slab reveals a shallow, con­ cave recess at one end. If the marble-knobbed end of Gralmore's staff is placed in the recess, the slab levitates 5 feet upward, revealing a compartment underneath (see "Treasure" below). The slab slowly sinks back into place after 1 minute. If the brass-knobbed end of the staff is placed in the recess, the holder of the staff takes 22 (4dl0) lightning damage.
+
+Treasure. The compartment under the slab holds a small, black leather case containing three spell scrolls (cone ofcold, fireball, and lightning bolt).
+
+FORTUNES OF RAVENLOFT
+
+If your card reading reveals that a treasure is here, it is in the compartment with the other treasure.
+
+CRYPT 38  
+General Kroval "Mad Dog" Grislek (Master ofthe Hunt): A leader ofhounds and men
+
+When t
+
+
+Three hell hounds lunge forth and attack, fighting to the death. In the round after they attack, General Grislek's wraith emerges from the crypt, uttering commands to the hounds in Infernal. Once these evil creatures are slain, the characters can inspect the crypt more closely.
+
+Bits of incinerated bone lie strewn atop a marble slab in the center of the crypt. Lying amid the bones are frag­ ments of a shattered spear with a silvered head. The walls and domed ceiling of the crypt are covered with scorched murals that depict legions of infantry and cav­ alry clashing on battlefields.
+
+A mending cantrip can rep.air. 'the spear;which ls broken
+
+intothreepiecesofroughlyequallengtldfrepafred_ ;it
+
+can be wielded as a silvered; :nonfu�gicafspear.. .......
+
+FORTUNES OF RAVENLO]"T .  
+. If your card reading reveals that a treasure is here, it is . in·a secret comriartment �nder Grislek's remains. Once
+
+. hischarredbonesateclearedaway,thecompartment :·,c�ntie. ·foμr.:idaridopenedwithoutanabilitycheck.
