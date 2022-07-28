@@ -63,6 +63,9 @@ a beautiful young woman with auburn hair. Strahd commissioned the painting over 
 The back wall of the fireplace contains a secret door, which is opened by lifting the poker from its stand. The fire must be extinguished in order for. anyone to reach the secret door safely. Otherwis_e,- a creaturi that enters the fireplace for the first time on a tm'!rc>r �ta�ts its, turn there takes s (ldlO) A�e o.�r1�ge:and'�atches fire.. Until someone takes an action lo..iio'4se ;the flames on the creature, it takes � (ldlO) fi��·damage at the start. of each of its turns. (Ttii�· fire d��uig�·is.cumulative with the damage from standing in the:fireplace.).
 The secret door provides access to area K38.
 
+TREASURE
+The real treasure here is Strahd's collection of books­ over one thousand unique tomes in all.The collection is worth 80,000 gp.Transporting it would be a chailenge.
+
 Roll a dl2 and consult the following table to deter­ mine the subject matter of a randomly chosen book.
 
 d12 Book Alchemist's tome
@@ -99,3 +102,11 @@ The coins scattered around the trapped chest total 50
 gp, 100 sp, and 2,000.cp.The chest weighs40 pounds and is unlocked. Wlien op�ned, i. t releases a.cloud of sleeping gas that fills the room;:Ariy crea��re in the room must succeed on' aDC-18 Constitution saving throw or be paralyzed for4.lio14rs.If all 'the 'characters succumb to the gas, they.ari:COμnd·by the witches.who lair ,in area K56 and dragg�d\6 .;i.rea KSO,. the!) ·left there unharmed. If even one cha��cter.resist;s.the �ffecfof the gas, the witches do not appe�r; )f\ <>.(} ,·
 
 The armored skeleton On·the floi:i'r is all:thaf.remains of an adventure�. His corp�e has,ndthing cif vali.te.
+
+SECRET DOORS
+This room i,s cpncealed behind two secret doors.
+The seeret .door. to the west is set into the back wall ... ; o( the·fueplace'.(area K37) and can be pulled open from within this room by lifting a simple Jocking mechanism (which is connected to the poker in the study). It's pos­ sible that a character might open this secret door inad­ vertently by lifting the poker in area K37. Characters can otherwise locate the secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a knock spell or similar magic.
+
+The secret door at the northern end of the east wall
+
+is sealed shut. If the torch is taken from the skeleton's hand and placed back in the empty sconce, the secret door swings inward, revealing area K39 beyond. Re­ moving the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before. Characters can locate this secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a
