@@ -44,3 +44,22 @@ K5. CHAPEL GARDEN. ...."' .·
 At the back of the keep, behind towering buttresses and tall, boarded-up stained-glass windows, a small garden struggles to survive. Small flowers press skyward against the gloom. A pair of large iron gates blocks the way to some kind of overlook.
 
 The large iron gates squeal loudly on rusted hinges when opened. Beyond them lies area K6.
+K6. OVERLOOK
+
+Dark clouds overhead drizzle constantly. A flagstone avenue passes between empty outbuildings, leading to a stone-paved overlook. The overlook has a low stone wall adorned with outward-facing gargoyle carvings.
+
+If a character peers over the balcony, read:
+
+A flash of lightning illuminates the dismal village of Baro­ via, its rooftops visible above a smothering blanket of fog one thousand feet below.
+
+If a character who has a passive Wisdom (Perception) score of 15 or higher peers over the wall, add:
+
+Underneath the platform on which you stand, about one hundred feet down, a stone construction protrudes from the cliff face. Three dirt-caked windows are set into it.
+
+The windows are so dirty as to be opaque, although a character within reach of one can scrape the dirt away and see a dusty tomb beyond (area K88). Characters who try to reach the windows from the overlook must descend 110 feet and move 20 feet back under the plat­ form. This descent can't be accomplished without the aid of magic or the use of a climber's kit.
+
+Anyone who falls from the overlook plummets 1,000 feet.
+
+FORTUNES OF RAVENLOFT
+
+If your card reading indicates an encounter with Strahd in this area, he is looking out over the balcony.
