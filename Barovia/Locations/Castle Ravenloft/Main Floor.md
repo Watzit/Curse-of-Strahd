@@ -12,4 +12,9 @@ If one or more characters approach from area Kl and come within 10 feet of the d
 The doors in front of you sud.denly swi�g open, revealing a grand hall filled with the sound of organ music.
 
 If the characters approach from area K8 and have not yet visited this area, read: 
-A set of double doors to the west appears to be, or to lead to, an exit from 
+
+"A set of double doors to the west appears to be, or to lead to, an exit from the castle."
+
+If the characters enter from either direction, read:
+
+"Overhead, in the vaulted entry foyer, four statues of dragons glare down, their eyes flickering in the torchlight"
