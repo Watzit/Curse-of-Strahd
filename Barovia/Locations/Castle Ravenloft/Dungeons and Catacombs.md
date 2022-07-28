@@ -266,7 +266,7 @@ Thedooradjacenttocrypt1(connecting with area K81)
 
 , Abarredarchwaytothenorth(connecting with area K85)
 
-A barred archway to the west
+A barred archway to the south (connecting with area K86 but warded by teleport traps)
 
 • Thehightowerstair(areaK18)ortheshaft(area K18a) to the west
 
@@ -284,4 +284,30 @@ The bats hang here during daytime hours and fly out in the evening through the h
 
 TELEPORT TRAPS
 
-Invisible teleport traps are lo.cated between crypts 37 and 38, .between crypt 3� and the wall south of it, and · between crypt 38 and the wa!Lsciuth of it. The. traps can'tbeperceiveqexcepf�it1{�f}a¢;cfpiagic'spell, whtih.i:ey_�13ii,ran',a1,1ra of cd�}ur�tlonr· iiagic in the,
+Invisible teleport traps are lo.cated between crypts 37 and 38, .between crypt 3� and the wall south of it, and · between crypt 38 and the wa!Lsciuth of it. The. traps can'tbeperceiveqexcepf�it1{�f}a¢;cfpiagic'spell, whtih.i:ey_�13ii,ran',a1,1ra of cd�}ur�tlonr· iiagic in the trapped areas. Although the traps can't be disarmed, a successful casting of dispel magic (DC 16) on a trap sup­ presses its magic for 1 minute, allowing characters to move safely through its area. A trap is also suppressed while wholly or partly in the area of an antimagic field.
+
+These teleport traps form a protective ring around the entrance to Strahd's tomb (area K86). Any creature that enters one of these 10-foot-square spaces is instantly teleported away, switching places with one of the wights in crypt 14. The wight materializes in the creature's pre­ vious location and attacks any living creature it sees.
+
+CRYPT 1
+
+Herein lie the ones who walk the path ofpain and tor­ ment
+
+The stone door connects not with a crypt, but with a hewn tunnel of stone (area K81).
+
+CRYPT2
+
+Artista DeSlop - Court Ceiling Painter  
+The domed ceiling of this crypt is painted with an image
+
+of imps holding bouquets of colorful flowers. A skeleton draped in rags lies atop a marble slab in the center of the crypt. A wooden box is tucked under one bony hand.
+
+The box is unlocked. It contains seven wood-handled paintbrushes and seven small gourds of dried-up paint.
+
+CRYPT 3  
+Lady Isolde Yunk (Isolde the Incredible): Purveyor of antiques and imports
+
+A skeleton draped in rags lies atop a marble slab in the center of the crypt. Piled all around it, covering the floor, are heaps of old baskets, braziers, bundled tapestries, candlesticks, chairs, chests, cooking utensils, cressets, curtain rods, decanters, dishes, jugs, lamps, scroll cases, tankards, and tinderboxes. None of the junk looks valu­ able. An old chandelier hangs from the domed ceiling.
+
+Characters could spend hours searching the crypt. Though the antiques here might fetch a fair amount of coin, they are hardly worth the trouble to transport.
+
+CRYPT4
