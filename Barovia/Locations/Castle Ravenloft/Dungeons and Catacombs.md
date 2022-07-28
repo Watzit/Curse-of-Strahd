@@ -455,3 +455,55 @@ CRYPT 15
 Khazan: His word was po.Wer-:·-..·: ..
 
 A skeleton draped in rags lies atop a marble slab in the center of the crypt. The skull has black opals set in its eye sockets and shards of amber where its teeth should be.
+
+Khazan was a powerful archmage who unlocked the secrets of lichdom, then later tried to become a demilich and failed. Neither his skull nor his bones pose any threat, but the gems embedded in the skull are valuable.
+
+Treasure. The skull's black opal eye-gems are worth 1,000 gp apiece. The skull also has eight amber teeth worth 100 gp each.
+
+Any creature that stands inside the crypt and boldly speaks the name "Khazan" causes the Pillarstone of Ravenloft to tremble as a staff of power materializes above the marble slab and hovers in place. The first creature to grab hold of the staff must make a DC 17 Constitution saving throw, taking 44 (8d10) lightning damage on a failed save, or half as much damage on a successful one. Afterward, the staffof power can be held and used normally. If no one grabs the staff within 1 round of its appearance, it vanishes, never to return.
+
+CRYPT 16  
+Elsa Fallona von Twitterberg (Beloved Actor): She had many followers
+
+A skeleton draped in rags lies atop a marble slab in the· center of the crypt. Nine shallow alcoves are carved into the surrounding walls. The back wall of each alcove is painted with a full-body image of a handsome man. Some of the men wear fine clothes; others wear armor. At the feet of each painting rests a skull atop a pile of bones
+
+CRYPT 19  
+Artimus (Builder of the Keep): T hou standest amidst the monument to his life
+
+A skeleton draped in rags lies atop a marble slab in the  
+l centerofthecrypt. ]
+
+This crypt contains nothing of interest.
+
+CRYPT 20
+
+Sasha Jvliskova - Wife
+
+Webs as thick and pale as linen cover a shapely female form lying atop a marble slab in the center of this dusty, web-filled crypt. You hear a voice issue from the darkness.
+
+"My love, have you come to set me free?"
+
+The woman rises, the shroud of webs clinging to her in a ghastly fashion.
+
+of bones.
+
+This vampire spawn is an old wife of Strahd's. Once she realizes that the characters aren't her husband, Sa­ sha tears away her web shroud like an _unloved wedding dress and attacks.
+
+CRYPT 21  
+Patrina Velikovna - Bride
+
+The creature inside this crypt attacks as soon as the door is opened.
+
+From the darkness comes a horrifying visage, a spectral elf maiden twisted by the horror of her undead existence. She wails, and the very sound claws at your soul.
+
+The spectral elr'is a banshee that attacks the characters on sight, using her wail immediately. Once awakened, the banshee is free to roam Castle Ravenloft, but she can't travel more than 5 miles from this crypt.
+
+In life, Patrina Velikovna was a dusk elf who, having learned a great deal about the black arts, was nearly a match for Strahd's powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, Strahd consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart Strahd's plans. Strahd demanded, and got, Patrina's body. She then became the banshee trapped here.
+
+. ·ReducingthebansheetoOhitpointscausesittodis­ corporate. Patrina's spirit can: 't rest, howevtr, until she is formally wed to Strahd;· the.banshee re-forms iri her crypt 24 J;tpurs later. Casting; ha1Joi1i'�1>ell on.the_cr,ypt prevents the:baqshee fromreturning·for.as long:as the.
+
+'spel)Ja�ts.. ' '- . ' .  
+CHAPTER 4 I CASTLE RAVENLOFT
+
+The bones in the niches belong to Elsa's nine consorts. There is nothing of value here.
+
