@@ -1,5 +1,6 @@
 When the characters come within sight of this river for the first time, read:
-
-This river flows as clear as a blue winter sky through the valley.
+___________________________________________________________________
+"This river flows as clear as a blue winter sky through the valley."
+___________________________________________________________________
 
 The river is roughly 50 feet wide, with a depth ranging from 5 to 10 feet. Arching stone bridges span the river at two points, one near the [[Village of Barovia]] (area E) and the other near [[Tser Falls]] (area H).
