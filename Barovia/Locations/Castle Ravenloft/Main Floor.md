@@ -78,3 +78,34 @@ A high, domed ceiling caps the thirty-foot-wide octago­ nal room before you. Fr
 IEach arrow slit is 2'h feet tall and 4 inches wide.
 
 Kl3. TURRET POST ACCESS HALL I
+
+This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet.
+
+Kl4. HALL OF FAITH
+
+This grand hall is choked with dust and stretches into darkness ahead. Webs hang from the arched ceiling like drapes, and life-sized statues of knights line the hallway on both sides, their eyes seeming to watch you.
+
+The statues are harmless. Their moving eyes are a sim­ ple optical illusion.
+
+Double doors stand at both ends of the hall. Above the doors leading to area KlS hangs a symbol of beaten bronze that looks like a rising or setting sun.
+
+Kl5. CHAPEL
+
+Dim, colored light filters through tall, broken, and board­ ed-up windows of stained glass, illuminating the ancient chapel of Ravenloft. A few bats flutter about near the top of the ninety-foot-high domed ceiling. A balcony runs the length of the west wall, fifty feet above the floor. In the center of the balcony, two dark shapes are slumped in tall chairs.
+
+Benches coated with centuries of dust lie about the floor in jumbled disarray. Beyond this debris, lit by a piercing shaft of light, an altar stands upon a stone plat­ form. The sides of the altar are carved with bas-reliefs of angelic figures entwined with grape vines. The light from above falls directly on a silver statuette. A cloaked figure is draped over the altar, and a black mace lies on the floor near its feet.
+
+The figure slumped on the altar is all that remains of Gustav Herrenghast, a lawful evil human cleric who tried to obtain the Icon of Ravenloft and did not survive the attempt. See "Treasure" below for more information on the icon and Gustav's possessions.
+
+A sculpted stone railing cordons off the upstairs bal­ cony, which is described in area K28.
+
+TREASURE
+
+The statuette on the altar is an artifact called the Icon ofRavenloft (see appendix C). Any evil creature that touches the statuette must make a DC 17 Constitution saving throw, taking 88 (16d10) radiant damage on a failed save, or half as much damage on a successful one. The statuette is safe for all creatures to handle once it is no longer in contact with the altar.
+
+Gustav's corpse wears a handsome, fur-lined black cloak embroidered with golden thread (worth 250 gp) and a suit of chain mail, both nonmagical. Gustav's blackma. ceisamaceofterror.
+
+FORTUNES OF RAVENLOFT
+
+If your card reading reveals that a treasure is here, it lies on the floor behind the altar.
+
