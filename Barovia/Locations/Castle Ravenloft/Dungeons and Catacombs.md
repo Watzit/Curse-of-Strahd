@@ -518,10 +518,13 @@ In life, Patrina Velikovna was a dusk elf who, having learned a great deal about
 
 Treasure. Read the following text when the charac­ ters investigate Patrina's crypt: 
 
-"In the center of the crypt, a skeleton draped in rags lies
+"In the center of the crypt, a skeleton draped in rags lies atop a marble slab, surrounded by thousands of coins."
 
-atop a marble slab, surrounded by thousands of coins.
-"
+Patrina's crypt contains 250 pp, 1,100 gp, 2,300 ep, 5,200 sp, and 8,000 cp. The coins are of a mixed origin. The platinum and electrum coins have Strahd's profiled visage stamped on them. Buried under the coins is Patrina's spellbook, which has carved wooden covers. It contains all the spells listed for the archmage in the Monster Manual.
+Development. If she is restored to life by her brother (see "Kasimir's Dark Gift" in the "Special Events" sec­ tion in chapter 13), Patrina (NE female dusk elf) returns as an archmage with no spells prepared. If the charac­ ters have her spellbook, she kindly asks them to give it back to her so that she can prepare her long-forgotten spells and help destroy Strahd (a lie). If the characters oblige, she repays their kindness by learning as much about them as.possible before pursuing her own goals.
+
 CRYPT 22
 
 Sir Erik Vonderbucks
+
+A gilded man lies atop a marble slab in the center of this otherwise barren crypt.
