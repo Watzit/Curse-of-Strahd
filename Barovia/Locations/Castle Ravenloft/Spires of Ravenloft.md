@@ -545,4 +545,8 @@ Two nine-foot-tall iron statues of knights on horseback, poised to charge with s
 
 The two statues are iron golems. Each horse and rider is considered one creature, and they are inseparable. The golems will not leave the room under any circum­ stances, and they attack only under specific conditions (see the "Development" section that follows).
 
-The hourglass has AC 12, 20 hit points, immunity to poison and psychic damage, and vulnerability to thunder damage. If the·hourglass is-reduced to O hif points, its glass shatt!!fS, ·causing the sand within it to fall to the floor.
+The hourglass has AC 12, 20 hit points, immunity to poison and psychic damage, and vulnerability to thunder damage. If the·hourglass is-reduced to O hif points, its glass shatt!!fS, ·causing the sand within it to fall to the floor. The magic writing on the base of the hourglass reads as follows:
+
+Cast a stone into the fire:
+Violet leads to the mountain spire
+Orange to the castle\s
