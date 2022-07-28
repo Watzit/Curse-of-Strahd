@@ -139,17 +139,7 @@ K58. BRIDGE
 
 A strong wind blows across this slender bridge of stone and masonry. The bridge's old iron railings have rusted away years ago, leaving the bridge without handholds.
 
-K59. HIGH TOWER PEAK
-
-MAP9
-
-North Tower Peak
-
-DOWN 50FEET TOMAPS
-
 The bridge connects areas K20 and K57. The wind isn't strong enough to knock creatures off the bridge, but a creature that takes damage while standing on the bridge must succeed on a DC 10 Dexterity saving throw or fall 60 feet onto the roof of the keep.
-
-DROPS3IOFEET TOMAP12
 
 K59. HIGH TOWER PEAK
 
