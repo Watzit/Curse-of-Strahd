@@ -51,4 +51,30 @@ The staircase leads down to area K61 and up to area K30. The double doors provid
 KlO. DINING HALL  
 The first time the characters enter this room, read:
 
-Three enormous crystal chandeliers brilliantly illuminate this magnificent chamber. Pillars of stone stand against dull white marble walls, supporting the ceiling. In the
+Three enormous crystal chandeliers brilliantly illuminate this magnificent chamber. Pillars of stone stand against dull white marble walls, supporting the ceiling. In the center of the room, a long, heavy table is covered with a fine white satin cloth. The table is laden with many delec­ table foods: roasted beast basted in a savory sauce, roots and herbs of every taste, and sweet fruits and vegetables. Places are set for each of you with fine, delicate china and silver. At each place is a crystal goblet filled with an am­ ber liquid with a delicate, tantalizing fragrance.
+
+At the center of the far west wall, between floor-to-ceil­ ing mirrors, stands a massive organ. Its pipes blare out a thunderous melody that speaks in its tone of greatness and despair. Seated at the organ, facing away from you, a single caped figure pounds the keys in raptured ecstasy. The figure suddenly stops, and as a deep silence falls over the dining hall, it slowly turns toward you.
+
+The figure is an illusion of Strahd. It welcomes the characters and invites them to dine. The illusion acts like Strahd and plays the part of the gracious host, speaking kindly and telling the characters that they're free to explore the castle. "Strahd" might talk about his family or shed light on the castle's history, but the illu­ sion provides no useful information about the castle's inhabitants, treasures, or dangers other than to say that the castle doesn't receive many guests. The illusory vampire converses with the characters for no more than 3 rounds, never moving from the organ bench. When the time is up, or if the illusion is attacked, it simply disap­ pears with a mocking laugh.
+
+The moment the figure disappears, a fierce, bone-chilling wind rises up and roars through the hall, putting out all open flames. The characters hear the screech of ancient hinges and the solid thud of many heavy doors slamming shut, one after another, into the distance. They also hear the portcullis clang shut and the tired groan of the aged drawbridge pulling up. Fi­ nally, unless the doors to this room are being held open, they slam shut ( but do not lock). If the characters open the doors, they see that all the torches in areas K7, KB, and K9 have gone out.
+
+The organ appears locked in place and immovable, but a character who makes a successful DC 20 Wisdom (Perception) check notices scratch marks on the floor that suggest that the organ can be slid outward. A char­ acter who tries pushing various keys and pedals dis­ covers that one of the pedals, when depressed, causes the organ to slide outward about 2 feet, allowing access to a secret door in the back wall that swings open into area Kll. Because this secret door is hidden behind the organ, it can't be found and opened until the organ is moved out of the way.
+
+The food on the table is tasty, the wine delicious.
+
+Kll. SOUTH ARCHERS' POST
+
+The castle courtyard is visible through arrow slits in the north and west walls. Leaning against the walls are mir­ rors of various sizes, some as tall as a human and others small enough to fit in a backpack.
+
+Each arrow slit is 21/2 feet tall and 4 inches wide. The framed mirrors (seventeen in all) used to hang on var­ ious walls of the castle. Strahd had them taken down and stored here.
+
+A secret door in the east wall can be pulled open to re­ veal the back of the pipe organ in area KlO. Characters can't pass through the secret door while the organ is blocking it, and the organ can't be moved from this side.
+
+Kl2. TURRET POST
+
+A high, domed ceiling caps the thirty-foot-wide octago­ nal room before you. Frescoes faded with age adorn the ceiling, but their images are impossible to make out. Tall, thin arrow slits look out over the courtyard.
+
+IEach arrow slit is 2'h feet tall and 4 inches wide.
+
+Kl3. TURRET POST ACCESS HALL I
