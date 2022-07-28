@@ -181,4 +181,33 @@ Have the characters and the Heart of Sorrow roll initia­ tive. If the character
 
 The awakened tower shakes and pitches on the Heart of Sorrow's initiative count. Any creature on the stairs or hanging on a tower wall at the start of the heart's turn must succeed on a DC 10 Dexterity saving throw or fall to the base of the tower. Characters who are crawling on the staircase or who lie prone on the stairs succeed automatically.
 
-The Heart of Sorrow is a 10-foot-diameter red crystal heart that floats near the top of the tower. Characters
+The Heart of Sorrow is a 10-foot-diameter red crystal heart that floats near the top of the tower. Characters standing on the nearby stairs can make melee attacks against the heart, provided their weapons have a reach of at least 10 feet. The glass heart has AC 15 and 50 hit points. If the heart is reduced to O hit points, it shatters, and its crystal shards transform into blood, which rains down on the tower interior and staircase. The destruc­ tion of the Heart of Sorrow causes the tower to stop shuddering, and the interior of the tower becomes dark. Destroying the heart earns the characters 1,500 XP.
+
+Strahd and the Heart of Sorrow are connected, such that any damage Strahd takes is transferred to the heart. If the heart absorbs damage that drops it to O hit points, it is destroyed, and Strahd takes any leftover damage. The Heart of Sorrow regains all its hit points at dawn if it has at least 1 hit point remaining.
+
+The Heart of Sorrow is held aloft by the will of Strahd.
+
+Casting dispel magic on it has no effect.  
+Animated Halberds. Mounted on the walls along the
+
+section of staircase nearest the heart are ten animated halberds; use the stat block for the flying sword in the Monster Manual, but increase each halberd's damage to ldlO + 1 and reduce its AC to 15. The halberds attack any creature that threatens the Heart of Sorrow.
+
+Vampire Spawn. Strahd senses if any damage is done to the Heart of Sorrow and sends four vampire spawn to destroy those responsible. These vampire spawn are former adventurers whom Strahd defeated long ago. They use their Spider Climb feature to scuttle along the tower walls and arrive in 3 rounds.
+
+K20A. TOWER HALL STAIR
+
+This stairway connects areas K20 and K71.
+
+K21. SOUTH TOWER STAIR
+
+Fluttering torches in iron sconces illuminate this spiral staircase. A chill wind rushes down the circling stairway, seeming to kill the very heat of the torches.
+
+These stairs start at area K7 3 and. go up through areas K61, K9, K30, and K35 before ending at area K47.
+
+"The castle courtyard is visible through arrow slits in the walls."
+
+Each arrow slit is 2Y2 feet tall and 4 inches wide.
+
+K23. SERVANTS' ENTRANCE
+
+Dim light filters in through a dust-caked window in the east wall. A door next to the window leads to the castle's northeast courtyard.
