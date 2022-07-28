@@ -571,12 +571,31 @@ Bascal Ofenheiss - Chef Deluxe
 
 "A skeleton draped in white linen lies atop a marble slab in the center of the crypt, clutching a bell to its sunken chest. Fitted over its skull is a tall chef's hat."
 
+If the beII is rung insidet4e c}yp/�agic fire sweeps through th�· crypt to search Chef Ofenheiss's bones. A c(eatμre iv. .the.cryptmust make a DC 17 Dexterity sav- · ing throw, taking 2i (4d10) fire damage on a failed save, br h�lf·�arrn1ge .9n a successful one. Any creature that fails its save catches fire, taking 5 (ldlO) fire damage at the end of each of its turns until it or another creature uses an action to douse the flames.
 
-..
+Treasure. Tucked under the chef's hat is an electrum spork with a bejeweled handle (worth 250 gp).
 
-If the b�II is rung insidet4e c}yp/�agic fire �weeps
+CRYPT 29  
+Baron Eisglaze Driif
 
-through th�· crypt to search Chef Ofenheiss's bones. A  
-. c(eatμre iv. .the.cryptmust make a DC 17 Dexterity sav- · ing throw, taking 2i (4d10) fire damage on a failed save,
+Opening the door causes the air around you to turn as cold as the coldest hell you can imagine. Every surface inside the crypt is covered with thick, brownish mold.
 
-· br h�lf·�arrn1ge .9n a successful one. Any creature that
+A patch of brown mold (see "Dungeon Hazards" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide) fills the crypt. Characters within 5 feet of the crypt's open doorway are affected.
+
+If the brown mold is killed off, characters can dig through the moldy crust to find the bones of Baron Driif lying atop a marble slab.
+
+Treasure. Hidden under the brown mold next to the baron's bones is a luck blade with one wish remaining. If a creature uses the wish to try to escape from Barovia, the spell fails. If a creature uses the sword to wish for Strahd's destruction, the wish doesn't destroy Strahd but rather teleports him to within 5 feet of the sword.
+
+CRYPT 30
+
+Prefect Ciril Romulich (Beloved of King Barov and Queen Ravenovia): High Priest of the Most Holy Order
+
+A marble slab in the center of the crypt displays a skel­ eton draped in red vestments, a golden holy symbol clutched in one bony hand. The domed ceiling fifteen feet above is painted to look like a canopy of trees with bright autumn leaves. A narrow stone ledge encircles the crypt ten feet above the floor. Perched on it are dozens of stone ravens, their eyes fixed on the marble slab.
+
+The carved ravens are ominous yet harmless.
+
+Treasure. The prefect's gold holy symbol is festooned with tiny gemstones and is worth 750 gp. If touched by an evil creature, the holy symbol is consumed in a blast of intense light that deals 11 (2d10) radiant damage to all creatures within 5 feet of it. Characters familiar with Barovian religion recognize the symbol as that of the Morninglord.
+
+lCRYPT 31 l We knew him onlybyhis wealth
+
+This crypt is empty. Its walls are painted to depict moun­ tains of gold coins.
