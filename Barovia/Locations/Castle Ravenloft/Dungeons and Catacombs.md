@@ -351,9 +351,23 @@ CRYPT 7
 "The stone door of this crypt lies on the floor, its inscription obscured by fog. The crypt gapes open. A skull, some bones, and a few bits of rusted armor lie atop a marble slab with a leering stone gargoyle squatting at each end."
 
 The epitaph on the door reads "Endorovich (Endorovich the Terrible): What the blood of a hundred wars did not do, the spurn of a woman accomplished."
-Endorovich was a ruthless soldier and self-aggrandising noble who loved a woman named Marya but she lobed another man. As Marya and her lover were dining, Endorovich put poison into the man's wineglass. The glases, however, were mixed up, and Marya drank the poison intended for her lover instead. The lover was hanged for murdering Marya and buried at the Ivlis River crossroads. 
+Endorovich was a ruthless soldier and self-aggrandising noble who loved a woman named Marya but she lobed another man. As Marya and her lover were dining, Endorovich put poison into the man's wineglass. The glases, however, were mixed up, and Marya drank the poison intended for her lover instead. The lover was hanged for murdering Marya and buried at the Ivlis River crossroads. Endorovich never got over his guilt and, out of madness, killed many in his lifetime.
 Endorovich's spirit is trapped inside one of his gargoyles. If anyone disturbs the bones on the slab, one  
 of the gargoyles awakens and attacks. If the gargoyle is reduced to O hit points, Endorovich's spirit moves to the second gargoyle, which then awakens and attacks. Both gargoyles have maximum hit points (77 ). Once the second gargoyle is destroyed, Endorovich's spirit is laid to rest.
 
 FORTUNES OF RAVENLOFT
 If your card reading reveals that a treasure is here, it is contained in a secret compartment under Endorovich's remains. Once his bones and dust are swept away, the compartment can be found and opened without an ability check.
+
+CRYPT 8
+
+Duchess Dorfniya Dilisnya
+
+A skeleton draped in rags lies atop a marble slab in the center of the crypt. Hanging on the back wall is a hand­ some quilt that depicts a royal feast.
+
+The quilt is magically preserved but not valuable.
+
+CRYPT 9
+
+to enter the crypt. .Tlie slab in this crypt is 4 feet long (in- stead of the usua· 1 ,6 feitJ�ng/'rhe bones atop the slab .·
+
+belong to the fool sen:ant _of Duc. hess Dorfniya Dilisnya (see crypt 8).
