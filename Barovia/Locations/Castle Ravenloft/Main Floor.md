@@ -22,9 +22,7 @@ If the characters enter from either direction, read:
 If anyone except Strahd enters this area through the doors that adjoin area K8, the dragons come alive, drop to the floor hissing and spitting, and attack. The dragons don't attack characters who enter this area from area Kl, heading east. The dragons are four red dragon wyrmlings, and they have instructions to allow guests to enter the castle, but not to leave it. If intruders vacate this area, the dragons fly up to their perches and revert to stone. In their stone forms, they are impervious to weapon damage. The dragons never leave the room.
 
 K8. GREAT ENTRY  
-Cobwebs stretch between the columns that support the
-
-vaulted ceiling of a great, dusty hall dimly lit by sputter­ ing torches in iron sconces. The torches cast odd shad­ ows across the faces of eight stone gargoyles squatting motionlessly on the rim of the domed ceiling. Cracked and faded ceiling frescoes are covered by decay.
+Cobwebs stretch between the columns that support the vaulted ceiling of a great, dusty hall dimly lit by sputter­ ing torches in iron sconces. The torches cast odd shad­ ows across the faces of eight stone gargoyles squatting motionlessly on the rim of the domed ceiling. Cracked and faded ceiling frescoes are covered by decay. Double doors of bronzr stand closed to ththe north, a wide staircase climbs into darkness. A lit hallway to the south contains another set of bronze doors,throughwhichyouhearsadandmajesticor­ gan tones
 
 The elf is Rahadin, the castle chamberlain (see appen­ dix D). He fights only if attacked. Otherwise, he leads the characters to the dining hall (area KlO), points them inside, pulls the doors shut behind them, and withdraws to area K72 by way of the South Tower Stair (area K21).
 
