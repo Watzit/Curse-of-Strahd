@@ -684,8 +684,9 @@ If your card reading reveals that a treasure is here, it is in the compartment w
 CRYPT 38  
 General Kroval "Mad Dog" Grislek (Master ofthe Hunt): A leader ofhounds and men
 
-When t
+When the characters open the door to this crypt, read:
 
+"The stench of brimstone and burnt fur spills from this crypt. In this darkness are three pairs of glowing read eyes."
 
 Three hell hounds lunge forth and attack, fighting to the death. In the round after they attack, General Grislek's wraith emerges from the crypt, uttering commands to the hounds in Infernal. Once these evil creatures are slain, the characters can inspect the crypt more closely.
 
