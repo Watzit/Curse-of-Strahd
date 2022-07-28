@@ -450,12 +450,11 @@ Secret Door. A secret door is:s fe.et up from the floor on the north wall of thi
 
 K74F. EMPTY C:�LL
 
-,-·>·. � ·, K74A . FORGOTTEN''TREASUR,E.
+ K74A . FORGOTTEN''TREASUR,E.
 
 ·.
 
-This cell is linked to a teleport trap in area K73: Char­
-
+This cell is linked to a teleport trap in area K73: Char
 acters who enter the cell can feel coins shifting beneath
 
 . their feet.  
