@@ -367,7 +367,10 @@ A skeleton draped in rags lies atop a marble slab in the center of the crypt. Ha
 The quilt is magically preserved but not valuable.
 
 CRYPT 9
+Pidlwick - Fool of Dorfniya
 
-to enter the crypt. .Tlie slab in this crypt is 4 feet long (in- stead of the usua· 1 ,6 feitJ�ng/'rhe bones atop the slab .·
+A small skeleton wearing the remains of a fool's costume
 
-belong to the fool sen:ant _of Duc. hess Dorfniya Dilisnya (see crypt 8).
+lies atop a stumpy marble slab in the center of the crypt.
+
+to enter the crypt. .Tlie slab in this crypt is 4 feet long (in- stead of the usua· 1 ,6 feitJ�ng/'rhe bones atop the slab belong to the fool sen:ant _of Duc. hess Dorfniya Dilisnya (see crypt 8).
