@@ -351,7 +351,7 @@ CRYPT 7
 "The stone door of this crypt lies on the floor, its inscription obscured by fog. The crypt gapes open. A skull, some bones, and a few bits of rusted armor lie atop a marble slab with a leering stone gargoyle squatting at each end."
 
 The epitaph on the door reads "Endorovich (Endorovich the Terrible): What the blood of a hundred wars did not do, the spurn of a woman accomplished."
-Endorovich was a ruthless soldier and self-aggrandising noble who loved a woman named Marya but she lobed another man. As Marya and her lover were dining, Endorovich put poison into the man's wineglass. The 
+Endorovich was a ruthless soldier and self-aggrandising noble who loved a woman named Marya but she lobed another man. As Marya and her lover were dining, Endorovich put poison into the man's wineglass. The glases, however, were mixed up, and Marya drank the poison intended for her lover instead. The lover was hanged for murdering Marya and buried at the Ivlis River crossroads 
 
 
 yles. If anyone disturbs the bones on the slab, one  
