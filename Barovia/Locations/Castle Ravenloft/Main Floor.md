@@ -23,13 +23,38 @@ If anyone except Strahd enters this area through the doors that adjoin area K8, 
 
 K8. GREAT ENTRY
 
-"Cobwebs stretch between the columns that support the vaulted ceiling of a great, dusty hall dimly lit by sputter­ ing torches in iron sconces. The torches cast odd shad­ ows across the faces of eight stone gargoyles squatting motionlessly on the rim of the domed ceiling. Cracked and faded ceiling frescoes are covered by decay. 
+"Cobwebs stretch between the columns that support the vaulted ceiling of a great, dusty hall dimly lit by sputtering torches in iron sconces. The torches cast odd shadows across the faces of eight stone gargoyles squatting motionlessly on the rim of the domed ceiling. Cracked and faded ceiling frescoes are covered by decay. 
 
 Double doors of bronze stand closed to the east.
 To the north, a wide staircase climbs into darkness. A lit hallway to the south contains another set of bronze doors, through which you hear sad and majestic organ tones"
+
+The southern hallway is described in area K9. The wide staircase leads up to area K19.
+
+If the characters are here by invitation, add the following:
+
+An elf with brown skin and long black hair descends the wide staircase, quiet as a cat. He wears a gray cloak over black studded leather armor and has a polished scimitar hanging from his belt. "My master is expecting you,"
+
+Overhead, in the vaulted entry foyer, four statues of drag- ons glare down, their eyes flickering in the torchlight.
+
+]
+
+K8. GREAT ENTRY  
+Cobwebs stretch between the columns that support the
 
 The elf is Rahadin, the castle chamberlain (see appen­ dix D). He fights only if attacked. Otherwise, he leads the characters to the dining hall (area KlO), points them inside, pulls the doors shut behind them, and withdraws to area K72 by way of the South Tower Stair (area K21).
 
 DEVELOPMENT
 
 After all the characters leave this room, the eight gar­ goyles attack any character who dares to return. The gargoyles also swoop down to fight if they are attacked. When the gargoyles attack, the turbulence in the air from their wings extinguishes the feeble torches in the sconces, plunging the hall into darkness unless the characters have light sources.
+
+MAP3
+
+Main Floor
+
+he says**
+
+The elf is Rahadin, the castle chamberlain (see appendix D). He fights only if attacked. Otherwise, he leads the characters to the dining hall (area KlO), points them inside, pulls the doors shut behind them, and withdraws to area K72 by way of the South Tower Stair (area K21).
+
+DEVELOPMENT
+
+After all the characters leave this room, the eight gargoyles attack any character who dares to return. The gargoyles also swoop down to fight if they are attacked. When the gargoyles attack, the turbulence in the air from their wings extinguishes the feeble torches in the sconces, plunging the hall into darkness unless the characters have light sources.
