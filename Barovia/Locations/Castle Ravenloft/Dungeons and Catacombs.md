@@ -537,10 +537,47 @@ CRYPT 23
 
 The first time the characters happen upon this crypt, they see one of their names (determined randomly) etched into the door. Opening the crypt releases a horrid stench of decay and reveals a corpse lying on the marble slab within. The corpse looks like the character named on the door. Touching the corpse causes it to melt away, whereupon the inscription fades. On later visits to this crypt, the door is unmarked and the crypt is empty.
 
-CRYPT 24  
+CRYPT 24
 Ivan lvliskovich, Champion of Winter Dog Racing: The race may go to the swift, but vengeance is for the loser's relatives
 
 A skeleton draped in bits of fur lies atop a marble slab in the center of the crypt. The walls and ceiling are covered with plaster painted to make the crypt seem as if it stands in an evergreen forest, surrounded by snow. The plaster has peeled and fallen away in many places, shat- tering the illusion.
 
-.This crypt contains nothing of interest. CHAPTER 4 I CASTLE RAVENLOFT
+This crypt contains nothing of interest
 
+CRYPT 25
+
+Stefan Gregorovich: First Counselor to King Barov van Zarovich
+
+"A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished."
+
+A detect magic spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well in­ formed. If the skull is questioned about Strahd or Castle Ravenloft, all the information it provides is untrue.
+
+CRYPT 26
+
+Intree Sik-Valoo: He spurned wealth for the knowledge he could take to heaven
+
+A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished.
+
+A detect magic spell cast here reveals that Intree's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about Strahd or the castle, the information it provides is true.
+
+II
+
+Three giant wolf spiders infest this otherwise empty crypt. The spiders make no noise and leap out to attack anyone who moves in front of the crypt's gap- ing doorway.
+
+CRYPT 28.  
+Bascal Ofenheiss - ChefDeluxe
+
+-� .
+
+A skeleton draped in white linen lies atop a marble slab in the center of the crypt, clutching a bell to its sunken chest. Fitted over its skull is a tall chef's hat.
+
+This crypt is missing its door.
+
+..
+
+If the b�II is rung insidet4e c}yp/�agic fire �weeps
+
+through th�· crypt to search Chef Ofenheiss's bones. A  
+. c(eatμre iv. .the.cryptmust make a DC 17 Dexterity sav- · ing throw, taking 2i (4d10) fire damage on a failed save,
+
+· br h�lf·�arrn1ge .9n a successful one. Any creature that
