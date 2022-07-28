@@ -210,4 +210,82 @@ Each arrow slit is 2Y2 feet tall and 4 inches wide.
 
 K23. SERVANTS' ENTRANCE
 
-Dim light filters in through a dust-caked window in the east wall. A door next to the window leads to the castle's northeast courtyard.
+Dim light filters in through a dust-caked window in the east wall. A door next to the window leads to the castle's northeast courtyard. 
+Everything in this room is coated with dust, including
+
+a large, heavy table in the center of the floor. A thick book lies open on a desk, with an inkwell and a quill next to it. There is a broken door in the north wall, and a staircase in the south wall plunges into darkness. On each side of the staircase, a skeletal figure draped in gleaming chain mail stands sagging at attention, holding a rusty halberd.
+
+The skeletons, which were assembled by Cyrus Belview (see area K62), are held together with wire frames and hung on pegs. They pose no threat.
+
+The staircase descends to area K62. The east door leading to the courtyard is swollen in its frame and re­ quires a successful DC 10 Strength check to force open. The north door is cracked and hangs loose on its hinges; beyond it lies another dust-filled chamber (area K24).
+
+The ancient book is weathered and brittle, but the ink in the well is fresh. At the top of each page is scribed  
+the message "Please register for your own convenience and that of your next of kin." The book is more than half­ filled with names, all of them illegible.
+
+K24. SERVANTS' QUARTERS
+
+Broken furniture and torn cloth are strewn about this twenty-by-forty-foot room. Dim light comes from a pair of dirt-caked windows in the northeast corner. A narrow staircase with no railing ascends along the north wall.
+
+The stairs lead to area K34.
+
+COURT OF THE COUNT
+
+Refer to map 4 of the castle for areas K25 through K34.
+
+K25. AUDIENCE HALL
+
+Dim light from the courtyard falls into this great hall through the broken glass and iron latticework of a large window in the west wall. This immense room is a place of chilly, brooding darkness. Empty iron sconces dot  
+the walls. Hundreds of dust-laden cobwebs drape the hall, hiding the ceiling from view. Directly across from the window stand a set of double doors in the east wall. Farther south, a single door also leads from the east wall. Staircases at both ends of the north wall lead down.
+
+At the far southern end of the hall, a large wooden throne stands atop a marble dais. The high-backed throne faces south, away from most of the room.
+
+A secret door in the sC>uth wall leads to area K13. It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom (Perception) check to find. 
+Both staircases in the north wall lead down to area Kl9. The eastern double doors can be pulled open to reveal area K26 beyond. The single door in the east wall opens into area K30.
+
+FORTUNES OF RAVENLOFT
+
+· If your card reading reveals that a treasure is here, it lies on the marble dais, just behind the throne.
+
+If your card reading indicates an encounter with Strahd in this area, he is sitting on the wooden throne.
+
+K26. GUARDS' POST
+
+If the characters enter this hall through either set of double doors, read:
+
+The doors open to reveal another set of double doors
+
+ten feet ahead, Between these doors, a ten-foot-wide corridor stretches north to south. At each end of the hall, floating in the darkness, is a human skeleton clad in the rusted armor and tattered livery of a castle guard.
+
+The "floating" skeletons hang from pegs on the north and south walls.The skeletons, which were assembled by Cyrus Belview (see area K62), are held together with wire and are harmless. Behind the skeleton on the north wall is a secret door that can be pushed open into area K33.
+
+If the characters enter this hall by way of the secret door that adjoins area K33, they see the skeleton hang­ ing on the inside of the secret door as soon as they pull it open, and, with a light source or darkvision, can see the skeleton at the south end of the hall as well.
+
+K27. KING'S HALL
+
+This twenty-foot-high hall has a dark, vaulted ceiling draped with cobwebs. A low moan seems to travel the length of the corridor as it rises and falls, intoning sad­ ness and despair.
+
+The moaning is only the wind.
+
+Characters who examine the ceiling can, with a suc­ cessful DC 20 Wisdom (Perception) check, spot pulleys and a rope that run the full length of the corridor along the ceiling, well hidden by the cobwebs, These items are explained in "Flight of the Vampire" below.
+
+Halfway down the hall on the south side is a narrow secret door that can be pulled open to reveal area K31.
+
+FLIGHT OF THE VAMPIRE
+
+Hidden in a compartment above the western set of dou­ ble doors is a dressed wooden mannequin that looks exactly like Strahd. It Weil.rs a blackcloak, its fangs are bared; and its -arms and clawed fingers are outstretched in a threatetiing ,manner.The mannequin is attached
+
+to ·a roJe that runs" through pull�ys fc.!stened alo!"}g the length of the hallway cei_liQg. ·
+
+When one or more characters reach the midpoint of the hall from either direction, read:
+
+You hear a scraping sound of stone against stone, fol­ lowed by the squeaking of a bat. In the direction of the noise, you see the fanged visage, outstretched claws, and flapping black cape of a vampire bearing down on you from above! A deep, throaty chuckle fills the hall.
+
+The scraping noise is the sound of the hidden compart­ ment opening, and the squeaking is the sound of the pul­ leys supporting the weight of the mannequin as it glides through the air. The chuckling is a harmless magical ef­ fect similar to that created by a prestidigitation cantrip.
+
+Have the players roll initiative, and run this as a combat encounter with the "vampire" acting on initia­ tive count 5. On its turn, the mannequin flies over the characters, 10 feet above the floor, and doesn't stop until it reaches the east end of the hall. On its next turn, it re­ verses direction and flies back to its compartment. The trap resets after 1 minute.
+
+A character who attacks the mannequin from the floor needs a range of at least 10 feet. The mannequin has AC 15 and 10 hit points, and it is immune to poison and psy­ chic damage. If the mannequin is reduced to O hit points while in the air, it falls to the floor.
+
+K28. KING'S BALCONY
+
+A sculpted stone railing encloses this long balcony, which overlooks Ravenloft's chapel. Two ornate thrones stand side by side in the center of the balcony, covered with dust and strung with cobwebs. The thrones face away from the double doors that give access to the balcony.
