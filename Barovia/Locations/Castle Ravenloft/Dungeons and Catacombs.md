@@ -399,3 +399,8 @@ Creatures that would take damage from exposure to sunlight (such as vampires) ha
 
 "There is a grave to the west, with roses that never die, in a place built by healers, in a village called Krezk. When all turns to darkness, touch this holy symbol to the grave to summon the light and find a treasure long lost."
 
+The message refers to a gravestone in the Abbey of Saint Markovia
+
+CRYPT 12
+King Troisky - The Three Faced King
+
