@@ -500,4 +500,27 @@ K75D. DEAD DWARF
 This cell is linked to a teleport trap in area K73. The skeletal remains of a dwarf fighter lie at the bottom of the cell, enclosed in ru�ted plate armor. The dwarf's nonmagical but usable battleax� lies i:iearby.
 
 K75e. EMPTY CELL
-. .,.. .. This_ceJ! co(!tairis npthing of interest.
+This cell contains nothing of interest.
+
+K75F. DEAD WIZARD
+
+Shackled to the back wall of this cell is an emaciated fig­ ure in a blue robe, its spindly arms spread wide and its head tilted forward. Long, gray hair hangs down in front of the dead man's face.
+
+The skeletal figure is all that remains of a human wiz­ ard whom Strahd captured and slowly bled to death. Flesh still clings to the wizard's bones, and puncture marks from the vampire's fangs are visible on the wiz­ ard's neck.
+
+K75G. HANGING BARD
+
+Pounded into the roof of this cell is a rusted iron pulley, strung through which is a rope that is tied to one of the crossbeams of the barred door. Dangling upside down from the pulley is a man, flabby and stout of build, in tight-fitting leather armor. His boots are bound with rope just below the pulley, his fleshy hands are tied behind his back, and his head is underwater. He isn't moving.
+
+Strahd had this human bard suspended from the ceiling as a test to see how long he could keep his head above water. The man weakened and drowned. On the floor of the cell, below the hanging corpse, is a smashed lyre.
+
+K75H. EMPTY CELL
+
+This cell contains nothing of interest.
+
+K76. TORTURE CHAMBER
+
+Dark, low shapes thrust up out of the still, brackish water that fills this fifty-foot-square room, the ceiling of which is festooned with hanging chains that look like thick, black web strands. A balcony set into the north wall over­ looks the room and has two large thrones atop it, with a red velvet curtain behind them.
+
+The ceiling is 17 feet above the surface of the \\'.ater, which is 3 feet deep. The balcony to the north stands 7 feet above the water's surface, IO.feet.above· the floor.
+If the characters approach the "dark, low shape"
