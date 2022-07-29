@@ -1,9 +1,9 @@
 "A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menace upon the house itself. Yet, against the walls, the growth has been tramped down to create a path all about the domain. Heavy claw markings have stripped the once-beautiful finish of the walls. Great black marks tell of the fires that have assailed the mansion. Not a pane nor a shard of glass stands in any window. All the windows are barred with planks, each one marked with stains of evil omen."
 __________________________________
 
-Characters who survey the grounds can, with a successful DC 11 Wisdom (Perception) check, discern trampled weeds all around the mansion as well as scores of wolf paw prints and human footprints. The footprints were made by zombies and ghouls under Strahd's control.
+Characters who survey the grounds can, with a successful DC 11 Wisdom (Perception) check, discern trampled weeds all around the mansion as well as scores of wolf paw prints and human footprints. The footprints were made by zombies and ghouls under [[Strahd]]'s control.
 
-Ireena Kolyana (LG female human noble with 14 hit points), the adopted daughter of the burgomaster, is inside the mansion and won't open the heavily barred door to anyone unless she is convinced that those outside her door have no allegiance to Strahd. If the characters convince her, either with good roleplaying or a successful DC 15 Charisma (Deception or Persuasion) check, or if lsmark is with them, she opens the door and invites them in.
+[[Ireena]] Kolyana (LG female human noble with 14 hit points), the adopted daughter of the burgomaster, is inside the mansion and won't open the heavily barred door to anyone unless she is convinced that those outside her door have no allegiance to [[Strahd]]. If the characters convince her, either with good roleplaying or a successful DC 15 Charisma (Deception or Persuasion) check, or if lsmark is with them, she opens the door and invites them in.
 
 If the characters enter the mansion, read:
 __________________________________
@@ -12,9 +12,9 @@ __________________________________
 
 [[Ismark]] and [[Ireena]] made the coffin themselves.
 
-ROLEPLAYING IREENA
+ROLEPLAYING [[IREENA]]
 
-[[Ireena]], a striking young woman with auburn hair, has been bitten twice by Strahd. The villagers are afraid of her and avoid her. The characters are [[Ireena]]'s best hope for protection, so she is willing to accompany them under certain conditions. Although she appears mild, she has a strong will, and she aids the party as best she can in saving herself. She doesn't remember her early past. She doesn't know how she came to [[Barovia]] or where she came from. Moreover, her encounters with Strahd are fuzzy memories, thanks to his vampiric charm, but she can recall clearly the blazing hunger in his eyes.
+[[Ireena]], a striking young woman with auburn hair, has been bitten twice by [[Strahd]]. The villagers are afraid of her and avoid her. The characters are [[Ireena]]'s best hope for protection, so she is willing to accompany them under certain conditions. Although she appears mild, she has a strong will, and she aids the party as best she can in saving herself. She doesn't remember her early past. She doesn't know how she came to [[Barovia]] or where she came from. Moreover, her encounters with [[Strahd]] are fuzzy memories, thanks to his vampiric charm, but she can recall clearly the blazing hunger in his eyes.
 
 She tells the characters that wolves and other terrible creatures attacked the house night after night for weeks. The burgomaster's heart couldn't stand the constant assault, and he died three days ago. Strangely, since his death, the house has not come under attack.
 

@@ -1,6 +1,6 @@
 Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.
 
-K47. P ORTRAIT OF STRAHD
+K47. P ORTRAIT OF [[STRAHD]]
 
 You come to a dark landing ten feet wide and twenty
 
@@ -14,7 +14,7 @@ Underneath the rug is a bare stone .floor.
 The wooden, square trapdoor is 4 feet on.a.side and as thick as··the floor, with recessed iron hinges and an iron ring buiit into the si. de opposit ethe hinges. 
 Puiling·up on the-r.ing· ope'ri� the ·c:100:r. B�iowt6'e.1r;;'pdoor, characters see ��- e. of t»1i?" thi�gs; �ithe�·�'1io-(oot-dee·t> shaff .:: · ;'(area 'K3Jaf�r;' i(thi{ elev�'to'i;-trap Kas b�en activ:�te. d. ', ...:. cret'·Hilt�r·'in)fs.fop/
 
-The portrait on the wall depicts Strahd von Zarovich before he became a vampire. Even in life, he was pale. The eyes of the portrait seem to watch and follow the characters as they explore the area. The picture frame is bolted to the wall and can't be removed without de­ stroying it.
+The portrait on the wall depicts [[Strahd]] von Zarovich before he became a vampire. Even in life, he was pale. The eyes of the portrait seem to watch and follow the characters as they explore the area. The picture frame is bolted to the wall and can't be removed without de­ stroying it.
 
 If the characters attack the rug or the picture, or if they attempt to remove either item, the guardian por­ trait (see appendix D) attacks.
 
@@ -29,11 +29,11 @@ K49. LOUNGE
 
 As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
 
-The youthful man on the couch is Escher, a dashing vampire spawn to whom Strahd has shown favor in  
-the past. Escher is feeling somewhat neglected of late and has retreated here until Strahd's mood improves.  
-If attacked, he hurls himself out the window and lands like a cat on the roof of the keep (area K53). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
+The youthful man on the couch is Escher, a dashing vampire spawn to whom [[Strahd]] has shown favor in  
+the past. Escher is feeling somewhat neglected of late and has retreated here until [[Strahd]]'s mood improves.  
+If attacked, he hurls himself out the window and lands like a cat on the roof of the keep (area K53). He leads pursuers right to [[Strahd]], wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face [[Strahd]]).
 
-In conversation, Escher displays wit with a hint of mel­ ancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the cata­ combs (area K84) with Strahd's other castoff consorts.
+In conversation, Escher displays wit with a hint of mel­ ancholy. Beneath his arch mood is a dread that [[Strahd]] is growing bored of him and will lock him in the cata­ combs (area K84) with [[Strahd]]'s other castoff consorts.
 
 The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The leaded glass doesn't allow for much of a view. If a character opens a window and leaves it open, there's a 50 percent chance that a vampire spawn crawling around the outside wall of the tower notices the open window and investigates.
 
@@ -110,7 +110,7 @@ Green-glowing wisps of steam bubble up from a fat, black cauldron in the center 
 
 Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppres­ sive room. Surrounding the cauldron are seven tall wooden stools.
 
-The Barovian witches (see appendix D) that dwell in this area have sworn themselves to Strahd's service  
+The Barovian witches (see appendix D) that dwell in this area have sworn themselves to [[Strahd]]'s service  
 in exchange for arcane power. Seven witches are pres­ ent when the characters arrive, minus any that might have been encountered and defeated in area KSO. If  
 the witches are expecting the characters, they cast in­ visibility spells and stand quietly in the corners of the room, hoping that the cauldron draws their prey inside. Although they prefer to attack at range with their spells, they can grow magic claws using alter self
 
@@ -179,7 +179,7 @@ Thin streams of water drip through the trapdoor's rotting wood, forming a puddle
 
 The ceiling here is 9 feet high. The manacles are rusted and can be easily torn from the walls. The trapdoor in the ceiling leads to the tower rooftop (area K60a).
 
-The emblem worked into the lid of the iron chest is Strahd's family crest. (Show the players Strahd's crest on page 239.) Cyrus Belview (see area K62) stashed the chest here for safekeeping.
+The emblem worked into the lid of the iron chest is [[Strahd]]'s family crest. (Show the players [[Strahd]]'s crest on page 239.) Cyrus Belview (see area K62) stashed the chest here for safekeeping.
 
 TREASURE
 
@@ -193,11 +193,11 @@ Characters who teleport to this location from area K78 arrive in the middle of t
 
 FORTUNES OF .RAVENLO,FT  
 If your card reading reveals.that a treasure'. is here, it is inside the iron chest.
-If your card reading indicates an encounter with Strahd in this area, he is standing next to the iron chest.
+If your card reading indicates an encounter with [[Strahd]] in this area, he is standing next to the iron chest.
 
 K60A. NORTH TOWER ROOFTOP
 
-A cold wind greets you atop the tower roof, its rain­ slicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. The thunderclouds above sud­ denly coalesce into the terrible visage of Strahd. The face utters a ghastly moan as thousands of bats fly out of its gaping maw and descend upon the tower.
+A cold wind greets you atop the tower roof, its rain­ slicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. The thunderclouds above sud­ denly coalesce into the terrible visage of [[Strahd]]. The face utters a ghastly moan as thousands of bats fly out of its gaping maw and descend upon the tower.
 
 Characters who remain on the roof are accosted by ten swarms of bats, which arrive in 3 rounds. If the char­ acters descend into the tower, the bats don't follow and instead fly into the high tower (area K59), descend its central shaft (area K 18a), and roost in the catacombs (area K84).
 

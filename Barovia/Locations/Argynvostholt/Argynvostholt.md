@@ -1,1 +1,1 @@
-The ruined mansion Argynvostholt, once a refuge of the Order of the Silver Dragon, which opposed Strahd and failed.
+The ruined mansion Argynvostholt, once a refuge of the Order of the Silver Dragon, which opposed [[Strahd]] and failed.

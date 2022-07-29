@@ -7,7 +7,7 @@ K35. GUARDIAN.VERMIN
 A door of delicately engraved steel stands at the west end of this short, dark hallway. Intricate details stand out clearly on the door's surface. The door seems to shine with a light of its own, untouched by time. Flanking the door are two alcoves in shadow. A dark, vaguely man­ shaped figure stands in each alcove.
 
 The dark figures are four swarms ofrats piled atop  
-one another to form manlike shapes (two swarms per alcove). These rats are under Strahd's control and attack anyone that tries to move through this area.
+one another to form manlike shapes (two swarms per alcove). These rats are under [[Strahd]]'s control and attack anyone that tries to move through this area.
 
 The steel door is engraved with images of a human king in armor astride a horse, a majestic range of moun­ tains and shooting stars in the background. Tiny figures of people and wolves frame the image.
 
@@ -19,7 +19,7 @@ of decay fills this room, in the center of which stands a long oak table. A blan
 a large, tiered cake leans heavily to one side. The once white frosting has turned green with age. Cobwebs hang like dusty lace down every side of the cake. A single doll figure of a well-dressed woman adorns the crest of the cake. Suspended above is a web-shrouded chandelier  
 of forged iron. An arched window in the south wall is draped with heavy curtains. Resting in a wooden stand by the window is a dusty lute, and standing quietly in the southwest corner is a tall harp shrouded in cobwebs.
 
-The wedding cake is over four centuries old, kept in its current rotten state by the will of Strahd. The toy figure of the groom from the top of the cake was cast on the floor long ago. A character who searches the dusty floor finds the figurine with a successful DC 10 Wisdom (Per­ ception) check.
+The wedding cake is over four centuries old, kept in its current rotten state by the will of [[Strahd]]. The toy figure of the groom from the top of the cake was cast on the floor long ago. A character who searches the dusty floor finds the figurine with a successful DC 10 Wisdom (Per­ ception) check.
 
 If the characters take the groom figurine out of the room, read the following if they return to the room at a later time:
 
@@ -29,7 +29,7 @@ There are two explanations for the burst cake and bro­ ken window. Choose the o
 
 -   Strahdsmashesthecakeandbreaksthewindowto make the characters think something terrible has es­ caped and is now stalking them.
     
--   Strahd'shateassumesacorporealform,burstsout of the cake (the symbol of Sergei and Tatyana's love), and escapes through the window. "Strahd's hate" has the statistics of an invisible stalker and tries to kill whichever character is carrying the groom figurine.
+-   [[Strahd]]'shateassumesacorporealform,burstsout of the cake (the symbol of Sergei and [[Tatyana]]'s love), and escapes through the window. "[[Strahd]]'s hate" has the statistics of an invisible stalker and tries to kill whichever character is carrying the groom figurine.
     
     The room has wooden doors in the north and west walls, and an ornate steel door in the east wall (see area K35 for details).
     
@@ -56,15 +56,15 @@ and polished to a mirrored finish. Even the poker in its stand next to the blazi
 
 This chamber has several exits, including a large set of double doors in the west wall, a door at each end of the north wall, and a door to the south.
 
-The painting above the fireplace depicts Tatyana,
+The painting above the fireplace depicts [[Tatyana]],
 
-a beautiful young woman with auburn hair. Strahd commissioned the painting over four centuries ago to impress his beloved. The fact that [[Ireena]] Kolyana looks exactly like Tatyana is proof to Strahd that both women were born with the same soul.
+a beautiful young woman with auburn hair. [[Strahd]] commissioned the painting over four centuries ago to impress his beloved. The fact that [[Ireena]] Kolyana looks exactly like [[Tatyana]] is proof to [[Strahd]] that both women were born with the same soul.
 
 The back wall of the fireplace contains a secret door, which is opened by lifting the poker from its stand. The fire must be extinguished in order for. anyone to reach the secret door safely. Otherwis_e,- a creaturi that enters the fireplace for the first time on a tm'!rc>r �ta�ts its, turn there takes s (ldlO) A�e o.�r1�ge:and'�atches fire.. Until someone takes an action lo..iio'4se ;the flames on the creature, it takes � (ldlO) fi��·damage at the start. of each of its turns. (Ttii�· fire d��uig�·is.cumulative with the damage from standing in the:fireplace.).
 The secret door provides access to area K38.
 
 TREASURE
-The real treasure here is Strahd's collection of books­ over one thousand unique tomes in all.The collection is worth 80,000 gp.Transporting it would be a chailenge.
+The real treasure here is [[Strahd]]'s collection of books­ over one thousand unique tomes in all.The collection is worth 80,000 gp.Transporting it would be a chailenge.
 
 Roll a dl2 and consult the following table to deter­ mine the subject matter of a randomly chosen book.
 
@@ -83,13 +83,13 @@ d12 Book Alchemist's tome
 
 TELEPORT DESTINATION
 
-Characters who teleport to this location from area K78 arrive in front of the painting of Tatyana.
+Characters who teleport to this location from area K78 arrive in front of the painting of [[Tatyana]].
 
 FORTUNES OF RAVENLOFT
 
-If your card reading reveals that a treasure is here, it is resting on the mantelpiece under the portrait of Tatyana.
+If your card reading reveals that a treasure is here, it is resting on the mantelpiece under the portrait of [[Tatyana]].
 
-If your card reading indicates an encounter with Strahd in this area, he is sitting back in one of the over­ stuffed chairs, staring into the fire.
+If your card reading indicates an encounter with [[Strahd]] in this area, he is sitting back in one of the over­ stuffed chairs, staring into the fire.
 
 K38. FALSE TREASURY
 
@@ -142,7 +142,7 @@ This octagonal vault is free of dust and cobwebs. The domed ceiling forty feet a
 
 The domed ceiling is coated with dry ·pitch. The ."star. s" are shards of glowing crystal embedded fn the pitch, each one as bright as a candle flame. Thanks to the starry "night sky," the vault is dimly lit.
 
-The plundered riches of Strahd's secret hoard lie within this adamantine tower, which is actually a Daern's instant fortress (see chapter 7, "Treasure," of the Dungeon Master's Guide). Only Strahd knows the command word to alter its shape and size, which can't be done until every bit of treasure inside it is removed. Only Strahd can open the two means of entry: a sealed adamantine door set into the base of the tower on the north side, and an adamantine trapdoor on the roof.
+The plundered riches of [[Strahd]]'s secret hoard lie within this adamantine tower, which is actually a Daern's instant fortress (see chapter 7, "Treasure," of the Dungeon Master's Guide). Only [[Strahd]] knows the command word to alter its shape and size, which can't be done until every bit of treasure inside it is removed. Only [[Strahd]] can open the two means of entry: a sealed adamantine door set into the base of the tower on the north side, and an adamantine trapdoor on the roof.
 
 The arrow slits of the tower are 4 inches wide and 2 feet tall, and the walls of the fortress are 3 inches thick. Characters who are able to reduce their size or assume gaseous form can enter the tower through these slits.
 
@@ -157,7 +157,7 @@ FORTUNES OF RAVENLOFT
 
 If your card reading reveals that a treasure is here, it is lying atop the coins on the ground floor inside the tower.
 
-If your card reading indicates an encounter with Strahd in this area, he is perched atop the tower.
+If your card reading indicates an encounter with [[Strahd]] in this area, he is perched atop the tower.
 
 K42. KING'S BEDCHAMBER
 
@@ -168,9 +168,9 @@ Arched double doors.Jead 'rrom th. is ro·om to the south and east.
 
 The window is divided into four tall panes of glass, each enclosed by a lead framework. The two outermost sections have small iron hinges built into them so that they can be opened, as well as iron latches to lock them .Jn place when they're closed. The window looks out onto the parapet (area K46).
 
-The figure on the bed is Gertruda (NG female human commoner), the daughter of Mad Mary (see chapter 3, area E3). Gertruda is oblivious to any danger to her­ self-especially from Strahd, who has charmed her. Sheltered by her mother, she was never allowed to leave home as a child. She finally slipped away and made her way to the castle, drawn by its majesty.
+The figure on the bed is Gertruda (NG female human commoner), the daughter of Mad Mary (see chapter 3, area E3). Gertruda is oblivious to any danger to her­ self-especially from [[Strahd]], who has charmed her. Sheltered by her mother, she was never allowed to leave home as a child. She finally slipped away and made her way to the castle, drawn by its majesty.
 
-Gertruda is innocent, and years spent as a shut-in have twisted her sense of reality. Consequently, she maintains a fairy-tale view of life. When faced with a decision, she almost always makes the most simplistic choice. She is naive to the point of being a danger to her­ self and others. Fortunately for her, Strahd has not yet bitten her, though he intends to. (If he can do so while the characters look on helplessly, so much the better.)
+Gertruda is innocent, and years spent as a shut-in have twisted her sense of reality. Consequently, she maintains a fairy-tale view of life. When faced with a decision, she almost always makes the most simplistic choice. She is naive to the point of being a danger to her­ self and others. Fortunately for her, [[Strahd]] has not yet bitten her, though he intends to. (If he can do so while the characters look on helplessly, so much the better.)
 
 Next to the bed, set into the north wall, is a secret door. It can be pushed open to reveal a dusty hall that ends at a similar secret door in the back of an alcove (see area K45 for details). Gertruda doesn't know that this secret door exists.
 
@@ -182,7 +182,7 @@ Both curtamed archways lead to area K44.
 
 TORMENTED SPIRIT
 
-The spirit ofVarushka, a maid, haunts this chamber. She took her own life when Strahd began feeding on her, denying him the chance to turn her into a vam­ pire spawn.
+The spirit ofVarushka, a maid, haunts this chamber. She took her own life when [[Strahd]] began feeding on her, denying him the chance to turn her into a vam­ pire spawn.
 
 The blood in the tub isn't real, but rather a manifesta­ tion ofVarushka's tormented spirit. If the blood is dis­ turbed in any way, read:
 
@@ -202,7 +202,7 @@ Dark alcoves line the walls of this long hall. The ceiling has fallen here, leav
 
 The ten statues that line this corridor depict ancient heroes. In actuality, the faces of the statues are stoic and expressionless, but whenever the lightning flashes, their expressions change to utter horror until the hall goes dark again.
 
-The statues are imbued with the spirits of Strahd's ancestors, all of which grieve over the termination of their bloodline. Each spirit will answer one question  
+The statues are imbued with the spirits of [[Strahd]]'s ancestors, all of which grieve over the termination of their bloodline. Each spirit will answer one question  
 if addressed directly. The spirits' answers are always short and vague, and. there is a 20 percent chance that a spirit's answer is wrong. ··· · ,. ·
 
 The stairs at the west end. of the hall descend 40 feet to area K33. An opeii �tchWay·to the east reveals a tower landing beyqnd (pai:�:ofarea K20).
@@ -213,6 +213,6 @@ You stand on a ten-foot-wide walkway that encircles most of the keep. The drizzl
 
 The walkway runs around the front of the upper por­ tion of the keep. Battlemented walkways extend from the keep north, south, and east to the outer walls of the castle as well. (See map 2 for the length and location of the castle walls.) All the windows leading from this area into the keep are shut and locked, but can easily be broken.
 
-If the characters loiter on the parapets or atop the castle walls for more than 5 minutes, they encounter Strahd's animated armor (see appendix D) making the rounds. It patrols the parapets and the outer walls of Ravenloft day and night. Under a darkened sky, charac­ ters without darkvision are more likely to hear the clat­ ter of the armor approaching before they can see it.
+If the characters loiter on the parapets or atop the castle walls for more than 5 minutes, they encounter [[Strahd]]'s animated armor (see appendix D) making the rounds. It patrols the parapets and the outer walls of Ravenloft day and night. Under a darkened sky, charac­ ters without darkvision are more likely to hear the clat­ ter of the armor approaching before they can see it.
 
 The armor can't be salvaged if it is reduced to 0 hit points.

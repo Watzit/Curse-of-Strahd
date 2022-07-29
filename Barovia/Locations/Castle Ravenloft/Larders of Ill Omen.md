@@ -32,11 +32,11 @@ The sound of the elevator moving can be heard th.rough, out the castle. Characte
 
 This hall stands in deadly silence. Heavy beams support a sagging, ten-foot-high ceiling. Fog clings to the floor, obscuring everything that lies less than three feet above it. A giant shadow lurches across the ceiling as a dark fig­ ure shuffles purposefully down the corridor toward you.
 
-The figure approaching is Cyrus Belview, a mongrel­ folk (see appendix D) and Strahd's faithful servant. He stands 4 feet, 9 inches ta11 but appears shorter because of his hunched posture. He has the Keen Hearing and Smell feature. The left side his face is covered with lizard scales, and he has the ears of a panther. His left foot looks like a duck's webbed foot, and his arms have patches of black dog fur.
+The figure approaching is Cyrus Belview, a mongrel­ folk (see appendix D) and [[Strahd]]'s faithful servant. He stands 4 feet, 9 inches ta11 but appears shorter because of his hunched posture. He has the Keen Hearing and Smell feature. The left side his face is covered with lizard scales, and he has the ears of a panther. His left foot looks like a duck's webbed foot, and his arms have patches of black dog fur.
 
 The light in the hall comes from a lantern on the floor behind Cyrus. If the characters have their own light sources, Cyrus sees them, but he will not attack first. He wears a loop of twine around his neck, hanging from which is an iron key and a decorative wooden pendant fitted with a varnished human eyeball. The key unlocks the iron chest in area K60. The wooden pendant is
 
-a hag eye given to Cyrus by the night hag Morgantha (see chapter 6), so that she could spy on Strahd. Cyrus doesn't know that the necklace is magical. See the "Hag Covens" sidebar in the hags entry in the Monster Man­ ual for information about the hag eye.
+a hag eye given to Cyrus by the night hag Morgantha (see chapter 6), so that she could spy on [[Strahd]]. Cyrus doesn't know that the necklace is magical. See the "Hag Covens" sidebar in the hags entry in the Monster Man­ ual for information about the hag eye.
 
 Poor old Cyrus is obviously crazy. He has served the master for uncounted years and is devoted to him. Cyrus tries to get the characters to retire to their "room in the tower" (area K49). If the characters aren't sure what room he is talking about, he offers to lead them there.
 
@@ -98,7 +98,7 @@ This twenty-foot-square room is filled wall to wall with clutter. A long, saggin
 
 Cyrus Belview (see area K62) uses this room as his lair. There is nothing of value here.
 
-If Cyrus is with the party, the characters notice that he is caressing ·their equipment and chuckling to him­ self. Cyrus has been salvaging equipment from dead adventurers for years. He looks forward to adding to his collection after Strahd gets through with the characters.
+If Cyrus is with the party, the characters notice that he is caressing ·their equipment and chuckling to him­ self. Cyrus has been salvaging equipment from dead adventurers for years. He looks forward to adding to his collection after [[Strahd]] gets through with the characters.
 
 K67. HALL OF BONES
 
@@ -115,9 +115,9 @@ Ten chairs made of bones and festooned with decorative skulls surround the table
 
 The doors to the north and south are sheathed in bone, but the steel-banded double doors in the center of the east wall are not. Above these eastern doors is mounted the skull of a dragon.
 
-Cyrus Belview (see area K62) created this enormous work of art out of the bones of dead servants and slain adventurers. It has taken him many years to complete it. The bones and skulls are held together with gray mortar and white paste. The dark stains on the floor are old bloodstains, caused here when Strahd _hunted down and killed the remainder of his castle guards.
+Cyrus Belview (see area K62) created this enormous work of art out of the bones of dead servants and slain adventurers. It has taken him many years to complete it. The bones and skulls are held together with gray mortar and white paste. The dark stains on the floor are old bloodstains, caused here when [[Strahd]] _hunted down and killed the remainder of his castle guards.
 
-The dragon skull mounted above the eastern doors belongedtoArgynvost(seechapter7),a·silver,oragon that was killed in the valley by Strahd and his army be­ fore the founding of Castie Ravenloft. The s·kull weighs 250 pounds. · · ··
+The dragon skull mounted above the eastern doors belongedtoArgynvost(seechapter7),a·silver,oragon that was killed in the valley by [[Strahd]] and his army be­ fore the founding of Castie Ravenloft. The s·kull weighs 250 pounds. · · ··
 
 FORTUNES OF RAVENLO:FT·  
 . If your card reading reveals that .a treasure· is here, it is
@@ -125,7 +125,7 @@ FORTUNES OF RAVENLO:FT·
 lying on the bone table. ' ·  
 If your card reading indicates' an ertcounter with
 
-Strahd in this area, he is sitting comfort;ibly at one end of the table, holding the skull of a long-dead foe.
+[[Strahd]] in this area, he is sitting comfort;ibly at one end of the table, holding the skull of a long-dead foe.
 
 K68. GUARDS' RUN
 
@@ -145,7 +145,7 @@ This thirty-foot-square room is a shambles. Scattered fur­ niture lies in heaps
 
 Two doors stand opposite one another in the center of the north wall and the south wall. A dark archway leads out through the east wall.
 
-After Strahd was transformed into a vampire, several of the castle guards retreated to this room, but Strahd caught them and slaughtered them in a brutal show of violence. Removing one of the shields or swords from the wall requires a successful DC 10 Strength check. None of the items found here are valuable.
+After [[Strahd]] was transformed into a vampire, several of the castle guards retreated to this room, but [[Strahd]] caught them and slaughtered them in a brutal show of violence. Removing one of the shields or swords from the wall requires a successful DC 10 Strength check. None of the items found here are valuable.
 
 K71. KINGSMEN QUARTERS
 
@@ -159,7 +159,7 @@ goes up along'the'e. astwaUle_ adsto area.K20.-
 
 TREASURE
 
-Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cub­ byhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of Strahd von Zarovich stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom (Perception) check.
+Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cub­ byhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of [[Strahd]] von Zarovich stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom (Perception) check.
 
 K72. CHAMBERLAIN'S OFFICE
 

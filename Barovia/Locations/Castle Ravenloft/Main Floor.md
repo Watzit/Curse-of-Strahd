@@ -19,7 +19,7 @@ If the characters enter from either direction, read:
 
 "Overhead, in the vaulted entry foyer, four statues of dragons glare down, their eyes flickering in the torchlight."
 
-If anyone except Strahd enters this area through the doors that adjoin area K8, the dragons come alive, drop to the floor hissing and spitting, and attack. The dragons don't attack characters who enter this area from area Kl, heading east. The dragons are four red dragon wyrmlings, and they have instructions to allow guests to enter the castle, but not to leave it. If intruders vacate this area, the dragons fly up to their perches and revert to stone. In their stone forms, they are impervious to weapon damage. The dragons never leave the room.
+If anyone except [[Strahd]] enters this area through the doors that adjoin area K8, the dragons come alive, drop to the floor hissing and spitting, and attack. The dragons don't attack characters who enter this area from area Kl, heading east. The dragons are four red dragon wyrmlings, and they have instructions to allow guests to enter the castle, but not to leave it. If intruders vacate this area, the dragons fly up to their perches and revert to stone. In their stone forms, they are impervious to weapon damage. The dragons never leave the room.
 
 K8. GREAT ENTRY
 
@@ -55,7 +55,7 @@ Three enormous crystal chandeliers brilliantly illuminate this magnificent chamb
 
 At the center of the far west wall, between floor-to-ceil­ ing mirrors, stands a massive organ. Its pipes blare out a thunderous melody that speaks in its tone of greatness and despair. Seated at the organ, facing away from you, a single caped figure pounds the keys in raptured ecstasy. The figure suddenly stops, and as a deep silence falls over the dining hall, it slowly turns toward you.
 
-The figure is an illusion of Strahd. It welcomes the characters and invites them to dine. The illusion acts like Strahd and plays the part of the gracious host, speaking kindly and telling the characters that they're free to explore the castle. "Strahd" might talk about his family or shed light on the castle's history, but the illu­ sion provides no useful information about the castle's inhabitants, treasures, or dangers other than to say that the castle doesn't receive many guests. The illusory vampire converses with the characters for no more than 3 rounds, never moving from the organ bench. When the time is up, or if the illusion is attacked, it simply disap­ pears with a mocking laugh.
+The figure is an illusion of [[Strahd]]. It welcomes the characters and invites them to dine. The illusion acts like [[Strahd]] and plays the part of the gracious host, speaking kindly and telling the characters that they're free to explore the castle. "[[Strahd]]" might talk about his family or shed light on the castle's history, but the illu­ sion provides no useful information about the castle's inhabitants, treasures, or dangers other than to say that the castle doesn't receive many guests. The illusory vampire converses with the characters for no more than 3 rounds, never moving from the organ bench. When the time is up, or if the illusion is attacked, it simply disap­ pears with a mocking laugh.
 
 The moment the figure disappears, a fierce, bone-chilling wind rises up and roars through the hall, putting out all open flames. The characters hear the screech of ancient hinges and the solid thud of many heavy doors slamming shut, one after another, into the distance. They also hear the portcullis clang shut and the tired groan of the aged drawbridge pulling up. Fi­ nally, unless the doors to this room are being held open, they slam shut ( but do not lock). If the characters open the doors, they see that all the torches in areas K7, KB, and K9 have gone out.
 
@@ -67,7 +67,7 @@ Kll. SOUTH ARCHERS' POST
 
 The castle courtyard is visible through arrow slits in the north and west walls. Leaning against the walls are mir­ rors of various sizes, some as tall as a human and others small enough to fit in a backpack.
 
-Each arrow slit is 21/2 feet tall and 4 inches wide. The framed mirrors (seventeen in all) used to hang on var­ ious walls of the castle. Strahd had them taken down and stored here.
+Each arrow slit is 21/2 feet tall and 4 inches wide. The framed mirrors (seventeen in all) used to hang on var­ ious walls of the castle. [[Strahd]] had them taken down and stored here.
 
 A secret door in the east wall can be pulled open to re­ veal the back of the pipe organ in area KlO. Characters can't pass through the secret door while the organ is blocking it, and the organ can't be moved from this side.
 
@@ -109,7 +109,7 @@ FORTUNES OF RAVENLOFT
 
 If your card reading reveals that a treasure is here, it lies on the floor behind the altar.
 
-If your card reading indicates an encounter with Strahd in this area, he is among the bats fluttering be­ low the ceiling or he is standing at one end of the chap­ el-a dark shape in the vast hall.
+If your card reading indicates an encounter with [[Strahd]] in this area, he is among the bats fluttering be­ low the ceiling or he is standing at one end of the chap­ el-a dark shape in the vast hall.
 
 Kl6. NORTH CHAPEL ACCESS
 
@@ -183,16 +183,16 @@ The awakened tower shakes and pitches on the Heart of Sorrow's initiative count.
 
 The Heart of Sorrow is a 10-foot-diameter red crystal heart that floats near the top of the tower. Characters standing on the nearby stairs can make melee attacks against the heart, provided their weapons have a reach of at least 10 feet. The glass heart has AC 15 and 50 hit points. If the heart is reduced to O hit points, it shatters, and its crystal shards transform into blood, which rains down on the tower interior and staircase. The destruc­ tion of the Heart of Sorrow causes the tower to stop shuddering, and the interior of the tower becomes dark. Destroying the heart earns the characters 1,500 XP.
 
-Strahd and the Heart of Sorrow are connected, such that any damage Strahd takes is transferred to the heart. If the heart absorbs damage that drops it to O hit points, it is destroyed, and Strahd takes any leftover damage. The Heart of Sorrow regains all its hit points at dawn if it has at least 1 hit point remaining.
+[[Strahd]] and the Heart of Sorrow are connected, such that any damage [[Strahd]] takes is transferred to the heart. If the heart absorbs damage that drops it to O hit points, it is destroyed, and [[Strahd]] takes any leftover damage. The Heart of Sorrow regains all its hit points at dawn if it has at least 1 hit point remaining.
 
-The Heart of Sorrow is held aloft by the will of Strahd.
+The Heart of Sorrow is held aloft by the will of [[Strahd]].
 
 Casting dispel magic on it has no effect.  
 Animated Halberds. Mounted on the walls along the
 
 section of staircase nearest the heart are ten animated halberds; use the stat block for the flying sword in the Monster Manual, but increase each halberd's damage to ldlO + 1 and reduce its AC to 15. The halberds attack any creature that threatens the Heart of Sorrow.
 
-Vampire Spawn. Strahd senses if any damage is done to the Heart of Sorrow and sends four vampire spawn to destroy those responsible. These vampire spawn are former adventurers whom Strahd defeated long ago. They use their Spider Climb feature to scuttle along the tower walls and arrive in 3 rounds.
+Vampire Spawn. [[Strahd]] senses if any damage is done to the Heart of Sorrow and sends four vampire spawn to destroy those responsible. These vampire spawn are former adventurers whom [[Strahd]] defeated long ago. They use their Spider Climb feature to scuttle along the tower walls and arrive in 3 rounds.
 
 K20A. TOWER HALL STAIR
 
@@ -246,7 +246,7 @@ FORTUNES OF RAVENLOFT
 
 · If your card reading reveals that a treasure is here, it lies on the marble dais, just behind the throne.
 
-If your card reading indicates an encounter with Strahd in this area, he is sitting on the wooden throne.
+If your card reading indicates an encounter with [[Strahd]] in this area, he is sitting on the wooden throne.
 
 K26. GUARDS' POST
 
@@ -272,7 +272,7 @@ Halfway down the hall on the south side is a narrow secret door that can be pull
 
 FLIGHT OF THE VAMPIRE
 
-Hidden in a compartment above the western set of dou­ ble doors is a dressed wooden mannequin that looks exactly like Strahd. It Weil.rs a blackcloak, its fangs are bared; and its -arms and clawed fingers are outstretched in a threatetiing ,manner.The mannequin is attached
+Hidden in a compartment above the western set of dou­ ble doors is a dressed wooden mannequin that looks exactly like [[Strahd]]. It Weil.rs a blackcloak, its fangs are bared; and its -arms and clawed fingers are outstretched in a threatetiing ,manner.The mannequin is attached
 
 to ·a roJe that runs" through pull�ys fc.!stened alo!"}g the length of the hallway cei_liQg. ·
 
@@ -290,7 +290,7 @@ K28. KING'S BALCONY
 
 A sculpted stone railing encloses this long balcony, which overlooks Ravenloft's chapel. Two ornate thrones stand side by side in the center of the balcony, covered with dust and strung with cobwebs. The thrones face away from the double doors that give access to the balcony.
 
-Two Strahd zombies (see appendix D) are slouched on the thrones. They remain motionless until one of them is disturbed or another creature comes within a zom­ bie's reach, whereupon they attack.
+Two [[Strahd]] zombies (see appendix D) are slouched on the thrones. They remain motionless until one of them is disturbed or another creature comes within a zom­ bie's reach, whereupon they attack.
 
 The balcony is 50 feet above the floor of the chapel (area K15). A staircase north of the double doors leads down to area K29.
 
@@ -323,7 +323,7 @@ ld6 shadows
 4.  4  l wraith and ld4 + l specters
     
 
-Lief was pressed into service by Strahd many years ago. He keeps all the books for Strahd, recording the vampire's riches and conquests. Lief has been here longer than he can remember. He is grumpy because Strahd doesn't allow him to know about all his trea­ sures. Even so, Lief has found out where one of Strahd's secret treasures lies. If he is treated with kindness,
+Lief was pressed into service by [[Strahd]] many years ago. He keeps all the books for [[Strahd]], recording the vampire's riches and conquests. Lief has been here longer than he can remember. He is grumpy because [[Strahd]] doesn't allow him to know about all his trea­ sures. Even so, Lief has found out where one of [[Strahd]]'s secret treasures lies. If he is treated with kindness,
 
 Lief will divulge the hiding place of the Holy Symbol of Ravenkind (see appendix C), as indicated by your card reading. Lief can draw a crude map showing a route to that location. His map is geographically accurate, but he admits that it doesn't acknowledge or avoid any dangers that might lie along the way. Lief doesn't necessarily know the most direct path to the symbol's location.
 
@@ -379,7 +379,7 @@ K32. MAID IN HELL
 
 Oil lamps illuminate this long, rectangular chamber with oak-paneled walls. Stained, yellowed lace hangs neatly from eight canopied beds. The figure of a woman moves lithely about the room, dusting furniture and humming quietly. Around her pale, slender neck is a gold necklace with a ruby pendant.
 
-The maid, Helga Ruvak, is a vampire spawn who claims to be the daughter of the village bootmaker, kid­ napped and forced into service by Strahd. She pleads, on her hands and knees if necessary, to be saved from this awful place.
+The maid, Helga Ruvak, is a vampire spawn who claims to be the daughter of the village bootmaker, kid­ napped and forced into service by [[Strahd]]. She pleads, on her hands and knees if necessary, to be saved from this awful place.
 
 Helga will join the party if the characters ask her along. She intends to attack the characters but does so onlyifshesensesanopportunityth_ atdoesn'tinvolve having to fight the entire party. �be also attacks if com- mandedtodosobyStrahd. . __ _ .
 
@@ -388,7 +388,7 @@ Helgaplaysthep�rtofthein11,oc��·fd�rris_elindistress to the last, revea
 She is, in fact, the bootm�_ker'{cf�ug�tei- she claims to be,butshechoseali(e-ofevilwithSt:ah: d;
 
 TREASURE
-Helga's gold necklace with its ruby pendant is a gift from Strahd. The necklace is almost five centuries old and is worth 750 gp.
+Helga's gold necklace with its ruby pendant is a gift from [[Strahd]]. The necklace is almost five centuries old and is worth 750 gp.
 
 K33. KING'S APARTMENT STAIR
 

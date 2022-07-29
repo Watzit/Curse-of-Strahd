@@ -62,7 +62,7 @@ From beneath the chap I floor, you �ear a young man's � .
 
 voice cry out, "Father! I'm starving!"
 
-Donavich (LG male human acolyte) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed [[Castle Ravenloft]] in revolt, having been lured there by a wizard in black robes who came to [[Barovia]] from a faraway land (see chapter 2, area M, for more information on the wizard). By all accounts, the wizard died by Strahd's hand, and so too did Doru, who returned to his father as a vampire spawn. Donavich was able to trap his son in the church's undercroft, where he remains to this day.
+Donavich (LG male human acolyte) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed [[Castle Ravenloft]] in revolt, having been lured there by a wizard in black robes who came to [[Barovia]] from a faraway land (see chapter 2, area M, for more information on the wizard). By all accounts, the wizard died by [[Strahd]]'s hand, and so too did Doru, who returned to his father as a vampire spawn. Donavich was able to trap his son in the church's undercroft, where he remains to this day.
 
 Doru hasn't fed since he was imprisoned, and he cries out to his father at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how  
 to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.
@@ -81,7 +81,7 @@ E5G. UNDERCROFT
 
 The church's undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pil­ lars strain under the weight of the wooden ceiling. Can­ dlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
 
-The shape is Doru, a vampire spawn sent by Strahd to torment Donavich and cast down the church. Doru is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, "I can smell your blood!" If they cut off his escape, he lunges forth and attacks.
+The shape is Doru, a vampire spawn sent by [[Strahd]] to torment Donavich and cast down the church. Doru is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, "I can smell your blood!" If they cut off his escape, he lunges forth and attacks.
 
 If the characters restrain Doru and either promise him blood or threaten to destroy him, or if they kill him and then raise him from the dead, he recounts the events that led to his downfall (see area ESf).
 
@@ -110,7 +110,7 @@ Every night at midnight, one hundred spirits rise from the cemetery (area E6) an
 
 An eerie green light suffuses the graveyard. From this light emerges a ghostly procession. Wavering images of doughty women toting greatswords, woodwise men with slender bows, dwarves with glittering axes, and archa­ ically dressed mages with beards and strange, pointed hats-all these and more march forth from the grave­ yard, their numbers growing by the second.
 
-These aren't the spirits of the people buried here, but of previous adventurers who died trying to destroy Strahd. Every night, the ghostly adventurers attempt to complete their quest, and each night they fail. They have no inter­ est in the living and can't be hit, damaged, or turned. They will not communicate with the characters.
+These aren't the spirits of the people buried here, but of previous adventurers who died trying to destroy [[Strahd]]. Every night, the ghostly adventurers attempt to complete their quest, and each night they fail. They have no inter­ est in the living and can't be hit, damaged, or turned. They will not communicate with the characters.
 
 Once they reach the castle, the spirits march straight to the chapel (area KlS) and up the high tower stair (area K18) to the top of the tower (area K59). There, they throw themselves down the shaft toward the crypts (area K84), where they disappear.
 
@@ -127,8 +127,8 @@ Morgantha recognizes that the characters are strang­ ers and does her best to a
 -   Strahdhasmasteryoverthelandandtheweather, and his spies include theV istani.
     
 -   There'saVistanicamptothewest,ontheshoresof Tser Pool (chapter 2, area G), and another on the out­ skirts ofVallaki (chapter 5, area N9).  
-    Strahd has undead enemies in [[Barovia]], namely the fallen knights of the Order of the Silver Dragon. These revenants cart be found in a ruined mansion west of
+    [[Strahd]] has undead enemies in [[Barovia]], namely the fallen knights of the Order of the Silver Dragon. These revenants cart be found in a ruined mansion west of
     
     [[Vallaki]] (see chapter 7, "[[Argynvostholt]]").
     
-    • Strahd'smostcarefullyguardedsecretisatempleof forbidden lore hidden in the mountains (see chapter 13, "[[The Amber Temple]]"). The temple can be reached by following the long and winding [[Tsolenka Pass]] (see chapter 9).
+    • [[Strahd]]'smostcarefullyguardedsecretisatempleof forbidden lore hidden in the mountains (see chapter 13, "[[The Amber Temple]]"). The temple can be reached by following the long and winding [[Tsolenka Pass]] (see chapter 9).

@@ -13,7 +13,7 @@ GATE TOWERS
 
 Each outer gate tower has an ironbound door with a built-in lock.
 
-Characters who enter a gate tower find themselves on a flag�tone floor with a hollow tower stretching high above them, The mechanisms for raising and lowering the drawbridge and portcullis fill both gate towers. The latch mechanism in each tower is magically activated by a word that only Strahd knows. It can also be activated with a successful casting of dispel magic (DC 14). Nei­ ther the drawbridge nor the portcullis will move until both latches are activated.
+Characters who enter a gate tower find themselves on a flag�tone floor with a hollow tower stretching high above them, The mechanisms for raising and lowering the drawbridge and portcullis fill both gate towers. The latch mechanism in each tower is magically activated by a word that only [[Strahd]] knows. It can also be activated with a successful casting of dispel magic (DC 14). Nei­ ther the drawbridge nor the portcullis will move until both latches are activated.
 
 K2. CENTER COURT GATE  
 Two gates, one north of the keep and one to the south,
@@ -22,7 +22,7 @@ prevent easy access to what lies beyond them.
 
 A massive wall juts out to connect the outer walls of the castle with the keep. A twenty-foot-wide, twenty-foot-tall archway offers passage through the connecting wall but is blocked by a rusting iron portcullis.
 
-The portcullis is unlocked and can be lifted with a suc­ cessful DC 15 Strength check. It can also be opened with a command word that only Strahd and Cyrus Bel­ view (area K62) know. Unless the portcullis is wedged or propped open, it falls back into place once it is let go.
+The portcullis is unlocked and can be lifted with a suc­ cessful DC 15 Strength check. It can also be opened with a command word that only [[Strahd]] and Cyrus Bel­ view (area K62) know. Unless the portcullis is wedged or propped open, it falls back into place once it is let go.
 
 K3. SERVANTS' COURTYARD
 
@@ -62,4 +62,4 @@ Anyone who falls from the overlook plummets 1,000 feet.
 
 FORTUNES OF RAVENLOFT
 
-If your card reading indicates an encounter with Strahd in this area, he is looking out over the balcony.
+If your card reading indicates an encounter with [[Strahd]] in this area, he is looking out over the balcony.

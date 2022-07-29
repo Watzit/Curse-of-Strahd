@@ -29,12 +29,12 @@ A hinged door made up of 1-inch-thick rusted iron bars spaced 4 inches apart, wi
 
 A character can force open a barred door by using an action and succeeding on a DC 25 Strength check.
 
-Strahd visits the dungeon occasionally to see whether any characters have become trapped here. He can enter a cell by entering mist form.
+[[Strahd]] visits the dungeon occasionally to see whether any characters have become trapped here. He can enter a cell by entering mist form.
 
 K74A . FORGOTTEN''TREASUR,E.
 
 This cell is linked to a teleport trap in area K73: Characters who enter the cell can feel coins shifting beneath their feet.  
-Treasure. Scattered across the floor of this cell are 3,000 ep. The coins have the profiled visage of Strahd von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
+Treasure. Scattered across the floor of this cell are 3,000 ep. The coins have the profiled visage of [[Strahd]] von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
 
 K74B. FORGOTTEN 'TREASURE
 
@@ -42,7 +42,7 @@ The rusted door to this cell hangs open slightly.
 
 Characters who enter the cell can feel coins shifting beneath their feet.
 
-Treasure. Scattered across the floor of this cell are 300 pp. The coins have the profiled visage of Strahd von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
+Treasure. Scattered across the floor of this cell are 300 pp. The coins have the profiled visage of [[Strahd]] von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
 
 K74c. ROTTING CORPSE 
 
@@ -99,13 +99,13 @@ A strong young man clutches the bars of his cell while struggling to keep his te
 
 The man is Emil Toranescu, a werewolf with 72 hit points. He claims to be a resident of Vallaki who was chased by dire wolves to the castle. He begs the charac­ ters to rescue him, offering to help them in exchange.
 
-In truth, Strahd locked Emil here as punishment for causing a schism in his werewolf pack (see chapter 15). Anxious to prove his worth to Strahd, Emil rewards the characters for freeing him by attacking them when a good opportunity arises. Emil doesn't turn against the characters if they claim to be allies of his wife, Zuleika (see chapter 15, area Z7). In that case, he tries to leave the castle and reunite with her, staying with the charac­ ters only until an opportunity to leave presents itself.
+In truth, [[Strahd]] locked Emil here as punishment for causing a schism in his werewolf pack (see chapter 15). Anxious to prove his worth to [[Strahd]], Emil rewards the characters for freeing him by attacking them when a good opportunity arises. Emil doesn't turn against the characters if they claim to be allies of his wife, Zuleika (see chapter 15, area Z7). In that case, he tries to leave the castle and reunite with her, staying with the charac­ ters only until an opportunity to leave presents itself.
 
 K75B. FORGOTTEN TREASURE
 
 Characters who enter the cell can feel coins shifting be­ neath their feet.
 
-Treasure. Scattered across the floor of this cell are 2,100 ep. The coins have the profiled visage of Strahd von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
+Treasure. Scattered across the floor of this cell are 2,100 ep. The coins have the profiled visage of [[Strahd]] von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
 
 K75c. EMPTY CELL
 
@@ -122,13 +122,13 @@ K75F. DEAD WIZARD
 
 Shackled to the back wall of this cell is an emaciated fig­ ure in a blue robe, its spindly arms spread wide and its head tilted forward. Long, gray hair hangs down in front of the dead man's face.
 
-The skeletal figure is all that remains of a human wiz­ ard whom Strahd captured and slowly bled to death. Flesh still clings to the wizard's bones, and puncture marks from the vampire's fangs are visible on the wiz­ ard's neck.
+The skeletal figure is all that remains of a human wiz­ ard whom [[Strahd]] captured and slowly bled to death. Flesh still clings to the wizard's bones, and puncture marks from the vampire's fangs are visible on the wiz­ ard's neck.
 
 K75G. HANGING BARD
 
 Pounded into the roof of this cell is a rusted iron pulley, strung through which is a rope that is tied to one of the crossbeams of the barred door. Dangling upside down from the pulley is a man, flabby and stout of build, in tight-fitting leather armor. His boots are bound with rope just below the pulley, his fleshy hands are tied behind his back, and his head is underwater. He isn't moving.
 
-Strahd had this human bard suspended from the ceiling as a test to see how long he could keep his head above water. The man weakened and drowned. On the floor of the cell, below the hanging corpse, is a smashed lyre.
+[[Strahd]] had this human bard suspended from the ceiling as a test to see how long he could keep his head above water. The man weakened and drowned. On the floor of the cell, below the hanging corpse, is a smashed lyre.
 
 K75H. EMPTY CELL
 
@@ -143,7 +143,7 @@ If the characters approach the "dark, low shapes" in the water read:
 
 The dark shapes in the water are racks, iron maidens, stocks, and other instruments of torture. The skeletons of their last victims lie within them, their jaws seemingly frozen open in silent screams.
 
-As soon as one or more characters move more than 10 feet into the room, six Strahd zombies rise slowly out of the water, their slime-gray arms clawing upward through the water as they attack.
+As soon as one or more characters move more than 10 feet into the room, six [[Strahd]] zombies rise slowly out of the water, their slime-gray arms clawing upward through the water as they attack.
 
 K77. OBSERVATION BALCONY ·
 
@@ -175,7 +175,7 @@ Yellow to the master's tomb.
 The brazier;s flame is magical and sheds no war'mth. A .. successful casting of dispel magic (DC 16) extinguishes. . the fl_ame· for 1 bour. The fire is permanently extin-
 
 . ··-guisnecHf the brazier is destroyed. The brazier.has AC 17, 25 hit points, immunity to poison and psychic damage, and resistance to all other damage.
-The stones set into the brazier's rim are colored red, orange, yellow, green, blue, indigo, and violet, respec­ tively. Tossing one into the brazier causes its flame to change from white to the color of the stone, and the sand begins falling through the hourglass. Any creature that touches the colored flame is teleported to a location within Strahd's domain, as determined by the color:
+The stones set into the brazier's rim are colored red, orange, yellow, green, blue, indigo, and violet, respec­ tively. Tossing one into the brazier causes its flame to change from white to the color of the stone, and the sand begins falling through the hourglass. Any creature that touches the colored flame is teleported to a location within [[Strahd]]'s domain, as determined by the color:
 
 Flame Color
 
@@ -188,7 +188,7 @@ Teleports to ...
 Study (area K37)
 
 North tower peak (area K60)  
-Strahd's tomb (area K86)  
+[[Strahd]]'s tomb (area K86)  
 Coffin maker's shop (chapter 5, area N6f) Amber Temple (chapter 13, area X42)  
 Abbey of Saint Markovia (chapter 8, area S17) Tsolenka Pass (chapter 9, area T4)
 
@@ -207,11 +207,11 @@ The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, lea
 LANDING
 Inscribed on the landing, hidden 'under years of dust, is a glyph of warding. If the characters brush away the dust, someone can spot the glyph with a successful DC 15 Intelligence (Investigation) check.
 
-The glyph triggers the first time a living creature passes over it. Triggering it activates a major image spell, conjuring an illusion of Strahd von Zarovich that appears either halfway up the stairs leading to area K72 or halfway down the stairs leading to area K78, so that the vampire appears in front of the triggering character. When "Strahd" appears, read:
+The glyph triggers the first time a living creature passes over it. Triggering it activates a major image spell, conjuring an illusion of [[Strahd]] von Zarovich that appears either halfway up the stairs leading to area K72 or halfway down the stairs leading to area K78, so that the vampire appears in front of the triggering character. When "[[Strahd]]" appears, read:
 
-A sickly mist fills the stairway ahead, then coalesces into the form of the vampire Strahd, his eyes burning red with anger. "You have worn out your welcome," he says. "Whatever gods you believe in cannot save you now!"
+A sickly mist fills the stairway ahead, then coalesces into the form of the vampire [[Strahd]], his eyes burning red with anger. "You have worn out your welcome," he says. "Whatever gods you believe in cannot save you now!"
 
-Have the characters roll initiative. Any attack or spell that hits "Strahd" passes through, revealing that he is an illusion. On initiative count 0, the illusory vampire chuckles and melts away like a wax doll in a bonfire, leaving no trace behind, and the glyph disappears.
+Have the characters roll initiative. Any attack or spell that hits "[[Strahd]]" passes through, revealing that he is an illusion. On initiative count 0, the illusory vampire chuckles and melts away like a wax doll in a bonfire, leaving no trace behind, and the glyph disappears.
 
 K80. CENTER STAIR  
 If the characters enter this area through the door at the bottom of the stairs read:
@@ -254,7 +254,7 @@ The stairs at the nor.th end of the west wall descends to a door leading to area
 
 TREASURE
 
-The tapestry depicts Strahd's father, King Barov, lead­ ing his fearsome knights into.glorious battle. The tap­ estry weighs 10 pounds arid ·is· worth 750 gp intact. If it becomesdamageifwhileiiith_ eparty'spossession,itis worthless unless mende,d.
+The tapestry depicts [[Strahd]]'s father, King Barov, lead­ ing his fearsome knights into.glorious battle. The tap­ estry weighs 10 pounds arid ·is· worth 750 gp intact. If it becomesdamageifwhileiiith_ eparty'spossession,itis worthless unless mende,d.
 
 K84. CATACOMBS
 
@@ -280,13 +280,13 @@ Unless noted otherwise, each crypt contains a 3-foot­ by-6-foot rectangular bie
 
 The catacombs are home to tens of thousands of bats.
 
-The bats hang here during daytime hours and fly out in the evening through the high tower's central shaft (area K18a) to hunt at night. They will not attack intruders unless they are provoked or are specifically commanded to do so by Strahd. If one or more bats within a 10-foot square on the map are attacked or caught in the area of a harmful spell, 2d4 swarms of bats form in that area and attack. No more swarms can be formed in that square until the next dawn, when more bats arrive to replenish those that were killed.
+The bats hang here during daytime hours and fly out in the evening through the high tower's central shaft (area K18a) to hunt at night. They will not attack intruders unless they are provoked or are specifically commanded to do so by [[Strahd]]. If one or more bats within a 10-foot square on the map are attacked or caught in the area of a harmful spell, 2d4 swarms of bats form in that area and attack. No more swarms can be formed in that square until the next dawn, when more bats arrive to replenish those that were killed.
 
 TELEPORT TRAPS
 
 Invisible teleport traps are lo.cated between crypts 37 and 38, .between crypt 3� and the wall south of it, and · between crypt 38 and the wa!Lsciuth of it. The. traps can'tbeperceiveqexcepf�it1{�f}a¢;cfpiagic'spell, whtih.i:ey_�13ii,ran',a1,1ra of cd�}ur�tlonr· iiagic in the trapped areas. Although the traps can't be disarmed, a successful casting of dispel magic (DC 16) on a trap sup­ presses its magic for 1 minute, allowing characters to move safely through its area. A trap is also suppressed while wholly or partly in the area of an antimagic field.
 
-These teleport traps form a protective ring around the entrance to Strahd's tomb (area K86). Any creature that enters one of these 10-foot-square spaces is instantly teleported away, switching places with one of the wights in crypt 14. The wight materializes in the creature's pre­ vious location and attacks any living creature it sees.
+These teleport traps form a protective ring around the entrance to [[Strahd]]'s tomb (area K86). Any creature that enters one of these 10-foot-square spaces is instantly teleported away, switching places with one of the wights in crypt 14. The wight materializes in the creature's pre­ vious location and attacks any living creature it sees.
 
 CRYPT 1
 
@@ -440,7 +440,7 @@ Vault. When the characters reach the bottom of the shaft, read:
 
 At the bottom of the shaft is a dank vault with a ten-foot­ high ceiling. The room is awkwardly shaped and smells of rotten meat. Fifteen stone coffins are scattered through­ out the vault, all oriented with their heads pointed north. The floor is covered with human bones and rusty swords.
 
-If a character teleports into a coffin from one of the tele, port traps that protect Strahd's tomb (area K86), read the following to that character's player:
+If a character teleports into a coffin from one of the tele, port traps that protect [[Strahd]]'s tomb (area K86), read the following to that character's player:
 
 A flash of light explodes around you, and then you are plunged into absolute darkness, suddenly lying in a con­ fined space choked with dust.
 
@@ -481,7 +481,7 @@ CRYPT 18
 
 The stone door of this crypt has been carefully laid to one side. Through the swirly �ists of the perpetual fog, freshlyengravedlettersspelloutthewords"[[Ireena]] Kolyana: Wife." · ·
 
-The crypt is empty and has �een swept clean. This is where Strahd intends to keep [[Ireena]] once he turns her into a vampire spawn
+The crypt is empty and has �een swept clean. This is where [[Strahd]] intends to keep [[Ireena]] once he turns her into a vampire spawn
 
 CRYPT 19  
 Artimus (Builder of the Keep): T hou standest amidst the monument to his life
@@ -501,7 +501,7 @@ Sasha Jvliskova - Wife
 
 The woman rises, the shroud of webs clinging to her in a ghastly fashion."
 
-This vampire spawn is an old wife of Strahd's. Once she realizes that the characters aren't her husband, Sa­ sha tears away her web shroud like an _unloved wedding dress and attacks.
+This vampire spawn is an old wife of [[Strahd]]'s. Once she realizes that the characters aren't her husband, Sa­ sha tears away her web shroud like an _unloved wedding dress and attacks.
 
 CRYPT 21  
 Patrina Velikovna - Bride
@@ -512,16 +512,16 @@ From the darkness comes a horrifying visage, a spectral elf maiden twisted by th
 
 The spectral elr'is a banshee that attacks the characters on sight, using her wail immediately. Once awakened, the banshee is free to roam Castle Ravenloft, but she can't travel more than 5 miles from this crypt.
 
-In life, Patrina Velikovna was a dusk elf who, having learned a great deal about the black arts, was nearly a match for Strahd's powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, Strahd consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart Strahd's plans. Strahd demanded, and got, Patrina's body. She then became the banshee trapped here.
+In life, Patrina Velikovna was a dusk elf who, having learned a great deal about the black arts, was nearly a match for [[Strahd]]'s powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, [[Strahd]] consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart [[Strahd]]'s plans. [[Strahd]] demanded, and got, Patrina's body. She then became the banshee trapped here.
 
-. ·ReducingthebansheetoOhitpointscausesittodis­ corporate. Patrina's spirit can: 't rest, howevtr, until she is formally wed to Strahd;· the.banshee re-forms iri her crypt 24 J;tpurs later. Casting; ha1Joi1i'�1>ell on.the_cr,ypt prevents the:baqshee fromreturning·for.as long:as the. spell lasts.
+. ·ReducingthebansheetoOhitpointscausesittodis­ corporate. Patrina's spirit can: 't rest, howevtr, until she is formally wed to [[Strahd]];· the.banshee re-forms iri her crypt 24 J;tpurs later. Casting; ha1Joi1i'�1>ell on.the_cr,ypt prevents the:baqshee fromreturning·for.as long:as the. spell lasts.
 
 Treasure. Read the following text when the charac­ ters investigate Patrina's crypt: 
 
 "In the center of the crypt, a skeleton draped in rags lies atop a marble slab, surrounded by thousands of coins."
 
-Patrina's crypt contains 250 pp, 1,100 gp, 2,300 ep, 5,200 sp, and 8,000 cp. The coins are of a mixed origin. The platinum and electrum coins have Strahd's profiled visage stamped on them. Buried under the coins is Patrina's spellbook, which has carved wooden covers. It contains all the spells listed for the archmage in the Monster Manual.
-Development. If she is restored to life by her brother (see "Kasimir's Dark Gift" in the "Special Events" sec­ tion in chapter 13), Patrina (NE female dusk elf) returns as an archmage with no spells prepared. If the charac­ ters have her spellbook, she kindly asks them to give it back to her so that she can prepare her long-forgotten spells and help destroy Strahd (a lie). If the characters oblige, she repays their kindness by learning as much about them as.possible before pursuing her own goals.
+Patrina's crypt contains 250 pp, 1,100 gp, 2,300 ep, 5,200 sp, and 8,000 cp. The coins are of a mixed origin. The platinum and electrum coins have [[Strahd]]'s profiled visage stamped on them. Buried under the coins is Patrina's spellbook, which has carved wooden covers. It contains all the spells listed for the archmage in the Monster Manual.
+Development. If she is restored to life by her brother (see "Kasimir's Dark Gift" in the "Special Events" sec­ tion in chapter 13), Patrina (NE female dusk elf) returns as an archmage with no spells prepared. If the charac­ ters have her spellbook, she kindly asks them to give it back to her so that she can prepare her long-forgotten spells and help destroy [[Strahd]] (a lie). If the characters oblige, she repays their kindness by learning as much about them as.possible before pursuing her own goals.
 
 CRYPT 22
 
@@ -550,7 +550,7 @@ Stefan Gregorovich: First Counselor to King Barov van Zarovich
 
 "A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished."
 
-A detect magic spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well in­ formed. If the skull is questioned about Strahd or Castle Ravenloft, all the information it provides is untrue.
+A detect magic spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well in­ formed. If the skull is questioned about [[Strahd]] or Castle Ravenloft, all the information it provides is untrue.
 
 CRYPT 26
 
@@ -558,7 +558,7 @@ Intree Sik-Valoo: He spurned wealth for the knowledge he could take to heaven
 
 A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished.
 
-A detect magic spell cast here reveals that Intree's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about Strahd or the castle, the information it provides is true.
+A detect magic spell cast here reveals that Intree's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about [[Strahd]] or the castle, the information it provides is true.
 
 CRYPT 27
 
@@ -584,7 +584,7 @@ A patch of brown mold (see "Dungeon Hazards" in chapter 5, "Adventure Environmen
 
 If the brown mold is killed off, characters can dig through the moldy crust to find the bones of Baron Driif lying atop a marble slab.
 
-Treasure. Hidden under the brown mold next to the baron's bones is a luck blade with one wish remaining. If a creature uses the wish to try to escape from Barovia, the spell fails. If a creature uses the sword to wish for Strahd's destruction, the wish doesn't destroy Strahd but rather teleports him to within 5 feet of the sword.
+Treasure. Hidden under the brown mold next to the baron's bones is a luck blade with one wish remaining. If a creature uses the wish to try to escape from Barovia, the spell fails. If a creature uses the sword to wish for [[Strahd]]'s destruction, the wish doesn't destroy [[Strahd]] but rather teleports him to within 5 feet of the sword.
 
 CRYPT 30
 
@@ -617,7 +617,7 @@ This crypt is empty except for two alcoves in the back wall. Above the alcoves a
 
 A detect magic spell reveals that both alcoves radiate strong auras of conjuration magic.
 
-Creatures that enter the eastern alcove of this crypt are teleported to the eastern alcove of Strahd's tomb (area K86). Stepping into the western alcove of this crypt has no effect, but any creature that teleports from the western alcove of area K86 appears here.
+Creatures that enter the eastern alcove of this crypt are teleported to the eastern alcove of [[Strahd]]'s tomb (area K86). Stepping into the western alcove of this crypt has no effect, but any creature that teleports from the western alcove of area K86 appears here.
 
 CRYPT 33
 
@@ -629,7 +629,7 @@ Neither Sir Klutz's armor nor his longsword are magical or valuable.
 
 If the sword is pulled from the armor, Sir Klutz ap­ pears as a phantom warrior (see appendix D), thanks whoever pulled his weapon free, ?nd agrees to fight alongside that character for the next seven days. Sir
 
-· Klutz perished years before Strahd'became a va_mpire,  
+· Klutz perished years before [[Strahd]]'became a va_mpire,  
 ··. so the phantom \IVarrior kno�� nothing of St�ahd's ...: ..
 
 dowilf'!!I or the cu,r.se �fflicttfig:l;!atpvfa.
@@ -640,7 +640,7 @@ King Dostron the Hellborn
 
 Resting in the center of this crypt is a seven-foot-long gilded sarcophagus, its lid painted with the likeness of a screaming king wearing a crown of horns. Looming behind the sarcophagus is a stuffed owlbear frozen in a roar, with claws outstretched.
 
-King Dostron was an ancient ruler of this land, long before the arrival of Strahd. He claimed descent from a duke of the Nine Hells, and his deeds did justice to this ancestry. His sarcophagus is made of beaten lead and encased in gold (see "Treasure" below). Its lid can be pried open with a crowbar or similar tool, revealing nothing but dust within. The stuffed owlbear is a late addition to the crypt's decor-a gift given to Strahd that wound up here. It looks almost alive but is harmless.
+King Dostron was an ancient ruler of this land, long before the arrival of [[Strahd]]. He claimed descent from a duke of the Nine Hells, and his deeds did justice to this ancestry. His sarcophagus is made of beaten lead and encased in gold (see "Treasure" below). Its lid can be pried open with a crowbar or similar tool, revealing nothing but dust within. The stuffed owlbear is a late addition to the crypt's decor-a gift given to [[Strahd]] that wound up here. It looks almost alive but is harmless.
 
 An invisible imp is perched atop the owlbear. If some­ one tries to open the sarcophagus, the imp says in Com­ mon, "I wouldn't do that if I were you!" The imp is mag­ ically bound to King Dostron's remains and must watch over them for several more centuries before its contract are fulfilled. It isn't obligated to protect the contents of the crypt (so it will not attack), and it delights in telling lies and engaging in mischief. For instance, it warns the characters that the sarcophagus is trapped, and that opening the lid will free a pit fiend bound within.
 
@@ -710,7 +710,7 @@ The door to this crypt is larger than all the others, 6 feet wide by 8 feet tall
 
 Dry, hot air and smoke billow from the crypt as a black horse with a flaming mane and fiery hooves emerges. Smoke billows from its nostrils as it rears up to attack.
 
-The nightmare, Beucephalus, is Strahd's steed. It has 104 hit points. If the characters slay it, Strahd hunts them down mercilessly. When the steed wants to leave the castle, it flies up the central shaft of the high tower (area K18a), exiting through the gash in the tower roof (area K59).
+The nightmare, Beucephalus, is [[Strahd]]'s steed. It has 104 hit points. If the characters slay it, [[Strahd]] hunts them down mercilessly. When the steed wants to leave the castle, it flies up the central shaft of the high tower (area K18a), exiting through the gash in the tower roof (area K59).
 
 CRYPT 40  
 Tatsaul Eris - Last ofthe Line
@@ -740,9 +740,9 @@ FORTUNES OF RAVENLOFT
 
 If your card reading reveals that a treasure is here, it is inside the coffin next to Sergei's body.
 
-If your card reading indicates an encounter with Strahd in this area, he is lying across Sergei's cof­ fin, weeping.
+If your card reading indicates an encounter with [[Strahd]] in this area, he is lying across Sergei's cof­ fin, weeping.
 
-K86. STRAHD'S TOMB
+K86. [[STRAHD]]'S TOMB
 
 A heavy portcullis stands closed in the archway lead­ ing to this tomb. Lifting it requires a successful DC 25 Strength check.
 
@@ -750,7 +750,7 @@ Black marble steps descend to a dark tomb that has a vaulted ceiling thirty feet
 
 Raising the lever lifts the J?Ortcullis· at the top of the ,stairs..Pullipgitdownlowersthepor.tcU' llis.
 
-Lying-an4er the ea;t\l:n�;r the east wall of the· tomb:are three vampire spawn°br1deitdressed in SQiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who ap­ proaches Strahd's coffin.
+Lying-an4er the ea;t\l:n�;r the east wall of the· tomb:are three vampire spawn°br1deitdressed in SQiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who ap­ proaches [[Strahd]]'s coffin.
 
 A detect magic spell reveals that the western and east­ ern alcoves radiate strong auras of conjuration magic. The central alcove is nonmagical.
 
@@ -758,7 +758,7 @@ Creatures that enter the western alcove are instantly teleported to the western 
 
 TREASURE
 
-Strahd lavished many fine gifts on his three brides.
+[[Strahd]] lavished many fine gifts on his three brides.
 
 Ludmilla Vilisevic wears a soiled white wedding gown, a gold tiara (worth 750 gp), and ten gold bracelets (worth 100 gp each).
 
@@ -774,7 +774,7 @@ FORTUNES OF RAVENLOFT
 
 If your card reading reveals that a treasure is here, it lies in the center alcove.
 
-If your card reading indicates an encounter with Strahd in this area, he is in his coffin, ready to attack anyone who opens the lid.
+If your card reading indicates an encounter with [[Strahd]] in this area, he is in his coffin, ready to attack anyone who opens the lid.
 
 K87. GUARDIANS
 
@@ -796,12 +796,12 @@ as to be nearly opaque. The windows don't open, but they can be smashed easily. 
 
 Prying the gold from the ceiling of this tomb would be a long and tedious effort for little reward.
 
-The north coffin holds a beautifully sculpted, life-sized wax effigy of Strahd's father, King Barov. The old king's bones lie in a compartment beneath his effigy.
+The north coffin holds a beautifully sculpted, life-sized wax effigy of [[Strahd]]'s father, King Barov. The old king's bones lie in a compartment beneath his effigy.
 
-The south coffin holds the skeleton of Strahd's mother, Queen Ravenovia. (The magic that was meant to pre­ serve her earthly remains failed years ago.) A tattered white shroud covers her bones.
+The south coffin holds the skeleton of [[Strahd]]'s mother, Queen Ravenovia. (The magic that was meant to pre­ serve her earthly remains failed years ago.) A tattered white shroud covers her bones.
 
 FORTUNES OF RAVENLOFT
 
 If your card reading reveals that a treasure is here, it lies atop Queen Ravenovia's coffin.
 
-If your card reading indicates an encounter with Strahd in this area, he is in a frenzy of rage and despair.
+If your card reading indicates an encounter with [[Strahd]] in this area, he is in a frenzy of rage and despair.
