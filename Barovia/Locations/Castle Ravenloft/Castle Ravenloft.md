@@ -153,23 +153,15 @@ ________
 
 Rahadin directs the characters to a random location in the castle, determined by rolling a d6:
 
-| d6  | Location                                                                                                                                                                                                  |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Chapel (area Kl 5)                                                                                                                                                                                        |
-| 2   | Audience hall (area K25)                                                                                                                                                                                  |
-| 3   | Study (area K37)                                                                                                                                                                                          |
-| 4   | Tower roof (area K57)                                                                                                                                                                                     |
-| 5   | Wine cellar (area _K63)                                                                                                                                                                                   |
- 6   | A Vistana bandit (CN male or female). The Vistana knows the castle's layout and helps the characters until Strahd or more Vistani appear, at which point the treacherous Vistana turns on the characters. |
+| d6  | Location                 |                                                                                                                                                                                                             |
+| --- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Chapel (area Kl 5)       |                                                                                                                                                                                                             |
+| 2   | Audience hall (area K25) |                                                                                                                                                                                                             |
+| 3   | Study (area K37)         |                                                                                                                                                                                                             |
+| 4   | Tower roof (area K57)    |                                                                                                                                                                                                             |
+| 5   | Wine cellar (area _K63)  | 6 r, at which point the treacherous Vistana turns on the characters. |
+   
 
-
-    
-3.  3  
-    
-4.  4  
-    
-5.  5  
-    
 6.  6  Torture chamber _(area K76)
     
 
