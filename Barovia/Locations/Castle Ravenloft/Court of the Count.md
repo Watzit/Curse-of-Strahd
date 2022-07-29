@@ -144,9 +144,9 @@ _____
 
 The maid, Helga Ruvak, is a vampire spawn who claims to be the daughter of the village bootmaker, kidnapped and forced into service by [[Strahd]]. She pleads, on her hands and knees if necessary, to be saved from this awful place.
 
-Helga will join the party if the characters ask her along. She intends to attack the characters but does so only if she senses an opportunity that doesn't involve having to fight the entire party. �be also attacks if com- mandedtodosobyStrahd. . __ _ .
+Helga will join the party if the characters ask her along. She intends to attack the characters but does so only if she senses an opportunity that doesn't involve having to fight the entire party. She also attacks if commanded to do so by Strahd.
 
-Helgaplaysthep�rtofthein11,oc��·fd�rris_elindistress to the last, revealing hei; fefo9f�,9,!\lY "."hen she attacks.
+Helga plays the part of the in 11 ,oc��·fd�rris_elindistress to the last, revealing hei; fefo9f�,9,!\lY "."hen she attacks.
 
 She is, in fact, the bootm�_ker'{cf�ug�tei- she claims to be,butshechoseali(e-ofevilwithSt:ah: d;
 
