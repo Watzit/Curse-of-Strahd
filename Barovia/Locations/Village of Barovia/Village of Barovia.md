@@ -31,10 +31,10 @@ A house infested with rats looks abandoned. The rats are servants of [[Strahd]] 
 
 BAROVIAN VILLAGERS
 
-A house of Barovian villagers is home to 1d4 adults (LG male and female human commoners) and 1d8 - 1 children (LG male and female noncombatants). Characters who listen at the door hear low, muffled whispers from within. These villagers aren't interested in speaking with strangers and never attack first, always fleeing from danger if possible. At night they cower by candle­ light and keep makeshift holy symbols close at hand.
+A house of Barovian villagers is home to 1d4 adults (LG male and female human commoners) and 1d8 - 1 children (LG male and female noncombatants). Characters who listen at the door hear low, muffled whispers from within. These villagers aren't interested in speaking with strangers and never attack first, always fleeing from danger if possible. At night they cower by candlelight and keep makeshift holy symbols close at hand.
 
 [[STRAHD]] ZOMBIES
 
-When the characters open a door or a shuttered win­ dow of a house infested with [[Strahd]] zombies, they are assailed by the stench of death. If the characters dare to enter, the zombies converge on their location.
+When the characters open a door or a shuttered window of a house infested with [[Strahd]] zombies, they are assailed by the stench of death. If the characters dare to enter, the zombies converge on their location.
 
-Lying in the shadow of [[Castle Ravenloft]], the village of [[Barovia]] is oppressed by fear. The villagers rarely venture from their homes, suspecting their neighbours of wickedness and fearing evils are taking root in the shadows. Their fears are largely justified, as ghosts and vampire spawn haunt the town, and many locals have been consumed by their own callousness or wicked temptations. A rare exception to the village's cold desperation can be found at the local tavern called the Blood of the Vine. Those few who would oppose [[NPCs/Strahd/Strahd|Strahd]]'s evil congregate here and are in turn spied upon by the count's agents.
+Lying in the shadow of [[Castle Ravenloft]], the village of [[Barovia]] is oppressed by fear. The villagers rarely venture from their homes, suspecting their neighbours of wickedness and fearing evils are taking root in the shadows. Their fears are largely justified, as ghosts and vampire spawn haunt the town, and many locals have been consumed by their own callousness or wicked temptations. A rare exception to the village's cold desperation can be found at the local tavern called the Blood of the Vine. Those few who would oppose [[Strahd]]'s evil congregate here and are in turn spied upon by the count's agents.
