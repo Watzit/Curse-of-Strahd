@@ -65,7 +65,7 @@ In addition to the lore known to all [[Barovians]] (see "Barovian Lore" in chapt
 
  - Every night at midnight, the spirits of dead adventurers rise up out of the church graveyard, forming a silent procession as they walk the road toward [[Castle Ravenloft]]. (See "March of the Dead" in the "Special Events" section at the chapter's end.)
 
-Funeral for the Burgomaster. If the characters bring Kolyan Indirovich's body to the church, Donavich presses the characters into helping him bury the bur­ gomaster in the cemetery (area E6) at dawn. During the burial, Donavich offers prayers to the Morning­ lord in exchange for Kolyan Indirovich's deliverance from [[Barovia]].
+Funeral for the Burgomaster. If the characters bring Kolyan Indirovich's body to the church, Donavich presses the characters into helping him bury the burgomaster in the cemetery (area E6) at dawn. During the burial, Donavich offers prayers to the Morninglord in exchange for Kolyan Indirovich's deliverance from [[Barovia]].
 
 Once Kolyan is put in the ground, Donavich suggests that [[Ireena]] be taken as far from [[Castle Ravenloft]] as possible. He proposes that the characters take her to the [[Abbey of Saint Markovia]] in [[Krezk]] (chapter 8) or, failing that, the fortified town of [[Vallaki]] (chapter 5). Donavich is unaware that the abbey, once a bastion of good, has become a den of evil.
 
