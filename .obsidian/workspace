@@ -7,8 +7,12 @@
         "id": "946dd50b65031a6c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "NPCs/Barovians.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPCs/Barovians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +106,15 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+    "NPCs/Strahd/Strahd.md",
+    "NPCs/Tatyana.md",
     "Barovia/Locations/Castle Ravenloft/Spires of Ravenloft.md",
     "Barovia/Locations/Castle Ravenloft/Rooms of Weeping.md",
     "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
     "Barovia/Locations/Castle Ravenloft/Court of the Count.md",
     "Barovia/Locations/Castle Ravenloft/Main Floor.md",
     "Barovia/Locations/Castle Ravenloft/Walls of Ravenloft.md",
-    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
-    "Barovia/Locations/Mad Mage of Mount Baratok.md",
-    "Barovia/Locations/Old Bonegrinder/Old Bonegrinder.md",
-    "Barovia/Locations/Village of Barovia/Special Events.md"
+    "Barovia/Locations/Mad Mage of Mount Baratok.md"
   ]
 }
