@@ -26,7 +26,7 @@ RANDOM ENCOUNTERS IN CASTLE RAVENLOFT
 | 11       | ld6 shadows               |
 | 12       | ld6 swarms ofbats         |
 | 13       | 1 crawling [[Strahd]] zombie  |
-| 14       | ld4 + 1 Vistani thugs     |
+| 14       | ld4 + 1 [[Vistani]] thugs     |
 | 15       | ld4 wights                |
 | 16       | Trinket                   |
 | 17       | Giant spider cocoon       |
@@ -40,7 +40,7 @@ BAROVIAN COMMONERS
 
 A loud clamor fills the unhallowed halls of Ravenloft. Cries of"Kill the vampire!" are mixed with bold voices shouting,"Never again!" and"To the crypts!"
 
-Angry villagers who have entered the castle brandish torches and pitchforks in a ridiculous display of force. Everywhere they go, they shout for justice. They follow the characters unless prevented from doing so. As long as these Barovians are with the adventurers, random encounters occur on a roll of 9 or higher.
+Angry villagers who have entered the castle brandish torches and pitchforks in a ridiculous display of force. Everywhere they go, they shout for justice. They follow the characters unless prevented from doing so. As long as these [[Barovians]] are with the adventurers, random encounters occur on a roll of 9 or higher.
 
 BAROVIAN WITCH
 

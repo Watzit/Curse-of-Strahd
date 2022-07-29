@@ -1,7 +1,7 @@
 "A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern."
 __________________________________
 
-The tavern building is about 60 feet square. Close inspection of the sign reveals that it originally read "Blood of the Vine." (An "n" has been scratched over with the "f.") This once finely appointed tavern has grown shoddy over the years. A blazing fire in the hearth gives scant warmth to the few huddled souls within. They include the barkeep, three Vistani sitting together, and a man named [[Ismark]] Kolyanovich-who happens to be the son of the village burgomaster, Kolyan lndirovich.
+The tavern building is about 60 feet square. Close inspection of the sign reveals that it originally read "Blood of the Vine." (An "n" has been scratched over with the "f.") This once finely appointed tavern has grown shoddy over the years. A blazing fire in the hearth gives scant warmth to the few huddled souls within. They include the barkeep, three [[Vistani]] sitting together, and a man named [[Ismark]] Kolyanovich-who happens to be the son of the village burgomaster, Kolyan lndirovich.
 
 ROLEPLAYING [[ISMARK]]
 
@@ -21,6 +21,6 @@ Use the following information to roleplay the other NPCs in the tavern.
 Arik the Barkeep. A pudgy little man named Arik Lorensk (CN male human commoner) tends bar.
 Mindlessly, he cleans glasses, one after another. When they're all clean, he starts over. If he is spoken to, he takes orders for drinks in a dull, hollow voice. A small glass of wine costs 1 cp. A pitcher of wine costs 1 sp. Af­ ter serving drinks, Arik returns to cleaning glasses. He ignores all attempts to question him.
 
-Vistani Owners. Three Vistani spies (N female hu­ mans) named Alenka, Mirabel, and Sorvia sit at a table near the front door. They own the tavern and see to it that all customers pay their tabs. They otherwise show little interest in the characters.
+[[Vistani]] Owners. Three [[Vistani]] spies (N female hu­ mans) named Alenka, Mirabel, and Sorvia sit at a table near the front door. They own the tavern and see to it that all customers pay their tabs. They otherwise show little interest in the characters.
 
-If the characters arrive in the company of other Vistani, the owners are much more likely to engage them in conversation and provide useful information. They suggest that the characters visit Madam Eva (see chapter 2, area G) to have their fortunes read.
+If the characters arrive in the company of other [[Vistani]], the owners are much more likely to engage them in conversation and provide useful information. They suggest that the characters visit Madam Eva (see chapter 2, area G) to have their fortunes read.

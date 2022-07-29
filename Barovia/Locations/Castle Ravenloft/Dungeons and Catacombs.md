@@ -584,7 +584,7 @@ A patch of brown mold (see "Dungeon Hazards" in chapter 5, "Adventure Environmen
 
 If the brown mold is killed off, characters can dig through the moldy crust to find the bones of Baron Driif lying atop a marble slab.
 
-Treasure. Hidden under the brown mold next to the baron's bones is a luck blade with one wish remaining. If a creature uses the wish to try to escape from Barovia, the spell fails. If a creature uses the sword to wish for [[Strahd]]'s destruction, the wish doesn't destroy [[Strahd]] but rather teleports him to within 5 feet of the sword.
+Treasure. Hidden under the brown mold next to the baron's bones is a luck blade with one wish remaining. If a creature uses the wish to try to escape from [[Barovia]], the spell fails. If a creature uses the sword to wish for [[Strahd]]'s destruction, the wish doesn't destroy [[Strahd]] but rather teleports him to within 5 feet of the sword.
 
 CRYPT 30
 

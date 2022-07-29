@@ -4,7 +4,7 @@ If the characters approach the church doors, add:
 
 "The heavy wooden doors of the church are covered with claw marks and scarred by fire."
 
-The village priest, Donavich, lives here. Other Barovians shun the church for reasons that will quickly become obvious.
+The village priest, Donavich, lives here. Other [[Barovians]] shun the church for reasons that will quickly become obvious.
 
 The following areas correspond to labels on the map of the church on page 46.
 
@@ -67,7 +67,7 @@ Donavich (LG male human acolyte) has been praying throughout the night. His voic
 Doru hasn't fed since he was imprisoned, and he cries out to his father at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how  
 to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.
 
-In addition to the lore known to all Barovians (see "Barovian Lore" in chapter 2), Donavich knows the fol­ lowing useful information:
+In addition to the lore known to all [[Barovians]] (see "Barovian Lore" in chapter 2), Donavich knows the fol­ lowing useful information:
 
 lreena Kolyana isn't the natural daughter of Kolyan lndirovich. Although [[Ireena]] never knew, Kolyan found her at the edge of the [[Svalich Woods]] near the [[Pillarstone of Ravenloft]]. She was but a girl then and seemed to have no memory of her past. Kolyan ad­ opted her and loved her dearly.
 
