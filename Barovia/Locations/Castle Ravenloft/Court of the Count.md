@@ -135,15 +135,16 @@ ____
 
 This vantage point is 130 feet from the bottom of the shaft (areaK31a). Forty feet down is areaK31, and 40 feet up is a stone trapdoor in the ceiling that opens into areaK47.
 
-A door in the north wall is easy to spot from this side (no ability check required) and opens into areaK39.
+A door in the north wall is easy to spot from this side (no ability check required) and opens into area K39.
 
 K32. MAID IN HELL
+_____
+"Oil lamps illuminate this long, rectangular chamber with oak-paneled walls. Stained, yellowed lace hangs neatly from eight canopied beds. The figure of a woman moves lithely about the room, dusting furniture and humming quietly. Around her pale, slender neck is a gold necklace with a ruby pendant."
+_____
 
-Oil lamps illuminate this long, rectangular chamber with oak-paneled walls. Stained, yellowed lace hangs neatly from eight canopied beds. The figure of a woman moves lithely about the room, dusting furniture and humming quietly. Around her pale, slender neck is a gold necklace with a ruby pendant.
+The maid, Helga Ruvak, is a vampire spawn who claims to be the daughter of the village bootmaker, kidnapped and forced into service by [[Strahd]]. She pleads, on her hands and knees if necessary, to be saved from this awful place.
 
-The maid, Helga Ruvak, is a vampire spawn who claims to be the daughter of the village bootmaker, kid­ napped and forced into service by [[Strahd]]. She pleads, on her hands and knees if necessary, to be saved from this awful place.
-
-Helga will join the party if the characters ask her along. She intends to attack the characters but does so onlyifshesensesanopportunityth_ atdoesn'tinvolve having to fight the entire party. �be also attacks if com- mandedtodosobyStrahd. . __ _ .
+Helga will join the party if the characters ask her along. She intends to attack the characters but does so only if she senses an opportunity that doesn't involve having to fight the entire party. �be also attacks if com- mandedtodosobyStrahd. . __ _ .
 
 Helgaplaysthep�rtofthein11,oc��·fd�rris_elindistress to the last, revealing hei; fefo9f�,9,!\lY "."hen she attacks.
 
