@@ -47,9 +47,6 @@ For each [[Vistani|Vistani]] tent of wagon that the characters search, roll once
 | 14-16 | Pouch containing 4d6 gemstones worth 100 gp each                                                                   |
 | 17-19 | Sack containing 3d6 pieces of cheap jewellery worth 25 gp total and 1d6 pieces of fine jewellery worth 250 gp each |
 | 20    | One magic item (roll once on Magic Item Table B in the Dungeon Master's Guide)                                     |
-  
-
- 
 
 FORTUNES OF [[RAVENLOFT]]
 
