@@ -217,20 +217,7 @@ This unseen servant was created by Strahd and is permanent until destroyed (see 
 |  3   |  A gold candelabrum (worth 150 gp) with three branches, each one holding an unlit candle.     |
 |  4   |  A purple silk handkerchief with white ruffled edges (worth 1 gp). On future occurrences of this encounter, the handkerchief is smeared with fresh blood.     |
 |  5   | A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts 1d4 hungry vampire spawn (see below), which arrive in 1d4 + 1 rounds.      |
-|  6   |       |
-
-
-
-2.  2  
-    
-3.  3  
-    
-4.  4  
-    
-
-S 
-
-6 A wizard's spellbook with a black velvet dust jacket over its stitched leather cover. The book contains all the spells Strahd has prepared (see appendix D). On subsequent occurrences of this encounter, the tome is a nonmagical leather-bound storybook worth 25 gp.
+|  6   |  A wizard's spellbook with a black velvet dust jacket over its stitched leather cover. The book contains all the spells Strahd has prepared (see appendix D). On subsequent occurrences of this encounter, the tome is a nonmagical leather-bound storybook worth 25 gp.     |
 
 VAMPIRE SPAWN
 
@@ -245,5 +232,7 @@ These minions of Strahd - former adventurers all creep along ceilings and drop d
 VISTANI THUGS
 
 ______
-You hear voices with thick accents
+"You hear voices with thick accents."
 _______
+
+A small group ofVistani (NE male and female humans) claim that they were the vampire's captives, only re­ cently escaped from the castle's dungeon, and they offer to help the party. In truth, they are loyal to Strahd and betray the characters as soon as he appears. If the char­ acters accept their offer, the thugs pretend to be the party's allies for as long as they remain with the party, or until Strahd appears. If the characters leave the castle, the thugs accompany them, since choosing to remain in the castle would likely arouse the characters' suspicion.
