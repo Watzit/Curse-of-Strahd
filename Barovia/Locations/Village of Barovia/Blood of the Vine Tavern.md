@@ -1,10 +1,11 @@
-"A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs pre­ cariously askew, proclaiming this to be the Blood on the Vine tavern."
+"A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern."
+__________________________________
 
-The tavern building is about 60 feet square. Close in­ spection of the sign reveals that it originally read "Blood of the Vine." (An "n" has been scratched over with the "f.") This once finely appointed tavern has grown shoddy over the years. A blazing fire in the hearth gives scant warmth to the few huddled souls within. They include the barkeep, three Vistani sitting together, and a man named Ismark Kolyanovich-who happens to be the son of the village burgomaster, Kolyan lndirovich.
+The tavern building is about 60 feet square. Close inspection of the sign reveals that it originally read "Blood of the Vine." (An "n" has been scratched over with the "f.") This once finely appointed tavern has grown shoddy over the years. A blazing fire in the hearth gives scant warmth to the few huddled souls within. They include the barkeep, three Vistani sitting together, and a man named Ismark Kolyanovich-who happens to be the son of the village burgomaster, Kolyan lndirovich.
 
-ROLEPLAYING !SMARK
+ROLEPLAYING ISMARK
 
-Ismark (LG male human veteran) is a young man who sits by himself at a corner table, sipping his wine. Other villagers call him "lsmark the Lesser" because he has lived in the shadow of his father for most of his life.
+[[Ismark]] (LG male human veteran) is a young man who sits by himself at a corner table, sipping his wine. Other villagers call him "lsmark the Lesser" because he has lived in the shadow of his father for most of his life.
 
 Ismark isn't a typically dour Barovian. He invites the characters to join him, offers to pay for their wine, and asks for their aid in protecting his adopted sister, [[Ireena]] Kolyana. If they agree to help, he takes them to the bur­ gomaster's residence (area E4). He wants the characters to help him escort [[Ireena]] to [[Vallaki]], a settlement in the heart of the valley, beyond the view of [[Castle Ravenloft]] and (he hopes) beyond the reach of Strahd. Ismark knows that moving [[Ireena]] is a gamble, since she's vul­ nerable to Strahd when she is outside their home, but he has heard assertions that [[Vallaki]] is well defended.
 
