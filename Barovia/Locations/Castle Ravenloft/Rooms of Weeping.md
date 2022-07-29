@@ -48,13 +48,12 @@ _____
 
 In the center of the room is a large, low table, waxed and polished to a mirrored finish. Even the poker in its stand next to the blazing fireplace is polished. Large, overstuffed divans and couches are arranged about the room. Two chairs of burgundy-colored wood with padded leather seats and back cushions face the hearth. A huge painting hangs over the mantelpiece in a heavy, gilded frame. The rolling firelight illuminates the carefully ren­ dered portrait. It is an exact likeness of lreena Kolyana."
 _____
+
 This chamber has several exits, including a large set of double doors in the west wall, a door at each end of the north wall, and a door to the south.
 
-The painting above the fireplace depicts [[Tatyana]],
+The painting above the fireplace depicts [[Tatyana]], a beautiful young woman with auburn hair. [[Strahd]] commissioned the painting over four centuries ago to impress his beloved. The fact that [[Ireena]] Kolyana looks exactly like [[Tatyana]] is proof to [[Strahd]] that both women were born with the same soul.
 
-a beautiful young woman with auburn hair. [[Strahd]] commissioned the painting over four centuries ago to impress his beloved. The fact that [[Ireena]] Kolyana looks exactly like [[Tatyana]] is proof to [[Strahd]] that both women were born with the same soul.
-
-The back wall of the fireplace contains a secret door, which is opened by lifting the poker from its stand. The fire must be extinguished in order for. anyone to reach the secret door safely. Otherwis_e,- a creaturi that enters the fireplace for the first time on a tm'!rc>r �ta�ts its, turn there takes s (ldlO) A�e o.�r1�ge:and'�atches fire.. Until someone takes an action lo..iio'4se ;the flames on the creature, it takes � (ldlO) fi��·damage at the start. of each of its turns. (Ttii�· fire d��uig�·is.cumulative with the damage from standing in the:fireplace.).
+The back wall of the fireplace contains a secret door, which is opened by lifting the poker from its stand. The fire must be extinguished in order for. anyone to reach the secret door safely. Otherwise, a creature that enters the fireplace for the first time on a tm'!rc>r �ta�ts its, turn there takes s (ldlO) A�e o.�r1�ge:and'�atches fire.. Until someone takes an action lo..iio'4se ;the flames on the creature, it takes � (ldlO) fi��·damage at the start. of each of its turns. (Ttii�· fire d��uig�·is.cumulative with the damage from standing in the:fireplace.).
 The secret door provides access to area K38.
 
 TREASURE
