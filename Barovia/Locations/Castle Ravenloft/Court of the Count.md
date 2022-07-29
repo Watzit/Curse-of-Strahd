@@ -8,21 +8,21 @@ At the far southern end of the hall, a large wooden throne stands atop a marble 
 _____
 
 A secret door in the south wall leads to area K13. It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom (Perception) check to find. 
+
 Both staircases in the north wall lead down to area Kl9. The eastern double doors can be pulled open to reveal area K26 beyond. The single door in the east wall opens into area K30.
 
 FORTUNES OF RAVENLOFT
 
-· If your card reading reveals that a treasure is here, it lies on the marble dais, just behind the throne.
-
+If your card reading reveals that a treasure is here, it lies on the marble dais, just behind the throne.
 If your card reading indicates an encounter with [[Strahd]] in this area, he is sitting on the wooden throne.
 
 K26. GUARDS' POST
 
 If the characters enter this hall through either set of double doors, read:
 
-The doors open to reveal another set of double doors
-
-ten feet ahead, Between these doors, a ten-foot-wide corridor stretches north to south. At each end of the hall, floating in the darkness, is a human skeleton clad in the rusted armor and tattered livery of a castle guard.
+_____
+"The doors open to reveal another set of double doors ten feet ahead, Between these doors, a ten-foot-wide corridor stretches north to south. At each end of the hall, floating in the darkness, is a human skeleton clad in the rusted armor and tattered livery of a castle guard."
+_____
 
 The "floating" skeletons hang from pegs on the north and south walls.The skeletons, which were assembled by Cyrus Belview (see area K62), are held together with wire and are harmless. Behind the skeleton on the north wall is a secret door that can be pushed open into area K33.
 
