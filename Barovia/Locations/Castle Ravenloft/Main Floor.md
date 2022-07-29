@@ -89,9 +89,10 @@ K12. TURRET POST
 
 Each arrow slit is 2 1/2 feet tall and 4 inches wide.
 
-Kl3. TURRET POST ACCESS HALL
-
+K13. TURRET POST ACCESS HALL
+______
 "This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet."
+______
 
 K14. HALL OF FAITH
 _____
@@ -99,13 +100,14 @@ _____
 _____
 
 The statues are harmless. Their moving eyes are a simple optical illusion.
-Double doors stand at both ends of the hall. Above the doors leading to area KlS hangs a symbol of beaten bronze that looks like a rising or setting sun.
+Double doors stand at both ends of the hall. Above the doors leading to area K15 hangs a symbol of beaten bronze that looks like a rising or setting sun.
 
 K15. CHAPEL
+_______
+"Dim, colored light filters through tall, broken, and board­ ed-up windows of stained glass, illuminating the ancient chapel of Ravenloft. A few bats flutter about near the top of the ninety-foot-high domed ceiling. A balcony runs the length of the west wall, fifty feet above the floor. In the center of the balcony, two dark shapes are slumped in tall chairs.
 
-Dim, colored light filters through tall, broken, and board­ ed-up windows of stained glass, illuminating the ancient chapel of Ravenloft. A few bats flutter about near the top of the ninety-foot-high domed ceiling. A balcony runs the length of the west wall, fifty feet above the floor. In the center of the balcony, two dark shapes are slumped in tall chairs.
-
-Benches coated with centuries of dust lie about the floor in jumbled disarray. Beyond this debris, lit by a piercing shaft of light, an altar stands upon a stone plat­ form. The sides of the altar are carved with bas-reliefs of angelic figures entwined with grape vines. The light from above falls directly on a silver statuette. A cloaked figure is draped over the altar, and a black mace lies on the floor near its feet.
+Benches coated with centuries of dust lie about the floor in jumbled disarray. Beyond this debris, lit by a piercing shaft of light, an altar stands upon a stone plat­ form. The sides of the altar are carved with bas-reliefs of angelic figures entwined with grape vines. The light from above falls directly on a silver statuette. A cloaked figure is draped over the altar, and a black mace lies on the floor near its feet."
+_______
 
 The figure slumped on the altar is all that remains of Gustav Herrenghast, a lawful evil human cleric who tried to obtain the Icon of Ravenloft and did not survive the attempt. See "Treasure" below for more information on the icon and Gustav's possessions.
 
