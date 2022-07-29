@@ -146,16 +146,23 @@ A giant spider made this cocoon. Characters who can reach it can cut it open to 
 RAHADIN
 
 If Rahadin was killed or captured in a previous encounter, this encounter doesn't occur. Otherwise, Strahd's mysterious chamberlain approaches quietly. A character whose passive Wisdom (Perception) score meets or exceeds Rahadin's Dexterity (Stealth) check hear him.
+
 ________
 "The master wishes to see you," intones a grim voice in the darkness.
+________
 
 Rahadin directs the characters to a random location in the castle, determined by rolling a d6:
 
-d6 Location
+| d6  | Cocoon's Contents                                                                                                                                                                                                   |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   |         Chapel (area Kl 5)                                                                                                                                                                          |
+| 2   | Audience hall (area K25)                                                                                                                   |
+| 3   | A Strahd zombie (see appendix D). It fights until killed.                                                                                                                                                           |
+| 4   | A Barovian lunatic (CN male commoner). If freed, he cackles until silenced or until a calm emotions spell is cast on him. A lesser restoration spell cures his madness, at which point he tries to flee the castle. |
+| 5   | A dead Barovian that serves as host to a swarm of insects (spiders). The baby giant spiders (each one the size of a tarantula) crawl out of the Barovian's gaping mouth or burst forth from its distended belly.    |
+| 6   | A Vistana bandit (CN male or female). The Vistana knows the castle's layout and helps the characters until Strahd or more Vistani appear, at which point the treacherous Vistana turns on the characters.           |
 
-1.  1  Chapel (area Kl 5)
-    
-2.  2  Audience hall (area K25)
+
     
 3.  3  Study (area K37)
     
