@@ -213,22 +213,22 @@ This unseen servant was created by Strahd and is permanent until destroyed (see 
 | d6  | Items |
 | --- | ----- |
 |    1 |  A tarnished silver platter with a lid (worth 25 gp). If a character comes within S feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a crawling claw that attacks the nearest character.     |
-|  2   |       |
-|  3   |       |
-|  4   |       |
-|  5   |       |
+|  2   | A silver goblet (worth 5O gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 (8dl0) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a potion of healing.      |
+|  3   |  A gold candelabrum (worth 150 gp) with three branches, each one holding an unlit candle.     |
+|  4   |  A purple silk handkerchief with white ruffled edges (worth 1 gp). On future occurrences of this encounter, the handkerchief is smeared with fresh blood.     |
+|  5   | A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts 1d4 hungry vampire spawn (see below), which arrive in 1d4 + 1 rounds.      |
 |  6   |       |
 
 
 
-2.  2  A silver goblet (worth SO gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 (8dl0) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a potion ofhealing.
+2.  2  
     
-3.  3  A gold candelabrum (worth 150 gp) with three branches, each one holding an unlit candle.
+3.  3  
     
-4.  4  A purple silk handkerchief with white ruffled edges (worth l gp). On future occurrences of this encounter, the handkerchief is smeared with fresh blood.
+4.  4  
     
 
-S A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts ld4 hungry vampire spawn (see below), which arrive in ld4 + l rounds.
+S 
 
 6 A wizard's spellbook with a black velvet dust jacket over its stitched leather cover. The book contains all the spells Strahd has prepared (see appendix D). On subsequent occurrences of this encounter, the tome is a nonmagical leather-bound storybook worth 25 gp.
 
