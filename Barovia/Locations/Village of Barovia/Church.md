@@ -46,22 +46,14 @@ For its size, the wooden cabinet contains very little.
 Inside are a tinderbox, a few wooden boxes full of candles, and two well-used books: Hymns to the Dawn, a volume of chants to the Morninglord, and The Blade of Truth: The Uses ofLogic in the War Against Diabolist Heresies, as Fought by the Ulmist Inquisition, a strange book that mixes logic exercises with lurid descriptions of fiend-worshiping cults.
 
 E5F. CHAPEL
+_________________
+The chapel is a shambles, with overturned and broken pews littering the dusty floor. Dozens of candles mounted in candlesticks and candelabras light every dusty corner in a fervent attempt to rid the chapel of shadows. At the far end of the church sits a claw-scarred altar, behind which kneels a priest in soiled vestments. Next to him hangs a long, thick rope that stretches up into the bell tower.
+_________________
 
-Qburcb
-
-(Jlru6,):, .. !
-
-The chapel is a shambles, with overturned and bro-
-
-ken pews littering the dusty floor. Dozens of candles mounted in candlesticks and candelabras light every dusty corner in a fervent attempt to rid the chapel of shadows. At the far end of the church sits a claw-scarred altar, behind which kneels a priest in soiled vestments. Next to him hangs a long, thick rope that stretches up into the bell tower.
-
-
-If the characters have not already entered the under­ croft, add:
-
-From beneath the chap I floor, you �ear a young man's � .
-
-voice cry out, "Father! I'm starving!"
-
+If the characters have not already entered the undercroft, add:
+_________________
+From beneath the chap I floor, you hear a young man's voice cry out, "Father! I'm starving!"
+_________________
 Donavich (LG male human acolyte) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed [[Castle Ravenloft]] in revolt, having been lured there by a wizard in black robes who came to [[Barovia]] from a faraway land (see chapter 2, area M, for more information on the wizard). By all accounts, the wizard died by [[Strahd]]'s hand, and so too did Doru, who returned to his father as a vampire spawn. Donavich was able to trap his son in the church's undercroft, where he remains to this day.
 
 Doru hasn't fed since he was imprisoned, and he cries out to his father at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how  
