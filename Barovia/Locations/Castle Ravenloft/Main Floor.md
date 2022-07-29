@@ -233,17 +233,17 @@ ______
 
 Everything in this room is coated with dust, including a large, heavy table in the center of the floor. A thick book lies open on a desk, with an inkwell and a quill next to it. There is a broken door in the north wall, and a staircase in the south wall plunges into darkness. On each side of the staircase, a skeletal figure draped in gleaming chain mail stands sagging at attention, holding a rusty halberd."
 ______
+
 The skeletons, which were assembled by Cyrus Belview (see area K62), are held together with wire frames and hung on pegs. They pose no threat.
 
-The staircase descends to area K62. The east door leading to the courtyard is swollen in its frame and re­ quires a successful DC 10 Strength check to force open. The north door is cracked and hangs loose on its hinges; beyond it lies another dust-filled chamber (area K24).
+The staircase descends to area K62. The east door leading to the courtyard is swollen in its frame and requires a successful DC 10 Strength check to force open. The north door is cracked and hangs loose on its hinges; beyond it lies another dust-filled chamber (area K24).
 
-The ancient book is weathered and brittle, but the ink in the well is fresh. At the top of each page is scribed  
-the message "Please register for your own convenience and that of your next of kin." The book is more than half­ filled with names, all of them illegible.
+The ancient book is weathered and brittle, but the ink in the well is fresh. At the top of each page is scribed the message "Please register for your own convenience and that of your next of kin." The book is more than half-filled with names, all of them illegible.
 
 K24. SERVANTS' QUARTERS
-
-Broken furniture and torn cloth are strewn about this twenty-by-forty-foot room. Dim light comes from a pair of dirt-caked windows in the northeast corner. A narrow staircase with no railing ascends along the north wall.
-
+______
+"Broken furniture and torn cloth are strewn about this twenty-by-forty-foot room. Dim light comes from a pair of dirt-caked windows in the northeast corner. A narrow staircase with no railing ascends along the north wall."
+______
 The stairs lead to area K34.
 
 COURT OF THE COUNT
