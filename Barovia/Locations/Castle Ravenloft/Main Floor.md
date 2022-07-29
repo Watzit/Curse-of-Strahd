@@ -177,23 +177,25 @@ When 40 or more pounds of �eight are placed on a pressure plate, the suit of a
 The suits of armor act much like metal puppets - a little joke intended to spook visitors more than damage them. A pressure plate can be disabled by a character who uses thieves' tools and makes a successful DC 15 Dexterity check. A trap can also be disabled by destroying its suit of armor, which has AC 18, 5 hit points, and immunity to psychic and poison damage.
 
 K20. HEART OF SORROW
-
-A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower that rises above you. A spiral staircase rises slowly into darkness, hugging the outer wall. In the center of the room, another set of stairs leads down.
+_____
+"A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower that rises above you. A spiral staircase rises slowly into darkness, hugging the outer wall. In the center of the room, another set of stairs leads down."
+_____
 
 The staircase in the center of the floor (area K20a) leads down to area K71.
 
 The spiral staircase has no railing and connects the main floor of the castle with each level above it. First, the staircase climbs 50 feet to a landing (shown on map 4), from which an open archway leads to area K13. East of that opening is a secret door that conceals a ladder leading down to area K34.
 
-The stairs ascend another 40 feet to another landing (shown on map 5), with archways that lead to areas K45 and K46, and then climb another 100 feet to a landing beneath the tower's heart (shown on map 8). The stair­ case wraps around the heart, ending at the top of the tower (area K60).
+The stairs ascend another 40 feet to another landing (shown on map 5), with archways that lead to areas K45 and K46, and then climb another 100 feet to a landing beneath the tower's heart (shown on map 8). The staircase wraps around the heart, ending at the top of the tower (area K60).
 
 THE HEART
 
 The tower, including the spiral staircase, is alive. When the characters set foot on the staircase for the first time, read:
 
-As you step onto the spiral staircase, a reddish light flares high overhead, then settles into a dull, pulsing  
-red glow. You now see the full immensity of this tower. The spiral staircase circles up the tower's full height. The tower, sixty feet wide at its base, becomes narrower as it climbs. At the pinnacle of the hollow tower, a large crystal heart pulsates with red light. Above the heart, the stairs continue upward.
+______
+"As you step onto the spiral staircase, a reddish light flares high overhead, then settles into a dull, pulsing red glow. You now see the full immensity of this tower. The spiral staircase circles up the tower's full height. The tower, sixty feet wide at its base, becomes narrower as it climbs. At the pinnacle of the hollow tower, a large crystal heart pulsates with red light. Above the heart, the stairs continue upward."
+______
 
-Have the characters and the Heart of Sorrow roll initia­ tive. If the characters leave the tower and later return, they can reroll initiative, but the heart's initiative count doesn't change.
+Have the characters and the Heart of Sorrow roll initiative. If the characters leave the tower and later return, they can reroll initiative, but the heart's initiative count doesn't change.
 
 The awakened tower shakes and pitches on the Heart of Sorrow's initiative count. Any creature on the stairs or hanging on a tower wall at the start of the heart's turn must succeed on a DC 10 Dexterity saving throw or fall to the base of the tower. Characters who are crawling on the staircase or who lie prone on the stairs succeed automatically.
 
