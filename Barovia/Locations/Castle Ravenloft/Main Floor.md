@@ -81,19 +81,19 @@ _____
 
 Each arrow slit is 2 1/2 feet tall and 4 inches wide. The framed mirrors (seventeen in all) used to hang on various walls of the castle. [[Strahd]] had them taken down and stored here.
 
-A secret door in the east wall can be pulled open to reveal the back of the pipe organ in area KlO. Characters can't pass through the secret door while the organ is blocking it, and the organ can't be moved from this side.
+A secret door in the east wall can be pulled open to reveal the back of the pipe organ in area K1O. Characters can't pass through the secret door while the organ is blocking it, and the organ can't be moved from this side.
 
-Kl2. TURRET POST
+K12. TURRET POST
 
-A high, domed ceiling caps the thirty-foot-wide octagonal room before you. Frescoes faded with age adorn the ceiling, but their images are impossible to make out. Tall, thin arrow slits look out over the courtyard.
+"A high, domed ceiling caps the thirty-foot-wide octagonal room before you. Frescoes faded with age adorn the ceiling, but their images are impossible to make out. Tall, thin arrow slits look out over the courtyard."
 
 Each arrow slit is 2 1/2 feet tall and 4 inches wide.
 
-Kl3. TURRET POST ACCESS HALL I
+Kl3. TURRET POST ACCESS HALL
 
-This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet.
+"This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet."
 
-Kl4. HALL OF FAITH
+K14. HALL OF FAITH
 
 This grand hall is choked with dust and stretches into darkness ahead. Webs hang from the arched ceiling like drapes, and life-sized statues of knights line the hallway on both sides, their eyes seeming to watch you.
 
