@@ -83,20 +83,20 @@ Roll a d12 and consult the following table to determine the subject matter of a 
 
 TELEPORT DESTINATION
 
-Characters who teleport to this location from area K78 arrive in front of the painting of [[Tatyana]].
+Characters who teleport to this location from area K78 arrive in front of the painting of [[Tatyana]]
 
 FORTUNES OF RAVENLOFT
 
 If your card reading reveals that a treasure is here, it is resting on the mantelpiece under the portrait of [[Tatyana]].
 
-If your card reading indicates an encounter with [[Strahd]] in this area, he is sitting back in one of the over­ stuffed chairs, staring into the fire.
+If your card reading indicates an encounter with [[Strahd]] in this area, he is sitting back in one of the over-stuffed chairs, staring into the fire.
 
 K38. FALSE TREASURY
-
-Resting on the floor of this smoke-filled room is a closed chest surrounded by piles of gold, silver, and copper coins. The fittings and clawed feet on the chest are evi­ dence of great workmanship.
+_____
+Resting on the floor of this smoke-filled room is a closed chest surrounded by piles of gold, silver, and copper coins. The fittings and clawed feet on the chest are evidence of great workmanship.
 
 Attached to the east wall are two torch sconces. The southernmost one holds a torch with an intricate metal base. The other is empty. A skeleton in broken plate armor lies against the wall. The skeleton's right hand is on its throat, and its left hand holds the matching torch from the empty sconce.
-
+_____
 The coins scattered around the trapped chest total 50
 
 gp, 100 sp, and 2,000.cp.The chest weighs40 pounds and is unlocked. Wlien op�ned, i. t releases a.cloud of sleeping gas that fills the room;:Ariy crea��re in the room must succeed on' aDC-18 Constitution saving throw or be paralyzed for4.lio14rs.If all 'the 'characters succumb to the gas, they.ari:COμnd·by the witches.who lair ,in area K56 and dragg�d\6 .;i.rea KSO,. the!) ·left there unharmed. If even one cha��cter.resist;s.the �ffecfof the gas, the witches do not appe�r; )f\ <>.(} ,·
