@@ -100,7 +100,7 @@ _____
 
 The coins scattered around the trapped chest total 50gp, 100 sp, and 2,000.cp. The chest weighs 40 pounds and is unlocked. When opened, it releases a cloud of sleeping gas that fills the room. Any creature in the room must succeed on a DC18 Constitution saving throw or be paralyzed for 4 hours. If all the characters succumb to the gas, they are found by the witches who lair in area K56 and dragged to area K50, then left there unharmed. If even one character resists the effect of the gas, the witches do not appear.
 
-The armored skeleton On·the floi:i'r is all:thaf.remains of an adventure�. His corp�e has,ndthing cif vali.te.
+The armored skeleton on the floor is all that remains of an adventure. His corpse has nothing cif vali.te.
 
 SECRET DOORS
 This room i,s cpncealed behind two secret doors.
