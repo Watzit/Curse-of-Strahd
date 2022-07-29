@@ -3,22 +3,18 @@ ROOMSOFWEEPING
 Refer to map 5 of the castle for. area:sK35 through K46.
 
 K35. GUARDIAN VERMIN
+______
+"A door of delicately engraved steel stands at the west end of this short, dark hallway. Intricate details stand out clearly on the door's surface. The door seems to shine with a light of its own, untouched by time. Flanking the door are two alcoves in shadow. A dark, vaguely man-shaped figure stands in each alcove."
+______
 
-A door of delicately engraved steel stands at the west end of this short, dark hallway. Intricate details stand out clearly on the door's surface. The door seems to shine with a light of its own, untouched by time. Flanking the door are two alcoves in shadow. A dark, vaguely man-shaped figure stands in each alcove.
+The dark figures are four swarms ofrats piled atop one another to form manlike shapes (two swarms per alcove). These rats are under [[Strahd]]'s control and attack anyone that tries to move through this area.
 
-
-The dark figures are four swarms ofrats piled atop  
-one another to form manlike shapes (two swarms per alcove). These rats are under [[Strahd]]'s control and attack anyone that tries to move through this area.
-
-The steel door is engraved with images of a human king in armor astride a horse, a majestic range of moun­ tains and shooting stars in the background. Tiny figures of people and wolves frame the image.
+The steel door is engraved with images of a human king in armor astride a horse, a majestic range of mountains and shooting stars in the background. Tiny figures of people and wolves frame the image.
 
 K36. DINING HALL OF THE COUNT
-
-Dust assaults your lungs. A sweet yet pungent smell
-
-of decay fills this room, in the center of which stands a long oak table. A blanket of dust covers the tabletop and its fine china and silverware. In the center of the table,  
-a large, tiered cake leans heavily to one side. The once white frosting has turned green with age. Cobwebs hang like dusty lace down every side of the cake. A single doll figure of a well-dressed woman adorns the crest of the cake. Suspended above is a web-shrouded chandelier  
-of forged iron. An arched window in the south wall is draped with heavy curtains. Resting in a wooden stand by the window is a dusty lute, and standing quietly in the southwest corner is a tall harp shrouded in cobwebs.
+_____
+"Dust assaults your lungs. A sweet yet pungent smell of decay fills this room, in the center of which stands a long oak table. A blanket of dust covers the tabletop and its fine china and silverware. In the center of the table, a large, tiered cake leans heavily to one side. The once white frosting has turned green with age. Cobwebs hang like dusty lace down every side of the cake. A single doll figure of a well-dressed woman adorns the crest of the cake. Suspended above is a web-shrouded chandelier of forged iron. An arched window in the south wall is draped with heavy curtains. Resting in a wooden stand by the window is a dusty lute, and standing quietly in the southwest corner is a tall harp shrouded in cobwebs."
+_____
 
 The wedding cake is over four centuries old, kept in its current rotten state by the will of [[Strahd]]. The toy figure of the groom from the top of the cake was cast on the floor long ago. A character who searches the dusty floor finds the figurine with a successful DC 10 Wisdom (Per­ ception) check.
 
