@@ -49,23 +49,23 @@ ____
 
 The scraping noise is the sound of the hidden compartment opening, and the squeaking is the sound of the pulleys supporting the weight of the mannequin as it glides through the air. The chuckling is a harmless magical effect similar to that created by a prestidigitation cantrip.
 
-Have the players roll initiative, and run this as a combat encounter with the "vampire" acting on initia tive count 5. On its turn, the mannequin flies over the characters, 10 feet above the floor, and doesn't stop until it reaches the east end of the hall. On its next turn, it reverses direction and flies back to its compartment. The trap resets after 1 minute.
+Have the players roll initiative, and run this as a combat encounter with the "vampire" acting on initiative count 5. On its turn, the mannequin flies over the characters, 10 feet above the floor, and doesn't stop until it reaches the east end of the hall. On its next turn, it reverses direction and flies back to its compartment. The trap resets after 1 minute.
 
-A character who attacks the mannequin from the floor needs a range of at least 10 feet. The mannequin has AC 15 and 10 hit points, and it is immune to poison and psy­ chic damage. If the mannequin is reduced to O hit points while in the air, it falls to the floor.
+A character who attacks the mannequin from the floor needs a range of at least 10 feet. The mannequin has AC 15 and 10 hit points, and it is immune to poison and psychic damage. If the mannequin is reduced to 0 hit points while in the air, it falls to the floor.
 
 K28. KING'S BALCONY
-
-A sculpted stone railing encloses this long balcony, which overlooks Ravenloft's chapel. Two ornate thrones stand side by side in the center of the balcony, covered with dust and strung with cobwebs. The thrones face away from the double doors that give access to the balcony.
+_____
+"A sculpted stone railing encloses this long balcony, which overlooks Ravenloft's chapel. Two ornate thrones stand side by side in the center of the balcony, covered with dust and strung with cobwebs. The thrones face away from the double doors that give access to the balcony."
+_____
 
 Two [[Strahd]] zombies (see appendix D) are slouched on the thrones. They remain motionless until one of them is disturbed or another creature comes within a zom­ bie's reach, whereupon they attack.
 
 The balcony is 50 feet above the floor of the chapel (area K15). A staircase north of the double doors leads down to area K29.
 
 K29. CREAKY LANDING
-
-II
-
-The staircase climbs from area K16 to area K28. It seems unstable but is sturdy. The creatures in area K28 can't be surprised by anyone climbing the creaky steps.
+____
+"The staircase climbs from area K16 to area K28. It seems unstable but is sturdy. The creatures in area K28 can't be surprised by anyone climbing the creaky steps."
+____
 
 K30. KING'S ACCOUNTANT
 
