@@ -51,7 +51,7 @@ Characters can try to hide from the witch (who has darkvision) or catch her by s
 
 This encounter happens only once. If this result comes up again, treat it as no encounter.
 
-BLACK CAT I CRAWLING CLAWS
+BLACK CAT 
 _____________
 The darkness lets out a demonic hiss as a black cat darts out of the shadows, trying its best to avoid you.
 _____________
@@ -81,14 +81,18 @@ The toy has a slogan stitched or printed on it in tiny letters: "Is No Fun, Is N
 
 
 BROOM OF ANIMATED ATTACK
+
 ___________
 You hear a scratching noise. Out of the shadows comes a broom, sweeping its way toward you as though held by invisible hands.
+___________
 
-When it gets within 5 feet of a party member, the
+When it gets within 5 feet of a party member, the broom attacks.
 
-· .broom attacks.
+CRAWLING CLAWS
 
-A mob of severed hands, their mummified Aesh black with soot, skitters out of the darkness across the dusty Aoor.
+___________
+A mob of severed hands, their mummified Aesh black with soot, skitters out of the darkness across the dusty floor.
+___________
 
 The crawling claws gang up on one party member. During the confusion, one of the claws tries to crawl into the character's backpack and hide there. It makes  
 a Dexterity (Stealth) check contested by the character's passive Wisdom (Perception) score. If the claw loses the contest, the character sees the claw enter the backpack. If the claw wins the contest, it waits until the character takes a long rest before scuttling out to attack.
