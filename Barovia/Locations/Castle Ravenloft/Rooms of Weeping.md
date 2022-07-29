@@ -140,9 +140,9 @@ Most of the belfry is filled with giant spider webs (see "Dungeon Hazards" in ch
 At the west end of the north wall, behind thick webs, is a secret door that opens into area K41.
 
 K41. TREASURY
-
+______
 This octagonal vault is free of dust and cobwebs. The domed ceiling forty feet above is painted black and sparkles with a display of stars in unfamiliar constellations. Barely contained within this vault is a square tower, twenty feet on a side and thirty feet high, with arrow slits on all sides and a battlemented roof.
-
+______
 The domed ceiling is coated with dry ·pitch. The ."star. s" are shards of glowing crystal embedded fn the pitch, each one as bright as a candle flame. Thanks to the starry "night sky," the vault is dimly lit.
 
 The plundered riches of [[Strahd]]'s secret hoard lie within this adamantine tower, which is actually a Daern's instant fortress (see chapter 7, "Treasure," of the Dungeon Master's Guide). Only [[Strahd]] knows the command word to alter its shape and size, which can't be done until every bit of treasure inside it is removed. Only [[Strahd]] can open the two means of entry: a sealed adamantine door set into the base of the tower on the north side, and an adamantine trapdoor on the roof.
