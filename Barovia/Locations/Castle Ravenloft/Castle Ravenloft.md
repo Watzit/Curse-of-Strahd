@@ -35,17 +35,18 @@ RANDOM ENCOUNTERS IN CASTLE RAVENLOFT
 Use the descriptions that follow to run each encounter.
 
 BAROVIAN COMMONERS
-
-A loud clamour fills the unhallowed halls of Ravenloft. Cries of "Kill the vampire!" are mixed with bold voices shouting, "Never again!" and "To the crypts!"
+___________________
+"A loud clamour fills the unhallowed halls of Ravenloft. Cries of "Kill the vampire!" are mixed with bold voices shouting, "Never again!" and "To the crypts!""
+___________________
 
 Angry villagers who have entered the castle brandish torches and pitchforks in a ridiculous display of force. Everywhere they go, they shout for justice. They follow the characters unless prevented from doing so. As long as these [[Barovians]] are with the adventurers, random encounters occur on a roll of 9 or higher.
 
 BAROVIAN WITCH
+___________________
+"You hear a woman's scratchy voice calling out a name. "Grizzlegut! Grizzlegut, where are you? A pox on you, you mangy cat!"
 
-You hear a woman's scratchy voice calling out a name. "Grizzlegut! Grizzlegut, where are you? A pox on you, you mangy cat!"
-
-Through the darkness comes a crone wearing a pointed black hat and a burlap gown stained with soot.
-
+Through the darkness comes a crone wearing a pointed black hat and a burlap gown stained with soot."
+___________________
 Characters can try to hide from the witch (who has dark­ vision) or catch her by surprise. This Barovian witch is one of the servants of [[Strahd]] dwelling in area K56. She is calling out the name of her black cat familiar, which has gone missing. If the characters confront her, the old bat spits at them and begins casting a spell.
 
 This encounter happens only once. If this result comes up again, treat it as no encounter.
