@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plane of Shadow/Domains of Dread/Ravenloft/Ravenloft.md",
+            "file": "Barovia/Locations/Village of Barovia/Church.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plane of Shadow/Domains of Dread/Ravenloft/Ravenloft.md",
+                "file": "Barovia/Locations/Village of Barovia/Church.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,10 +100,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "Barovia/Locations/Gates of Ravenloft.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Ravenloft.md",
     "Barovia/Barovia.md",
     "NPCs/Strahd/Strahd.md",
     "NPCs/Barovians.md",
@@ -111,8 +114,6 @@
     "NPCs/Ismark.md",
     "NPCs/Keepers of the Feather.md",
     "NPCs/Tatyana.md",
-    "NPCs/Vistani.md",
-    "NPCs/Strahd/Strahd's Goals.md",
-    "Barovia/Locations/Village of Barovia/Burgomaster's Mansion.md"
+    "NPCs/Vistani.md"
   ]
 }

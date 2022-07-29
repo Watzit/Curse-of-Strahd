@@ -1,15 +1,16 @@
 "Atop a slight rise, against the roots of the pillar stone that supports [[Castle Ravenloft]], stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is worn and weary. A bell tower rises toward the back, and flickering light shines through holes in the shingled roof. The rafters strain feebly against their load."
-
+_______________________________________
 If the characters approach the church doors, add:
-
+_______________________________________
 "The heavy wooden doors of the church are covered with claw marks and scarred by fire."
+_______________________________________
 
 The village priest, Donavich, lives here. Other [[Barovians]] shun the church for reasons that will quickly become obvious.
 
 The following areas correspond to labels on the map of the church on page 46.
 
 E5A. HALL
-
+_______________________________________
 The doors open to reveal a ten-foot-wide, twenty-footlong hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.
 
 You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer. Sud­ denly, the prayer is blotted out by an inhuman scream that rises up from beneath the wooden floor.
