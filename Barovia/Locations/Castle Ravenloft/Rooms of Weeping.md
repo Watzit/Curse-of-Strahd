@@ -154,8 +154,7 @@ TREASURE
 
 The ground floor of the Daern's instant fortress contains 50,000 cp, 10,000 sp, 10,000 gp, 1 ,000 pp, 15 assorted gems (100 gp each), and a +2 shield emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see chapter 7 ). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't incapacitated.
 
-The upper floor of the tower contains 10 pieces of jew­ elry (250 gp each) in a red velvet sack, an alchemyjug,  
-a helm ofbrilliance, a +l rod ofthe pact keeper, and an unlocked wooden coffer with four compartments, each one containing a potion of greater healing.
+The upper floor of the tower contains 10 pieces of jewelry (250 gp each) in a red velvet sack, an alchemy jug, a helm of brilliance, a +1 rod of the pact keeper, and an unlocked wooden coffer with four compartments, each one containing a potion of greater healing.
 
 FORTUNES OF RAVENLOFT
 
