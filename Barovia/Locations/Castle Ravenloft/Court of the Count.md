@@ -88,19 +88,15 @@ Pulling the rope requires an action. When the rope is pulled, a tremendously lou
 | 3   |  1d4 wights        |
 | 4|  1 wraith and 1d4 + 1 specters        |
 
-Lief was pressed into service by [[Strahd]] many years ago. He keeps all the books for [[Strahd]], recording the vampire's riches and conquests. Lief has been here longer than he can remember. He is grumpy because [[Strahd]] doesn't allow him to know about all his trea­ sures. Even so, Lief has found out where one of [[Strahd]]'s secret treasures lies. If he is treated with kindness,
-
-Lief will divulge the hiding place of the Holy Symbol of Ravenkind (see appendix C), as indicated by your card reading. Lief can draw a crude map showing a route to that location. His map is geographically accurate, but he admits that it doesn't acknowledge or avoid any dangers that might lie along the way. Lief doesn't necessarily know the most direct path to the symbol's location.
+Lief was pressed into service by [[Strahd]] many years ago. He keeps all the books for [[Strahd]], recording the vampire's riches and conquests. Lief has been here longer than he can remember. He is grumpy because [[Strahd]] doesn't allow him to know about all his treasures. Even so, Lief has found out where one of [[Strahd]]'s secret treasures lies. If he is treated with kindness, Lief will divulge the hiding place of the Holy Symbol of Ravenkind (see appendix C), as indicated by your card reading. Lief can draw a crude map showing a route to that location. His map is geographically accurate, but he admits that it doesn't acknowledge or avoid any dangers that might lie along the way. Lief doesn't necessarily know the most direct path to the symbol's location.
 
 Lief knows that there's a key that unlocks all four chests, but he can't remember where he hid it. See "Treasure" below for more information.
 
-The western door leads to area K25. The eastern
-
-door provides access to a staircase (area K21) that leads down to area K9 and up to a landing outside area K35, continuing upward from there to area K47.
+The western door leads to area K25. The eastern door provides access to a staircase (area K21) that leads down to area K9 and up to a landing outside area K35, continuing upward from there to area K47.
 
 TREASURE
 
-The room contains hundreds of worthless books and scrolls describing accounting procedures. The first character who spends at least 10 minutes searching the room and succeeds on a DC 15 Intelligence (Inves­ tigation) check finds a book with a bloodstained leather cover. The pages of this book have been hollowed out, creating a hole in which Lief has hidden the iron key that unlocks the four wooden chests in this room.
+The room contains hundreds of worthless books and scrolls describing accounting procedures. The first character who spends at least 10 minutes searching the room and succeeds on a DC 15 Intelligence (Investigation) check finds a book with a bloodstained leather cover. The pages of this book have been hollowed out, creating a hole in which Lief has hidden the iron key that unlocks the four wooden chests in this room.
 
 Two of the locked chests contain 10,000 cp each. A third chest contains 1,000 gp. The fourth chest holds 500 pp, hidden under which is a manual ofbodily health.
 
