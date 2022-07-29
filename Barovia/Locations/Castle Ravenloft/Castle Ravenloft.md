@@ -113,6 +113,7 @@ _____________
 
 If the character who is touched by Ezmerelda reacts in an alarming or threatening manner, she hastily whispers, "Don't be frightened. We're on the same side."
 
-Ezmerelda is hunting Strahd, but her efforts to corner the vampire have so far been thwarted, and she fears that she might be in over her head. If the characters don't ask her to join the party, she wishes them well and goes on her way (perhaps to be encountered again later). If they invite her to accompany them, Ezmerelda tests the characters' knowledge about vampires by asking them questions such as. "Have you ever seen a vampire change its form?" and "Do you Know how to counteract a vampire's regenerative ability?'' Whatever their_an­ swers, she ultimately agrees to come along.
+Ezmerelda is hunting Strahd, but her efforts to corner the vampire have so far been thwarted, and she fears that she might be in over her head. If the characters don't ask her to join the party, she wishes them well and goes on her way (perhaps to be encountered again later). If they invite her to accompany them, Ezmerelda tests the characters' knowledge about vampires by asking them questions such as. "Have you ever seen a vampire change its form?" and "Do you know how to counteract a vampire's regenerative ability?'' Whatever their answers, she ultimately agrees to come along.
 
-This random encounter �appens.only'once. If this re­ sult comes up again, tre;;it-it ·as no encounter.
+This random encounter happens only once. If this result comes up again, treat it as no encounter.
+
