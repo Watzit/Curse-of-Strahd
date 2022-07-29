@@ -74,13 +74,14 @@ The organ appears locked in place and immovable, but a character who makes a suc
 
 The food on the table is tasty, the wine delicious.
 
-Kll. SOUTH ARCHERS' POST
+K11. SOUTH ARCHERS' POST
+_____
+"The castle courtyard is visible through arrow slits in the north and west walls. Leaning against the walls are mirrors of various sizes, some as tall as a human and others small enough to fit in a backpack."
+_____
 
-The castle courtyard is visible through arrow slits in the north and west walls. Leaning against the walls are mir­ rors of various sizes, some as tall as a human and others small enough to fit in a backpack.
+Each arrow slit is 2 1/2 feet tall and 4 inches wide. The framed mirrors (seventeen in all) used to hang on various walls of the castle. [[Strahd]] had them taken down and stored here.
 
-Each arrow slit is 21/2 feet tall and 4 inches wide. The framed mirrors (seventeen in all) used to hang on var­ ious walls of the castle. [[Strahd]] had them taken down and stored here.
-
-A secret door in the east wall can be pulled open to re­ veal the back of the pipe organ in area KlO. Characters can't pass through the secret door while the organ is blocking it, and the organ can't be moved from this side.
+A secret door in the east wall can be pulled open to reveal the back of the pipe organ in area KlO. Characters can't pass through the secret door while the organ is blocking it, and the organ can't be moved from this side.
 
 Kl2. TURRET POST
 
