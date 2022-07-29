@@ -122,3 +122,28 @@ FLYING SWORDS
 _______
 "Out of the gloom flies a rusty blade, followed by another!"
 _______
+If more than two flying swords are encountered, the others aren't far behind. These weapons drift about the castle and attack intruders within range of their blindsight.
+
+GIANT SPIDER COCOON
+
+IA giant spider cocoon is encountered only if the characters are moving about the castle (not resting); otherwise, reroll.
+
+_______
+'A white cocoon is suspended from the ceiling amid thick webs and appears to hold something human-like.'
+_______
+
+A giant spider made this cocoon. Characters who can reach it can cut it open to free whatever is inside. Roll a d6 to determine the cocoon's contents:
+
+|d6 Cocoon's Contents
+
+A wooden mannequin wearing a gown.
+
+2.  2  A Barovian witch (see appendix D). She screams like a wild animal and begins casting spells.
+    
+3.  3  A Strahd zombie (see appendix D). It fights until killed.
+    
+4.  4  A Barovian lunatic (CN male commoner). If freed, he cackles until silenced or until a calm emotions spell is cast on him. A lesser restoration spell cures his madness, at which point he tries to flee the castle.
+    
+5.  5  A dead Barovian that serves as host to a swarm of insects (spiders). The baby giant spiders (each one the size of a tarantula) crawl out of the Barovian's gaping mouth or burst forth from its distended belly.
+    
+6.  6  A Vistana bandit (CN male or female). The Vistana knows the castle's layout and helps the characters until Strahd or more Vistani appear, at which point the treacherous Vistana turns on the characters.
