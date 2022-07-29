@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Village of Barovia/Special Events.md",
+            "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Village of Barovia/Special Events.md",
+                "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "Barovia/Locations/Mad Mage of Mount Baratok.md",
+    "Barovia/Locations/Old Bonegrinder/Old Bonegrinder.md",
+    "Barovia/Locations/Village of Barovia/Special Events.md",
     "Barovia/Locations/Village of Barovia/Church.md",
     "Barovia/Locations/Village of Barovia/Death House.md",
     "Barovia/Locations/Village of Barovia/Cemetary.md",
     "Barovia/Locations/Gates of Ravenloft.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Ravenloft.md",
     "Barovia/Barovia.md",
-    "NPCs/Strahd/Strahd.md",
-    "NPCs/Barovians.md",
-    "NPCs/Ireena.md",
-    "NPCs/Ismark.md"
+    "NPCs/Strahd/Strahd.md"
   ]
 }
