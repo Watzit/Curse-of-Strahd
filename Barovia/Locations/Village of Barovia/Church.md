@@ -82,10 +82,11 @@ FORTUNES OF RAVENLOFT
 If your card reading reveals that a treasure is in the undercroft, it's contained in a moldy, old chest in the southwest corner of the room. The chest is unlocked and not trapped.
 
 E6. CEMETERY
+_________________
+"A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet."
+_________________
 
-A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
-
-During daytime, the cemetery is a still and peaceful place. Every night at midnight, however, a ghostly pro­ cession takes place (see "March of the Dead" below).
+During daytime, the cemetery is a still and peaceful place. Every night at midnight, however, a ghostly procession takes place (see "March of the Dead" below).
 
 E7. HAUNTED HOUSE  
 This haunted house is described in appendix B,
