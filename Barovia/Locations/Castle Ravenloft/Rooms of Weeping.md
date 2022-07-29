@@ -159,15 +159,16 @@ The upper floor of the tower contains 10 pieces of jewelry (250 gp each) in a re
 FORTUNES OF RAVENLOFT
 
 If your card reading reveals that a treasure is here, it is lying atop the coins on the ground floor inside the tower.
-
 If your card reading indicates an encounter with [[Strahd]] in this area, he is perched atop the tower.
 
 K42. KING'S BEDCHAMBER
+_____
+"Sweet smells waft from this delicately lit room. A great arched window along the west wall is covered by heavy red draperies, their golden tassels glinting in the light of three candelabras sitting atop small tables about the room. Tall white candles burn with bright, steady light.  
 
-Sweet smells waft from this delicately lit room. A great arched window along the west wall is covered by heavy red draperies, their golden tassels glinting in the light of three candelabras sitting atop small tables about the room. Tall white candles burn with bright, steady light.  
-A large bed, canopied by silk curtains, sits with its headboard against the north wall. Carved into the head­ board with great skill is a large "Z." Lying amid the velvet and satin sheets and bedclothes is a young woman in a nightgown. One of her dainty slippers has fallen to the floor at the bed's foot.
+A large bed, canopied by silk curtains, sits with its headboard against the north wall. Carved into the headboard with great skill is a large "Z." Lying amid the velvet and satin sheets and bedclothes is a young woman in a nightgown. One of her dainty slippers has fallen to the floor at the bed's foot."
+_____
 
-Arched double doors.Jead 'rrom th. is ro·om to the south and east.
+Arched double doors. Lead from this room to the south and east.
 
 The window is divided into four tall panes of glass, each enclosed by a lead framework. The two outermost sections have small iron hinges built into them so that they can be opened, as well as iron latches to lock them .Jn place when they're closed. The window looks out onto the parapet (area K46).
 
