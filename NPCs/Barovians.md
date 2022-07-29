@@ -80,9 +80,7 @@ Two divine forces watch over the Barovian people: the Morninglord and Mother Nig
 
 • SpiritsdriftalongtheOldSvalichRoadtowardCastle [[Ravenloft]] in the dead of night. These phantoms are all that remain of [[NPCs/Strahd/Strahd|Strahd]]'s enemies, and this damnable fate awaits anyone who opposes him.
 
-The [[Vistani|Vistani]] serve the devil [[NPCs/Strahd/Strahd|Strahd]]. They alone are al­
-
-lowed to leave [[Barovia]].
+The [[Vistani|Vistani]] serve the devil [[NPCs/Strahd/Strahd|Strahd]]. They alone are allowed to leave [[Barovia]].
 
 • Neverharmaraven,lestillfortunebefallyou!
 
