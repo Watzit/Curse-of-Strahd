@@ -1,6 +1,6 @@
 ROOMSOFWEEPING
 
-Refer to map 5 of the castle for. area:sK35 through K46.
+Refer to map 5 of the castle for. areas K35 through K46.
 
 K35. GUARDIAN VERMIN
 ______
