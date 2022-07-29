@@ -210,9 +210,16 @@ _____
 
 This unseen servant was created by Strahd and is permanent until destroyed (see the unseen servant spell in the Player's Handbook). Roll a d6 to determine what the servant is carrying, or choose one of the options below.
 
-d6 Items
+| d6  | Items |
+| --- | ----- |
+|    1 |  A tarnished silver platter with a lid (worth 25 gp). If a character comes within S feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a crawling claw that attacks the nearest character.     |
+|  2   |       |
+|  3   |       |
+|  4   |       |
+|  5   |       |
+|  6   |       |
 
-A tarnished silver platter with a lid (worth 25 gp). If a character comes within S feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a crawling claw that attacks the nearest character.
+
 
 2.  2  A silver goblet (worth SO gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 (8dl0) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a potion ofhealing.
     
@@ -230,7 +237,7 @@ VAMPIRE SPAWN
 If any character has a passive Wisdom (Perception) score of 16 or higher, the party isn't surprised. In that case, read:
 
 ______
-Creatures with pale flesh scuttle across the ceiling like spiders, their red eyes glowing in the dark. As they draw near, their cracked and bloodstained lips open wide, revealing sharp fangs.
+"Creatures with pale flesh scuttle across the ceiling like spiders, their red eyes glowing in the dark. As they draw near, their cracked and bloodstained lips open wide, revealing sharp fangs."
 ______
 
 These minions of Strahd - former adventurers all creep along ceilings and drop down on unsuspecting prey. The vampire spawn fight until destroyed.
