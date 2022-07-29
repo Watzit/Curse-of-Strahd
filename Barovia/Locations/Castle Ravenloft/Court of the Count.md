@@ -157,15 +157,17 @@ K33. KING'S APARTMENT STAIR
 
 This dark hall is concealed behind two secret doors.
 
-This arched corridor has been swept clean. Oak paneling decorates the walls to a height of four feet. Mounted on the east wall above the wood paneling are three unlit oil lamps spaced ten feet apart. A plain wooden door is set into the west wall, and light seeps through its cracks. A staircase at the north end of the west wall ascends into darkness.
+_____
+"This arched corridor has been swept clean. Oak paneling decorates the walls to a height of four feet. Mounted on the east wall above the wood paneling are three unlit oil lamps spaced ten feet apart. A plain wooden door is set into the west wall, and light seeps through its cracks. A staircase at the north end of the west wall ascends into darkness."
+_____
 
-The staircase climbs 40 feet to areaK45. The door in the west wall opens into areaK32.
+The staircase climbs 40 feet to area K45. The door in the west wall opens into area K32.
 
 K34. SERVANTS' UPPER FLOOR
 
-Dirt-caked windows allow little light to enter this upstairs room. Broken bed frames and torn bits of mattress litter the floors. A tall, dusty wardrobe roughly shaped like a coffin, its black doors painted with fey creatures, stands between two cracked, full-length mirrors hanging on the
-
-Isouth wall. A staircase descends along the north wall. I
+______
+"Dirt-caked windows allow little light to enter this upstairs room. Broken bed frames and torn bits of mattress litter the floors. A tall, dusty wardrobe roughly shaped like a coffin, its black doors painted with fey creatures, stands between two cracked, full-length mirrors hanging on the south wall. A staircase descends along the north wall."
+______
 
 If someone opens the wardrobe, read:
 
