@@ -98,7 +98,7 @@ _____
 Attached to the east wall are two torch sconces. The southernmost one holds a torch with an intricate metal base. The other is empty. A skeleton in broken plate armor lies against the wall. The skeleton's right hand is on its throat, and its left hand holds the matching torch from the empty sconce."
 _____
 
-The coins scattered around the trapped chest total 50gp, 100 sp, and 2,000.cp. The chest weighs 40 pounds and is unlocked. When opened, it releases a cloud of sleeping gas that fills the room. Any creature in the room must succeed on a DC18 Constitution saving throw or be paralyzed for 4.lio14rs.If all 'the 'characters succumb to the gas, they.ari:COμnd·by the witches.who lair ,in area K56 and dragg�d\6 .;i.rea KSO,. the!) ·left there unharmed. If even one cha��cter.resist;s.the �ffecfof the gas, the witches do not appe�r; )f\ <>.(} ,·
+The coins scattered around the trapped chest total 50gp, 100 sp, and 2,000.cp. The chest weighs 40 pounds and is unlocked. When opened, it releases a cloud of sleeping gas that fills the room. Any creature in the room must succeed on a DC18 Constitution saving throw or be paralyzed for 4 hours. If all the characters succumb to the gas, they.ari:COμnd·by the witches.who lair ,in area K56 and dragg�d\6 .;i.rea KSO,. the!) ·left there unharmed. If even one cha��cter.resist;s.the �ffecfof the gas, the witches do not appe�r; )f\ <>.(} ,·
 
 The armored skeleton On·the floi:i'r is all:thaf.remains of an adventure�. His corp�e has,ndthing cif vali.te.
 
