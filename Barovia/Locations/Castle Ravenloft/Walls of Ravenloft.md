@@ -18,18 +18,19 @@ Each outer gate tower has an ironbound door with a built-in lock.
 
 Characters who enter a gate tower find themselves on a flag�tone floor with a hollow tower stretching high above them, The mechanisms for raising and lowering the drawbridge and portcullis fill both gate towers. The latch mechanism in each tower is magically activated by a word that only [[Strahd]] knows. It can also be activated with a successful casting of dispel magic (DC 14). Neither the drawbridge nor the portcullis will move until both latches are activated.
 
-K2. CENTER COURT GATE  
-Two gates, one north of the keep and one to the south,
+K2. CENTER COURT GATE 
 
-prevent easy access to what lies beyond them.
+Two gates, one north of the keep and one to the south, prevent easy access to what lies beyond them.
+_____
+"A massive wall juts out to connect the outer walls of the castle with the keep. A twenty-foot-wide, twenty-foot-tall archway offers passage through the connecting wall but is blocked by a rusting iron portcullis."
+____
 
-A massive wall juts out to connect the outer walls of the castle with the keep. A twenty-foot-wide, twenty-foot-tall archway offers passage through the connecting wall but is blocked by a rusting iron portcullis.
-
-The portcullis is unlocked and can be lifted with a suc­ cessful DC 15 Strength check. It can also be opened with a command word that only [[Strahd]] and Cyrus Bel­ view (area K62) know. Unless the portcullis is wedged or propped open, it falls back into place once it is let go.
+The portcullis is unlocked and can be lifted with a successful DC 15 Strength check. It can also be opened with a command word that only [[Strahd]] and Cyrus Belview (area K62) know. Unless the portcullis is wedged or propped open, it falls back into place once it is let go.
 
 K3. SERVANTS' COURTYARD
-
-This courtyard northeast of the keep is enclosed by tow­ ering walls. A stone carriage house with hinged wooden doors stands silent in the corner where the outer walls meet. Across from the carriage house, a slender wooden door reinforced with iron bands leads into the keep.
+______
+"This courtyard northeast of the keep is enclosed by towering walls. A stone carriage house with hinged wooden doors stands silent in the corner where the outer walls meet. Across from the carriage house, a slender wooden door reinforced with iron bands leads into the keep."
+___
 
 The carriage house is described in area K4. The wooden door, which leads to area K23, is swollen and stuck in its frame. A character can shoulder open the stuck door with a successful DC 10 Strength check.
 
