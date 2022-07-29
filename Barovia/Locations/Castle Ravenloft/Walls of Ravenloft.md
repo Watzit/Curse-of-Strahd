@@ -63,7 +63,7 @@ ______
 "Underneath the platform on which you stand, about one hundred feet down, a stone construction protrudes from the cliff face. Three dirt-caked windows are set into it."
 ______
 
-The windows are so dirty as to be opaque, although a character within reach of one can scrape the dirt away and see a dusty tomb beyond (area K88). Characters who try to reach the windows from the overlook must descend 110 feet and move 20 feet back under the plat­ form. This descent can't be accomplished without the aid of magic or the use of a climber's kit.
+The windows are so dirty as to be opaque, although a character within reach of one can scrape the dirt away and see a dusty tomb beyond (area K88). Characters who try to reach the windows from the overlook must descend 110 feet and move 20 feet back under the platform. This descent can't be accomplished without the aid of magic or the use of a climber's kit.
 
 Anyone who falls from the overlook plummets 1,000 feet.
 
