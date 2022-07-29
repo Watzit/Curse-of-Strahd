@@ -171,16 +171,20 @@ SHADOWS
 If one or more characters have a passive Wisdom (Per­ c eption) score of 16 or higher, read:
 
 _______
-You can't shake the feeling that something is behind you. When you look back, you see a shadow, tall and still, but nothing of its dimensions that could cast it.
+"You can't shake the feeling that something is behind you. When you look back, you see a shadow, tall and still, but nothing of its dimensions that could cast it."
 _______
 
-If more than one shadow is present, the others are close by but hidden in the darkness. These undead shadows follow the characters but do not attack unless attacked
+If more than one shadow is present, the others are close by but hidden in the darkness. These undead shadows follow the characters but do not attack unless attacked first. They otherwise obey Strahd's commands.
+
+STRAHD VON ZAROVICH
 
 Strahd makes a surprise appearance.
 
+______
 A crack of thunder shakes the castle, stirring the dust and cobwebs. You hear a voice: "Good evening."
+______
 
-tiny black wings. Suddenly, a dark cloud of bats descends Iter, this encounter doesn't occur. Otherwise, Strahd's I upon you!
+Any character who has a passive Wisdom (Perception) score lower than 19 is surprised as Strahd appears seemingly out of nowhere. The vampire prefers to attack a surprised character, choosing the one closest to him. Otherwise, see appendix D for the vampire's tactics.
 
 
 
