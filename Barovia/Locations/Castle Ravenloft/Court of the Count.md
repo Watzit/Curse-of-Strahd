@@ -1,12 +1,11 @@
-COURT OF THE COUNT
-
 Refer to map 4 of the castle for areas K25 through K34.
 
 K25. AUDIENCE HALL
+_____
+"Dim light from the courtyard falls into this great hall through the broken glass and iron latticework of a large window in the west wall. This immense room is a place of chilly, brooding darkness. Empty iron sconces dot the walls. Hundreds of dust-laden cobwebs drape the hall, hiding the ceiling from view. Directly across from the window stand a set of double doors in the east wall. Farther south, a single door also leads from the east wall. Staircases at both ends of the north wall lead down.
 
-Dim light from the courtyard falls into this great hall through the broken glass and iron latticework of a large window in the west wall. This immense room is a place of chilly, brooding darkness. Empty iron sconces dot the walls. Hundreds of dust-laden cobwebs drape the hall, hiding the ceiling from view. Directly across from the window stand a set of double doors in the east wall. Farther south, a single door also leads from the east wall. Staircases at both ends of the north wall lead down.
-
-At the far southern end of the hall, a large wooden throne stands atop a marble dais. The high-backed throne faces south, away from most of the room.
+At the far southern end of the hall, a large wooden throne stands atop a marble dais. The high-backed throne faces south, away from most of the room."
+_____
 
 A secret door in the south wall leads to area K13. It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom (Perception) check to find. 
 Both staircases in the north wall lead down to area Kl9. The eastern double doors can be pulled open to reveal area K26 beyond. The single door in the east wall opens into area K30.
@@ -27,21 +26,21 @@ ten feet ahead, Between these doors, a ten-foot-wide corridor stretches north to
 
 The "floating" skeletons hang from pegs on the north and south walls.The skeletons, which were assembled by Cyrus Belview (see area K62), are held together with wire and are harmless. Behind the skeleton on the north wall is a secret door that can be pushed open into area K33.
 
-If the characters enter this hall by way of the secret door that adjoins area K33, they see the skeleton hang­ ing on the inside of the secret door as soon as they pull it open, and, with a light source or darkvision, can see the skeleton at the south end of the hall as well.
+If the characters enter this hall by way of the secret door that adjoins area K33, they see the skeleton hanging on the inside of the secret door as soon as they pull it open, and, with a light source or darkvision, can see the skeleton at the south end of the hall as well.
 
 K27. KING'S HALL
 
-This twenty-foot-high hall has a dark, vaulted ceiling draped with cobwebs. A low moan seems to travel the length of the corridor as it rises and falls, intoning sad­ ness and despair.
+This twenty-foot-high hall has a dark, vaulted ceiling draped with cobwebs. A low moan seems to travel the length of the corridor as it rises and falls, intoning sadness and despair.
 
 The moaning is only the wind.
 
-Characters who examine the ceiling can, with a suc­ cessful DC 20 Wisdom (Perception) check, spot pulleys and a rope that run the full length of the corridor along the ceiling, well hidden by the cobwebs, These items are explained in "Flight of the Vampire" below.
+Characters who examine the ceiling can, with a successful DC 20 Wisdom (Perception) check, spot pulleys and a rope that run the full length of the corridor along the ceiling, well hidden by the cobwebs, These items are explained in "Flight of the Vampire" below.
 
 Halfway down the hall on the south side is a narrow secret door that can be pulled open to reveal area K31.
 
 FLIGHT OF THE VAMPIRE
 
-Hidden in a compartment above the western set of dou­ ble doors is a dressed wooden mannequin that looks exactly like [[Strahd]]. It Weil.rs a blackcloak, its fangs are bared; and its -arms and clawed fingers are outstretched in a threatetiing ,manner.The mannequin is attached
+Hidden in a compartment above the western set of double doors is a dressed wooden mannequin that looks exactly like [[Strahd]]. It Weil.rs a blackcloak, its fangs are bared; and its -arms and clawed fingers are outstretched in a threatetiing ,manner.The mannequin is attached
 
 to ·a roJe that runs" through pull�ys fc.!stened alo!"}g the length of the hallway cei_liQg. ·
 
