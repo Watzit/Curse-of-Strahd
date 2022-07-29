@@ -66,20 +66,24 @@ K29. CREAKY LANDING
 ____
 "This staircase is made of old wood that strains underfoot, creaking and growing."
 ____
+The staircase climbs from area K16 to area K28. It seems unstable but is sturdy. The creatures in area K28 can't be surprised by anyone climbing the creaky steps.
 
 K30. KING'S ACCOUNTANT
-
-Dusty scrolls and tomes line the walls of this room. More scrolls and books lie scattered on the floor, around four heavy wooden chests fitted with study iron locks. The only unobstructed floor space is directly in front of the doors on the east and west walls.
+______
+"Dusty scrolls and tomes line the walls of this room. More scrolls and books lie scattered on the floor, around four heavy wooden chests fitted with study iron locks. The only unobstructed floor space is directly in front of the doors on the east and west walls.
 
 In the center of this clutter stands a great black desk.
 
-A figure crouches atop a tall stool, scratching on a seem­ ingly endless scroll of paper with a dry quill pen. Nearby a tasseled rope hangs from a hole in the ceiling.
+A figure crouches atop a tall stool, scratching on a seemingly endless scroll of paper with a dry quill pen. Nearby a tasseled rope hangs from a hole in the ceiling."
+______
 
-The figure is Lief Lipsiege (CE male human com­ moner), an accountant. He is chained to the heavy wooden desk and has no interest in the characters or their concerns. Under no circumstances does he voluntarily leave the room. Lief pulls the rope the instant he feels threatened.
+The figure is Lief Lipsiege (CE male human commoner), an accountant. He is chained to the heavy wooden desk and has no interest in the characters or their concerns. Under no circumstances does he voluntarily leave the room. Lief pulls the rope the instant he feels threatened.
 
-Pulling the rope requires an action. When the rope is pulled, a tremendously loud gong sounds. One or more creatures arrive ld6 rounds later, attacking any charac­ ters still in the room. Determine the creatures randomly by rolling a d4:
+Pulling the rope requires an action. When the rope is pulled, a tremendously loud gong sounds. One or more creatures arrive ld6 rounds later, attacking any characters still in the room. Determine the creatures randomly by rolling a d4:
 
-d4 Creature
+| d4  | Creature |
+| --- | -------- |
+|     |          |
 
 ld6 shadows
 
