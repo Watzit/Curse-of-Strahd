@@ -1,9 +1,10 @@
 This encounter can occur anywhere along the base of Mount Baratok.
-
-North of the mountain lake, the trees begin their steady climb up the slopes of Mount Baratok, its monolithic presence oppressive at this distance. The ground here  
+________________________________________________
+"North of the mountain lake, the trees begin their steady climb up the slopes of Mount Baratok, its monolithic presence oppressive at this distance. The ground here  
 is rocky, uneven, and tiring to navigate. Even the wolves avoid this neck of the woods. Soon, you climb above the blanket of fog that engulfs the valley. Dark thunderclouds roll overhead.
 
-You see an elk standing on a rocky spur about sixty feet away. Suddenly, it assumes the form of a man in tattered black robes. His hair and beard are long, black, and streaked with gray, and his eyes crackle with eldritch power.
+You see an elk standing on a rocky spur about sixty feet away. Suddenly, it assumes the form of a man in tattered black robes. His hair and beard are long, black, and streaked with gray, and his eyes crackle with eldritch power."
+________________________________________________
 
 The Mad Mage of Mount Baratok (CN male human archmage) came to [[Barovia]] more than a year ago to free its people from [[NPCs/Strahd/Strahd|Strahd]]'s tyranny, but he underestimated [[NPCs/Strahd/Strahd|Strahd]]'s hold over the land and the creatures in it. After a battle between the two in [[Castle Ravenloft]], [[NPCs/Strahd/Strahd|Strahd]] drove the Mad Mage to the mountains and sent the wizard hurling over [[Tser Falls]] (area H). The wizard, his staff and spellbook lost, survived the fall and retreated into the mountains, hoping to regain his power, only to be driven mad by the realisation that he no longer has any hope of defeating [[NPCs/Strahd/Strahd|Strahd]] or freeing the people of the vampire's damned realm.
 
@@ -16,7 +17,6 @@ Under normal circumstances, a greater restoration spell cast on the Mad Mage wou
 The Mad Mage has a different spell list from that of the archmage in the Monster Manual, and he has already used one 1st-level spell slot to cast mage armor on himself, one 4th-level spell slot to cast polymorph on himself, one 7th-level spell slot to cast Mordenkainen's magnificent mansion (see "The Mad Mage's Mansion"), and one 8th-level spell slot to cast mind blank on himself.
 
 Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp
-
 1st level (4 slots): detect magic, mage armor, magic missile, shield
 2nd level (3 slots): mirror image, misty step, web  
 3rd level (3 slots): counterspe/1,jly, lightning bolt  

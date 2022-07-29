@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Lake Zarovich.md",
-            "mode": "preview",
+            "file": "Barovia/Locations/Mad Mage of Mount Baratok.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Lake Zarovich.md",
+                "file": "Barovia/Locations/Mad Mage of Mount Baratok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "Barovia/Locations/Lake Zarovich.md",
     "Barovia/Locations/Gates of Ravenloft.md",
     "Barovia/Locations/Black Carriage.md",
     "Barovia/Locations/Tser Falls.md",
@@ -113,7 +114,6 @@
     "Barovia/Locations/River Ivlis Crossroads.md",
     "Barovia/Locations/Mad Mage of Mount Baratok.md",
     "Barovia/Locations/River Ivlis.md",
-    "Barovia/Locations/Lake Zarovich.md",
     "Barovia/Locations/Gates of Barovia.md"
   ]
 }

@@ -1,8 +1,11 @@
-At the foot of a mountain, nestled in the misty forest, is a large lake. The water is perfectly still and dark, reflecting the black clouds overhead like a monstrous mirror.
+"At the foot of a mountain, nestled in the misty forest, is a large lake. The water is perfectly still and dark, reflecting the black clouds overhead like a monstrous mirror."
+________________________________________________
 
 If the characters arrive along the shore north of [[Vallaki]] in the daytime, add:
+________________________________________________
 
-Pulled up along the south shore are three small rowboats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand.
+"Pulled up along the south shore are three small rowboats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand."
+________________________________________________
 
 Each rowboat can safely hold five people. The person fishing on the lake is Bluto Krogarov (NE male human commoner), a resident of [[Vallaki]]. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named Arabelle (LN female human commoner with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying prone so that she can't be seen or heard from the shore.
 
