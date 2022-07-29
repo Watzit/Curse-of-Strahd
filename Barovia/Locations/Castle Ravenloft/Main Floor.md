@@ -203,12 +203,9 @@ The Heart of Sorrow is a 10-foot-diameter red crystal heart that floats near the
 
 [[Strahd]] and the Heart of Sorrow are connected, such that any damage [[Strahd]] takes is transferred to the heart. If the heart absorbs damage that drops it to 0 hit points, it is destroyed, and [[Strahd]] takes any leftover damage. The Heart of Sorrow regains all its hit points at dawn if it has at least 1 hit point remaining.
 
-The Heart of Sorrow is held aloft by the will of [[Strahd]].
+The Heart of Sorrow is held aloft by the will of [[Strahd]]. Casting dispel magic on it has no effect.  
 
-Casting dispel magic on it has no effect.  
-Animated Halberds. Mounted on the walls along the
-
-section of staircase nearest the heart are ten animated halberds; use the stat block for the flying sword in the Monster Manual, but increase each halberd's damage to ldlO + 1 and reduce its AC to 15. The halberds attack any creature that threatens the Heart of Sorrow.
+Animated Halberds. Mounted on the walls along the section of staircase nearest the heart are ten animated halberds; use the stat block for the flying sword in the Monster Manual, but increase each halberd's damage to ldlO + 1 and reduce its AC to 15. The halberds attack any creature that threatens the Heart of Sorrow.
 
 Vampire Spawn. [[Strahd]] senses if any damage is done to the Heart of Sorrow and sends four vampire spawn to destroy those responsible. These vampire spawn are former adventurers whom [[Strahd]] defeated long ago. They use their Spider Climb feature to scuttle along the tower walls and arrive in 3 rounds.
 
@@ -217,10 +214,13 @@ K20A. TOWER HALL STAIR
 This stairway connects areas K20 and K71.
 
 K21. SOUTH TOWER STAIR
-
-Fluttering torches in iron sconces illuminate this spiral staircase. A chill wind rushes down the circling stairway, seeming to kill the very heat of the torches.
+_____
+"Fluttering torches in iron sconces illuminate this spiral staircase. A chill wind rushes down the circling stairway, seeming to kill the very heat of the torches."
+_____
 
 These stairs start at area K7 3 and. go up through areas K61, K9, K30, and K35 before ending at area K47.
+
+
 
 "The castle courtyard is visible through arrow slits in the walls."
 
