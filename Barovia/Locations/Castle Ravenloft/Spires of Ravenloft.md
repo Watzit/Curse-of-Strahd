@@ -2,9 +2,7 @@ Refer to maps 6 through 10 of [[Castle Ravenloft]] for areas K47 through K60.
 
 K47. PORTRAIT OF [[STRAHD]]
 
-You come to a dark landing ten feet wide and twenty
-
-feet long. A cold draft of wind rushes down the spiral staircase at the north end of the east wall and whistles mournfully through the room before streaming down the stairs to the south.
+You come to a dark landing ten feet wide and twenty feet long. A cold draft of wind rushes down the spiral staircase at the north end of the east wall and whistles mournfully through the room before streaming down the stairs to the south.
 
 An ornate, square rug covers the floor to the south. Set into the west wall is an ironbound wooden door with a wooden trapdoor set into the floor in front of it. Hanging on the north wall above the trapdoor is a framed portrait of a handsome, well-dressed man with a serene yet pene­ trating gaze.
 
