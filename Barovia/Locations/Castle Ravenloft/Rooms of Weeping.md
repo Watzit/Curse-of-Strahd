@@ -26,11 +26,11 @@ _____
 
 There are two explanations for the burst cake and broken window. Choose the one you think is creepier:
 
--   Strahd smashesthecakeandbreaksthewindowto make the characters think something terrible has es­ caped and is now stalking them.
-    
--   [[Strahd]]'shateassumesacorporealform,burstsout of the cake (the symbol of Sergei and [[Tatyana]]'s love), and escapes through the window. "[[Strahd]]'s hate" has the statistics of an invisible stalker and tries to kill whichever character is carrying the groom figurine.
-    
-    The room has wooden doors in the north and west walls, and an ornate steel door in the east wall (see area K35 for details).
+-   Strahd smashes the cake and breaks the window to make the characters think something terrible has escaped and is now stalking them.
+
+-   [[Strahd]]'s hate assumes a corporeal form bursts out of the cake (the symbol of Sergei and [[Tatyana]]'s love), and escapes through the window. "[[Strahd]]'s hate" has the statistics of an invisible stalker and tries to kill whichever character is carrying the groom figurine.
+
+- The room has wooden doors in the north and west walls, and an ornate steel door in the east wall (see area K35 for details).
     
     The harp stands 6\li feet tall, weighs close to 300 pounds, and is fashioned of dark, stained wood carved with images of harts and roses. Its taut strings are made of gut.
     
