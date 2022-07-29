@@ -97,15 +97,15 @@ ___________
 The crawling claws gang up on one party member. During the confusion, one of the claws tries to crawl into the character's backpack and hide there. It makes  
 a Dexterity (Stealth) check contested by the character's passive Wisdom (Perception) score. If the claw loses the contest, the character sees the claw enter the backpack. If the claw wins the contest, it waits until the character takes a long rest before scuttling out to attack.
 
-I I I
+CRAWLING STRAHD ZOMBIE
 
 The groans are coming from a Strahd zombie that is missing both of its legs, so that only its head, torso, and arms remain. It uses its arms to drag itself across the floor. The crawling zombie has 15 hit points remaining.
 
-If the characters are moving quietly and not using light sources, they can try to hide from the crawl­ ing zombie.
+If the characters are moving quietly and not using light sources, they can try to hide from the crawling zombie.
 
-EZMERELDA o'AVENIR
+EZMERELDA D'AVENIR
 
-IEzmerelda has cast a greater invisibility spell on herself and is stealthily exploring the castle. Choose one char­ acter in the back rank of the party's marching order, andI read the following text to that character's player:
+Ezmerelda has cast a greater invisibility spell on herself and is stealthily exploring the castle. Choose one character in the back rank of the party's marching order, andI read the following text to that character's player:
 
 You feel a gentle tap on your shoulder but see nothing behind you.
 
