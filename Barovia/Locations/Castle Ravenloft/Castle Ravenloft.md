@@ -186,13 +186,19 @@ ______
 
 Any character who has a passive Wisdom (Perception) score lower than 19 is surprised as Strahd appears seemingly out of nowhere. The vampire prefers to attack a surprised character, choosing the one closest to him. Otherwise, see appendix D for the vampire's tactics.
 
+SWARMS OF BATS
 
+______
+You hear a peal of thunder, followed by the flapping of tiny black wings. Suddenly, a dark cloud of bats descends upon you!
+______
+
+These bats are the servants of Strahd. They attack the characters without provocation.
 
 I You kick something-a trinket buried in the dust. I ITo determine what the character finds, roll on the Trin­ I
 
 
 
-These bats are the servants of Strahd. They attack the characters without provocation.
+
 
 TRINKET
 
