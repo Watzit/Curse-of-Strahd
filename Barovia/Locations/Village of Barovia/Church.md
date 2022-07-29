@@ -59,11 +59,11 @@ Donavich (LG male human acolyte) has been praying throughout the night. His voic
 Doru hasn't fed since he was imprisoned, and he cries out to his father at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how  
 to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.
 
-In addition to the lore known to all [[Barovians]] (see "Barovian Lore" in chapter 2), Donavich knows the fol­ lowing useful information:
+In addition to the lore known to all [[Barovians]] (see "Barovian Lore" in chapter 2), Donavich knows the following useful information:
 
-lreena Kolyana isn't the natural daughter of Kolyan lndirovich. Although [[Ireena]] never knew, Kolyan found her at the edge of the [[Svalich Woods]] near the [[Pillarstone of Ravenloft]]. She was but a girl then and seemed to have no memory of her past. Kolyan ad­ opted her and loved her dearly.
+- lreena Kolyana isn't the natural daughter of Kolyan lndirovich. Although [[Ireena]] never knew, Kolyan found her at the edge of the [[Svalich Woods]] near the [[Pillarstone of Ravenloft]]. She was but a girl then and seemed to have no memory of her past. Kolyan adopted her and loved her dearly.
 
-Every night at midnight, the spirits of dead adventurers rise up out of the church graveyard, forming a silent procession as they walk the road toward [[Castle Ravenloft]]. (See "March of the Dead" in the "Special Events" section at the chapter's end.)
+ - Every night at midnight, the spirits of dead adventurers rise up out of the church graveyard, forming a silent procession as they walk the road toward [[Castle Ravenloft]]. (See "March of the Dead" in the "Special Events" section at the chapter's end.)
 
 Funeral for the Burgomaster. If the characters bring Kolyan Indirovich's body to the church, Donavich presses the characters into helping him bury the bur­ gomaster in the cemetery (area E6) at dawn. During the burial, Donavich offers prayers to the Morning­ lord in exchange for Kolyan Indirovich's deliverance from [[Barovia]].
 
