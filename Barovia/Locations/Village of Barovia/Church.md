@@ -13,28 +13,27 @@ E5A. HALL
 _______________________________________
 The doors open to reveal a ten-foot-wide, twenty-footlong hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.
 
-You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer. Sud­ denly, the prayer is blotted out by an inhuman scream that rises up from beneath the wooden floor.
-
+You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer. Suddenly, the prayer is blotted out by an inhuman scream that rises up from beneath the wooden floor.
+_______________________________________
 The scream comes from the church's undercroft (area ESg). The soft voice uttering the prayer belongs to Donavich, the priest (see area ESf).
 
-E5B. DoRu's BEDROOM
-
-This dirty, lightless room contains a wooden bed with
-
-a straw-filled mattress. Mounted above the bed's head­ board is a wooden holy symbol.
+E5B. DORU'S BEDROOM
+_______________________________________
+This dirty, lightless room contains a wooden bed with a straw-filled mattress. Mounted above the bed's headboard is a wooden holy symbol.
+_______________________________________
 
 This room once belonged to Doru, Donavich's son, who is trapped in the undercroft (area ESg). It hasn't been used in more than a year and contains nothing of value.
 
 E5c. DONAVICH's BEDROOM
-
-This dirty room contains a wooden bed with a straw­ filled mattress, next to which rests a small table with an oil lamp burning brightly on it. Mounted above the bed's headboard is a wooden sun-shaped holy symbol.
-
+_______________________________________
+This dirty room contains a wooden bed with a straw-filled mattress, next to which rests a small table with an oil lamp burning brightly on it. Mounted above the bed's headboard is a wooden sun-shaped holy symbol.
+_______________________________________
 This is Donavich's room and contains nothing of value.
 
 E5D. TRAPDOOR
-
+_______________________________________
 Time and neglect have punched holes in the ceiling of this moldy room, which contains a few broken roof shingles amid puddles of water. In one corner, set into the floor, is a heavy wooden trapdoor held shut with a chain and a padlock. A young man's screams of anguish can be heard through the door.
-
+_______________________________________
 Donavich lost the key to the iron padlock. If the chain is removed and the trapdoor is opened, the screaming in the undercroft stops. The trapdoor is swollen and stuck in its frame, so that a successful DC 12 Strength check is required to pull it open. Below it is a wooden staircase that descends 15 feet into the undercroft (area ESg).
 
 E5E. OFFICE
