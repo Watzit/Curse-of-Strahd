@@ -123,11 +123,13 @@ FORTUNES OF RAVENLOFT
 
 If your card reading reveals that a treasure is here, it lies on the floor behind the altar.
 
-If your card reading indicates an encounter with [[Strahd]] in this area, he is among the bats fluttering be­ low the ceiling or he is standing at one end of the chap­ el-a dark shape in the vast hall.
+If your card reading indicates an encounter with [[Strahd]] in this area, he is among the bats fluttering below the ceiling or he is standing at one end of the chapel-a dark shape in the vast hall.
 
-Kl6. NORTH CHAPEL ACCESS
+K16. NORTH CHAPEL ACCESS
 
+______
 This arched room connects a vast chamber to the east and a staircase that rises to the west. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with muscular builds. Black shadows fall across their faces.
+______
 
 The statues are harmless. The vast chamber to the east is the chapel (area K15). The staircase to the west is de­ scribed in area K29.
 
