@@ -13,26 +13,27 @@ Underneath the rug is a bare stone floor.
 The wooden, square trapdoor is 4 feet on.a.side and as thick as··the floor, with recessed iron hinges and an iron ring built into the side opposite the hinges. 
 Pulling up on the ring opens the door. Below the trapdoor, characters see one of two things: either a 170-foot-deep shaft (area K31a) or, if the elevator trap has been activated (see area K61), a stone elevator compartment with a secret hatch in its top.
 
-The portrait on the wall depicts [[Strahd]] von Zarovich before he became a vampire. Even in life, he was pale. The eyes of the portrait seem to watch and follow the characters as they explore the area. The picture frame is bolted to the wall and can't be removed without de­ stroying it.
+The portrait on the wall depicts [[Strahd]] von Zarovich before he became a vampire. Even in life, he was pale. The eyes of the portrait seem to watch and follow the characters as they explore the area. The picture frame is bolted to the wall and can't be removed without destroying it.
 
-If the characters attack the rug or the picture, or if they attempt to remove either item, the guardian por­ trait (see appendix D) attacks.
+If the characters attack the rug or the picture, or if they attempt to remove either item, the guardian portrait (see appendix D) attacks.
 
 K48. 0FFSTAIR  
-This spiraling staircase is dark and dusty.
+_____
+"This spiralling staircase is dark and dusty."
+_____
 
-II This stairway rises from area K47, past area K54,
-
-to area K57.
+This stairway rises from area K47, past area K54, to area K57.
 
 K49. LOUNGE
+_____
+"As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded."
+_____
 
-As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
+The youthful man on the couch is Escher, a dashing vampire spawn to whom [[Strahd]] has shown favor in the past. Escher is feeling somewhat neglected of late and has retreated here until [[Strahd]]'s mood improves.  
 
-The youthful man on the couch is Escher, a dashing vampire spawn to whom [[Strahd]] has shown favor in  
-the past. Escher is feeling somewhat neglected of late and has retreated here until [[Strahd]]'s mood improves.  
 If attacked, he hurls himself out the window and lands like a cat on the roof of the keep (area K53). He leads pursuers right to [[Strahd]], wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face [[Strahd]]).
 
-In conversation, Escher displays wit with a hint of mel­ ancholy. Beneath his arch mood is a dread that [[Strahd]] is growing bored of him and will lock him in the cata­ combs (area K84) with [[Strahd]]'s other castoff consorts.
+In conversation, Escher displays wit with a hint of melancholy. Beneath his arch mood is a dread that [[Strahd]] is growing bored of him and will lock him in the catacombs (area K84) with [[Strahd]]'s other castoff consorts.
 
 The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The leaded glass doesn't allow for much of a view. If a character opens a window and leaves it open, there's a 50 percent chance that a vampire spawn crawling around the outside wall of the tower notices the open window and investigates.
 
