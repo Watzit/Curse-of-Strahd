@@ -83,16 +83,10 @@ Pulling the rope requires an action. When the rope is pulled, a tremendously lou
 
 | d4  | Creature |
 | --- | -------- |
-|     |          |
-
-ld6 shadows
-
-2.  2  ld4 vampire spawn
-    
-3.  3  ld4 wights
-    
-4.  4  l wraith and ld4 + l specters
-    
+| 1   |  1d6 shadows        |
+| 2   |  1d4 vampire spawn        |
+| 3   |  1d4 wights        |
+| 4|  1 wraith and 1d4 + 1 specters        |
 
 Lief was pressed into service by [[Strahd]] many years ago. He keeps all the books for [[Strahd]], recording the vampire's riches and conquests. Lief has been here longer than he can remember. He is grumpy because [[Strahd]] doesn't allow him to know about all his trea­ sures. Even so, Lief has found out where one of [[Strahd]]'s secret treasures lies. If he is treated with kindness,
 
