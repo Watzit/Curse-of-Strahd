@@ -122,16 +122,16 @@ _____
 "Cold air fills this rectangular shaft, the walls of which are coated with mildew and worn smooth. Taut iron chains extend up and down the shaft. The links of the chains are thick and covered with grease."
 _____
 
-The shaft is 170 feet tall. It starts at area K61, climbs 90 feet to area K31, another 40 feet to area K31b, and another 40 feet to area K47. When the elevator trap is activated (see areaK61 for details), a stone elevator compartment measuring 10 feet on a side rises up the western half of the shaft. At the same time, a solid block of stone, also 10 feet on a side, descends in the eastern half of the shaft, acting as a counterweight. Both stone blocks have thick iron chains bolted to them, by which they are hoisted and lowered them as needed.
+The shaft is 170 feet tall. It starts at area K61, climbs 90 feet to area K31, another 40 feet to area K31b, and another 40 feet to area K47. When the elevator trap is activated (see area K61 for details), a stone elevator compartment measuring 10 feet on a side rises up the western half of the shaft. At the same time, a solid block of stone, also 10 feet on a side, descends in the eastern half of the shaft, acting as a counterweight. Both stone blocks have thick iron chains bolted to them, by which they are hoisted and lowered them as needed.
 
 Scaling the shaft is impossible without the aid of magic or the use of a climber's kit, because the walls are smooth and slick with mildew, and the greasy iron chains are too thick and slippery to grasp.
 
-Set into the roof of the shaft is a 5-foot-square stone trapdoor that can be pushed open to reveal areaK47.
+Set into the roof of the shaft is a 5-foot-square stone trapdoor that can be pushed open to reveal area K47.
 
 K31B. SHAFT ACCESS
-
-This ten-foot-square room overlooks a vertical shaft to the south that plunges into darkness and contin­ ues upward.
-
+____
+"This ten-foot-square room overlooks a vertical shaft to the south that plunges into darkness and continues upward."
+____
 This vantage point is 130 feet from the bottom of the shaft (areaK31a). Forty feet down is areaK31, and 40 feet up is a stone trapdoor in the ceiling that opens into areaK47.
 
 A door in the north wall is easy to spot from this side (no ability check required) and opens into areaK39.
