@@ -16,7 +16,7 @@ _____
 "Dust assaults your lungs. A sweet yet pungent smell of decay fills this room, in the center of which stands a long oak table. A blanket of dust covers the tabletop and its fine china and silverware. In the center of the table, a large, tiered cake leans heavily to one side. The once white frosting has turned green with age. Cobwebs hang like dusty lace down every side of the cake. A single doll figure of a well-dressed woman adorns the crest of the cake. Suspended above is a web-shrouded chandelier of forged iron. An arched window in the south wall is draped with heavy curtains. Resting in a wooden stand by the window is a dusty lute, and standing quietly in the southwest corner is a tall harp shrouded in cobwebs."
 _____
 
-The wedding cake is over four centuries old, kept in its current rotten state by the will of [[Strahd]]. The toy figure of the groom from the top of the cake was cast on the floor long ago. A character who searches the dusty floor finds the figurine with a successful DC 10 Wisdom (Per­ ception) check.
+The wedding cake is over four centuries old, kept in its current rotten state by the will of [[Strahd]]. The toy figure of the groom from the top of the cake was cast on the floor long ago. A character who searches the dusty floor finds the figurine with a successful DC 10 Wisdom (Perception) check.
 
 If the characters take the groom figurine out of the room, read the following if they return to the room at a later time:
 
