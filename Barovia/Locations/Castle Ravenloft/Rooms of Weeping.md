@@ -190,25 +190,29 @@ TORMENTED SPIRIT
 The spirit of Varushka, a maid, haunts this chamber. She took her own life when [[Strahd]] began feeding on her, denying him the chance to turn her into a vampire spawn.
 
 The blood in the tub isn't real, but rather a manifestation of Varushka's tormented spirit. If the blood is disturbed in any way, read:
+
 ____
-A blood-drenched creature explodes out of the tub and attaches to the ceiling, cackling maniacally. Blood pours off its pale flesh, bony limbs, and stringy hair as it scuttles away.
+"A blood-drenched creature explodes out of the tub and attaches to the ceiling, cackling maniacally. Blood pours off its pale flesh, bony limbs, and stringy hair as it scuttles away."
 ____
+
 The creature that erupts from the tub is no more real than the blood. It can't be harmed and doesn't attack. It scuttles across the ceiling, disappearing into area K44 through one of the archways. Once there, it disappears.
 
 K44. CLOSET
-
-The walls here are lined with iron hooks, upon which hang black capes and formal wear. Two arched windows in the south wall are covered by heavy curtains.
+____
+"The walls here are lined with iron hooks, upon which hang black capes and formal wear. Two arched windows in the south wall are covered by heavy curtains."
+____
 
 Twenty-eight capes and sixteen sets of fine clothes are stored here. Red satin drapes hang in the archways that connect this closet to the adjoining bath chamber (area K43).
 
 K45. HALL OF HEROES
-
-Dark alcoves line the walls of this long hall. The ceiling has fallen here, leaving rubble strewn across the floor. Overhead, the beams of Ravenloft's roof are exposed. Lightning from the dark clouds above sporadically illumi­ nates the hall, lighting the faces of life-sized human stat­ ues in the alcoves. Each visage is frozen in terror.
+______
+"Dark alcoves line the walls of this long hall. The ceiling has fallen here, leaving rubble strewn across the floor. Overhead, the beams of Ravenloft's roof are exposed. Lightning from the dark clouds above sporadically illuminates the hall, lighting the faces of life-sized human statues in the alcoves. Each visage is frozen in terror."
+______
 
 The ten statues that line this corridor depict ancient heroes. In actuality, the faces of the statues are stoic and expressionless, but whenever the lightning flashes, their expressions change to utter horror until the hall goes dark again.
 
 The statues are imbued with the spirits of [[Strahd]]'s ancestors, all of which grieve over the termination of their bloodline. Each spirit will answer one question  
-if addressed directly. The spirits' answers are always short and vague, and. there is a 20 percent chance that a spirit's answer is wrong. ··· · ,. ·
+if addressed directly. The spirits' answers are always short and vague, and. there is a 20 percent chance that a spirit's answer is wrong.
 
 The stairs at the west end. of the hall descend 40 feet to area K33. An opeii �tchWay·to the east reveals a tower landing beyqnd (pai:�:ofarea K20).
 
