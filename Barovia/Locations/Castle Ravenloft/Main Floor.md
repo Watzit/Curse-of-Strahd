@@ -94,8 +94,9 @@ Kl3. TURRET POST ACCESS HALL
 "This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet."
 
 K14. HALL OF FAITH
-
+_____
 "This grand hall is choked with dust and stretches into darkness ahead. Webs hang from the arched ceiling like drapes, and life-sized statues of knights line the hallway on both sides, their eyes seeming to watch you."
+_____
 
 The statues are harmless. Their moving eyes are a simple optical illusion.
 Double doors stand at both ends of the hall. Above the doors leading to area KlS hangs a symbol of beaten bronze that looks like a rising or setting sun.
