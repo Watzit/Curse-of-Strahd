@@ -132,6 +132,7 @@ K31B. SHAFT ACCESS
 ____
 "This ten-foot-square room overlooks a vertical shaft to the south that plunges into darkness and continues upward."
 ____
+
 This vantage point is 130 feet from the bottom of the shaft (areaK31a). Forty feet down is areaK31, and 40 feet up is a stone trapdoor in the ceiling that opens into areaK47.
 
 A door in the north wall is easy to spot from this side (no ability check required) and opens into areaK39.
