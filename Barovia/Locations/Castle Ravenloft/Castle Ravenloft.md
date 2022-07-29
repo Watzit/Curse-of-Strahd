@@ -60,19 +60,21 @@ This familiar is searching for its mistress (a Barovian witch). It wants nothing
 
 If the characters capture or kill the cat, this encounter doesn't occur again. If this result comes up again, treat it as no encounter.
 
-BLINSKYTOY
+BLINSKY TOY
 
-A Blinsky toy is encountered only if the characters are Imoving about the castle (not resting); otherwise, treat
+A Blinsky toy is encountered only if the characters are moving about the castle (not resting); otherwise, treat this result as no encounter.
 
-this result as no encounter.
+_____________
+"You find a discarded toy-something no child could love."
+_____________
 
-You find a discarded toy-something no child could love.
+The toy has a slogan stitched or printed on it in tiny letters: "Is No Fun, Is No Blinsky!" Roll a d6 to determine the specific toy:
 
-The toy has a slogan stitched or printed on it in tiny let­ ters: "Is No Fun, Is No Blinsky!" Roll a d6 to determine the specific toy:
+| d6  | Toy |
+| --- | --- |
+|     |     |
 
-d6 Toy
-
-A plush werewolf stuffed with sawdust and tiny wood­ carved babies. It has dull knife blades for claws and retractable teeth.
+A plush werewolf stuffed with sawdust and tiny wood carved babies. It has dull knife blades for claws and retractable teeth.
 
 2.  2  A smiling jester marionette with tangled strings and tiny copper bells sewn into its cap.
     
