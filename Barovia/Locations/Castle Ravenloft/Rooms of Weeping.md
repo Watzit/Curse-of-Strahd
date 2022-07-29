@@ -1,10 +1,11 @@
 ROOMSOFWEEPING
 
-Refer to map 5 of the castle for. area:sK35 throughK46.
+Refer to map 5 of the castle for. area:sK35 through K46.
 
-K35. GUARDIAN.VERMIN
+K35. GUARDIAN VERMIN
 
-A door of delicately engraved steel stands at the west end of this short, dark hallway. Intricate details stand out clearly on the door's surface. The door seems to shine with a light of its own, untouched by time. Flanking the door are two alcoves in shadow. A dark, vaguely man­ shaped figure stands in each alcove.
+A door of delicately engraved steel stands at the west end of this short, dark hallway. Intricate details stand out clearly on the door's surface. The door seems to shine with a light of its own, untouched by time. Flanking the door are two alcoves in shadow. A dark, vaguely man-shaped figure stands in each alcove.
+
 
 The dark figures are four swarms ofrats piled atop  
 one another to form manlike shapes (two swarms per alcove). These rats are under [[Strahd]]'s control and attack anyone that tries to move through this area.
