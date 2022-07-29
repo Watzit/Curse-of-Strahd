@@ -98,15 +98,16 @@ TREASURE
 
 The room contains hundreds of worthless books and scrolls describing accounting procedures. The first character who spends at least 10 minutes searching the room and succeeds on a DC 15 Intelligence (Investigation) check finds a book with a bloodstained leather cover. The pages of this book have been hollowed out, creating a hole in which Lief has hidden the iron key that unlocks the four wooden chests in this room.
 
-Two of the locked chests contain 10,000 cp each. A third chest contains 1,000 gp. The fourth chest holds 500 pp, hidden under which is a manual ofbodily health.
+Two of the locked chests contain 10,000 cp each. A third chest contains 1,000 gp. The fourth chest holds 500 pp, hidden under which is a manual of bodily health.
 
 K31. TRAPWORKS
+______
+"The aromas of grease and well-oiled wood hit your nostrils as you pull open the door. This ten-by-twenty-foot room is filled with intricate machinery, except for small spaces between the stone gears and the iron chains and pulleys. On the other side of the machinery, to the south, is a rectangular shaft that rises up from the darkness and continues past this room. Attached to the west wall is a steel plate that has an iron lever protruding downward."
+______
 
-The aromas of grease and well-oiled wood hit your nos­ trils as you pull open the door. This ten-by-twenty-foot room is filled with intricate machinery, except for small spaces between the stone gears and the iron chains and pulleys. On the other side of the machinery, to the south, is a rectangular shaft that rises up from the darkness and continues past this room. Attached to the west wall is a steel plate that has an iron lever protruding downward.
+See the diagram on page 76. The shaft (area K31a) descends 90 feet from here to area K61, and ascends 40 feet to area K3lb. Another 40 feet above that is a stone trapdoor in the ceiling that opens into area K47.
 
-See the diagram on page 76. The shaft (area K31a) de­ scends 90 feet from here to area K61, and ascends 40 feet to area K3lb. Another 40 feet above that is a stone trapdoor in the ceiling that opens into area K47.
-
-Operating the machinery in this room raises a stone elevator compartment from the bottom of the shaft, l i f t ­ ing it past this room to the top of the shaft. See area K61 for more information on the elevator trap.
+Operating the machinery in this room raises a stone elevator compartment from the bottom of the shaft, l i f ting it past this room to the top of the shaft. See area K61 for more information on the elevator trap.
 
 A character can spend 1 minute disabling the machin­ ery in this room. The elevator trap won't function until the machinery is repaired.
 
