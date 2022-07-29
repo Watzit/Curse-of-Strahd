@@ -41,13 +41,13 @@ The books in the bookcase have no value and aren't much help to the characters. 
 
 TREASURE
 
-On the third finger of his left hand, Escher wears a plat­ inum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pen­ dant (worth 750 gp).
+On the third finger of his left hand, Escher wears a platinum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pendant (worth 750 gp).
 
 K50. GUEST ROOM
-
-A large bed sits in the center of this room, its four cor­ ner posts supporting a black canopy trimmed with gold tassels. Several comfortable divans are placed about the room. There is a banded door in the west wall and a smaller unbanded door in the east wall.
-
-There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of ld4 Baro­ vian witches from area K56. They try to subdue the party with sleep spells. A witch retreats to area K56
+_____
+"A large bed sits in the center of this room, its four corner posts supporting a black canopy trimmed with gold tassels. Several comfortable divans are placed about the room. There is a banded door in the west wall and a smaller unbanded door in the east wall."
+_____
+There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of ld4 Barovian witches from area K56. They try to subdue the party with sleep spells. A witch retreats to area K56
 
 if wounded.
 
