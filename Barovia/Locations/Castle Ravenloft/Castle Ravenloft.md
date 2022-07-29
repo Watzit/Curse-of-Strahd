@@ -145,19 +145,11 @@ A giant spider made this cocoon. Characters who can reach it can cut it open to 
 
 RAHADIN
 
-Strahd makes a surprise appearance.
-
-A crack of thunder shakes the castle, stirring the dust and cobwebs. You hear a voice: "Good evening."
-
-tiny black wings. Suddenly, a dark cloud of bats descends Iter, this encounter doesn't occur. Otherwise, Strahd's I upon you!
-
 If Rahadin was killed or captured in a previous encoun­
 
 mysterious chamberlain approaches quietly. A character whose passive Wisdom (Perception) score meets or ex­ ceeds Rahadin's Dexterity (Stealth) check hear him.
 
 "The master wishes to see you," intones a grim voice in the darkness.
-
-I You kick something-a trinket buried in the dust. I ITo determine what the character finds, roll on the Trin­ I
 
 Rahadin directs the characters to a random location in the castle, determined by rolling a d6:
 
@@ -177,6 +169,18 @@ d6 Location
     
 
 Strahd isn't actually at that location unless the card reading (see chapter 1) indicates that he is.
+
+Strahd makes a surprise appearance.
+
+A crack of thunder shakes the castle, stirring the dust and cobwebs. You hear a voice: "Good evening."
+
+tiny black wings. Suddenly, a dark cloud of bats descends Iter, this encounter doesn't occur. Otherwise, Strahd's I upon you!
+
+
+
+I You kick something-a trinket buried in the dust. I ITo determine what the character finds, roll on the Trin­ I
+
+
 
 These bats are the servants of Strahd. They attack the characters without provocation.
 
