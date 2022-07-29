@@ -113,7 +113,7 @@ is sealed shut. If the torch is taken from the skeleton's hand and placed back i
 
 K39. HALL OF WEBS 
 _____
-This ancient hall is choked with spider webs broken by a single clear path down its center.
+"This ancient hall is choked with spider webs broken by a single clear path down its center."
 _____
 
 The hall has an arched ceiling 20 feet overhead, hidden behind thick webbing. At the eastern end are a pair of arched bronze doors of ornate design. These doors can be pulled open to reveal area K40 beyond.
@@ -129,18 +129,19 @@ The secret door on the west wall can't be opened from this side, except by magic
 A narrow secret door at the western end of the south wall is hidden behind a mass of webs. If these webs are cleared away, characters can search for the secret door, finding it with a successful DC 15 Wisdom (Perception) check. The door can be pulled open to reveal area K3lb.
 
 K40. BELFRY
+____
+"You can hear the rain and thunder outside, and the air here is cold and damp. Veils and curtains of webbing fill the room, making it hard to gauge its width and depth. A single, narrow path leads to the dark center of the room, where a rope dangles from high above."
+____
 
-You can hear the rain and thunder outside, and the air here is cold and damp. Veils and curtains of webbing fill the room, making it hard to gauge its width and depth. A single, narrow path leads to the dark center of the room, where a rope dangles from high above.
+The rope is attached to a great bell mounted in a wooden framework 50 feet overhead. Pulling the rope or attempting to climb it brings forth a loud, long "GONG." That sound causes five giant spiders to drop from their webs and attack. The spiders attack only if they are attacked or if the bell is sounded.
 
-The rope is attached to a great bell mounted in a wooden framework 50 feet overhead. Pulling the rope or attempting to climb it brings forth a loud, long "GONG." That sound causes five giant spiders to drop from their webs and attack. The spiders attack only if they are at­ tacked or if the bell is sounded.
-
-Most of the belfry is filled with giant spider webs (see "Dungeon Hazards" in chapter 5, "Adventure Environ­ ments," of the Dungeon Master's Guide). Characters who blunder into them risk becoming stuck.
+Most of the belfry is filled with giant spider webs (see "Dungeon Hazards" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide). Characters who blunder into them risk becoming stuck.
 
 At the west end of the north wall, behind thick webs, is a secret door that opens into area K41.
 
 K41. TREASURY
 
-This octagonal vault is free of dust and cobwebs. The domed ceiling forty feet above is painted black and spar­ kles with a display of stars in unfamiliar constellations. Barely contained within this vault is a square tower, twenty feet on a side and thirty feet high, with arrow slits on all sides and a battlemented roof.
+This octagonal vault is free of dust and cobwebs. The domed ceiling forty feet above is painted black and sparkles with a display of stars in unfamiliar constellations. Barely contained within this vault is a square tower, twenty feet on a side and thirty feet high, with arrow slits on all sides and a battlemented roof.
 
 The domed ceiling is coated with dry ·pitch. The ."star. s" are shards of glowing crystal embedded fn the pitch, each one as bright as a candle flame. Thanks to the starry "night sky," the vault is dimly lit.
 
