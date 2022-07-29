@@ -134,14 +134,22 @@ _______
 
 A giant spider made this cocoon. Characters who can reach it can cut it open to free whatever is inside. Roll a d6 to determine the cocoon's contents:
 
-|d6 Cocoon's Contents
+| d6  | Cocoon's Contents                                                                            |
+| --- | -------------------------------------------------------------------------------------------- |
+| 1   | A wooden mannequin wearing a gown.                                                           |
+| 2   | A Barovian witch (see appendix D). She screams like a wild animal and begins casting spells. |
+| 3   | A Strahd zombie (see appendix D). It fights until killed.                                    |
+| 4   |                                                                                              |
+| 5   |                                                                                              |
+| 6   |                                                                                              |
 
-A wooden mannequin wearing a gown.
 
-2.  2  A Barovian witch (see appendix D). She screams like a wild animal and begins casting spells.
+
+
     
-3.  3  A Strahd zombie (see appendix D). It fights until killed.
+2.  2  
     
+3.  3  
 4.  4  A Barovian lunatic (CN male commoner). If freed, he cackles until silenced or until a calm emotions spell is cast on him. A lesser restoration spell cures his madness, at which point he tries to flee the castle.
     
 5.  5  A dead Barovian that serves as host to a swarm of insects (spiders). The baby giant spiders (each one the size of a tarantula) crawl out of the Barovian's gaping mouth or burst forth from its distended belly.
