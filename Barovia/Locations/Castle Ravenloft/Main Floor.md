@@ -147,7 +147,7 @@ _____
 
 The staircase starts at area K84 and spirals upward around a central shaft (area K18a), climbing 300 feet to the top of the high tower (area K59).
 
-A recently constructed masonry, wall blocks the staircase 10 feet below the landing west of area K17. A chink in this wall allows gas (or a vampire in gaseous form) to pass from one side of the wall !6:tlie _other. A character who inspects the wall closely can spot the chink with a successful DC 10 Wisdom (Perception) check. The wall is too sturdy for characters to knock down, but they can
+A recently constructed masonry, wall blocks the staircase 10 feet below the landing west of area K17. A chink in this wall allows gas (or a vampire in gaseous form) to pass from one side of the wall to the other. A character who inspects the wall closely can spot the chink with a successful DC 10 Wisdom (Perception) check. The wall is too sturdy for characters to knock down, but they can
 
 · create a hole wide enough to crawl through in 1 hour, or reduc;e the entire wall to a pile of masonry bricks and rubble in 2 hours.
 
