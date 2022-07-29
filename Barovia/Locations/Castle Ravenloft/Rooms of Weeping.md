@@ -20,11 +20,13 @@ The wedding cake is over four centuries old, kept in its current rotten state by
 
 If the characters take the groom figurine out of the room, read the following if they return to the room at a later time:
 
-Billowing drapes draw your eye to the window, which has been broken outward. Scattered about the floor are chunks of the moldy cake, as if something had burst out of it.
+_____
+"Billowing drapes draw your eye to the window, which has been broken outward. Scattered about the floor are chunks of the moldy cake, as if something had burst out of it."
+_____
 
-There are two explanations for the burst cake and bro­ ken window. Choose the one you think is creepier:
+There are two explanations for the burst cake and broken window. Choose the one you think is creepier:
 
--   Strahdsmashesthecakeandbreaksthewindowto make the characters think something terrible has es­ caped and is now stalking them.
+-   Strahd smashesthecakeandbreaksthewindowto make the characters think something terrible has es­ caped and is now stalking them.
     
 -   [[Strahd]]'shateassumesacorporealform,burstsout of the cake (the symbol of Sergei and [[Tatyana]]'s love), and escapes through the window. "[[Strahd]]'s hate" has the statistics of an invisible stalker and tries to kill whichever character is carrying the groom figurine.
     
