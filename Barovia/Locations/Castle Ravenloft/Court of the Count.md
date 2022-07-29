@@ -171,10 +171,12 @@ ______
 
 If someone opens the wardrobe, read:
 
-A plain white dress yellowed with age flies out of the wardrobe and begins to dance in the middle of the room. The dress flaps around to the music of the storm.
+______
+"A plain white dress yellowed with age flies out of the wardrobe and begins to dance in the middle of the room. The dress flaps around to the music of the storm."
+______
 
-If anyone touches the dancing dress, it collapses in a lifeless heap on the floor. Otherwise, it dances forever. Hanging in the wardrobe are a few rotted servant's uni­ forms, none of which are animate or valuable.
+If anyone touches the dancing dress, it collapses in a lifeless heap on the floor. Otherwise, it dances forever. Hanging in the wardrobe are a few rotted servant's uniforms, none of which are animate or valuable.
 
-Set into the south wall, behind the hanging mirror west of the wardrobe, is a secret door. It can be pulled open to reveal a closet choked with dust and cobwebs and that contains a wooden ladder that leads-up 20 feet to another secret door in the tower stairway (areaK20).
+Set into the south wall, behind the hanging mirror west of the wardrobe, is a secret door. It can be pulled open to reveal a closet choked with dust and cobwebs and that contains a wooden ladder that leads-up 20 feet to another secret door in the tower stairway (area K20).
 
 The staircase leads down to area K24.
