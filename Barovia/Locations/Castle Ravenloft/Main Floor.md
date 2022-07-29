@@ -145,7 +145,7 @@ _____
 "The large flagstones of this spiralling staircase lead up and down around a twenty-foot-wide stone core. Cobwebs fill the staircase, making it difficult to see even the ceiling. Heavy beams sag overhead from centuries of supporting weight."
 _____
 
-The staircase starts at area K84 and spirals upward around a central shaft (area K18a), climbing 300 feet to the top of the high tower (area �59).
+The staircase starts at area K84 and spirals upward around a central shaft (area K18a), climbing 300 feet to the top of the high tower (area K59).
 
 A recently constructed masonrY, wall blocks the stair­ case 10 feet below the landing \Yest of area. K17. A chink in this wall allows gas (oraviirYpir�in:gaseous form) to pass from one side ofthe.wall !6:tlie _other. A character who inspects the wall closely can spot the chink with a successful DC 10 Wisdom (Perception) check. The wall is too sturdy for characters to knock down, but they can
 
