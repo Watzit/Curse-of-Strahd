@@ -1,4 +1,5 @@
 "The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads "Bildrath's Mercantile.""
+__________________________________
 
 The establishment is 70 feet long by 40 feet wide. The owner, Bildrath Cantemir (LN male human commoner), sells items from the Adventuring Gear table in the Player's Handbook, but only items with a price lower than 25 gp in the table, and he sells them for ten times the price.
 
