@@ -170,7 +170,7 @@ _____
 
 Arched double doors. Lead from this room to the south and east.
 
-The window is divided into four tall panes of glass, each enclosed by a lead framework. The two outermost sections have small iron hinges built into them so that they can be opened, as well as iron latches to lock them .Jn place when they're closed. The window looks out onto the parapet (area K46).
+The window is divided into four tall panes of glass, each enclosed by a lead framework. The two outermost sections have small iron hinges built into them so that they can be opened, as well as iron latches to lock them. In place when they're closed. The window looks out onto the parapet (area K46).
 
 The figure on the bed is Gertruda (NG female human commoner), the daughter of Mad Mary (see chapter 3, area E3). Gertruda is oblivious to any danger to her­ self-especially from [[Strahd]], who has charmed her. Sheltered by her mother, she was never allowed to leave home as a child. She finally slipped away and made her way to the castle, drawn by its majesty.
 
