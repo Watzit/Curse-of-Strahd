@@ -29,11 +29,10 @@ The "floating" skeletons hang from pegs on the north and south walls.The skeleto
 If the characters enter this hall by way of the secret door that adjoins area K33, they see the skeleton hanging on the inside of the secret door as soon as they pull it open, and, with a light source or darkvision, can see the skeleton at the south end of the hall as well.
 
 K27. KING'S HALL
-
-This twenty-foot-high hall has a dark, vaulted ceiling draped with cobwebs. A low moan seems to travel the length of the corridor as it rises and falls, intoning sadness and despair.
-
+_____
+"This twenty-foot-high hall has a dark, vaulted ceiling draped with cobwebs. A low moan seems to travel the length of the corridor as it rises and falls, intoning sadness and despair."
+_____
 The moaning is only the wind.
-
 Characters who examine the ceiling can, with a successful DC 20 Wisdom (Perception) check, spot pulleys and a rope that run the full length of the corridor along the ceiling, well hidden by the cobwebs, These items are explained in "Flight of the Vampire" below.
 
 Halfway down the hall on the south side is a narrow secret door that can be pulled open to reveal area K31.
