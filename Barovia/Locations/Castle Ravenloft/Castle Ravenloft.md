@@ -47,6 +47,77 @@ ___________________
 
 Through the darkness comes a crone wearing a pointed black hat and a burlap gown stained with soot."
 ___________________
-Characters can try to hide from the witch (who has dark­ vision) or catch her by surprise. This Barovian witch is one of the servants of [[Strahd]] dwelling in area K56. She is calling out the name of her black cat familiar, which has gone missing. If the characters confront her, the old bat spits at them and begins casting a spell.
+Characters can try to hide from the witch (who has darkvision) or catch her by surprise. This Barovian witch is one of the servants of [[Strahd]] dwelling in area K56. She is calling out the name of her black cat familiar, which has gone missing. If the characters confront her, the old bat spits at them and begins casting a spell.
 
 This encounter happens only once. If this result comes up again, treat it as no encounter.
+
+BLACK CAT I CRAWLING CLAWS
+_____________
+The darkness lets out a demonic hiss as a black cat darts out of the shadows, trying its best to avoid you.
+_____________
+
+This familiar is searching for its mistress (a Barovian witch). It wants nothing to do with the characters but attacks if cornered.
+
+If the characters capture or kill the cat, this encounter doesn't occur again. If this result comes up again, treat it as no encounter.
+
+BLINSKYTOY
+
+A Blinsky toy is encountered only if the characters are Imoving about the castle (not resting); otherwise, treat
+
+this result as no encounter.
+
+You find a discarded toy-something no child could love.
+
+The toy has a slogan stitched or printed on it in tiny let­ ters: "Is No Fun, Is No Blinsky!" Roll a d6 to determine the specific toy:
+
+d6 Toy
+
+A plush werewolf stuffed with sawdust and tiny wood­ carved babies. It has dull knife blades for claws and retractable teeth.
+
+2.  2  A smiling jester marionette with tangled strings and tiny copper bells sewn into its cap.
+    
+3.  3  A wooden puzzle box, 6 inches on a side, carved with silhouettes of leering clown faces. The box rattles when shaken. A character who spends a short rest fiddling with the box can figure out how to open it with a successful DC 20 Intelligence check. The box is empty, with nothing inside to explain the rattling.
+    
+4.  4  A faceless doll in a wedding dress that has yellowed and frayed with age.
+    
+5.  5  A vaguely coffin-shaped jack-in-the-box containing a pop-up Strahd puppet.
+    
+6.  6  A spring-loaded set of wooden teeth with fangs, all painted white. The teeth gnash and chatter for 1 minute when the spring is wound tight (requiring an action) and released.
+    
+
+BROOM OF ANIMATED AT,:AcK ..
+
+You hear a scratching noise. Out of the shadows comes a broom, sweeping its way toward you as though held by invisible hands.
+
+When it gets within 5 feet of a party member, the
+
+· .broom attacks.
+
+A mob of severed hands, their mummified Aesh black with soot, skitters out of the darkness across the dusty Aoor.
+
+The crawling claws gang up on one party member. During the confusion, one of the claws tries to crawl into the character's backpack and hide there. It makes  
+a Dexterity (Stealth) check contested by the character's passive Wisdom (Perception) score. If the claw loses the contest, the character sees the claw enter the backpack. If the claw wins the contest, it waits until the character takes a long rest before scuttling out to attack.
+
+I I I
+
+The groans are coming from a Strahd zombie that is missing both of its legs, so that only its head, torso, and arms remain. It uses its arms to drag itself across the floor. The crawling zombie has 15 hit points remaining.
+
+If the characters are moving quietly and not using light sources, they can try to hide from the crawl­ ing zombie.
+
+EZMERELDA o'AVENIR
+
+IEzmerelda has cast a greater invisibility spell on herself and is stealthily exploring the castle. Choose one char­ acter in the back rank of the party's marching order, andI read the following text to that character's player:
+
+You feel a gentle tap on your shoulder but see nothing behind you.
+
+If the character who is touched by Ezmerelda reacts in an alarming or threatening manner, she hastily whis­ pers, "Don't be frightened. We're on the same side."
+
+Ezmerelda is hunting Strahd, but her efforts to corner the vampire have so far been thwarted, and she fears that she might be in over her head. If the characters don't ask her to join the party, she wishes them well and goes on her way (perhaps to be encountered again later). If they invite her to accompany them, Ezmerelda tests the characters' knowledge about vampires by· asking them questions such as. "Have you ever seen a vampire change its form?" and "Do you �now how to counteract a vampire's regenerative ability?'' Whatever their_an­ swers, she ultimately agrees to come along.
+
+This random encounter �appens.only'once. If this re­ sult comes up again, tre;;it-it ·as no encounter.
+
+CRAWLING STRAHD ZOMBIE
+
+You hear the deathly groans of something vile.
+
+I
