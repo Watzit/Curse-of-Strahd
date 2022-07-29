@@ -107,21 +107,20 @@ ______
 
 See the diagram on page 76. The shaft (area K31a) descends 90 feet from here to area K61, and ascends 40 feet to area K3lb. Another 40 feet above that is a stone trapdoor in the ceiling that opens into area K47.
 
-Operating the machinery in this room raises a stone elevator compartment from the bottom of the shaft, l i f ting it past this room to the top of the shaft. See area K61 for more information on the elevator trap.
+Operating the machinery in this room raises a stone elevator compartment from the bottom of the shaft, lifting it past this room to the top of the shaft. See area K61 for more information on the elevator trap.
 
-A character can spend 1 minute disabling the machin­ ery in this room. The elevator trap won't function until the machinery is repaired.
+A character can spend 1 minute disabling the machinery in this room. The elevator trap won't function until the machinery is repaired.
 
-The iron lever set into the western wall is normally
+The iron lever set into the western wall is normally in the "down" position. Moving it to the "up" position activates the trap and raises the elevator. Sliding it back down lowers the elevator and resets the trap.
 
-in the "down" position. Moving it to the "up" position activates the trap and raises the elevator. Sliding it back down lowers the elevator and resets the trap.
-
-When the elevator trap in area K61 is activated, all the chains, pulleys, and gears in this room move at once. It takes 10 seconds (1 round) for the elevator to reach the top of the shaft, and the machinery doesn't stop·until the elevator completes its journey.
+When the elevator trap in area K61 is activated, all the chains, pulleys, and gears in this room move at once. It takes 10 seconds (1 round) for the elevator to reach the top of the shaft, and the machinery doesn't stop until the elevator completes its journey.
 
 A secret door in the north wall is easy to spot from this side (no ability check required) and opens into area K27.
 
 K31A. ELEVATOR SHAFT
-
-Cold air fills this rectangular shaft, the walls of which are coated with mildew and worn smooth. Taut iron chains extend up and down the shaft. The links of the chains are thick and covered with grease.
+_____
+"Cold air fills this rectangular shaft, the walls of which are coated with mildew and worn smooth. Taut iron chains extend up and down the shaft. The links of the chains are thick and covered with grease."
+_____
 
 The shaft is 170 feet tall. It starts at area K61, climbs 90 feet to area K31, another 40 feet to area K31b, and another 40 feet to area K47. When the elevator trap is activated (see areaK61 for details), a stone elevator compartment measuring 10 feet on a side rises up the western half of the shaft. At the same time, a solid block of stone, also 10 feet on a side, descends in the eastern half of the shaft, acting as a counterweight. Both stone blocks have thick iron chains bolted to them, by which they are hoisted and lowered them as needed.
 
