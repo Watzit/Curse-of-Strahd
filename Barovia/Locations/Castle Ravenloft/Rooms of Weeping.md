@@ -100,11 +100,12 @@ _____
 
 The coins scattered around the trapped chest total 50gp, 100 sp, and 2,000.cp. The chest weighs 40 pounds and is unlocked. When opened, it releases a cloud of sleeping gas that fills the room. Any creature in the room must succeed on a DC18 Constitution saving throw or be paralyzed for 4 hours. If all the characters succumb to the gas, they are found by the witches who lair in area K56 and dragged to area K50, then left there unharmed. If even one character resists the effect of the gas, the witches do not appear.
 
-The armored skeleton on the floor is all that remains of an adventure. His corpse has nothing cif vali.te.
+The armored skeleton on the floor is all that remains of an adventure. His corpse has nothing of value.
 
 SECRET DOORS
-This room i,s cpncealed behind two secret doors.
-The seeret .door. to the west is set into the back wall ... ; o( the·fueplace'.(area K37) and can be pulled open from within this room by lifting a simple Jocking mechanism (which is connected to the poker in the study). It's pos­ sible that a character might open this secret door inad­ vertently by lifting the poker in area K37. Characters can otherwise locate the secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a knock spell or similar magic.
+
+This room is concealed behind two secret doors.
+The secret door to the west is set into the back wall of the fireplace (area K37) and can be pulled open from within this room by lifting a simple locking mechanism (which is connected to the poker in the study). It's possible that a character might open this secret door inadvertently by lifting the poker in area K37. Characters can otherwise locate the secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a knock spell or similar magic.
 
 The secret door at the northern end of the east wall
 
