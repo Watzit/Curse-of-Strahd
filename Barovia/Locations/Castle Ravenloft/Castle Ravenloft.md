@@ -245,3 +245,6 @@ ______
 "The air grows much colder, and you can hear the march of footsteps drawing near."
 ______
 
+If the characters are moving quietly and not carrying light sources, they can try to hide from the wights. These undead soldiers once served as guard captains in Castle Ravenloft. They still wear bits of tattered livery, and they attack the living on sight.
+
+Treasure. The wights carry longswords that have the crest of Barovia worked into their cross guards. Each wight also carries a pouch holding 2d20 ep, each coin of Barovian mintage and featuring the profiled visage of Strahd von Zarovich.
