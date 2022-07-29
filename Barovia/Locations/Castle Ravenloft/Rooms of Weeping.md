@@ -112,11 +112,13 @@ The secret door at the northern end of the east wall
 is sealed shut. If the torch is taken from the skeleton's hand and placed back in the empty sconce, the secret door swings inward, revealing area K39 beyond. Re­ moving the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before. Characters can locate this secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a knock spell or similar magic.
 
 K39. HALL OF WEBS 
-
+_____
 This ancient hall is choked with spider webs broken by a single clear path down its center.
+_____
+
 The hall has an arched ceiling 20 feet overhead, hidden behind thick webbing. At the eastern end are a pair of arched bronze doors of ornate design. These doors can be pulled open to reveal area K40 beyond.
 
-Most of the hall is full of giant spider webs (see "Dun­ geon Hazards" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide). Characters who stray from the unobstructed path through the webs risk be­ coming stuck.
+Most of the hall is full of giant spider webs (see "Dungeon Hazards" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide). Characters who stray from the unobstructed path through the webs risk becoming stuck.
 
 SECRET DOORS
 
