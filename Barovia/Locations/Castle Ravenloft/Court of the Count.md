@@ -39,15 +39,17 @@ Halfway down the hall on the south side is a narrow secret door that can be pull
 
 FLIGHT OF THE VAMPIRE
 
-Hidden in a compartment above the western set of double doors is a dressed wooden mannequin that looks exactly like [[Strahd]]. It Wers a blackcloak, its fangs are bared; and its -arms and clawed fingers are outstretched in a threatetiing ,manner.The mannequin is attached to a role that runs" through pulleys fastened along the length of the hallway ceiling.
+Hidden in a compartment above the western set of double doors is a dressed wooden mannequin that looks exactly like [[Strahd]]. It wears a black cloak, its fangs are bared; and its arms and clawed fingers are outstretched in a threatening manner. The mannequin is attached to a role that runs" through pulleys fastened along the length of the hallway ceiling.
 
 When one or more characters reach the midpoint of the hall from either direction, read:
 
-You hear a scraping sound of stone against stone, fol­ lowed by the squeaking of a bat. In the direction of the noise, you see the fanged visage, outstretched claws, and flapping black cape of a vampire bearing down on you from above! A deep, throaty chuckle fills the hall.
+____
+"You hear a scraping sound of stone against stone, followed by the squeaking of a bat. In the direction of the noise, you see the fanged visage, outstretched claws, and flapping black cape of a vampire bearing down on you from above! A deep, throaty chuckle fills the hall."
+____
 
-The scraping noise is the sound of the hidden compart­ ment opening, and the squeaking is the sound of the pul­ leys supporting the weight of the mannequin as it glides through the air. The chuckling is a harmless magical ef­ fect similar to that created by a prestidigitation cantrip.
+The scraping noise is the sound of the hidden compartment opening, and the squeaking is the sound of the pulleys supporting the weight of the mannequin as it glides through the air. The chuckling is a harmless magical effect similar to that created by a prestidigitation cantrip.
 
-Have the players roll initiative, and run this as a combat encounter with the "vampire" acting on initia­ tive count 5. On its turn, the mannequin flies over the characters, 10 feet above the floor, and doesn't stop until it reaches the east end of the hall. On its next turn, it re­ verses direction and flies back to its compartment. The trap resets after 1 minute.
+Have the players roll initiative, and run this as a combat encounter with the "vampire" acting on initia tive count 5. On its turn, the mannequin flies over the characters, 10 feet above the floor, and doesn't stop until it reaches the east end of the hall. On its next turn, it reverses direction and flies back to its compartment. The trap resets after 1 minute.
 
 A character who attacks the mannequin from the floor needs a range of at least 10 feet. The mannequin has AC 15 and 10 hit points, and it is immune to poison and psy­ chic damage. If the mannequin is reduced to O hit points while in the air, it falls to the floor.
 
