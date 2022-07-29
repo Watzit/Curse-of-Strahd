@@ -220,19 +220,19 @@ _____
 
 These stairs start at area K7 3 and. go up through areas K61, K9, K30, and K35 before ending at area K47.
 
-
-
+K22. NORTH ARCHERS' POST
+______
 "The castle courtyard is visible through arrow slits in the walls."
+______
 
 Each arrow slit is 2Y2 feet tall and 4 inches wide.
 
 K23. SERVANTS' ENTRANCE
+______
+"Dim light filters in through a dust-caked window in the east wall. A door next to the window leads to the castle's northeast courtyard. 
 
-Dim light filters in through a dust-caked window in the east wall. A door next to the window leads to the castle's northeast courtyard. 
-Everything in this room is coated with dust, including
-
-a large, heavy table in the center of the floor. A thick book lies open on a desk, with an inkwell and a quill next to it. There is a broken door in the north wall, and a staircase in the south wall plunges into darkness. On each side of the staircase, a skeletal figure draped in gleaming chain mail stands sagging at attention, holding a rusty halberd.
-
+Everything in this room is coated with dust, including a large, heavy table in the center of the floor. A thick book lies open on a desk, with an inkwell and a quill next to it. There is a broken door in the north wall, and a staircase in the south wall plunges into darkness. On each side of the staircase, a skeletal figure draped in gleaming chain mail stands sagging at attention, holding a rusty halberd."
+______
 The skeletons, which were assembled by Cyrus Belview (see area K62), are held together with wire frames and hung on pegs. They pose no threat.
 
 The staircase descends to area K62. The east door leading to the courtyard is swollen in its frame and re­ quires a successful DC 10 Strength check to force open. The north door is cracked and hangs loose on its hinges; beyond it lies another dust-filled chamber (area K24).
