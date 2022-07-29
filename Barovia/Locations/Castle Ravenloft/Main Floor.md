@@ -159,18 +159,18 @@ Characters can access this 10-foot-diameter, 390-foot tall stone shaft from the 
 
 The shaft is dark and choked with cobwebs. A rushing wind causes the webs to stir. Climbing the shaft is impossible without the aid of magic or the use of a climber's kit, since there are few handholds.
 
-The bats in the catacombs (area K84) fly up the shaft at night, exiting [[Castle Ravenloft]] through various arrow slits and holes in the tower's peak (area K59). After feed­ ing, they return by the same route.
+The bats in the catacombs (area K84) fly up the shaft at night, exiting [[Castle Ravenloft]] through various arrow slits and holes in the tower's peak (area K59). After feeding, they return by the same route.
 
-Kl9. GRAND LANDING
+K19. GRAND LANDING
+_______
+"Massive stairs rise to a landing twenty feet wide by forty feet long. Stone arches support a ceiling covered with frescoes twenty feet overhead. The frescoes depict armored knights on horseback, their finer features faded beyond recognition.
 
-Massive stairs rise to a landing twenty feet wide by forty feet long. Stone arches support a ceiling covered with frescoes twenty feet overhead. The frescoes depict ar­ mored knights on horseback, their finer features faded beyond recognition.
+Dust floats in the air here. At each end of the south wall, a staircase rises into darkness. Between the staircases are twin alcoves, each one containing a standing suit of armor covered with dark stains. Each suit of armor clutches a mace, the "business end" of which is shaped like a dragon's head. Words engraved on the arches above the suits of armor have been scratched out."
+_______
 
-Dust floats in the air here. At each end of the south wall, a staircase rises into darkness. Between the stair­ cases are twin alcoves, each one containing a standing suit of armor covered with dark stains. Each suit of armor clutches a mace, the "business end" of which is shaped like a dragon's head. Words engraved on the arches above the suits of armor have been scratched out.
+Both staircases on the south wall climb to area K25. The massive stairs lead down to area K8. Anyone who crosses in front of the alcoves along the south wall activates the suits of armor.
 
-Both staircases on the south wall climb to area K25. The massive stairs lead down to area K8. Anyone who crosses in front of the alcoves along the south wall acti­ vates the suits of armor.
-
-Both suits of armor are mechanical traps, each one activated by a pressure plate hidd.en in the floor in front of its alcove. A character who searches for. traps in one of these locations notices both pre_ ssure plates with a successful DC 15 Wisdom (F'erception) check,  
-When 40 or more pounds of �eight are placed on a pressure plate, the suit of armqr nearest to that plate springs forward, flailing its arms and wielding its mace. Any creature standing on a prei�ure plate when its  
+Both suits of armor are mechanical traps, each one activated by a pressure plate hidd.en in the floor in front of its alcove. A character who searches for. traps in one of these locations notices both pre_ ssure plates with a successful DC 15 Wisdom (F'erception) check. When 40 or more pounds of �eight are placed on a pressure plate, the suit of armqr nearest to that plate springs forward, flailing its arms and wielding its mace. Any creature standing on a prei�ure plate when its  
 trap triggers must succeed on a DC 14 Dexterity saving throw or take 7 (2d6) bludgeoning dam· age from the flailing armor. After leaping i;>ut and attacking, the ar­ mor retracts. The pressure plate resets after 1 minute, after which its.armo� trap can be triggered again.
 
 Thesu_ itsofarmoractmuchlikemetalpuppets-a little joke i�tended to spook visitors more than damage them. A pressure plate can be disabled by a character who uses thieves' tools and makes a successful DC 15 Dexterity check. A trap can also be disabled by destroy­ ing its suit of armor, which has AC 18, 5 hit points, and immunity to psychic and poison damage.
