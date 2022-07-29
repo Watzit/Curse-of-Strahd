@@ -60,12 +60,11 @@ damage at the start of each of its turns. (The fire damage is cumulative with th
 The secret door provides access to area K38.
 
 TREASURE
-The real treasure here is [[Strahd]]'s collection of books­ over one thousand unique tomes in all.The collection is worth 80,000 gp.Transporting it would be a chailenge.
+The real treasure here is [[Strahd]]'s collection of books- over one thousand unique tomes in all. The collection is worth 80,000 gp. Transporting it would be a challenge.
 
-Roll a dl2 and consult the following table to deter­ mine the subject matter of a randomly chosen book.
+Roll a d12 and consult the following table to determine the subject matter of a randomly chosen book.
 
-d12 Book Alchemist's tome
-
+|d12 Book Alchemist's tome
 2 Bestiary of strange beasts  
 3 Biography of a forgotten king or queen 4 Book of exotic recipes  
 5 Book of heraldry  
@@ -73,7 +72,6 @@ d12 Book Alchemist's tome
 7 Epic novel  
 8 Guide to fine wines  
 9 Heretical text
-
 10 Historical text  
 11 Poetry anthology 12 Theological text
 
