@@ -70,12 +70,12 @@ Funeral for the Burgomaster. If the characters bring Kolyan Indirovich's body to
 Once Kolyan is put in the ground, Donavich suggests that [[Ireena]] be taken as far from [[Castle Ravenloft]] as possible. He proposes that the characters take her to the [[Abbey of Saint Markovia]] in [[Krezk]] (chapter 8) or, failing that, the fortified town of [[Vallaki]] (chapter 5). Donavich is unaware that the abbey, once a bastion of good, has become a den of evil.
 
 E5G. UNDERCROFT
-
-The church's undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pil­ lars strain under the weight of the wooden ceiling. Can­ dlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
-
+_________________
+The church's undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pillars strain under the weight of the wooden ceiling. Candlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
+_________________
 The shape is Doru, a vampire spawn sent by [[Strahd]] to torment Donavich and cast down the church. Doru is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, "I can smell your blood!" If they cut off his escape, he lunges forth and attacks.
 
-If the characters restrain Doru and either promise him blood or threaten to destroy him, or if they kill him and then raise him from the dead, he recounts the events that led to his downfall (see area ESf).
+If the characters restrain Doru and either promise him blood or threaten to destroy him, or if they kill him and then raise him from the dead, he recounts the events that led to his downfall (see area E5f).
 
 FORTUNES OF RAVENLOFT
 
