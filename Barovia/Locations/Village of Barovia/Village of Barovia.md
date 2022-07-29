@@ -18,25 +18,20 @@ If the characters explore a residence other than [[Mad Mary's townhouse]] (area 
 
 OCCUPANTS OF HOUSES IN [[BAROVIA]]
 
-| d20 | Occupants          |
-| --- | ------------------ |
-| 1-3 | None               |
-| 4-8 | 2d4 swarms of rats |
-|     |                    |
-
- None  
-4-8 
-
-9-16 Barovian villagers  
-17-20 2d4 [[Strahd]] zombies (see appendix D)
+| d20   | Occupants                               |
+| ----- | --------------------------------------- |
+| 1-3   | None                                    |
+| 4-8   | 2d4 swarms of rats                      |
+| 9-16  | Barovian Villiagers                     |
+| 17-20 | 2d4 [[Strahd]] zombies (see appendix D) | 
 
 RATS
 
-A house infested with rats looks abandoned. The rats are servants of [[Strahd]] and attack if the characters ex­ plore the interior of the house.
+A house infested with rats looks abandoned. The rats are servants of [[Strahd]] and attack if the characters explore the interior of the house.
 
 BAROVIAN VILLAGERS
 
-A house of Barovian villagers is home to ld4 adults (LG male and female human commoners) and ld8 - 1 chil­ dren (LG male and female noncombatants). Characters who listen at the door hear low, muffled whispers from within. These villagers aren't interested in speaking with strangers and never attack first, always fleeing from danger if possible. At night they cower by candle­ light and keep makeshift holy symbols close at hand.
+A house of Barovian villagers is home to 1d4 adults (LG male and female human commoners) and 1d8 - 1 children (LG male and female noncombatants). Characters who listen at the door hear low, muffled whispers from within. These villagers aren't interested in speaking with strangers and never attack first, always fleeing from danger if possible. At night they cower by candle­ light and keep makeshift holy symbols close at hand.
 
 [[STRAHD]] ZOMBIES
 
