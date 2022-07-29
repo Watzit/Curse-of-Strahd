@@ -85,9 +85,9 @@ A secret door in the east wall can be pulled open to reveal the back of the pipe
 
 Kl2. TURRET POST
 
-A high, domed ceiling caps the thirty-foot-wide octago­ nal room before you. Frescoes faded with age adorn the ceiling, but their images are impossible to make out. Tall, thin arrow slits look out over the courtyard.
+A high, domed ceiling caps the thirty-foot-wide octagonal room before you. Frescoes faded with age adorn the ceiling, but their images are impossible to make out. Tall, thin arrow slits look out over the courtyard.
 
-IEach arrow slit is 2'h feet tall and 4 inches wide.
+Each arrow slit is 2 1/2 feet tall and 4 inches wide.
 
 Kl3. TURRET POST ACCESS HALL I
 
