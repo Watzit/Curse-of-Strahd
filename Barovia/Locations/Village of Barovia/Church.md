@@ -37,12 +37,13 @@ _______________________________________
 Donavich lost the key to the iron padlock. If the chain is removed and the trapdoor is opened, the screaming in the undercroft stops. The trapdoor is swollen and stuck in its frame, so that a successful DC 12 Strength check is required to pull it open. Below it is a wooden staircase that descends 15 feet into the undercroft (area ESg).
 
 E5E. OFFICE
-
+_______________________________________
 An old desk and chair stand against the south wall, a wooden holy symbol mounted above them-a sunburst. A ten-foot-long iron rod attached to the north wall stands bare, suggesting a tapestry once hung there. Against the far wall stands a wooden cabinet with four tall doors.
-
+_______________________________________
 An empty wooden poor box rests on the seat of the chair. The desk drawers contain a few sheets of blank parchment, along with a couple of quill pens and dried-up jars of ink.
 
 For its size, the wooden cabinet contains very little.
+Inside are a tinderbox, a few wooden boxes full of candles, and two well-used books: Hymns to the Dawn, a volume of chants to the Morninglord, and The Blade of Truth: The Uses ofLogic in the War Against Diabolist Heresies, as Fought by the Ulmist Inquisition, a strange book that mixes logic exercises with lurid descriptions of fiend-worshiping cults.
 
 E5F. CHAPEL
 
@@ -54,7 +55,6 @@ The chapel is a shambles, with overturned and bro-
 
 ken pews littering the dusty floor. Dozens of candles mounted in candlesticks and candelabras light every dusty corner in a fervent attempt to rid the chapel of shadows. At the far end of the church sits a claw-scarred altar, behind which kneels a priest in soiled vestments. Next to him hangs a long, thick rope that stretches up into the bell tower.
 
-Inside are a tinderbox, a few wooden boxes full of can­ dles, and two well-used books: Hymns to the Dawn, a volume of chants to the Morninglord, and The Blade of Truth: The Uses ofLogic in the War Against Diabolist Heresies, as Fought by the Ulmist Inquisition, a strange book that mixes logic exercises with lurid descriptions of fiend-worshiping cults.
 
 If the characters have not already entered the under­ croft, add:
 
