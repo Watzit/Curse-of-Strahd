@@ -1,4 +1,6 @@
-Kl. FRONT COURTYARD
+
+
+K1. FRONT COURTYARD
 
 As the characters enter the castle, the weather worsens. Dismal rain starts to fall, becoming a torrent within  
 the hour. Lightning routinely lights the sky, followed by peals of thunder that make the castle shudder.

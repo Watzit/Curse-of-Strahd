@@ -166,85 +166,24 @@ Strahd isn't actually at that location unless the card reading (see chapter 1) i
 
 If the characters ask Rahadin to lead the way, he declines. If the characters ask for directions, he tells them whether they need to ascend, descend, or remain on the level they're at. If they attack him, he fights to the death. Otherwise, he doesn't leave until after they do.
 
-SHADOWS
-
-If one or more characters have a passive Wisdom (Per­ c eption) score of 16 or higher, read:
-
-_______
-"You can't shake the feeling that something is behind you. When you look back, you see a shadow, tall and still, but nothing of its dimensions that could cast it."
-_______
-
-If more than one shadow is present, the others are close by but hidden in the darkness. These undead shadows follow the characters but do not attack unless attacked first. They otherwise obey Strahd's commands.
-
-STRAHD VON ZAROVICH
-
 Strahd makes a surprise appearance.
 
-______
 A crack of thunder shakes the castle, stirring the dust and cobwebs. You hear a voice: "Good evening."
-______
 
-Any character who has a passive Wisdom (Perception) score lower than 19 is surprised as Strahd appears seemingly out of nowhere. The vampire prefers to attack a surprised character, choosing the one closest to him. Otherwise, see appendix D for the vampire's tactics.
+tiny black wings. Suddenly, a dark cloud of bats descends Iter, this encounter doesn't occur. Otherwise, Strahd's I upon you!
 
-SWARMS OF BATS
 
-______
-You hear a peal of thunder, followed by the flapping of tiny black wings. Suddenly, a dark cloud of bats descends upon you!
-______
+
+I You kick something-a trinket buried in the dust. I ITo determine what the character finds, roll on the Trin­ I
+
+
 
 These bats are the servants of Strahd. They attack the characters without provocation.
 
 TRINKET
 
-_____
-"You kick something-a trinket buried in the dust." 
-______
-
-To determine what the character finds, roll on the Trinkets table in appendix A.
+kets table in appendix A.
 
 UNSEEN SERVANT
 
-_____
-"A curious object drifts into view, as though held aloft by an invisible force."
-_____
-
-This unseen servant was created by Strahd and is permanent until destroyed (see the unseen servant spell in the Player's Handbook). Roll a d6 to determine what the servant is carrying, or choose one of the options below.
-
-| d6  | Items |
-| --- | ----- |
-|    1 |  A tarnished silver platter with a lid (worth 25 gp). If a character comes within S feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a crawling claw that attacks the nearest character.     |
-|  2   | A silver goblet (worth 5O gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 (8dl0) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a potion of healing.      |
-|  3   |  A gold candelabrum (worth 150 gp) with three branches, each one holding an unlit candle.     |
-|  4   |  A purple silk handkerchief with white ruffled edges (worth 1 gp). On future occurrences of this encounter, the handkerchief is smeared with fresh blood.     |
-|  5   | A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts 1d4 hungry vampire spawn (see below), which arrive in 1d4 + 1 rounds.      |
-|  6   |  A wizard's spellbook with a black velvet dust jacket over its stitched leather cover. The book contains all the spells Strahd has prepared (see appendix D). On subsequent occurrences of this encounter, the tome is a nonmagical leather-bound storybook worth 25 gp.     |
-
-VAMPIRE SPAWN
-
-If any character has a passive Wisdom (Perception) score of 16 or higher, the party isn't surprised. In that case, read:
-
-______
-"Creatures with pale flesh scuttle across the ceiling like spiders, their red eyes glowing in the dark. As they draw near, their cracked and bloodstained lips open wide, revealing sharp fangs."
-______
-
-These minions of Strahd - former adventurers all creep along ceilings and drop down on unsuspecting prey. The vampire spawn fight until destroyed.
-
-VISTANI THUGS
-
-______
-"You hear voices with thick accents."
-_______
-
-A small group ofVistani (NE male and female humans) claim that they were the vampire's captives, only recently escaped from the castle's dungeon, and they offer to help the party. In truth, they are loyal to Strahd and betray the characters as soon as he appears. If the characters accept their offer, the thugs pretend to be the party's allies for as long as they remain with the party, or until Strahd appears. If the characters leave the castle, the thugs accompany them, since choosing to remain in the castle would likely arouse the characters' suspicion.
-
-Treasure. One Vistani thug carries a pouch that holds 2d8 small gemstones (50 gp each).
-
-WIGHTS 
-
-______
-"The air grows much colder, and you can hear the march of footsteps drawing near."
-______
-
-If the characters are moving quietly and not carrying light sources, they can try to hide from the wights. These undead soldiers once served as guard captains in Castle Ravenloft. They still wear bits of tattered livery, and they attack the living on sight.
-
-Treasure. The wights carry longswords that have the crest of Barovia worked into their cross guards. Each wight also carries a pouch holding 2d20 ep, each coin of Barovian mintage and featuring the profiled visage of Strahd von Zarovich.
+A curious object drifts into view, as though held aloft by an invisible force.
