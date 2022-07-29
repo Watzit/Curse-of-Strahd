@@ -159,7 +159,8 @@ Rahadin directs the characters to a random location in the castle, determined by
 | 2   | Audience hall (area K25) |
 | 3   | Study (area K37)         |
 | 4   | Tower roof (area K57)    |
-| 5   | Wine cellar (area _K63)  |
+| 5   |                          |
+| 5   | Torture chamber _(area K76)  |
 
 Strahd isn't actually at that location unless the card reading (see chapter 1) indicates that he is.
 

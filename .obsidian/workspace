@@ -11,7 +11,7 @@
           "state": {
             "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -96,14 +96,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "946dd50b65031a6c",
+  "active": "a7858ef7ac7a35ef",
   "lastOpenFiles": [
     "Barovia/Locations/Mad Mage of Mount Baratok.md",
     "Barovia/Locations/Old Bonegrinder/Old Bonegrinder.md",

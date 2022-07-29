@@ -94,7 +94,7 @@ If a character looks into the pot, three human zombies rise up from the bubbling
 
 K66. BUTLER'S UARTERS
 
-This twenty-foot-square room is filled wall to wall with clutter. A long, sagging bed sits to one side under a huge faded tapestry that depicts Castle Ravenloft. Dusty lan­ terns sit in various places, and bright curtains are draped haphazardly about the room. Thousands of pieces of junk cover the Aoor. Broken swords, crumpled shields, and helmets lie in piles all about.
+This twenty-foot-square room is filled wall to wall with clutter. A long, sagging bed sits to one side under a huge faded tapestry that depicts [[Castle Ravenloft]]. Dusty lan­ terns sit in various places, and bright curtains are draped haphazardly about the room. Thousands of pieces of junk cover the Aoor. Broken swords, crumpled shields, and helmets lie in piles all about.
 
 Cyrus Belview (see area K62) uses this room as his lair. There is nothing of value here.
 

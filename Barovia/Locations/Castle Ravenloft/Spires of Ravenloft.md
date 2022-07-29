@@ -1,4 +1,4 @@
-Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.
+Refer to maps 6 through 10 of [[Castle Ravenloft]] for areas K47 through K60.
 
 K47. P ORTRAIT OF [[STRAHD]]
 

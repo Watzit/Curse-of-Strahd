@@ -248,7 +248,7 @@ K83A. SPIRAL STAIR LANDING
 
 An extension of area K83, this landing is shown on map 11.
 
-This forty-foot-long corridor connects two spiral stair­ ways, one leading up and the other descending into the depths of Castle Ravenloft. Hanging from an iron rod bolted to the eastern wall is a dusty, ten-foot-square tap­ estry depicting knights on horseback charging across a battlefield under a bloodred sky. The lead knight rides a black horse and wears a fur-lined black cloak, dark gray armor, and a visored helm shaped like a wolf's head. His sword glows with the light of the sun.
+This forty-foot-long corridor connects two spiral stair­ ways, one leading up and the other descending into the depths of [[Castle Ravenloft]]. Hanging from an iron rod bolted to the eastern wall is a dusty, ten-foot-square tap­ estry depicting knights on horseback charging across a battlefield under a bloodred sky. The lead knight rides a black horse and wears a fur-lined black cloak, dark gray armor, and a visored helm shaped like a wolf's head. His sword glows with the light of the sun.
 
 The stairs at the nor.th end of the west wall descends to a door leading to area K78. The stairs at the south end of the west wall lead up, ending at door that opens into area K37.
 
@@ -510,7 +510,7 @@ The creature inside this crypt attacks as soon as the door is opened.
 
 From the darkness comes a horrifying visage, a spectral elf maiden twisted by the horror of her undead existence. She wails, and the very sound claws at your soul.
 
-The spectral elr'is a banshee that attacks the characters on sight, using her wail immediately. Once awakened, the banshee is free to roam Castle Ravenloft, but she can't travel more than 5 miles from this crypt.
+The spectral elr'is a banshee that attacks the characters on sight, using her wail immediately. Once awakened, the banshee is free to roam [[Castle Ravenloft]], but she can't travel more than 5 miles from this crypt.
 
 In life, Patrina Velikovna was a dusk elf who, having learned a great deal about the black arts, was nearly a match for [[Strahd]]'s powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, [[Strahd]] consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart [[Strahd]]'s plans. [[Strahd]] demanded, and got, Patrina's body. She then became the banshee trapped here.
 
@@ -550,7 +550,7 @@ Stefan Gregorovich: First Counselor to King Barov van Zarovich
 
 "A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished."
 
-A detect magic spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well in­ formed. If the skull is questioned about [[Strahd]] or Castle Ravenloft, all the information it provides is untrue.
+A detect magic spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well in­ formed. If the skull is questioned about [[Strahd]] or [[Castle Ravenloft]], all the information it provides is untrue.
 
 CRYPT 26
 

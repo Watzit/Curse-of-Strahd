@@ -144,7 +144,7 @@ Characters can access this 10-foot-diameter, 390-foot­ tall stone shaft from th
 
 The shaft is dark and choked with cobwebs. A rushing wind causes the webs to stir. Climbing the shaft is im­ possible without the aid of magic or the use of a climb­ er's kit, since there are few handholds.
 
-The bats in the catacombs (area K84) fly up the shaft at night, exiting Castle Ravenloft through various arrow slits and holes in the tower's peak (area K59). After feed­ ing, they return by the same route.
+The bats in the catacombs (area K84) fly up the shaft at night, exiting [[Castle Ravenloft]] through various arrow slits and holes in the tower's peak (area K59). After feed­ ing, they return by the same route.
 
 Kl9. GRAND LANDING
 
