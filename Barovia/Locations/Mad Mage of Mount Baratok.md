@@ -16,7 +16,7 @@ Under normal circumstances, a greater restoration spell cast on the Mad Mage wou
 
 The Mad Mage has a different spell list from that of the archmage in the Monster Manual, and he has already used one 1st-level spell slot to cast mage armor on himself, one 4th-level spell slot to cast polymorph on himself, one 7th-level spell slot to cast Mordenkainen's magnificent mansion (see "The Mad Mage's Mansion"), and one 8th-level spell slot to cast mind blank on himself.
 
-Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp
+Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp~
 1st level (4 slots): detect magic, mage armor, magic missile, shield
 2nd level (3 slots): mirror image, misty step, web  
 3rd level (3 slots): counterspe/1,jly, lightning bolt  
