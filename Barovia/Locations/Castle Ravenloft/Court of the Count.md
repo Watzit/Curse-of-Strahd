@@ -39,9 +39,7 @@ Halfway down the hall on the south side is a narrow secret door that can be pull
 
 FLIGHT OF THE VAMPIRE
 
-Hidden in a compartment above the western set of double doors is a dressed wooden mannequin that looks exactly like [[Strahd]]. It Weil.rs a blackcloak, its fangs are bared; and its -arms and clawed fingers are outstretched in a threatetiing ,manner.The mannequin is attached
-
-to ·a roJe that runs" through pull�ys fc.!stened alo!"}g the length of the hallway cei_liQg. ·
+Hidden in a compartment above the western set of double doors is a dressed wooden mannequin that looks exactly like [[Strahd]]. It Wers a blackcloak, its fangs are bared; and its -arms and clawed fingers are outstretched in a threatetiing ,manner.The mannequin is attached to a role that runs" through pulleys fastened along the length of the hallway ceiling.
 
 When one or more characters reach the midpoint of the hall from either direction, read:
 
