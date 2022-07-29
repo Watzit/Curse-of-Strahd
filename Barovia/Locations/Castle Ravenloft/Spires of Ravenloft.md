@@ -1,6 +1,6 @@
 Refer to maps 6 through 10 of [[Castle Ravenloft]] for areas K47 through K60.
 
-K47. P ORTRAIT OF [[STRAHD]]
+K47. PORTRAIT OF [[STRAHD]]
 
 You come to a dark landing ten feet wide and twenty
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Castle Ravenloft/Rooms of Weeping.md",
+            "file": "Barovia/Locations/Castle Ravenloft/Spires of Ravenloft.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Castle Ravenloft/Rooms of Weeping.md",
+                "file": "Barovia/Locations/Castle Ravenloft/Spires of Ravenloft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "Barovia/Locations/Castle Ravenloft/Rooms of Weeping.md",
     "Barovia/Locations/Castle Ravenloft/Court of the Count.md",
     "Barovia/Locations/Castle Ravenloft/Main Floor.md",
     "Barovia/Locations/Castle Ravenloft/Walls of Ravenloft.md",
@@ -114,7 +115,6 @@
     "Barovia/Locations/Old Bonegrinder/Old Bonegrinder.md",
     "Barovia/Locations/Village of Barovia/Special Events.md",
     "Barovia/Locations/Village of Barovia/Church.md",
-    "Barovia/Locations/Village of Barovia/Death House.md",
-    "Barovia/Locations/Village of Barovia/Cemetary.md"
+    "Barovia/Locations/Village of Barovia/Death House.md"
   ]
 }
