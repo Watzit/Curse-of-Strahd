@@ -55,7 +55,8 @@ The painting above the fireplace depicts [[Tatyana]], a beautiful young woman wi
 
 The back wall of the fireplace contains a secret door, which is opened by lifting the poker from its stand. The fire must be extinguished in order for. anyone to reach the secret door safely. Otherwise, a creature that enters the fireplace for the first time on a turn or starts its turn there takes 5 (1d10) fire damage and catches fire. 
 
-Until someone takes an action lo..iio'4se ;the flames on the creature, it takes � (ldlO) fi��·damage at the start. of each of its turns. (Ttii�· fire d��uig�·is.cumulative with the damage from standing in the:fireplace.).
+Until someone takes an action to douse the flames on the creature, it takes 5 (1d10) fire 
+damage at the start of each of its turns. (The fire damage is cumulative with the damage from standing in the fireplace.)
 The secret door provides access to area K38.
 
 TREASURE
