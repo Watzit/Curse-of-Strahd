@@ -47,16 +47,21 @@ _____
 The large iron gates squeal loudly on rusted hinges when opened. Beyond them lies area K6.
 
 K6. OVERLOOK
-
-______Dark clouds overhead drizzle constantly. A flagstone avenue passes between empty outbuildings, leading to a stone-paved overlook. The overlook has a low stone wall adorned with outward-facing gargoyle carvings.______
+______
+______"Dark clouds overhead drizzle constantly. A flagstone avenue passes between empty outbuildings, leading to a stone-paved overlook. The overlook has a low stone wall adorned with outward-facing gargoyle carvings."______
+______
 
 If a character peers over the balcony, read:
 
-A flash of lightning illuminates the dismal village of Baro­ via, its rooftops visible above a smothering blanket of fog one thousand feet below.
+_______
+"A flash of lightning illuminates the dismal village of Barovia, its rooftops visible above a smothering blanket of fog one thousand feet below."
+_______
 
 If a character who has a passive Wisdom (Perception) score of 15 or higher peers over the wall, add:
 
-Underneath the platform on which you stand, about one hundred feet down, a stone construction protrudes from the cliff face. Three dirt-caked windows are set into it.
+______
+"Underneath the platform on which you stand, about one hundred feet down, a stone construction protrudes from the cliff face. Three dirt-caked windows are set into it."
+______
 
 The windows are so dirty as to be opaque, although a character within reach of one can scrape the dirt away and see a dusty tomb beyond (area K88). Characters who try to reach the windows from the overlook must descend 110 feet and move 20 feet back under the plat­ form. This descent can't be accomplished without the aid of magic or the use of a climber's kit.
 
