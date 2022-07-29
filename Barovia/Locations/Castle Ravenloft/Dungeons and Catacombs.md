@@ -479,9 +479,9 @@ The coins are made of clay painted gold and are worth­ less. The funeral barge,
 
 CRYPT 18
 
-The stone door of this crypt has been carefully laid to one side. Through the swirly �ists of the perpetual fog, freshlyengravedlettersspelloutthewords"Ireena Kolyana: Wife." · ·
+The stone door of this crypt has been carefully laid to one side. Through the swirly �ists of the perpetual fog, freshlyengravedlettersspelloutthewords"[[Ireena]] Kolyana: Wife." · ·
 
-The crypt is empty and has �een swept clean. This is where Strahd intends to keep Ireena once he turns her into a vampire spawn
+The crypt is empty and has �een swept clean. This is where Strahd intends to keep [[Ireena]] once he turns her into a vampire spawn
 
 CRYPT 19  
 Artimus (Builder of the Keep): T hou standest amidst the monument to his life
