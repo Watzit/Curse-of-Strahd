@@ -64,7 +64,7 @@ The balcony is 50 feet above the floor of the chapel (area K15). A staircase nor
 
 K29. CREAKY LANDING
 ____
-"The staircase climbs from area K16 to area K28. It seems unstable but is sturdy. The creatures in area K28 can't be surprised by anyone climbing the creaky steps."
+"This staircase is made of old wood that strains underfoot, creaking and growing."
 ____
 
 K30. KING'S ACCOUNTANT
