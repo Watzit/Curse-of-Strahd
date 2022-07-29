@@ -208,7 +208,7 @@ _____
 "A curious object drifts into view, as though held aloft by an invisible force."
 _____
 
-This unseen servant was created by Strahd and is per­ manent until destroyed (see the unseen servant spell in the Player's Handbook). Roll a d6 to determine what the servant is carrying, or choose one of the options below.
+This unseen servant was created by Strahd and is permanent until destroyed (see the unseen servant spell in the Player's Handbook). Roll a d6 to determine what the servant is carrying, or choose one of the options below.
 
 d6 Items
 
@@ -224,3 +224,19 @@ A tarnished silver platter with a lid (worth 25 gp). If a character comes within
 S A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts ld4 hungry vampire spawn (see below), which arrive in ld4 + l rounds.
 
 6 A wizard's spellbook with a black velvet dust jacket over its stitched leather cover. The book contains all the spells Strahd has prepared (see appendix D). On subsequent occurrences of this encounter, the tome is a nonmagical leather-bound storybook worth 25 gp.
+
+VAMPIRE SPAWN
+
+If any character has a passive Wisdom (Perception) score of 16 or higher, the party isn't surprised. In that case, read:
+
+______
+Creatures with pale flesh scuttle across the ceiling like spiders, their red eyes glowing in the dark. As they draw near, their cracked and bloodstained lips open wide, revealing sharp fangs.
+______
+
+These minions of Strahd - former adventurers all creep along ceilings and drop down on unsuspecting prey. The vampire spawn fight until destroyed.
+
+VISTANI THUGS
+
+______
+You hear voices with thick accents
+_______
