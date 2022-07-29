@@ -146,9 +146,9 @@ The maid, Helga Ruvak, is a vampire spawn who claims to be the daughter of the v
 
 Helga will join the party if the characters ask her along. She intends to attack the characters but does so only if she senses an opportunity that doesn't involve having to fight the entire party. She also attacks if commanded to do so by Strahd.
 
-Helga plays the part of the in 11 ,oc��·fd�rris_elindistress to the last, revealing hei; fefo9f�,9,!\lY "."hen she attacks.
+Helga plays the part of the innocent damsel in distress to the last, revealing her ferocity when she attacks.
 
-She is, in fact, the bootm�_ker'{cf�ug�tei- she claims to be,butshechoseali(e-ofevilwithSt:ah: d;
+She is, in fact, the bootmaker's�ug�tei- she claims to be,butshechoseali(e-ofevilwithSt:ah: d;
 
 TREASURE
 Helga's gold necklace with its ruby pendant is a gift from [[Strahd]]. The necklace is almost five centuries old and is worth 750 gp.
