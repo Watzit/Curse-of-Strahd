@@ -235,4 +235,13 @@ ______
 "You hear voices with thick accents."
 _______
 
-A small group ofVistani (NE male and female humans) claim that they were the vampire's captives, only re­ cently escaped from the castle's dungeon, and they offer to help the party. In truth, they are loyal to Strahd and betray the characters as soon as he appears. If the char­ acters accept their offer, the thugs pretend to be the party's allies for as long as they remain with the party, or until Strahd appears. If the characters leave the castle, the thugs accompany them, since choosing to remain in the castle would likely arouse the characters' suspicion.
+A small group ofVistani (NE male and female humans) claim that they were the vampire's captives, only recently escaped from the castle's dungeon, and they offer to help the party. In truth, they are loyal to Strahd and betray the characters as soon as he appears. If the characters accept their offer, the thugs pretend to be the party's allies for as long as they remain with the party, or until Strahd appears. If the characters leave the castle, the thugs accompany them, since choosing to remain in the castle would likely arouse the characters' suspicion.
+
+Treasure. One Vistani thug carries a pouch that holds 2d8 small gemstones (50 gp each).
+
+WIGHTS 
+
+______
+"The air grows much colder, and you can hear the march of footsteps drawing near."
+______
+
