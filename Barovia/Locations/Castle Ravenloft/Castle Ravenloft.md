@@ -164,7 +164,17 @@ Rahadin directs the characters to a random location in the castle, determined by
 
 Strahd isn't actually at that location unless the card reading (see chapter 1) indicates that he is.
 
-If the characters ask Rahadin to lead the way, he de­ clines. If the characters ask for directions, he tells them whether they need to ascend, descend, or remain on the level they're at. If they attack him, he fights to the death. Otherwise, he doesn't leave until after they do.
+If the characters ask Rahadin to lead the way, he declines. If the characters ask for directions, he tells them whether they need to ascend, descend, or remain on the level they're at. If they attack him, he fights to the death. Otherwise, he doesn't leave until after they do.
+
+SHADOWS
+
+If one or more characters have a passive Wisdom (Per­ c eption) score of 16 or higher, read:
+
+_______
+You can't shake the feeling that something is behind you. When you look back, you see a shadow, tall and still, but nothing of its dimensions that could cast it.
+_______
+
+If more than one shadow is present, the others are close by but hidden in the darkness. These undead shadows follow the characters but do not attack unless attacked
 
 Strahd makes a surprise appearance.
 
