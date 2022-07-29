@@ -211,16 +211,15 @@ ______
 
 The ten statues that line this corridor depict ancient heroes. In actuality, the faces of the statues are stoic and expressionless, but whenever the lightning flashes, their expressions change to utter horror until the hall goes dark again.
 
-The statues are imbued with the spirits of [[Strahd]]'s ancestors, all of which grieve over the termination of their bloodline. Each spirit will answer one question  
-if addressed directly. The spirits' answers are always short and vague, and. there is a 20 percent chance that a spirit's answer is wrong.
+The statues are imbued with the spirits of [[Strahd]]'s ancestors, all of which grieve over the termination of their bloodline. Each spirit will answer one question if addressed directly. The spirits' answers are always short and vague, and there is a 20 percent chance that a spirit's answer is wrong.
 
-The stairs at the west end. of the hall descend 40 feet to area K33. An opeii �tchWay·to the east reveals a tower landing beyqnd (pai:�:ofarea K20).
+The stairs at the west end. of the hall descend 40 feet to area K33. An open archway to the east reveals a tower landing beyond (part of area K20).
 
 K46. PARAPETS
-
-You stand on a ten-foot-wide walkway that encircles most of the keep. The drizzle of rain continues, punctuated by the occasional clap of thunder or stroke of lightning. Far below these parapets are the shining wet cobblestones of the courtyard.
-
-The walkway runs around the front of the upper por­ tion of the keep. Battlemented walkways extend from the keep north, south, and east to the outer walls of the castle as well. (See map 2 for the length and location of the castle walls.) All the windows leading from this area into the keep are shut and locked, but can easily be broken.
+______
+"You stand on a ten-foot-wide walkway that encircles most of the keep. The drizzle of rain continues, punctuated by the occasional clap of thunder or stroke of lightning. Far below these parapets are the shining wet cobblestones of the courtyard."
+______
+The walkway runs around the front of the upper portion of the keep. Battlemented walkways extend from the keep north, south, and east to the outer walls of the castle as well. (See map 2 for the length and location of the castle walls.) All the windows leading from this area into the keep are shut and locked, but can easily be broken.
 
 If the characters loiter on the parapets or atop the castle walls for more than 5 minutes, they encounter [[Strahd]]'s animated armor (see appendix D) making the rounds. It patrols the parapets and the outer walls of Ravenloft day and night. Under a darkened sky, charac­ ters without darkvision are more likely to hear the clat­ ter of the armor approaching before they can see it.
 
