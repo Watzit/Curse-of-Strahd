@@ -145,10 +145,8 @@ A giant spider made this cocoon. Characters who can reach it can cut it open to 
 
 RAHADIN
 
-If Rahadin was killed or captured in a previous encoun­
-
-mysterious chamberlain approaches quietly. A character whose passive Wisdom (Perception) score meets or ex­ ceeds Rahadin's Dexterity (Stealth) check hear him.
-
+If Rahadin was killed or captured in a previous encounter, this encounter doesn't occur. Otherwise, Strahd's mysterious chamberlain approaches quietly. A character whose passive Wisdom (Perception) score meets or exceeds Rahadin's Dexterity (Stealth) check hear him.
+________
 "The master wishes to see you," intones a grim voice in the darkness.
 
 Rahadin directs the characters to a random location in the castle, determined by rolling a d6:
@@ -169,6 +167,8 @@ d6 Location
     
 
 Strahd isn't actually at that location unless the card reading (see chapter 1) indicates that he is.
+
+If the characters ask Rahadin to lead the way, he de­ clines. If the characters ask for directions, he tells them whether they need to ascend, descend, or remain on the level they're at. If they attack him, he fights to the death. Otherwise, he doesn't leave until after they do.
 
 Strahd makes a surprise appearance.
 
