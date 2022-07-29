@@ -31,8 +31,7 @@ K8. GREAT ENTRY
 ________
 "Cobwebs stretch between the columns that support the vaulted ceiling of a great, dusty hall dimly lit by sputtering torches in iron sconces. The torches cast odd shadows across the faces of eight stone gargoyles squatting motionlessly on the rim of the domed ceiling. Cracked and faded ceiling frescoes are covered by decay. 
 
-Double doors of bronze stand closed to the east.
-To the north, a wide staircase climbs into darkness. A lit hallway to the south contains another set of bronze doors, through which you hear sad and majestic organ tones"
+Double doors of bronze stand closed to the east. To the north, a wide staircase climbs into darkness. A lit hallway to the south contains another set of bronze doors, through which you hear sad and majestic organ tones"
 ________
 
 The southern hallway is described in area K9. The wide staircase leads up to area K19.
