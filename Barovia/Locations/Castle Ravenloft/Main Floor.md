@@ -171,9 +171,10 @@ _______
 Both staircases on the south wall climb to area K25. The massive stairs lead down to area K8. Anyone who crosses in front of the alcoves along the south wall activates the suits of armor.
 
 Both suits of armor are mechanical traps, each one activated by a pressure plate hidden in the floor in front of its alcove. A character who searches for. traps in one of these locations notices both pressure plates with a successful DC 15 Wisdom (Perception) check. 
+
 When 40 or more pounds of �eight are placed on a pressure plate, the suit of armour nearest to that plate springs forward, flailing its arms and wielding its mace. Any creature standing on a pressure plate when its trap triggers must succeed on a DC 14 Dexterity saving throw or take 7 (2d6) bludgeoning dam· age from the flailing armor. After leaping out and attacking, the armor retracts. The pressure plate resets after 1 minute, after which its armor trap can be triggered again.
 
-Thesu_ itsofarmoractmuchlikemetalpuppets-a little joke i�tended to spook visitors more than damage them. A pressure plate can be disabled by a character who uses thieves' tools and makes a successful DC 15 Dexterity check. A trap can also be disabled by destroy­ ing its suit of armor, which has AC 18, 5 hit points, and immunity to psychic and poison damage.
+The suits of armor act much like metal puppets - a little joke intended to spook visitors more than damage them. A pressure plate can be disabled by a character who uses thieves' tools and makes a successful DC 15 Dexterity check. A trap can also be disabled by destroying its suit of armor, which has AC 18, 5 hit points, and immunity to psychic and poison damage.
 
 K20. HEART OF SORROW
 
