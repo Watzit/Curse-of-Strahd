@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/River Ivlis Crossroads.md",
+            "file": "Barovia/Locations/Tser Pool Encampment.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/River Ivlis Crossroads.md",
+                "file": "Barovia/Locations/Tser Pool Encampment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "Barovia/Locations/River Ivlis Crossroads.md",
     "Barovia/Locations/Mad Mage of Mount Baratok.md",
     "Barovia/Locations/River Ivlis.md",
     "Barovia/Locations/Lake Zarovich.md",
@@ -113,7 +114,6 @@
     "Barovia/Locations/Svalich Woods.md",
     "Barovia/Locations/Old Svalich Road.md",
     "Barovia/Locations/Lands of Barovia, Common Features.md",
-    "Barovia/Barovia.md",
-    "Barovia/Locations/Village of Barovia/Bildrath's Mercantile.md"
+    "Barovia/Barovia.md"
   ]
 }
