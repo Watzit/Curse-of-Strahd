@@ -134,15 +134,16 @@ ______
 The statues are harmless. The vast chamber to the east is the chapel (area K15). The staircase to the west is described in area K29.
 
 K17. SOUTH CHAPEL ACCESS
+_______
+"This arched room connects a vast chamber to the east and the landing of a staircase to the west. To the left of the landing, the stairs curl down into darkness. To the right, the stairs climb into thick drapes of cobwebs. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with bright blades. Black shadows obscure their faces."
+_______
 
-This arched room connects a vast chamber to the east and the landing of a staircase to the west. To the left  
-of the landing, the stairs curl down into darkness. To the right, the stairs climb into thick drapes of cobwebs. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with bright blades. Black shadows obscure their faces.
+The statues are harmless. The vast chamber to the east is the chapel (area Kl5). The staircase to the west is described in area K18.
 
-The statues are harmless. The vast chamber to the east is the chapel (area Kl5). The staircase to the west is de­ scribed in area K18.
-
-Kl8. HIGH TOWER STAIRCASE
-
-The large flagstones of this spiraling staircase lead up and down around a twenty-foot-wide stone core. Cob­ webs fill the staircase, making it difficult to see even the ceiling. Heavy beams sag overhead from centuries of supporting weight.
+K18. HIGH TOWER STAIRCASE
+_____
+"The large flagstones of this spiralling staircase lead up and down around a twenty-foot-wide stone core. Cobwebs fill the staircase, making it difficult to see even the ceiling. Heavy beams sag overhead from centuries of supporting weight."
+_____
 
 The staircase starts at area K84 and spirals upward around a central shaft (area K18a), climbing 300 feet to the top of the high tower (area �59).
 
