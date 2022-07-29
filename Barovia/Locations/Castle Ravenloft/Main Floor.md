@@ -95,13 +95,12 @@ Kl3. TURRET POST ACCESS HALL
 
 K14. HALL OF FAITH
 
-This grand hall is choked with dust and stretches into darkness ahead. Webs hang from the arched ceiling like drapes, and life-sized statues of knights line the hallway on both sides, their eyes seeming to watch you.
+"This grand hall is choked with dust and stretches into darkness ahead. Webs hang from the arched ceiling like drapes, and life-sized statues of knights line the hallway on both sides, their eyes seeming to watch you."
 
-The statues are harmless. Their moving eyes are a sim­ ple optical illusion.
-
+The statues are harmless. Their moving eyes are a simple optical illusion.
 Double doors stand at both ends of the hall. Above the doors leading to area KlS hangs a symbol of beaten bronze that looks like a rising or setting sun.
 
-Kl5. CHAPEL
+K15. CHAPEL
 
 Dim, colored light filters through tall, broken, and board­ ed-up windows of stained glass, illuminating the ancient chapel of Ravenloft. A few bats flutter about near the top of the ninety-foot-high domed ceiling. A balcony runs the length of the west wall, fifty feet above the floor. In the center of the balcony, two dark shapes are slumped in tall chairs.
 
