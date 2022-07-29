@@ -117,3 +117,8 @@ Ezmerelda is hunting Strahd, but her efforts to corner the vampire have so far b
 
 This random encounter happens only once. If this result comes up again, treat it as no encounter.
 
+FLYING SWORDS
+
+_______
+"Out of the gloom flies a rusty blade, followed by another!"
+_______
