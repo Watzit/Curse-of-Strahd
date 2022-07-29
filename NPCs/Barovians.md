@@ -22,7 +22,7 @@ When a being with a soul dies in [[Barovia]], that soul remains trapped in [[NPC
 
 A Barovian woman, soulless or not, can give birth. A child born in [[Barovia]] might have a soul even if one or both parents do not. Conversely, the child of two parents with souls isn't certain to have a soul of its own. Barovians without souls are maudlin folk who experience fear but neither laugh nor cry.
 
-[[Ireena]] Kolyana and her brother Ismark both have souls, as do all [[Vistani|Vistani]]. Which Barovians have souls and which don't is left up to you.
+[[Ireena]] Kolyana and her brother [[Ismark]] both have souls, as do all [[Vistani|Vistani]]. Which Barovians have souls and which don't is left up to you.
 
 [[NPCs/Strahd/Strahd|Strahd]] periodically feeds on the blood of Barovians who have souls, but he can't draw nourishment from the blood of the soulless. He can tell at a glance whether a Barovian has a soul or is merely a shell.
 

@@ -6,4 +6,4 @@ Ireena, a striking young woman with auburn hair, has been bitten twice by Strahd
 
 She tells the characters that wolves and other terrible creatures attacked the house night after night for weeks. The burgomaster's heart couldn't stand the constant assault, and he died three days ago. Strangely, since his death, the house has not come under attack.
 
-She says that no one from the village has been brave enough to help Ismark take Kolyan Indirovich to the cemetery for proper burial. Ireena asks the characters if they would be so kind as to help Ismark deliver her father's body safely to Donavich, the local priest (area ES). She refuses to be taken to [[Vallaki]] or anywhere else while the burgomaster lies dead on the mansion floor.
+She says that no one from the village has been brave enough to help [[Ismark]] take Kolyan Indirovich to the cemetery for proper burial. Ireena asks the characters if they would be so kind as to help [[Ismark]] deliver her father's body safely to Donavich, the local priest (area ES). She refuses to be taken to [[Vallaki]] or anywhere else while the burgomaster lies dead on the mansion floor.
