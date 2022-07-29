@@ -9,11 +9,11 @@ ________________________________________________
 If the characters are on the high road instead, read:
 ________________________________________________
 
-"You follow the dirt road as it clings to the side of a mountain and ends before an arching bridge of mold-encrusted stone that spans a natural chasm. Gargoyles cloaked in black moss perch on the corners of the bridge, their frowns weatherworn. On the mountainous side of the bridge, a waterfall spills into a misty pool nearly a thousand feet below. The pool feeds a river that meanders into the fog-shrouded pines that blanket the valley."
+"You follow the dirt road as it clings to the side of a mountain and ends before an arching bridge of mould-encrusted stone that spans a natural chasm. Gargoyles cloaked in black moss perch on the corners of the bridge, their frowns weatherworn. On the mountainous side of the bridge, a waterfall spills into a misty pool nearly a thousand feet below. The pool feeds a river that meanders into the fog-shrouded pines that blanket the valley."
 ________________________________________________
 
 
 The chasm's walls are slippery and sheer, and can't be scaled without the aid of magic or a climber's kit.
-	The bridge is slick with moisture but safe to cross.
-		The road south of the bridge leads down the mountainside to area F; the road north cuts through the mountains to area I.
-	The gargoyles on the bridge are harmless sculptures.
+The bridge is slick with moisture but safe to cross.
+The road south of the bridge leads down the mountainside to area F; the road north cuts through the mountains to area I.
+The gargoyles on the bridge are harmless sculptures.
