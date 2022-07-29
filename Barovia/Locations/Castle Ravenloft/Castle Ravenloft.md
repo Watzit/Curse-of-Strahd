@@ -76,24 +76,12 @@ The toy has a slogan stitched or printed on it in tiny letters: "Is No Fun, Is N
 | 2   | A smiling jester marionette with tangled strings and tiny copper bells sewn into its cap.                                                                                                                                                                                                                                |
 | 3   | A wooden puzzle box, 6 inches on a side, carved with silhouettes of leering clown faces. The box rattles when shaken. A character who spends a short rest fiddling with the box can figure out how to open it with a successful DC 20 Intelligence check. The box is empty, with nothing inside to explain the rattling. |
 | 4   | A faceless doll in a wedding dress that has yellowed and frayed with age.                                                                                                                                                                                                                                                |
-| 5   |                                                                                                                                                                                                                                                                                                                          |
-| 6   |                                                                                                                                                                                                                                                                                                                          |
+| 5   | A vaguely coffin-shaped jack-in-the-box containing a pop-up Strahd puppet.                                                                                                                                                                                                                                               |
+| 6   | A spring-loaded set of wooden teeth with fangs, all painted white. The teeth gnash and chatter for 1 minute when the spring is wound tight (requiring an action) and released.                                                                                                                                           | 
 
 
-
-2.  2  
-    
-3.  3  
-    
-4.  4  
-    
-5.  5  
-    
-6.  6  A spring-loaded set of wooden teeth with fangs, all painted white. The teeth gnash and chatter for 1 minute when the spring is wound tight (requiring an action) and released.
-    
-
-BROOM OF ANIMATED AT,:AcK ..
-
+BROOM OF ANIMATED ATTACK
+___________
 You hear a scratching noise. Out of the shadows comes a broom, sweeping its way toward you as though held by invisible hands.
 
 When it gets within 5 feet of a party member, the
