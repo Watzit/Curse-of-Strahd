@@ -143,3 +143,47 @@ A giant spider made this cocoon. Characters who can reach it can cut it open to 
 | 5   | A dead Barovian that serves as host to a swarm of insects (spiders). The baby giant spiders (each one the size of a tarantula) crawl out of the Barovian's gaping mouth or burst forth from its distended belly.    |
 | 6   | A Vistana bandit (CN male or female). The Vistana knows the castle's layout and helps the characters until Strahd or more Vistani appear, at which point the treacherous Vistana turns on the characters.           |
 
+RAHADIN
+
+Strahd makes a surprise appearance.
+
+A crack of thunder shakes the castle, stirring the dust and cobwebs. You hear a voice: "Good evening."
+
+tiny black wings. Suddenly, a dark cloud of bats descends Iter, this encounter doesn't occur. Otherwise, Strahd's I upon you!
+
+If Rahadin was killed or captured in a previous encoun­
+
+mysterious chamberlain approaches quietly. A character whose passive Wisdom (Perception) score meets or ex­ ceeds Rahadin's Dexterity (Stealth) check hear him.
+
+"The master wishes to see you," intones a grim voice in the darkness.
+
+I You kick something-a trinket buried in the dust. I ITo determine what the character finds, roll on the Trin­ I
+
+Rahadin directs the characters to a random location in the castle, determined by rolling a d6:
+
+d6 Location
+
+1.  1  Chapel (area Kl 5)
+    
+2.  2  Audience hall (area K25)
+    
+3.  3  Study (area K37)
+    
+4.  4  Tower roof (area K57)
+    
+5.  5  Wine cellar (area _K63)
+    
+6.  6  Torture chamber _(area K76)
+    
+
+Strahd isn't actually at that location unless the card reading (see chapter 1) indicates that he is.
+
+These bats are the servants of Strahd. They attack the characters without provocation.
+
+TRINKET
+
+kets table in appendix A.
+
+UNSEEN SERVANT
+
+A curious object drifts into view, as though held aloft by an invisible force.
