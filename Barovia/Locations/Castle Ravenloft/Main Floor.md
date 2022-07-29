@@ -49,14 +49,15 @@ DEVELOPMENT
 After all the characters leave this room, the eight gargoyles attack any character who dares to return. The gargoyles also swoop down to fight if they are attacked. When the gargoyles attack, the turbulence in the air from their wings extinguishes the feeble torches in the sconces, plunging the hall into darkness unless the characters have light sources.
 
 K9. GUESTS' HALL
+_______
+"Torchlight flutters against the walls of this vaulted hall. To the east, an arched hallway stretches for twenty feet, ending at a spiral staircase that goes up and down. Next to the hallway, a suit of armour, oiled and glistening, stands at attention in a shallow alcove. To the west, large double doors hang slightly open, and a steady bright light escapes through the opening. Swells of organ music come from behind the doors, spilling their melody of power and defeat into the hall."
+_______
 
-Torchlight flutters against the walls of this vaulted hall. To the east, an arched hallway stretches for twenty feet, ending at a spiral staircase that goes up and down. Next to the hallway, a suit of armor, oiled and glistening, stands at attention in a shallow alcove. To the west, large double doors hang slightly open, and a steady bright light escapes through the opening. Swells of organ music come from behind the doors, spilling their melody of power and defeat into the hall.
+The suit of armor standing in the alcove is merely a normal suit of plate armor that is well cared for.
 
-The suit of armor standing in the alcove is merely a nor­ mal suit of plate armor that is well cared for.
+The staircase leads down to area K61 and up to area K30. The double doors provide access to area K1O.
 
-The staircase leads down to area K61 and up to area K30. The double doors provide access to area KlO.
-
-KlO. DINING HALL  
+K10. DINING HALL  
 The first time the characters enter this room, read:
 
 Three enormous crystal chandeliers brilliantly illuminate this magnificent chamber. Pillars of stone stand against dull white marble walls, supporting the ceiling. In the center of the room, a long, heavy table is covered with a fine white satin cloth. The table is laden with many delec­ table foods: roasted beast basted in a savory sauce, roots and herbs of every taste, and sweet fruits and vegetables. Places are set for each of you with fine, delicate china and silver. At each place is a crystal goblet filled with an am­ ber liquid with a delicate, tantalizing fragrance.
