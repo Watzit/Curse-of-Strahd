@@ -30,14 +30,11 @@ There are two explanations for the burst cake and broken window. Choose the one 
 
 -   [[Strahd]]'s hate assumes a corporeal form bursts out of the cake (the symbol of Sergei and [[Tatyana]]'s love), and escapes through the window. "[[Strahd]]'s hate" has the statistics of an invisible stalker and tries to kill whichever character is carrying the groom figurine.
 
-- The room has wooden doors in the north and west walls, and an ornate steel door in the east wall (see area K35 for details).
-    
-    The harp stands 6\li feet tall, weighs close to 300 pounds, and is fashioned of dark, stained wood carved with images of harts and roses. Its taut strings are made of gut.
-    
-    A character who plays the harp and succeeds on a DC 15 Charisma (Performance) check does well enough  
-    to summon the ghost of Pidlwick, a short little man dressed as a fool, with a tiny jingling bell at the end of
-    
-    his pointy dunce cap. He asks, "Why have you sum­ moned me from beyond the grave?" Regardless of the answer, he commends the character for playing well and says, "In my crypt below the castle, thou shalt find a treasure worthy of one so talented as thee! May it help thee set this troubled place to rest." If the characters think to ask him who he is, the fool replies, "Pidlwick." If asked how he died, he replies humorlessly, "I fell down the stairs." If Pidlwick II (see area K59) is with the party, the ghost points at the clockwork effigy and says, "He pushed me down the stairs."
+The room has wooden doors in the north and west walls, and an ornate steel door in the east wall (see area K35 for details).
+ 
+  The harp stands 6 1/2 feet tall, weighs close to 300 pounds, and is fashioned of dark, stained wood carved with images of harts and roses. Its taut strings are made of gut.
+
+A character who plays the harp and succeeds on a DC 15 Charisma (Performance) check does well enough to summon the ghost of Pidlwick, a short little man dressed as a fool, with a tiny jingling bell at the end of his pointy dunce cap. He asks, "Why have you sum­ moned me from beyond the grave?" Regardless of the answer, he commends the character for playing well and says, "In my crypt below the castle, thou shalt find a treasure worthy of one so talented as thee! May it help thee set this troubled place to rest." If the characters think to ask him who he is, the fool replies, "Pidlwick." If asked how he died, he replies humorlessly, "I fell down the stairs." If Pidlwick II (see area K59) is with the party, the ghost points at the clockwork effigy and says, "He pushed me down the stairs."
 
 With nothing more to add, the ghost of Pidlwick fades away and doesn't appear again. If the characters attack the ghost, it attacks them in turn.
 
