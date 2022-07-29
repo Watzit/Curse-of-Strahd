@@ -172,15 +172,16 @@ Arched double doors. Lead from this room to the south and east.
 
 The window is divided into four tall panes of glass, each enclosed by a lead framework. The two outermost sections have small iron hinges built into them so that they can be opened, as well as iron latches to lock them. In place when they're closed. The window looks out onto the parapet (area K46).
 
-The figure on the bed is Gertruda (NG female human commoner), the daughter of Mad Mary (see chapter 3, area E3). Gertruda is oblivious to any danger to her­ self-especially from [[Strahd]], who has charmed her. Sheltered by her mother, she was never allowed to leave home as a child. She finally slipped away and made her way to the castle, drawn by its majesty.
+The figure on the bed is Gertruda (NG female human commoner), the daughter of Mad Mary (see chapter 3, area E3). Gertruda is oblivious to any danger to herself-especially from [[Strahd]], who has charmed her. Sheltered by her mother, she was never allowed to leave home as a child. She finally slipped away and made her way to the castle, drawn by its majesty.
 
-Gertruda is innocent, and years spent as a shut-in have twisted her sense of reality. Consequently, she maintains a fairy-tale view of life. When faced with a decision, she almost always makes the most simplistic choice. She is naive to the point of being a danger to her­ self and others. Fortunately for her, [[Strahd]] has not yet bitten her, though he intends to. (If he can do so while the characters look on helplessly, so much the better.)
+Gertruda is innocent, and years spent as a shut-in have twisted her sense of reality. Consequently, she maintains a fairy-tale view of life. When faced with a decision, she almost always makes the most simplistic choice. She is naive to the point of being a danger to herself and others. Fortunately for her, [[Strahd]] has not yet bitten her, though he intends to. (If he can do so while the characters look on helplessly, so much the better.)
 
 Next to the bed, set into the north wall, is a secret door. It can be pushed open to reveal a dusty hall that ends at a similar secret door in the back of an alcove (see area K45 for details). Gertruda doesn't know that this secret door exists.
 
 K43. BATH CHAMBER
-
-Red satin curtains hang in archways at both ends of the south wall in this dark room. Between them, in the cen­ ter of the chamber, stands a large, ornate iron tub with clawed feet. The tub is full of blood.
+_____
+"Red satin curtains hang in archways at both ends of the south wall in this dark room. Between them, in the center of the chamber, stands a large, ornate iron tub with clawed feet. The tub is full of blood."
+_____
 
 Both curtamed archways lead to area K44.
 
