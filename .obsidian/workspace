@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Village of Krezk/Krezk.md",
+            "file": "Barovia/Locations/Village of Barovia/Village of Barovia.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Village of Krezk/Krezk.md",
+                "file": "Barovia/Locations/Village of Barovia/Village of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "Barovia/Locations/Village of Krezk/Krezk.md",
     "Barovia/Locations/Raven River Crossroads.md",
     "Barovia/Locations/Old Svalich Road.md",
     "Barovia/Locations/Argynvostholt/Argynvostholt.md",
@@ -113,7 +114,6 @@
     "Barovia/Locations/Mad Mage of Mount Baratok.md",
     "Barovia/Locations/Lake Zarovich.md",
     "Barovia/Locations/Gates of Ravenloft.md",
-    "Barovia/Locations/Black Carriage.md",
-    "Barovia/Locations/Tser Falls.md"
+    "Barovia/Locations/Black Carriage.md"
   ]
 }

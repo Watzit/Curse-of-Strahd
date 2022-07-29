@@ -5,9 +5,9 @@ Until recently, [[Strahd]] had been paying nightly visits to lreena Kolyana, the
 APPROACHING THE VILLAGE
 
 When the characters first approach the village, read:
-
+________________________________________________
 "Tall shapes loom out of the dense fog that surrounds everything. T he muddy ground underfoot gives way to slick, wet cobblestones. The tall shapes become recognizable as village dwellings. The windows of each house stare out from pools of blackness. No sound cuts the silence except for mournful sobbing that echoes through the streets from a distance."
-
+________________________________________________
 The sobbing comes from [[Mad Mary's townhouse]] (area E3). With the exception of areas El and E2, all the shops in the village are permanently closed, and the unoccupied shops have been looted of anything valuable. Claw marks cover most of the walls.
 
 When the fog eventually burns off, [[Castle Ravenloft]] looms over the village, like a lance piercing the sky.
@@ -18,10 +18,14 @@ If the characters explore a residence other than [[Mad Mary's townhouse]] (area 
 
 OCCUPANTS OF HOUSES IN [[BAROVIA]]
 
-d20 Occupants
+| d20 | Occupants          |
+| --- | ------------------ |
+| 1-3 | None               |
+| 4-8 | 2d4 swarms of rats |
+|     |                    |
 
-1-3 None  
-4-8 2d4 swarms ofrats
+ None  
+4-8 
 
 9-16 Barovian villagers  
 17-20 2d4 [[Strahd]] zombies (see appendix D)
