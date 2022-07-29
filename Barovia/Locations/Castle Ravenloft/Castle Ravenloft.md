@@ -36,7 +36,7 @@ Use the descriptions that follow to run each encounter.
 
 BAROVIAN COMMONERS
 
-A loud clamor fills the unhallowed halls of Ravenloft. Cries of"Kill the vampire!" are mixed with bold voices shouting,"Never again!" and"To the crypts!"
+A loud clamour fills the unhallowed halls of Ravenloft. Cries of "Kill the vampire!" are mixed with bold voices shouting, "Never again!" and "To the crypts!"
 
 Angry villagers who have entered the castle brandish torches and pitchforks in a ridiculous display of force. Everywhere they go, they shout for justice. They follow the characters unless prevented from doing so. As long as these [[Barovians]] are with the adventurers, random encounters occur on a roll of 9 or higher.
 
