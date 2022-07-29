@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Vallaki.md",
+            "file": "Barovia/Locations/Town of Vallaki/Vallaki.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Vallaki.md",
+                "file": "Barovia/Locations/Town of Vallaki/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "946dd50b65031a6c",
+  "active": "1708bbb3a2696065",
   "lastOpenFiles": [
     "Barovia/Locations/Mad Mage of Mount Baratok.md",
     "Barovia/Locations/Lake Zarovich.md",
