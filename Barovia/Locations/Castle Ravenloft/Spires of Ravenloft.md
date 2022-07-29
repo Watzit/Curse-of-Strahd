@@ -11,7 +11,7 @@ The ornate rug is actually a rug of smothering. It attacks creatures, other than
 Underneath the rug is a bare stone floor.
 
 The wooden, square trapdoor is 4 feet on.a.side and as thick as··the floor, with recessed iron hinges and an iron ring built into the side opposite the hinges. 
-Pulling up on the ring opens the dooe. Below the trapdoor, characters see one of two things: either o-(oot-dee·t> shaff .:: · ;'(area 'K3Jaf�r;' i(thi{ elev�'to'i;-trap Kas b�en activ:�te. d. ', ...:. cret'·Hilt�r·'in)fs.fop/
+Pulling up on the ring opens the door. Below the trapdoor, characters see one of two things: either a 170-foot-deep shaft (area K31a) or, if the elevator trap has been activated (see area K61), a stone elevator compartment with a secret hatch in its top.
 
 The portrait on the wall depicts [[Strahd]] von Zarovich before he became a vampire. Even in life, he was pale. The eyes of the portrait seem to watch and follow the characters as they explore the area. The picture frame is bolted to the wall and can't be removed without de­ stroying it.
 
