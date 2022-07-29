@@ -40,10 +40,14 @@ TREASURE
 
 For each [[Vistani|Vistani]] tent of wagon that the characters search, roll once on the, following table to determine what treasure is found:
 
-d20 Treasure
+| d20   | Treasure                                                                                   |
+| ----- | ------------------------------------------------------------------------------------------ |
+| 1-10  | None                                                                                       |
+| 11-13 | Sack of 100 ep (each coin stamped with [[NPCs/Strahd/Strahd\|Strahd]]'s visage in profile) |
+|       |                                                                                            |
 
-1-10 None  
-11-13 Sack of 100 ep (each coin stamped with [[NPCs/Strahd/Strahd|Strahd]]'s visage in profile)
+  
+ 
 
 14-16 Pouch containing 4d6 gemstones worth 100 gp each 17-19 Sack containing 3d6 pieces of cheap jewelry worth
 
