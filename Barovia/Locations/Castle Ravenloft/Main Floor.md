@@ -128,12 +128,12 @@ If your card reading indicates an encounter with [[Strahd]] in this area, he is 
 K16. NORTH CHAPEL ACCESS
 
 ______
-This arched room connects a vast chamber to the east and a staircase that rises to the west. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with muscular builds. Black shadows fall across their faces.
+"This arched room connects a vast chamber to the east and a staircase that rises to the west. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with muscular builds. Black shadows fall across their faces."
 ______
 
-The statues are harmless. The vast chamber to the east is the chapel (area K15). The staircase to the west is de­ scribed in area K29.
+The statues are harmless. The vast chamber to the east is the chapel (area K15). The staircase to the west is described in area K29.
 
-Kl7. SOUTH CHAPEL ACCESS
+K17. SOUTH CHAPEL ACCESS
 
 This arched room connects a vast chamber to the east and the landing of a staircase to the west. To the left  
 of the landing, the stairs curl down into darkness. To the right, the stairs climb into thick drapes of cobwebs. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with bright blades. Black shadows obscure their faces.
