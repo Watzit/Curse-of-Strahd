@@ -61,19 +61,19 @@ The cloak is ordinary. The witches in area K56 placed it here to help them remem
 The trapdoor can be found after a search of the room and a successful DC 13 Wisdom (Perception) check. Locating the trapdoor doesn't enable someone to discover its opening mechanism. The door has a hidden lock and can be opened by pulling down on the hook from which the black cloak hangs. Once it has been found, the trap­ door can be opened by pulling on the hook, or it can be unlocked by someone using thieves' tools, a knock spell, or similar magic. It swings down when unlocked
 
 K52. SMOKESTACK
-
-Jutting from the steeply sloping rooftop of the castle, a spindly smokestack, five feet in diameter at the top, rises thirty feet above the roof's peak. Smoke belches from its iron-pronged capstone.
-
-The chimney leads down 60 feet to the blazing fireplace in area K37. A creature that starts its turn in the chimney takes 3 (ld6) fire damage.
+_____
+"Jutting from the steeply sloping rooftop of the castle, a spindly smokestack, five feet in diameter at the top, rises thirty feet above the roof's peak. Smoke belches from its iron-pronged capstone."
+_____
+The chimney leads down 60 feet to the blazing fireplace in area K37. A creature that starts its turn in the chimney takes 3 (1d6) fire damage.
 
 K53. ROOFTOP
-
-Rain splashes against the sagging, sloping rooftop. Flashes of lightning illuminate gargoyles perched on the roof's end peaks, their hideous stares forever fixed on the courtyard some one hundred thirty feet below.
-
+______
+"Rain splashes against the sagging, sloping rooftop. Flashes of lightning illuminate gargoyles perched on the roof's end peaks, their hideous stares forever fixed on the courtyard some one hundred thirty feet below."
+______
 If a character tries to traverse the rooftop, read:
-
-Some of the ancient roof tiles slide easily underfoot, eas­ ily dropping into the fog-shrouded darkness. Each falling tile resounds with a hollow click as it hits the flagstones of the parapet or courtyard below.
-
+_____
+Some of the ancient roof tiles slide easily underfoot, easily dropping into the fog-shrouded darkness. Each falling tile resounds with a hollow click as it hits the flagstones of the parapet or courtyard below.
+_____
 A character must succeed on a DC 15 Dexterity (Acro­ batics) check to traverse the roof. The check succeeds automatically if the character crawls. If the check fails by 5 or more, the character slides off the edge of the roof ans falls 40 feet to the castle parapet (area K46).
 
 K54. FAMILIAR ROOM
