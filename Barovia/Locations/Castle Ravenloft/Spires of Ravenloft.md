@@ -72,15 +72,15 @@ ______
 ______
 If a character tries to traverse the rooftop, read:
 _____
-Some of the ancient roof tiles slide easily underfoot, easily dropping into the fog-shrouded darkness. Each falling tile resounds with a hollow click as it hits the flagstones of the parapet or courtyard below.
+"Some of the ancient roof tiles slide easily underfoot, easily dropping into the fog-shrouded darkness. Each falling tile resounds with a hollow click as it hits the flagstones of the parapet or courtyard below."
 _____
-A character must succeed on a DC 15 Dexterity (Acro­ batics) check to traverse the roof. The check succeeds automatically if the character crawls. If the check fails by 5 or more, the character slides off the edge of the roof ans falls 40 feet to the castle parapet (area K46).
+A character must succeed on a DC 15 Dexterity (Acrobatics) check to traverse the roof. The check succeeds automatically if the character crawls. If the check fails by 5 or more, the character slides off the edge of the roof and falls 40 feet to the castle parapet (area K46).
 
 K54. FAMILIAR ROOM
-
-The low ceiling of this twenty-foot-square room presses down on you. Torn and broken couches lie in heaps, hap­ hazardly strewn about. Deep claw marks cover the hard­ wood furniture, and the once lush upholstery has been sliced to shreds. From the dark shadows amid the rubble, three pairs of green eyes stare back at you.
-
-The three c.ats are familiars ·of-the•lit��es in ai,ea .�so..  
+______
+"The low ceiling of this twenty-foot-square room presses down on you. Torn and broken couches lie in heaps, haphazardly strewn about. Deep claw marks cover the hard­ wood furniture, and the once lush upholstery has been sliced to shreds. From the dark shadows amid the rubble, three pairs of green eyes stare back at you."
+______
+The three cats are familiars of the•lit��es in ai,ea .�so..  
 If the fa miliars see the characters here, the witches are ....
 
 alerted\�t��irpreserit'y
