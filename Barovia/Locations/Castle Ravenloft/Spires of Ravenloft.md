@@ -93,7 +93,7 @@ The leaded windows are fitted with iron hinges and can be opened. They are curre
 
 Characters who search the room spot numerous boot prints in the dust, as well as a short trail in the dust on the floor, leading from the northeast corner of the room to the easternmost door. It looks like something heavy was dragged across the floor toward the doorway.
 
-There is a secret trapdoor in the northeast corner of the floor. Because of the trail through the dust, the trapdoor can be found without an ability check. Tapping or knocking on the trapdoor three times releases a hidden latch, causing the trapdoor to swing down. Area KSl lies below. (There's no ability check that will let the characters figure out the trick to opening the door. They can get that information from the witches, or perhaps by using a divination spell or similar magic.)
+There is a secret trapdoor in the northeast corner of the floor. Because of the trail through the dust, the trapdoor can be found without an ability check. Tapping or knocking on the trapdoor three times releases a hidden latch, causing the trapdoor to swing down. Area K5l lies below. (There's no ability check that will let the characters figure out the trick to opening the door. They can get that information from the witches, or perhaps by using a divination spell or similar magic.)
 
 K56. CAULDRON
 
@@ -110,8 +110,7 @@ ______
 Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppressive room. Surrounding the cauldron are seven tall wooden stools.
 ______
 
-The Barovian witches (see appendix D) that dwell in this area have sworn themselves to [[Strahd]]'s service in exchange for arcane power. Seven witches are present when the characters arrive, minus any that might have been encountered and defeated in area KSO. If  
-the witches are expecting the characters, they cast in­ visibility spells and stand quietly in the corners of the room, hoping that the cauldron draws their prey inside. Although they prefer to attack at range with their spells, they can grow magic claws using alter self
+The Barovian witches (see appendix D) that dwell in this area have sworn themselves to [[Strahd]]'s service in exchange for arcane power. Seven witches are present when the characters arrive, minus any that might have been encountered and defeated in area K5O. If the witches are expecting the characters, they cast in­ visibility spells and stand quietly in the corners of the room, hoping that the cauldron draws their prey inside. Although they prefer to attack at range with their spells, they can grow magic claws using alter self
 
 When the cauldron is touched by someone who also speaks the proper command word ("Gorah!"), it magi­ cally heats any liquid placed inside it and remains hot for 3 hours, or until the command word is spoken again by someone within 5 feet of the cauldron. Once the cauldron's property has been used, the cauldron can't be activated again until the next dawn.
 
