@@ -36,7 +36,7 @@ The figure approaching is Cyrus Belview, a mongrel-folk (see appendix D) and [[S
 
 The light in the hall comes from a lantern on the floor behind Cyrus. If the characters have their own light sources, Cyrus sees them, but he will not attack first. He wears a loop of twine around his neck, hanging from which is an iron key and a decorative wooden pendant fitted with a varnished human eyeball. The key unlocks the iron chest in area K60. The wooden pendant is
 
-a hag eye given to Cyrus by the night hag Morgantha (see chapter 6), so that she could spy on [[Strahd]]. Cyrus doesn't know that the necklace is magical. See the "Hag Covens" sidebar in the hags entry in the Monster Man­ ual for information about the hag eye.
+a hag eye given to Cyrus by the night hag Morgantha (see chapter 6), so that she could spy on [[Strahd]]. Cyrus doesn't know that the necklace is magical. See the "Hag Covens" sidebar in the hags entry in the Monster Manual for information about the hag eye.
 
 Poor old Cyrus is obviously crazy. He has served the master for uncounted years and is devoted to him. Cyrus tries to get the characters to retire to their "room in the tower" (area K49). If the characters aren't sure what room he is talking about, he offers to lead them there.
 
