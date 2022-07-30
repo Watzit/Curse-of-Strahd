@@ -83,12 +83,12 @@ ______
 The three cats are familiars of the witches in the area. If the familiars see the characters here, the witches are alerted to their presence.
 
 K55. ELEMENT ROOM
-
-Heavy beams support the ceiling of this large room, the outer wall of which curves to follow the shape of the tower. Dim light filters into the room through the steel lattice squares of two leaded glass windows. Several tables stand throughout the room, weighed down by stacks of glass jars and bottles, all of them bearing labels.
-
+______
+"Heavy beams support the ceiling of this large room, the outer wall of which curves to follow the shape of the tower. Dim light filters into the room through the steel lattice squares of two leaded glass windows. Several tables stand throughout the room, weighed down by stacks of glass jars and bottles, all of them bearing labels."
+______
 The labeled glass containers hold various elements that the witches use in their fell concoctions and rituals. The labels identify such items as "Eye of Newt," "Hair of Bat," "Snail Hearts," and "Frog's Breath." There are no magic potions among the bottles and jars.
 
-The leaded windows are fitted with iron hinges and can be opened. They are currently locked from the in­ side. If a character opens a window and leaves it open, there's a 50 percent chance that a vampire spawn crawling around the outside wall of the tower notices the open window and investigates.
+The leaded windows are fitted with iron hinges and can be opened. They are currently locked from the inside. If a character opens a window and leaves it open, there's a 50 percent chance that a vampire spawn crawling around the outside wall of the tower notices the open window and investigates.
 
 Characters who search the room spot numerous boot prints in the dust, as well as a short trail in the dust on the floor, leading from the northeast corner of the room to the easternmost door. It looks like something heavy was dragged across the floor toward the doorway.
 
