@@ -32,7 +32,7 @@ K62. SERVANTS' HALL
 _____
 "This hall stands in deadly silence. Heavy beams support a sagging, ten-foot-high ceiling. Fog clings to the floor, obscuring everything that lies less than three feet above it. A giant shadow lurches across the ceiling as a dark figure shuffles purposefully down the corridor toward you."
 _____
-The figure approaching is Cyrus Belview, a mongrel­ folk (see appendix D) and [[Strahd]]'s faithful servant. He stands 4 feet, 9 inches ta11 but appears shorter because of his hunched posture. He has the Keen Hearing and Smell feature. The left side his face is covered with lizard scales, and he has the ears of a panther. His left foot looks like a duck's webbed foot, and his arms have patches of black dog fur.
+The figure approaching is Cyrus Belview, a mongrel-folk (see appendix D) and [[Strahd]]'s faithful servant. He stands 4 feet, 9 inches tall but appears shorter because of his hunched posture. He has the Keen Hearing and Smell feature. The left side his face is covered with lizard scales, and he has the ears of a panther. His left foot looks like a duck's webbed foot, and his arms have patches of black dog fur.
 
 The light in the hall comes from a lantern on the floor behind Cyrus. If the characters have their own light sources, Cyrus sees them, but he will not attack first. He wears a loop of twine around his neck, hanging from which is an iron key and a decorative wooden pendant fitted with a varnished human eyeball. The key unlocks the iron chest in area K60. The wooden pendant is
 
