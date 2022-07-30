@@ -151,7 +151,7 @@ PIDLWICK II
 
 Hiding in the rafters is Pidlwick II (see appendix D). A character spots Pidlwick II with a passive Wisdom (Perception) score that meets or exceeds its Dexterity (Stealth) check. If Pidlwick II is spotted, read:
 
-Something lurks among the rafters-a small, spindly man not much larger than a child. A flash of lightning illuminates his face, which is painted like a grinning jack­ o'-lantern.
+Something lurks among the rafters-a small, spindly man not much larger than a child. A flash of lightning illuminates his face, which is painted like a grinning jack o'-lantern.
 
 Although he appears to be a petite man wearing face paint and a fool's costume, Pidlwick II is actually a clockwork effigy of the real-life Pidlwick, who lies entombed in the catacombs. The dark paint on his face is soot.
 
