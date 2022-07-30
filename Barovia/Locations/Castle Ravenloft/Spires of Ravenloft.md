@@ -123,15 +123,15 @@ Each witch carries a potion of healing that she made herself. There is a 30 perc
 
 Not visible from the entrance is a small table behind the cauldron on which sits an opened spellbook, seemingly on the verge of falling apart. The book is evil. Any non-evil creature that touches it or starts its turn with the book in its possession takes 5 (ldlO) psychic damage. The book contains the following spells:
 
-1st level: burning hands, charm person, detect magic, find familiar, fog cloud, mage armor, protection from evil and good, ray ofsickness, sleep, Tasha's hideous laugh­ ter, unseen servant, witch bolt
+1st level: burning hands, charm person, detect magic, find familiar, fog cloud, mage armor, protection from evil and good, ray of sickness, sleep, Tasha's hideous laughter, unseen servant, witch bolt
 
-2nd level: alter self, arcane lock, cloud ofdaggers, darkness, enlarge/reduce, invisibility, knock, misty step
+2nd level: alter self, arcane lock, cloud of daggers, darkness, enlarge/reduce, invisibility, knock, misty step
 
 K57. TOWER ROOF
 
-The sixty-foot-diameter tower roof is rimmed with battle­ ments. A slender stone bridge with no railing spans the gap between this tower and the slightly taller tower to the north. To the east, the high tower of Ravenloft thrusts skyward with no apparent opening at this level. Black, boiling clouds hurl rain down from above.
+The sixty-foot-diameter tower roof is rimmed with battlements. A slender stone bridge with no railing spans the gap between this tower and the slightly taller tower to the north. To the east, the high tower of Ravenloft thrusts skyward with no apparent opening at this level. Black, boiling clouds hurl rain down from above.
 
-The courtyard is 190 feet below, the roof of the keep 80 fe�t below. A stone railing encloses a stone spiral stair­ case _that descends into the tower.
+The courtyard is 190 feet below, the roof of the keep 80 fe�t below. A stone railing encloses a stone spiral staircase that descends into the tower.
 
 K58. BRIDGE
 
