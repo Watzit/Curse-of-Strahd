@@ -142,9 +142,9 @@ The bridge connects areas K20 and K57. The wind isn't strong enough to knock cre
 K59. HIGH TOWER PEAK
 
 If the characters climb the stairs to reach the tower peak, read:
-
-The spiral staircase finally ends at a five-foot-wide stone walkway that circles the shaft. In the center of the tower's highest floor, a fifteen-foot-diameter ·hole drops into the cold heart of Ravenloft itself. Cold air rushes up out of the shaft, sending a chill through you. Arrow slits line the walls, and aging beams support a steep, cone-shaped roof. One beam and part of the roof have fallen away, leaving a gaping hole open to the stormy sky.
-
+______
+"The spiral staircase finally ends at a five-foot-wide stone walkway that circles the shaft. In the center of the tower's highest floor, a fifteen-foot-diameter ·hole drops into the cold heart of Ravenloft itself. Cold air rushes up out of the shaft, sending a chill through you. Arrow slits line the walls, and aging beams support a steep, cone-shaped roof. One beam and part of the roof have fallen away, leaving a gaping hole open to the stormy sky."
+______
 The hole in the floor forms the mouth of an enclosed shaft (area K18a) that descends 450 feet to the castle catacombs (area K84).
 
 PIDLWICK II
