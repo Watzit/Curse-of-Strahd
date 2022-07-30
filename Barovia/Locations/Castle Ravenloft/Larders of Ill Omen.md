@@ -2,11 +2,11 @@ Refer to map 11 of the castle for areas K61 through K72.
 
 K61. ELEVATOR TRAP
 
-See area K31 and the accompanying Elevator Trap dia­ gram before running this encounter.
-
-This dusty, ten-foot-wide, thirty-foot-long corridor has a flat ceiling ten feet overhead. To the south, a web-filled stairway spirals down into darkness. The north end of the hall ends at a wooden door.
-
-This hallway contains an elevator trap, triggered when at least 400 pounds of pressure is applied to the 10-foot­ square section of floor in the center of the hall (marked T on the map), or when the lever in area K31 is raised. A party of adventurers moving in close formation down the hall is certainly heavy enough to trigger the trap.
+See area K31 and the accompanying Elevator Trap diagram before running this encounter.
+______
+"This dusty, ten-foot-wide, thirty-foot-long corridor has a flat ceiling ten feet overhead. To the south, a web-filled stairway spirals down into darkness. The north end of the hall ends at a wooden door."
+______
+This hallway contains an elevator trap, triggered when at least 400 pounds of pressure is applied to the 10-foot square section of floor in the center of the hall (marked T on the map), or when the lever in area K31 is raised. A party of adventurers moving in close formation down the hall is certainly heavy enough to trigger the trap.
 
 A character who searches for traps while crossing the hall and succeeds on a DC 15 Wisdom (Perception) check detects seams in the floor, walls, and ceiling that suggest that the middle section isn't attached to. the rest of the hall. A character.who makes a successful DC 15 Intelligence ( Investigation) check discerris that the trap· can't be disarmed from this location..
 
