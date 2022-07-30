@@ -110,18 +110,18 @@ ______
 Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppressive room. Surrounding the cauldron are seven tall wooden stools.
 ______
 
-The Barovian witches (see appendix D) that dwell in this area have sworn themselves to [[Strahd]]'s service in exchange for arcane power. Seven witches are present when the characters arrive, minus any that might have been encountered and defeated in area K5O. If the witches are expecting the characters, they cast in­ visibility spells and stand quietly in the corners of the room, hoping that the cauldron draws their prey inside. Although they prefer to attack at range with their spells, they can grow magic claws using alter self
+The Barovian witches (see appendix D) that dwell in this area have sworn themselves to [[Strahd]]'s service in exchange for arcane power. Seven witches are present when the characters arrive, minus any that might have been encountered and defeated in area K5O. If the witches are expecting the characters, they cast invisibility spells and stand quietly in the corners of the room, hoping that the cauldron draws their prey inside. Although they prefer to attack at range with their spells, they can grow magic claws using alter self
 
-When the cauldron is touched by someone who also speaks the proper command word ("Gorah!"), it magi­ cally heats any liquid placed inside it and remains hot for 3 hours, or until the command word is spoken again by someone within 5 feet of the cauldron. Once the cauldron's property has been used, the cauldron can't be activated again until the next dawn.
+When the cauldron is touched by someone who also speaks the proper command word ("Gorah!"), it magically heats any liquid placed inside it and remains hot for 3 hours, or until the command word is spoken again by someone within 5 feet of the cauldron. Once the cauldron's property has been used, the cauldron can't be activated again until the next dawn.
 
 Captured witches will trade information in exchange for their lives and freedom, and can be forced to divulge the command word for activating and deactivating the cauldron. They also know how to open the trapdoor  
 in area KSS.
 
 TREASURE
 
-Each witch carries a potion of healing that she made herself. There is a 30 percent chance that a potion has "gone bad," in which case it's actually a potion ofpoison.
+Each witch carries a potion of healing that she made herself. There is a 30 percent chance that a potion has "gone bad," in which case it's actually a potion of poison.
 
-Not visible from the entrance is a small table behind the cauldron on which sits an opened spellbook, seem­ ingly on the verge of falling apart. The book is evil. Any non-evil creature that touches it or starts its turn with the book in its possession takes 5 (ldlO) psychic dam­ age. The book contains the following spells:
+Not visible from the entrance is a small table behind the cauldron on which sits an opened spellbook, seemingly on the verge of falling apart. The book is evil. Any non-evil creature that touches it or starts its turn with the book in its possession takes 5 (ldlO) psychic damage. The book contains the following spells:
 
 1st level: burning hands, charm person, detect magic, find familiar, fog cloud, mage armor, protection from evil and good, ray ofsickness, sleep, Tasha's hideous laugh­ ter, unseen servant, witch bolt
 
