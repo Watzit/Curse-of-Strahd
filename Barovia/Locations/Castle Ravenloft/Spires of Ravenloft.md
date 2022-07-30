@@ -104,12 +104,13 @@ _____
 "Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppressive room. Surrounding the cauldron are several gaunt women in soiled black robes. These witches sit hunched on tall wooden stools, their tangled hair tucked under black, pointed hats. They take turns tossing ingredients into the cauldron, uttering fell incantations, and cackling maniacally."
 _____
 
-If the 'witches know the characters are coming, read the ·following text instead:
+If the witches know the characters are coming, read the following text instead:
 
-Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppres­ sive room. Surrounding the cauldron are seven tall wooden stools.
+______
+Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppressive room. Surrounding the cauldron are seven tall wooden stools.
+______
 
-The Barovian witches (see appendix D) that dwell in this area have sworn themselves to [[Strahd]]'s service  
-in exchange for arcane power. Seven witches are pres­ ent when the characters arrive, minus any that might have been encountered and defeated in area KSO. If  
+The Barovian witches (see appendix D) that dwell in this area have sworn themselves to [[Strahd]]'s service in exchange for arcane power. Seven witches are present when the characters arrive, minus any that might have been encountered and defeated in area KSO. If  
 the witches are expecting the characters, they cast in­ visibility spells and stand quietly in the corners of the room, hoping that the cauldron draws their prey inside. Although they prefer to attack at range with their spells, they can grow magic claws using alter self
 
 When the cauldron is touched by someone who also speaks the proper command word ("Gorah!"), it magi­ cally heats any liquid placed inside it and remains hot for 3 hours, or until the command word is spoken again by someone within 5 feet of the cauldron. Once the cauldron's property has been used, the cauldron can't be activated again until the next dawn.
