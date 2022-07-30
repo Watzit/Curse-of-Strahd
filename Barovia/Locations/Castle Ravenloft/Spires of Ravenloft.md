@@ -80,14 +80,11 @@ K54. FAMILIAR ROOM
 ______
 "The low ceiling of this twenty-foot-square room presses down on you. Torn and broken couches lie in heaps, haphazardly strewn about. Deep claw marks cover the hard­ wood furniture, and the once lush upholstery has been sliced to shreds. From the dark shadows amid the rubble, three pairs of green eyes stare back at you."
 ______
-The three cats are familiars of the•lit��es in ai,ea .�so..  
-If the fa miliars see the characters here, the witches are ....
-
-alerted\�t��irpreserit'y
+The three cats are familiars of the witches in the area. If the familiars see the characters here, the witches are alerted to their presence.
 
 K55. ELEMENT ROOM
 
-Heavy beams support the ceiling of this large room, the outer wall of which curves to follow the shape of the tower. Dim light filters into the room through the steel lattice squares of two leaded glass windows. Several ta­ bles stand throughout the room, weighed down by stacks of glass jars and bottles, all of them bearing labels.
+Heavy beams support the ceiling of this large room, the outer wall of which curves to follow the shape of the tower. Dim light filters into the room through the steel lattice squares of two leaded glass windows. Several tables stand throughout the room, weighed down by stacks of glass jars and bottles, all of them bearing labels.
 
 The labeled glass containers hold various elements that the witches use in their fell concoctions and rituals. The labels identify such items as "Eye of Newt," "Hair of Bat," "Snail Hearts," and "Frog's Breath." There are no magic potions among the bottles and jars.
 
