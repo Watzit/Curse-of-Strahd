@@ -114,8 +114,7 @@ The Barovian witches (see appendix D) that dwell in this area have sworn themsel
 
 When the cauldron is touched by someone who also speaks the proper command word ("Gorah!"), it magically heats any liquid placed inside it and remains hot for 3 hours, or until the command word is spoken again by someone within 5 feet of the cauldron. Once the cauldron's property has been used, the cauldron can't be activated again until the next dawn.
 
-Captured witches will trade information in exchange for their lives and freedom, and can be forced to divulge the command word for activating and deactivating the cauldron. They also know how to open the trapdoor  
-in area KSS.
+Captured witches will trade information in exchange for their lives and freedom, and can be forced to divulge the command word for activating and deactivating the cauldron. They also know how to open the trapdoor in area K55.
 
 TREASURE
 
@@ -128,15 +127,16 @@ Not visible from the entrance is a small table behind the cauldron on which sits
 2nd level: alter self, arcane lock, cloud of daggers, darkness, enlarge/reduce, invisibility, knock, misty step
 
 K57. TOWER ROOF
+_____
+"The sixty-foot-diameter tower roof is rimmed with battlements. A slender stone bridge with no railing spans the gap between this tower and the slightly taller tower to the north. To the east, the high tower of Ravenloft thrusts skyward with no apparent opening at this level. Black, boiling clouds hurl rain down from above."
+_____
 
-The sixty-foot-diameter tower roof is rimmed with battlements. A slender stone bridge with no railing spans the gap between this tower and the slightly taller tower to the north. To the east, the high tower of Ravenloft thrusts skyward with no apparent opening at this level. Black, boiling clouds hurl rain down from above.
-
-The courtyard is 190 feet below, the roof of the keep 80 fe�t below. A stone railing encloses a stone spiral staircase that descends into the tower.
+The courtyard is 190 feet below, the roof of the keep 80 feet below. A stone railing encloses a stone spiral staircase that descends into the tower.
 
 K58. BRIDGE
-
-A strong wind blows across this slender bridge of stone and masonry. The bridge's old iron railings have rusted away years ago, leaving the bridge without handholds.
-
+_____
+"A strong wind blows across this slender bridge of stone and masonry. The bridge's old iron railings have rusted away years ago, leaving the bridge without handholds."
+_____
 The bridge connects areas K20 and K57. The wind isn't strong enough to knock creatures off the bridge, but a creature that takes damage while standing on the bridge must succeed on a DC 10 Dexterity saving throw or fall 60 feet onto the roof of the keep.
 
 K59. HIGH TOWER PEAK
