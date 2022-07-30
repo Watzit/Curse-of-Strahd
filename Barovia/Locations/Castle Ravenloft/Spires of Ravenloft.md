@@ -194,9 +194,9 @@ If your card reading reveals.that a treasure'. is here, it is inside the iron ch
 If your card reading indicates an encounter with [[Strahd]] in this area, he is standing next to the iron chest.
 
 K60A. NORTH TOWER ROOFTOP
-
-A cold wind greets you atop the tower roof, its rainslicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. The thunderclouds above sud­ denly coalesce into the terrible visage of [[Strahd]]. The face utters a ghastly moan as thousands of bats fly out of its gaping maw and descend upon the tower.
-
+______
+"A cold wind greets you atop the tower roof, its rainslicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. The thunderclouds above sud­ denly coalesce into the terrible visage of [[Strahd]]. The face utters a ghastly moan as thousands of bats fly out of its gaping maw and descend upon the tower."
+______
 Characters who remain on the roof are accosted by ten swarms of bats, which arrive in 3 rounds. If the char­ acters descend into the tower, the bats don't follow and instead fly into the high tower (area K59), descend its central shaft (area K 18a), and roost in the catacombs (area K84).
 
 The courtyard lies 260 feet below, and the roof of the keep is 130 feet below.
