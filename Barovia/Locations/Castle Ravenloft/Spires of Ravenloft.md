@@ -150,38 +150,38 @@ The hole in the floor forms the mouth of an enclosed shaft (area K18a) that desc
 PIDLWICK II
 
 Hiding in the rafters is Pidlwick II (see appendix D). A character spots Pidlwick II with a passive Wisdom (Perception) score that meets or exceeds its Dexterity (Stealth) check. If Pidlwick II is spotted, read:
-
-Something lurks among the rafters-a small, spindly man not much larger than a child. A flash of lightning illuminates his face, which is painted like a grinning jack o'-lantern.
-
+_____
+"Something lurks among the rafters-a small, spindly man not much larger than a child. A flash of lightning illuminates his face, which is painted like a grinning jack o'-lantern."
+_____
 Although he appears to be a petite man wearing face paint and a fool's costume, Pidlwick II is actually a clockwork effigy of the real-life Pidlwick, who lies entombed in the catacombs. The dark paint on his face is soot.
 
 If the characters see Pidlwick II in bright light, read:
+_____
+"It's obvious that you're looking not at a small man, but a mockery of one. This thing is not a creature of flesh and bone, but a construct made of dyed leather stitched and tightly wrapped over an articulated frame. You hear the soft tumbling and clicking of gears"
+_____
+Pidlwick II can't speak and doesn't have an expressive face, so he relies mostly on hand gestures and simple diagrams to communicate. He understands Common but can't read or write.
 
-It's obvious that you're looking not at a small man, but a mockery of one. This thing is not a creature of flesh and bone, but a construct made of dyed leather stitched and tightly wrapped over an articulated frame. You hear the soft tumbling and clicking of gears
-
-Pidlwick II can't speak and doesn't have an expressive face, so he relies mostly on hand gestures and simple di­ agrams to communicate. He understands Common but can't read or write.
-
-If the characters show kindness to the clockwork ef­ figy, it accompanies them and tries its best to be helpful and entertaining. It knows its way around the castle and can serve as a silent guide.
+If the characters show kindness to the clockwork effigy, it accompanies them and tries its best to be helpful and entertaining. It knows its way around the castle and can serve as a silent guide.
 
 If one or more characters are mean toward Pidlwick II, its quiet resentment of them grows, and at some point when the group is at the top of a staircase, it pushes one of the offending party members down the stairs. The target must succeed on a DC 10 Dexterity saving throw or tumble to the bottom of the staircase, taking ld6 bludgeoning damage per 10 feet fallen.
 
 K60. NORTH TOWER PEAK
 
 If the characters climb the stairs to this area, read:
-
-The stairs end at a dark and dreary room with manacles attached to the walls. In the middle of the room is a wood-framed bed fitted with leather restraints. At the foot of the bed rests a closed iron chest, is lid sculpted with an emblem.
+_____
+"The stairs end at a dark and dreary room with manacles attached to the walls. In the middle of the room is a wood-framed bed fitted with leather restraints. At the foot of the bed rests a closed iron chest, is lid sculpted with an emblem.
 
 A wooden ladder leads up to a trapdoor in the ceiling.
 
-Thin streams of water drip through the trapdoor's rotting wood, forming a puddle around the base of the ladder.
-
+Thin streams of water drip through the trapdoor's rotting wood, forming a puddle around the base of the ladder."
+_____
 The ceiling here is 9 feet high. The manacles are rusted and can be easily torn from the walls. The trapdoor in the ceiling leads to the tower rooftop (area K60a).
 
 The emblem worked into the lid of the iron chest is [[Strahd]]'s family crest. (Show the players [[Strahd]]'s crest on page 239.) Cyrus Belview (see area K62) stashed the chest here for safekeeping.
 
 TREASURE
 
-The iron chest is locked, and its key is with Cyrus Bel­ view in area K62.
+The iron chest is locked, and its key is with Cyrus Belview in area K62.
 
 The chest contains a bejeweled gold crown (worth 2,500 gp) resting on a silk pillow.
 
@@ -195,7 +195,7 @@ If your card reading indicates an encounter with [[Strahd]] in this area, he is 
 
 K60A. NORTH TOWER ROOFTOP
 
-A cold wind greets you atop the tower roof, its rain­ slicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. The thunderclouds above sud­ denly coalesce into the terrible visage of [[Strahd]]. The face utters a ghastly moan as thousands of bats fly out of its gaping maw and descend upon the tower.
+A cold wind greets you atop the tower roof, its rainslicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. The thunderclouds above sud­ denly coalesce into the terrible visage of [[Strahd]]. The face utters a ghastly moan as thousands of bats fly out of its gaping maw and descend upon the tower.
 
 Characters who remain on the roof are accosted by ten swarms of bats, which arrive in 3 rounds. If the char­ acters descend into the tower, the bats don't follow and instead fly into the high tower (area K59), descend its central shaft (area K 18a), and roost in the catacombs (area K84).
 
