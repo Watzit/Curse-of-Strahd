@@ -107,13 +107,10 @@ The doors to the north and south are sheathed in bone, but the steel-banded doub
 ____
 Cyrus Belview (see area K62) created this enormous work of art out of the bones of dead servants and slain adventurers. It has taken him many years to complete it. The bones and skulls are held together with gray mortar and white paste. The dark stains on the floor are old bloodstains, caused here when [[Strahd]] _hunted down and killed the remainder of his castle guards.
 
-The dragon skull mounted above the eastern doors belongedtoArgynvost(seechapter7),a·silver,oragon that was killed in the valley by [[Strahd]] and his army before the founding of Castie Ravenloft. The skull weighs 250 pounds.
+The dragon skull mounted above the eastern doors belonged to Argynvost ( see chapter 7) a silver dragon that was killed in the valley by [[Strahd]] and his army before the founding of Castle Ravenloft. The skull weighs 250 pounds.
 
-FORTUNES OF RAVENLO:FT·  
-If your card reading reveals that a treasure is here, it is lying on the bone table. ' ·  
-If your card reading indicates' an ertcounter with
-
-[[Strahd]] in this area, he is sitting comfort;ibly at one end of the table, holding the skull of a long-dead foe.
+FORTUNES OF RAVENLOFT  
+If your card reading reveals that a treasure is here, it is lying on the bone table. If your card reading indicates' an encounter with [[Strahd]] in this area, he is sitting comfortably at one end of the table, holding the skull of a long-dead foe.
 
 K68. GUARDS' RUN
 
