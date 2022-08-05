@@ -48,12 +48,12 @@ Stairs at the east end of the north wall lead up to area K23.
 
 Along the east wall is a rusted but sturdy iron portcullis that bars the way to area K63. (If the characters peer through the portcullis, read the boxed text for area K63.) The portcullis bars are 1 inch thick and spaced 4 inches apart. The portcullis can be lifted with a successful DC 20 Strength check.
 
-The double doors at the west end of the hall are made of heavy planks barided .with steel. They open into area K67.
+The double doors at the west end of the hall are made of heavy planks banded with steel. They open into area K67.
 
 K63. WINE CELLAR
-
-Arched frames of stone form a low, wet ceiling over this wine cellar. Great casks line the walls, their bands rusting and their contents long since spilled onto the floor. A few hungry rats make their home here, but upon your sudden arrival, they retreat to the shadows.
-
+______
+"Arched frames of stone form a low, wet ceiling over this wine cellar. Great casks line the walls, their bands rusting and their contents long since spilled onto the floor. A few hungry rats make their home here, but upon your sudden arrival, they retreat to the shadows."
+______
 The rats are harmless. Cyrus Belview (see area K62) treats them like pets.
 
 Characters who search the room find a crack at the southern end of the west wall. The crack is half an inch wide, 5 inches tall, and 12 inches deep; it leads to area K18.
@@ -61,11 +61,11 @@ Characters who search the room find a crack at the southern end of the west wall
 WINE CASKS
 
 Each of the twelve large casks here rests on its side in
+_______
+"a heavy wooden brace. Three casks stand against the north wall, six against the east wall, and three against the south wall. Decorative lettering is burned into the top of each cask, showing the winery name-the Wizard of Wines-and the name of the wine in the cask.
 
-a heavy wooden brace. Three casks stand against the north wall, six against the east wall, and three against the south wall. Decorative lettering is burned into the top of each cask, showing the winery name-the Wizard of Wines-and the name of the wine in the cask.
-
-Northern Casks. All three of these casks are rotted and empty. The wine's name is Champagne du le Stomp.
-
+Northern Casks. All three of these casks are rotted and empty. The wine's name is Champagne du le Stomp."
+_______
 Eastern Casks. Five of these casks are rotted and empty. The wine name burned on each is Red Dragon Crush. Lining the interior of the sixth one is a patch of yellow mold (see "Dungeon Hazards" in chapter 5, "Ad­ venture Environments," of the Dungeon Master's Guide). A character who inspects the cask closely and succeeds on a DC 13 Wisdom (Perception) check sees yellow mold in the cracks between the planks of the cask. If this cask is smashed open, the yellow mold releases a cloud of spores.
 
 Southern Casks. Two of these casks are rotted and empty. The wine name burned on each is Purple Grape­ mash No. 3. The middle one is home to a purplish black pudding that bursts forth if the cask is broken open.
