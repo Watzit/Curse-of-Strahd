@@ -60,21 +60,17 @@ Characters who search the room find a crack at the southern end of the west wall
 
 WINE CASKS
 
-Each of the twelve large casks here rests on its side in
-_______
-"a heavy wooden brace. Three casks stand against the north wall, six against the east wall, and three against the south wall. Decorative lettering is burned into the top of each cask, showing the winery name-the Wizard of Wines-and the name of the wine in the cask.
+Each of the twelve large casks here rests on its side in a heavy wooden brace. Three casks stand against the north wall, six against the east wall, and three against the south wall. Decorative lettering is burned into the top of each cask, showing the winery name-the Wizard of Wines-and the name of the wine in the cask.
 
-Northern Casks. All three of these casks are rotted and empty. The wine's name is Champagne du le Stomp."
-_______
-Eastern Casks. Five of these casks are rotted and empty. The wine name burned on each is Red Dragon Crush. Lining the interior of the sixth one is a patch of yellow mold (see "Dungeon Hazards" in chapter 5, "Ad­ venture Environments," of the Dungeon Master's Guide). A character who inspects the cask closely and succeeds on a DC 13 Wisdom (Perception) check sees yellow mold in the cracks between the planks of the cask. If this cask is smashed open, the yellow mold releases a cloud of spores.
+Northern Casks. All three of these casks are rotted and empty. The wine's name is Champagne du le Stomp.
+
+Eastern Casks. Five of these casks are rotted and empty. The wine name burned on each is Red Dragon Crush. Lining the interior of the sixth one is a patch of yellow mold (see "Dungeon Hazards" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide). A character who inspects the cask closely and succeeds on a DC 13 Wisdom (Perception) check sees yellow mold in the cracks between the planks of the cask. If this cask is smashed open, the yellow mold releases a cloud of spores.
 
 Southern Casks. Two of these casks are rotted and empty. The wine name burned on each is Purple Grape­ mash No. 3. The middle one is home to a purplish black pudding that bursts forth if the cask is broken open.
 
 FORTUNES OF RAVENLOFT
 
-If your card reading reveals that a treasure is here, it is inside one of the empty casks along the north wall, hid­
-
-lden there by Cyrus Belview.
+If your card reading reveals that a treasure is here, it is inside one of the empty casks along the north wall, hidden there by Cyrus Belview.
 
 K64. GUARDS' STAIR l
 
