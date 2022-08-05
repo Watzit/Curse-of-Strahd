@@ -52,10 +52,8 @@ The double doors at the west end of the hall are made of heavy planks banded wit
 
 K63. WINE CELLAR
 ______
-##
-	"Arched frames of stone form a low, wet ceiling over this wine cellar. Great casks line the walls, their bands rusting and their contents long since spilled onto the floor. A few hungry rats make their home here, but upon your sudden arrival, they retreat to the shadows."
+"Arched frames of stone form a low, wet ceiling over this wine cellar. Great casks line the walls, their bands rusting and their contents long since spilled onto the floor. A few hungry rats make their home here, but upon your sudden arrival, they retreat to the shadows."
 ______
-##
 
 The rats are harmless. Cyrus Belview (see area K62) treats them like pets.
 
