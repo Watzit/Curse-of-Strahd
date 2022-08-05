@@ -122,11 +122,11 @@ K69. GUARDS' QUARTERS
 
 Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten-foot-square alcoves that contain rotting cots, rags, and the skeletal remains of castle guards. A deathly silence fills the hall.
 
-The yellow lichen is harmless. When one or more char­ acters reach the midpoint of the hall, ten human skele­ tons leap from the alcoves and attack.
+The yellow lichen is harmless. When one or more characters reach the midpoint of the hall, ten human skeletons leap from the alcoves and attack.
 
 K70. KINGSMEN HALL
 
-This thirty-foot-square room is a shambles. Scattered fur­ niture lies in heaps near the walls. Broken bones lie scat­ tered amid crumpled and crushed plate armor. Shields and swords jut from the walls as if driven into them by some tremendous force.
+This thirty-foot-square room is a shambles. Scattered furniture lies in heaps near the walls. Broken bones lie scattered amid crumpled and crushed plate armor. Shields and swords jut from the walls as if driven into them by some tremendous force.
 
 Two doors stand opposite one another in the center of the north wall and the south wall. A dark archway leads out through the east wall.
 
