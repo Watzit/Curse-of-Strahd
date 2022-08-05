@@ -26,7 +26,7 @@ The elevator remains at the top of the shaft until the lever in area K31 is move
 
 DEVELOPMENT
 
-The sound of the elevator moving can be heard through, out the castle. Characters who-are. trapped or asleep in the elevator compartment.are easy prey for Strahd, who can reach them by way of the trapdoor in area K47
+The sound of the elevator moving can be heard through, out the castle. Characters who-are. trapped or asleep in the elevator compartment.are easy prey for [[Strahd]], who can reach them by way of the trapdoor in area K47
 
 K62. SERVANTS' HALL
 _____

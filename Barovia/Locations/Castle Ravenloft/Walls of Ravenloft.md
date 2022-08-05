@@ -37,7 +37,7 @@ The carriage house is described in area K4. The wooden door, which leads to area
 K4. CARRIAGE HOUSE  
 Read the following text if the characters open the carriage house doors:
 _____
-"The double doors swing open to reveal a sleek, black carriage fitted with glass windows and brass lanterns."
+"The double doors swing open to reveal a sleek, [[black carriage]] fitted with glass windows and brass lanterns."
 ____
 
 K5. CHAPEL GARDEN
@@ -54,7 +54,7 @@ ______
 If a character peers over the balcony, read:
 
 _______
-"A flash of lightning illuminates the dismal village of Barovia, its rooftops visible above a smothering blanket of fog one thousand feet below."
+"A flash of lightning illuminates the dismal [[village of Barovia]], its rooftops visible above a smothering blanket of fog one thousand feet below."
 _______
 
 If a character who has a passive Wisdom (Perception) score of 15 or higher peers over the wall, add:

@@ -26,7 +26,7 @@ Morgantha, a night hag in the guise of an old woman, has come to the village fro
 
 Morgantha recognizes that the characters are strangers and does her best to avoid them. If the characters demand the release of the child, she grudgingly complies, knowing that she can always come back for the boy later. She fights only in self defence and offers the following information in exchange for her life:
 
-- Strahd has mastery over the land and the weather, and his spies include the Vistani.
+- [[Strahd]] has mastery over the land and the weather, and his spies include the Vistani.
 
 - There's a Vistani camp to the west, on the shores of Tser Pool (chapter 2, area G), and another on the outskirts of [[Vallaki]] (chapter 5, area N9).
   

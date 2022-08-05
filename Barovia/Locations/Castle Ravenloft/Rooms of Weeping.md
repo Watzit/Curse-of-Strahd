@@ -26,7 +26,7 @@ _____
 
 There are two explanations for the burst cake and broken window. Choose the one you think is creepier:
 
--   Strahd smashes the cake and breaks the window to make the characters think something terrible has escaped and is now stalking them.
+-   [[Strahd]] smashes the cake and breaks the window to make the characters think something terrible has escaped and is now stalking them.
 
 -   [[Strahd]]'s hate assumes a corporeal form bursts out of the cake (the symbol of Sergei and [[Tatyana]]'s love), and escapes through the window. "[[Strahd]]'s hate" has the statistics of an invisible stalker and tries to kill whichever character is carrying the groom figurine.
 

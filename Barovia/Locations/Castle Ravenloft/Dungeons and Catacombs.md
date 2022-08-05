@@ -190,7 +190,7 @@ Study (area K37)
 North tower peak (area K60)  
 [[Strahd]]'s tomb (area K86)  
 Coffin maker's shop (chapter 5, area N6f) Amber Temple (chapter 13, area X42)  
-Abbey of Saint Markovia (chapter 8, area S17) Tsolenka Pass (chapter 9, area T4)
+[[Abbey of Saint Markovia]] (chapter 8, area S17) [[Tsolenka Pass]] (chapter 9, area T4)
 
 After 5 rounds, the sand runs out, and the color of the flame returns to white. When the flame does so, the sand instantly reappears in the top part of the hourglass (provided the hourglass is intact), and the stone that was cast into the fire reappears in the brazier's rim.
 
@@ -226,7 +226,7 @@ The stairs slope at a 45-degree angle for a distance of 20 feet horizontally, co
 
 K81. TuNNEL
 
-This tunnel is cut into the Pillarstone of Ravenloft itself. Its surface is slick, and its ceiling is barely 6 feet high. A lingering fog limits visibility to a few feet.
+This tunnel is cut into the [[Pillarstone of Ravenloft]] itself. Its surface is slick, and its ceiling is barely 6 feet high. A lingering fog limits visibility to a few feet.
 
 Characte�s who have knoJi�dge. of stdnecutting'dm tell· .- ._· that this passage is a relatively°pew consfr.uction tom-. pared to other areas of Ravenlofi;. The t�nn�Us-120 feet long, with a stone door at its·easte�n end.
 Nearthemidpointofthe'turu'i�lis·iitrapdoorhidden under a layer 9f fog. Characters can't spot the trap­ door passively, but art ��tive search accompanied by a successful DC 20 Wisdom (Perception) check locates it. Unless the tr�pdoor is fastened shut with an iron spike or by some other means, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone who is standing on it slides into the marble chute below (area K82). The trapdoor then resets.
@@ -316,7 +316,7 @@ If the characters. open tti(d�o�\9-)�_is,crypt,·r_e�d:
 
 The apparition of a large, rotund man forms within the dark crypt, its eyes wild with insanity. Large, artificial wings unfold from its back.
 
-Prince Ariel was a terrible man who longed to fly. He attached artificial wings to a harness and empowered the device with magic, but the apparatus still couldn't bear his weight, and he plunged from the Pillarstone of Ravenloft to his death. His evil ghost attacks the char­ acters on sight. If Ariel succeeds in possessing a char­ acter, his host climbs the high tower (area K18) until it reaches the peak (area K59), then hurls itself down the tower's central shaft (area K18a), screaming, "I can fly!" the whole way down.
+Prince Ariel was a terrible man who longed to fly. He attached artificial wings to a harness and empowered the device with magic, but the apparatus still couldn't bear his weight, and he plunged from the [[Pillarstone of Ravenloft]] to his death. His evil ghost attacks the char­ acters on sight. If Ariel succeeds in possessing a char­ acter, his host climbs the high tower (area K18) until it reaches the peak (area K59), then hurls itself down the tower's central shaft (area K18a), screaming, "I can fly!" the whole way down.
 
 CRYPT 5
 
@@ -397,9 +397,9 @@ Creatures that would take damage from exposure to sunlight (such as vampires) ha
 
 **Treasure**. Draped around the neck of the skeleton is a sun-shaped holy symbol (worth 25 gp). A good-aligned character who picks up the holy symbol hears a ghostly female voice. It whispers the following message
 
-"There is a grave to the west, with roses that never die, in a place built by healers, in a village called Krezk. When all turns to darkness, touch this holy symbol to the grave to summon the light and find a treasure long lost."
+"There is a grave to the west, with roses that never die, in a place built by healers, in a village called [[Krezk]]. When all turns to darkness, touch this holy symbol to the grave to summon the light and find a treasure long lost."
 
-The message refers to a gravestone in the Abbey of Saint Markovia
+The message refers to a gravestone in the [[Abbey of Saint Markovia]]
 
 CRYPT 12
 King Troisky - The Three Faced King
@@ -434,7 +434,7 @@ If the characters open the door to this crypt, read: I
 
 A ten-foot-square shaft plunges into darkness. The sound of slowly dripping water echoes up the shaft.
 
-Characters who have darkvision or a sufficient light source can see that the shaft descends 40 feet to some kind of vault deep in the Pillarstone of Ravenloft. Stones protrude from the shaft at regular intervals, offering handholds and footholds. The stones are slippery, how­ ever, so a character who tries to scale the wall without the aid of magic or the use of a climber's kit must make a successful DC 10 Strength (Athletics) check.
+Characters who have darkvision or a sufficient light source can see that the shaft descends 40 feet to some kind of vault deep in the [[Pillarstone of Ravenloft]]. Stones protrude from the shaft at regular intervals, offering handholds and footholds. The stones are slippery, how­ ever, so a character who tries to scale the wall without the aid of magic or the use of a climber's kit must make a successful DC 10 Strength (Athletics) check.
 
 Vault. When the characters reach the bottom of the shaft, read:
 
@@ -460,7 +460,7 @@ Khazan was a powerful archmage who unlocked the secrets of lichdom, then later t
 
 Treasure. The skull's black opal eye-gems are worth 1,000 gp apiece. The skull also has eight amber teeth worth 100 gp each.
 
-Any creature that stands inside the crypt and boldly speaks the name "Khazan" causes the Pillarstone of Ravenloft to tremble as a staff of power materializes above the marble slab and hovers in place. The first creature to grab hold of the staff must make a DC 17 Constitution saving throw, taking 44 (8d10) lightning damage on a failed save, or half as much damage on a successful one. Afterward, the staffof power can be held and used normally. If no one grabs the staff within 1 round of its appearance, it vanishes, never to return.
+Any creature that stands inside the crypt and boldly speaks the name "Khazan" causes the [[Pillarstone of Ravenloft]] to tremble as a staff of power materializes above the marble slab and hovers in place. The first creature to grab hold of the staff must make a DC 17 Constitution saving throw, taking 44 (8d10) lightning damage on a failed save, or half as much damage on a successful one. Afterward, the staffof power can be held and used normally. If no one grabs the staff within 1 round of its appearance, it vanishes, never to return.
 
 CRYPT 16  
 Elsa Fallona von Twitterberg (Beloved Actor): She had many followers
