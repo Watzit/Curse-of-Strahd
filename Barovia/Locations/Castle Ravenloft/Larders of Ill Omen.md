@@ -57,7 +57,6 @@ ______
 ______
 ##
 
-
 The rats are harmless. Cyrus Belview (see area K62) treats them like pets.
 
 Characters who search the room find a crack at the southern end of the west wall. The crack is half an inch wide, 5 inches tall, and 12 inches deep; it leads to area K18.
