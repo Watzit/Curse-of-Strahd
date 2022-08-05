@@ -96,23 +96,21 @@ If Cyrus is with the party, the characters notice that he is caressing their equ
 K67. HALL OF BONES
 
 Once a mess hall for the castle guards, this room is now desecrated ground (see "Wilderness Hazards" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide).
-
-Dark stains cover the Door of this area. Large oak tables, scarred and beaten, lay scattered like toys about the room, their wood crushed and splintered. Replacing them are furnishings made entirely of human bones.
+____
+"Dark stains cover the floor of this area. Large oak tables, scarred and beaten, lay scattered like toys about the room, their wood crushed and splintered. Replacing them are furnishings made entirely of human bones.
 
 The walls and the twenty-foot-high vaulted ceiling are a sickly yellow color, not because of faded or timeworn plaster but because they are adorned with bones and skulls arranged in a morbidly decorative fashion, giving the room a cathedral-like quality. Four enormous mounds of bones occupy the corners of this ossuary, and garlands of skulls extend from these mounds to a chandelier of bones that hangs from the ceiling above a long table constructed of bones in the center of the room.
 
 Ten chairs made of bones and festooned with decorative skulls surround the table, resting atop which is an ornate, bowl-shaped vessel made of yet more bones.
 
-The doors to the north and south are sheathed in bone, but the steel-banded double doors in the center of the east wall are not. Above these eastern doors is mounted the skull of a dragon.
-
+The doors to the north and south are sheathed in bone, but the steel-banded double doors in the center of the east wall are not. Above these eastern doors is mounted the skull of a dragon."
+____
 Cyrus Belview (see area K62) created this enormous work of art out of the bones of dead servants and slain adventurers. It has taken him many years to complete it. The bones and skulls are held together with gray mortar and white paste. The dark stains on the floor are old bloodstains, caused here when [[Strahd]] _hunted down and killed the remainder of his castle guards.
 
-The dragon skull mounted above the eastern doors belongedtoArgynvost(seechapter7),a·silver,oragon that was killed in the valley by [[Strahd]] and his army be­ fore the founding of Castie Ravenloft. The s·kull weighs 250 pounds. · · ··
+The dragon skull mounted above the eastern doors belongedtoArgynvost(seechapter7),a·silver,oragon that was killed in the valley by [[Strahd]] and his army before the founding of Castie Ravenloft. The skull weighs 250 pounds.
 
 FORTUNES OF RAVENLO:FT·  
-. If your card reading reveals that .a treasure· is here, it is
-
-lying on the bone table. ' ·  
+If your card reading reveals that a treasure is here, it is lying on the bone table. ' ·  
 If your card reading indicates' an ertcounter with
 
 [[Strahd]] in this area, he is sitting comfort;ibly at one end of the table, holding the skull of a long-dead foe.
