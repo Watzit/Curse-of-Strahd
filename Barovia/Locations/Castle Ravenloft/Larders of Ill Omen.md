@@ -42,15 +42,13 @@ If the characters follow Cyrus, he tells them to stay close to him as he leads t
 
 If the characters don't go to their room, Cyrus shakes his head and returns to the work of preparing his dinner in area K65. If the characters take his key, he screams, "The master will not be pleased!" and begins to moan and slap his head, obviously upset. A successful DC 10 Charisma (Intimidation) check is enough to make him divulge the key's purpose, the location of the iron chest' and the chest's contents.
 
-When he isn't being threatened, Cyrus giggles to himself from time to time for no" clear reason. He also likes to tell poor jokes at (he most.inopportune moments.
+When he isn't being threatened, Cyrus giggles to himself from time to time for no clear reason. He also likes to tell poor jokes at (he most.inopportune moments. 
 
-Stairs at the east end of the north wall lead up to area K 23.
+Stairs at the east end of the north wall lead up to area K23.
 
-Along the east wall is a rusted but sturdy iron portcullis that bars the way to area K63. (If the characters peer through the portcullis, read the boxed text for area K63.) The portcullis bars are 1 inch thick and spaced 4 inches apart. The portcullis can be lifted with a successful DC
+Along the east wall is a rusted but sturdy iron portcullis that bars the way to area K63. (If the characters peer through the portcullis, read the boxed text for area K63.) The portcullis bars are 1 inch thick and spaced 4 inches apart. The portcullis can be lifted with a successful DC 20 Strength check.
 
-20 Strength check.
-
-The double doors ai:· the west end of the hall are made of heavy ,planks barided .with steel. They open into area K67.
+The double doors at the west end of the hall are made of heavy planks barided .with steel. They open into area K67.
 
 K63. WINE CELLAR
 
