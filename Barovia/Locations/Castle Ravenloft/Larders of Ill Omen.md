@@ -67,7 +67,7 @@ Northern Casks. All three of these casks are rotted and empty. The wine's name i
 
 Eastern Casks. Five of these casks are rotted and empty. The wine name burned on each is Red Dragon Crush. Lining the interior of the sixth one is a patch of yellow mold (see "Dungeon Hazards" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide). A character who inspects the cask closely and succeeds on a DC 13 Wisdom (Perception) check sees yellow mold in the cracks between the planks of the cask. If this cask is smashed open, the yellow mold releases a cloud of spores.
 
-Southern Casks. Two of these casks are rotted and empty. The wine name burned on each is Purple Grape­ mash No. 3. The middle one is home to a purplish black pudding that bursts forth if the cask is broken open.
+Southern Casks. Two of these casks are rotted and empty. The wine name burned on each is Purple Grapemash No. 3. The middle one is home to a purplish black pudding that bursts forth if the cask is broken open.
 
 FORTUNES OF RAVENLOFT
 
