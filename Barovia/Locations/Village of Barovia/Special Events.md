@@ -28,7 +28,7 @@ Morgantha recognizes that the characters are strangers and does her best to avoi
 
 - Strahd has mastery over the land and the weather, and his spies include the Vistani.
 
-- There's a Vistani camp to the west, on the shores of Tser Pool (chapter 2, area G), and another on the outskirts of Vallaki (chapter 5, area N9).
+- There's a Vistani camp to the west, on the shores of Tser Pool (chapter 2, area G), and another on the outskirts of [[Vallaki]] (chapter 5, area N9).
   
 - [[Strahd]] has undead enemies in [[Barovia]], namely the fallen knights of the Order of the Silver Dragon. These revenants cart be found in a ruined mansion west of [[Vallaki]] (see chapter 7, "[[Argynvostholt]]").
   

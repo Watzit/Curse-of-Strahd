@@ -61,7 +61,7 @@ Characters who search the room find a crack at the southern end of the west wall
 
 WINE CASKS
 
-Each of the twelve large casks here rests on its side in a heavy wooden brace. Three casks stand against the north wall, six against the east wall, and three against the south wall. Decorative lettering is burned into the top of each cask, showing the winery name-the Wizard of Wines-and the name of the wine in the cask.
+Each of the twelve large casks here rests on its side in a heavy wooden brace. Three casks stand against the north wall, six against the east wall, and three against the south wall. Decorative lettering is burned into the top of each cask, showing the winery name-[[the Wizard of Wines]]-and the name of the wine in the cask.
 
 Northern Casks. All three of these casks are rotted and empty. The wine's name is Champagne du le Stomp.
 
@@ -107,7 +107,7 @@ The doors to the north and south are sheathed in bone, but the steel-banded doub
 ____
 Cyrus Belview (see area K62) created this enormous work of art out of the bones of dead servants and slain adventurers. It has taken him many years to complete it. The bones and skulls are held together with gray mortar and white paste. The dark stains on the floor are old bloodstains, caused here when [[Strahd]] _hunted down and killed the remainder of his castle guards.
 
-The dragon skull mounted above the eastern doors belonged to Argynvost ( see chapter 7) a silver dragon that was killed in the valley by [[Strahd]] and his army before the founding of Castle Ravenloft. The skull weighs 250 pounds.
+The dragon skull mounted above the eastern doors belonged to Argynvost ( see chapter 7) a silver dragon that was killed in the valley by [[Strahd]] and his army before the founding of [[Castle Ravenloft]]. The skull weighs 250 pounds.
 
 FORTUNES OF RAVENLOFT  
 If your card reading reveals that a treasure is here, it is lying on the bone table. If your card reading indicates' an encounter with [[Strahd]] in this area, he is sitting comfortably at one end of the table, holding the skull of a long-dead foe.
@@ -136,7 +136,7 @@ K71. KINGSMEN QUARTERS
 
 This dark passage runs for twenty feet, connecting an archway to the west with an ascending stone staircase to the east. To the north and south are four ten-foot-square alcoves cluttered with rotting cots and dirty rags. The ceilings here are covered with yellow lichen.
 
-Theyellowlichenis. ha/mless.·Beyondthearchwayto
+The yellow lichens. harmless Beyondthearchwayto
 
 the west is area E:'7.0, The'�taircase (area_K20a) that
 

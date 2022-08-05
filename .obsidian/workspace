@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
+            "file": "Barovia/Locations/Town of Vallaki/Vallaki.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
+                "file": "Barovia/Locations/Town of Vallaki/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,25 +96,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "946dd50b65031a6c",
+  "active": "1708bbb3a2696065",
   "lastOpenFiles": [
-    "Barovia/Locations/Castle Ravenloft/Court of the Count.md",
-    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
-    "Barovia/Locations/Argynvostholt/Argynvostholt.md",
-    "Darklord.md",
-    "NPCs/Strahd/Strahd.md",
-    "NPCs/Barovians.md",
-    "Barovia/Barovia.md",
+    "Barovia/Locations/The Wizard of Wines/The Wizard of Wines.md",
+    "Barovia/Locations/The Amber Temple/The Amber Temple.md",
+    "Barovia/Locations/Ruins of Berez/Ruins of Berez.md",
+    "Barovia/Locations/Old Bonegrinder/Old Bonegrinder.md",
+    "Barovia/Locations/Castle Ravenloft/Walls of Ravenloft.md",
     "Barovia/Locations/Castle Ravenloft/Spires of Ravenloft.md",
     "Barovia/Locations/Castle Ravenloft/Rooms of Weeping.md",
-    "Barovia/Locations/Castle Ravenloft/Main Floor.md"
+    "Barovia/Locations/Castle Ravenloft/Main Floor.md",
+    "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
+    "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md"
   ]
 }

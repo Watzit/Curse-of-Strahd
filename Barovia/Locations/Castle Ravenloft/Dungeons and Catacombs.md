@@ -97,7 +97,7 @@ K75A. PRISONER
 
 A strong young man clutches the bars of his cell while struggling to keep his teeth from chattering. His clothes are shredded, and he is soaked from head to toe.
 
-The man is Emil Toranescu, a werewolf with 72 hit points. He claims to be a resident of Vallaki who was chased by dire wolves to the castle. He begs the charac­ ters to rescue him, offering to help them in exchange.
+The man is Emil Toranescu, a werewolf with 72 hit points. He claims to be a resident of [[Vallaki]] who was chased by dire wolves to the castle. He begs the charac­ ters to rescue him, offering to help them in exchange.
 
 In truth, [[Strahd]] locked Emil here as punishment for causing a schism in his werewolf pack (see chapter 15). Anxious to prove his worth to [[Strahd]], Emil rewards the characters for freeing him by attacking them when a good opportunity arises. Emil doesn't turn against the characters if they claim to be allies of his wife, Zuleika (see chapter 15, area Z7). In that case, he tries to leave the castle and reunite with her, staying with the charac­ ters only until an opportunity to leave presents itself.
 
@@ -324,7 +324,7 @@ Artank Swilovich: Friend and member ofthe Barovian Wine Distillers Guild
 
 You are greeted by the faint smell of wine. A skeleton draped in rags lies atop a marble slab in the center of the crypt. Heaped around it, covering the entire floor, are thousands of empty wine bottles.
 
-Each bottle's label shows that it is from the Wizard of Wines winery, and the label names the wine inside: Champagne du le Stomp, Red Dragon Crush, or Purple Grapemash No. 3.
+Each bottle's label shows that it is from [[the Wizard of Wines]] winery, and the label names the wine inside: Champagne du le Stomp, Red Dragon Crush, or Purple Grapemash No. 3.
 
 FORTUNES OF RAVENLOFT
 
