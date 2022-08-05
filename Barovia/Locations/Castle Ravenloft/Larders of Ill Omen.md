@@ -87,7 +87,7 @@ If a character looks into the pot, three human zombies rise up from the bubbling
 
 K66. BUTLER'S UARTERS
 
-This twenty-foot-square room is filled wall to wall with clutter. A long, sagging bed sits to one side under a huge faded tapestry that depicts [[Castle Ravenloft]]. Dusty lan­ terns sit in various places, and bright curtains are draped haphazardly about the room. Thousands of pieces of junk cover the Aoor. Broken swords, crumpled shields, and helmets lie in piles all about.
+This twenty-foot-square room is filled wall to wall with clutter. A long, sagging bed sits to one side under a huge faded tapestry that depicts [[Castle Ravenloft]]. Dusty lanterns sit in various places, and bright curtains are draped haphazardly about the room. Thousands of pieces of junk cover the Aoor. Broken swords, crumpled shields, and helmets lie in piles all about.
 
 Cyrus Belview (see area K62) uses this room as his lair. There is nothing of value here.
 
@@ -97,12 +97,9 @@ K67. HALL OF BONES
 
 Once a mess hall for the castle guards, this room is now desecrated ground (see "Wilderness Hazards" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide).
 
-Dark stains cover the Aoor of this area. Large oak tables, scarred and beaten, lay scattered like toys about the room, their wood crushed and splintered. Replacing them are furnishings made entirely of human bones.
+Dark stains cover the Door of this area. Large oak tables, scarred and beaten, lay scattered like toys about the room, their wood crushed and splintered. Replacing them are furnishings made entirely of human bones.
 
-The walls and the twenty-foot-high vaulted ceiling are
-
-a sickly yellow color, not because of faded or timeworn plaster but because they are adorned with bones and skulls arranged in a morbidly decorative fashion, giv-  
-ing the room a cathedral-like quality. Four enormous mounds of bones occupy the corners of this ossuary, and garlands of skulls extend from these mounds to a chan­ delier of bones that hangs from the ceiling above a long table constructed of bones in the center of the room.
+The walls and the twenty-foot-high vaulted ceiling are a sickly yellow color, not because of faded or timeworn plaster but because they are adorned with bones and skulls arranged in a morbidly decorative fashion, giving the room a cathedral-like quality. Four enormous mounds of bones occupy the corners of this ossuary, and garlands of skulls extend from these mounds to a chandelier of bones that hangs from the ceiling above a long table constructed of bones in the center of the room.
 
 Ten chairs made of bones and festooned with decorative skulls surround the table, resting atop which is an ornate, bowl-shaped vessel made of yet more bones.
 
