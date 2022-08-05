@@ -81,9 +81,9 @@ The stairway starts at area K68 and goes up past area K13 to area K46.
 
 K65. KITCHEN
 
-A horrible odor of decay fills this steaming hot room. A huge pot bubbles over a blazing fire pit in the center of the room, its green, muddy contents churning. The far wall is lined with pegs, hanging from which are numer­ ous large cooking implements-some of which could easily double as implements of torture.
+A horrible odor of decay fills this steaming hot room. A huge pot bubbles over a blazing fire pit in the center of the room, its green, muddy contents churning. The far wall is lined with pegs, hanging from which are numerous large cooking implements-some of which could easily double as implements of torture.
 
-If a character looks into the pot, three human zombies rise up from the bubbling depths and attack. The zom­ bies are slowly being boiled to death, and each has only 13 hit points remaining. If Cyrus Belview (see area K62) is present when the zombies attack, he grabs a heavy club and tries to beat them back into the pot. Cyrus ex­ plains that he just isn't the cook he used to be, and his meals tend to get out of hand these days.
+If a character looks into the pot, three human zombies rise up from the bubbling depths and attack. The zombies are slowly being boiled to death, and each has only 13 hit points remaining. If Cyrus Belview (see area K62) is present when the zombies attack, he grabs a heavy club and tries to beat them back into the pot. Cyrus explains that he just isn't the cook he used to be, and his meals tend to get out of hand these days.
 
 K66. BUTLER'S UARTERS
 
@@ -91,7 +91,7 @@ This twenty-foot-square room is filled wall to wall with clutter. A long, saggin
 
 Cyrus Belview (see area K62) uses this room as his lair. There is nothing of value here.
 
-If Cyrus is with the party, the characters notice that he is caressing ·their equipment and chuckling to him­ self. Cyrus has been salvaging equipment from dead adventurers for years. He looks forward to adding to his collection after [[Strahd]] gets through with the characters.
+If Cyrus is with the party, the characters notice that he is caressing their equipment and chuckling to himself. Cyrus has been salvaging equipment from dead adventurers for years. He looks forward to adding to his collection after [[Strahd]] gets through with the characters.
 
 K67. HALL OF BONES
 
