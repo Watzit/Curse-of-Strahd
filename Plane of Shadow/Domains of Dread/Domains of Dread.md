@@ -14,9 +14,9 @@ Domains Are Isolated. Each domain is surrounded by the Mists, its boundaries fad
 
 Domains Hold [[Darklords]]. Domains exist to contain and torment a villain. Though [[Darklords]] exert control over their domains, they are each tormented by a personal terror playing out in their realm.
 
-Domains Are Cages. Those who run afoul of a Darklord might find that the Mists prevent them from leaving the villain's domain. Like a haunted house that conveniently seals its doors or summons a deadly storm, so do domains create inescapable spaces where horror adventures unfold.
+Domains Are Cages. Those who run afoul of a [[Darklord]] might find that the Mists prevent them from leaving the villain's domain. Like a haunted house that conveniently seals its doors or summons a deadly storm, so do domains create inescapable spaces where horror adventures unfold.
 
-Domains Are Themed. Each domain reflects its Darklord and facilitates horror tales related to that villain. Just as creepy manors suit ghostly inhabitants, so does each domain inspire and encourage a distinct type of terror.
+Domains Are Themed. Each domain reflects its [[Darklord]] and facilitates horror tales related to that villain. Just as creepy manors suit ghostly inhabitants, so does each domain inspire and encourage a distinct type of terror.
 
 The realities o f the Domains o f Dread seem strange or impossible to individuals from other worlds, but for those who live among the Mists, they're facts of life. With no basis for comparison, domain inhabitants call those who speak of other worlds liars. For them, the following topics are standard aspects of life in their home domain or in a broader collection of domains they call the Land of the Mists.
 

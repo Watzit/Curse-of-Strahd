@@ -14,7 +14,7 @@ Nevertheless, [[Strahd]] and his vampire spawn tend to stay indoors most of the 
 
 Domain of the First Vampire
 
-Darklord: [[Strahd]] von Zarovich  
+[[Darklord]]: [[Strahd]] von Zarovich  
 Genre: Gothic horror  
 Hallmarks: Undead despot, notorious haunted stronghold, tragic resurrection.
 

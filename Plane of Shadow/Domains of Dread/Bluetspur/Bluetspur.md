@@ -1,6 +1,6 @@
 Domain of Alien Memories
 
-Darklord: The God-Brain of Bluetspur  
+[[Darklord]]: The God-Brain of Bluetspur  
 Genre: Cosmic horror  
 Hallmarks: Alien abductions, otherworldly landscapes, untrustworthy memories, monstrous experimentation
 

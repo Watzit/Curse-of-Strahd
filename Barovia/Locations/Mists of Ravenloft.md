@@ -6,7 +6,7 @@ Beyond these truths, the Mists are your tool to establish the boundaries ofyour 
 
 The Mists can always b e found at a domain's borders but can also appear in dense banks that rise wherever adventures demand. Such banks might veil strangers or hidden foes, or they can transport those who enter them to distant lands, other domains, or even beyond the [[Domains of Dread]]. The Mists are inscrutable, but they ever serve the schemes of the [[Dark Powers]], delivering creatures wherever these wicked forces desire.
 
-The [[Dark Powers]] also grant [[Darklords]] limited ability to manipulate the Mists surrounding their domains, allowing most to open or close their domains' borders to others on a whim. If a domain's borders are closed, supernatural agitation is obvious to any who approach the Mists. This takes the form of roiling disturbances within the haze, menacing silhouettes, threatening sounds, or other activity themed to the Darklord or domain. Creatures that enter the Mists at this time, including flying creatures, are subject to the following effects:
+The [[Dark Powers]] also grant [[Darklords]] limited ability to manipulate the Mists surrounding their domains, allowing most to open or close their domains' borders to others on a whim. If a domain's borders are closed, supernatural agitation is obvious to any who approach the Mists. This takes the form of roiling disturbances within the haze, menacing silhouettes, threatening sounds, or other activity themed to the [[Darklord]] or domain. Creatures that enter the Mists at this time, including flying creatures, are subject to the following effects:
 
 A creature that starts its turn in the Mists must succeed on a DC 20 Constitution saving throw or gain 1 level of exhaustion. This exhaustion can't be removed while the creature is in the Mists.
 
@@ -14,7 +14,7 @@ A creature that starts its turn in the Mists must succeed on a DC 20 Constitutio
 
 • The area within the Mists is heavily obscured (see the Player's Handbook for details).
 
-Most [[Darklords]] can keep their domains' borders closed indefinitely and can reopen them at will. For some [[Darklords]], slightly varied effects manifest when they close their domains. Others are limited in their ability to affect their borders. For each domain, specifics appear in the "Closing the Borders" portion of the section on that domain's Darklord.
+Most [[Darklords]] can keep their domains' borders closed indefinitely and can reopen them at will. For some [[Darklords]], slightly varied effects manifest when they close their domains. Others are limited in their ability to affect their borders. For each domain, specifics appear in the "Closing the Borders" portion of the section on that domain's [[Darklord]].
 
 If a domain's borders are open, the domain is still not easy to escape from. The area within the Mists remains heavily obscured, but the Mists don't cause creatures to gain levels of exhaustion. Characters intent on passing through the Mists travel for ld6 hours, then roll on the Wandering the Mists table to determine what happens.
 

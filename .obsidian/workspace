@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Ireena.md",
+            "file": "Darklord.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ireena.md",
+                "file": "Darklord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
-    "NPCs/Strahd/Strahd's Torment.md",
-    "NPCs/Strahd/Strahd's Powers and Dominion.md",
-    "NPCs/Strahd/Strahd's Goals.md",
-    "NPCs/Strahd/Strahd.md",
-    "NPCs/Strahd/Roleplaying Strahd.md",
-    "Barovia/Pillarstone of Ravenloft.md",
-    "Barovia/Barovia.md",
-    "Barovia/Alterations to Magic.md",
-    "Barovia/Locations/Tser Pool Encampment.md",
-    "Barovia/Locations/Tser Falls.md"
+    "Plane of Shadow/Plane of Shadow.md",
+    "Plane of Shadow/Domains of Dread/Domains of Dread.md",
+    "Plane of Shadow/Domains of Dread/Darklords.md",
+    "Plane of Shadow/Domains of Dread/Dark Powers.md",
+    "Plane of Shadow/Domains of Dread/Dark Gifts.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Ravenloft.md",
+    "Plane of Shadow/Domains of Dread/Bluetspur/Lake Zarovich.md",
+    "Plane of Shadow/Domains of Dread/Bluetspur/Bluetspur.md",
+    "NPCs/Vistani.md",
+    "NPCs/Tatyana.md"
   ]
 }

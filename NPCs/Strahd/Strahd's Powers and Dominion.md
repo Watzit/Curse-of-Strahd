@@ -1,5 +1,5 @@
 [[NPCs/Strahd/Strahd|Strahd]] is a patient and dramatic mastermind. His statistics are similar to those of a vampire and his spellcasting prowess is formidable, enabling him  
-to face most threats directly. [[NPCs/Strahd/Strahd|Strahd]] ever seeks to escape his boredom and draws challenges out for as long as it entertains him. However, if insulted, the Darklord can turn all of [[Barovia]] against his foes.
+to face most threats directly. [[NPCs/Strahd/Strahd|Strahd]] ever seeks to escape his boredom and draws challenges out for as long as it entertains him. However, if insulted, the [[Darklord]] can turn all of [[Barovia]] against his foes.
 
 The Ancient, the Land. [[NPCs/Strahd/Strahd|Strahd]] is bound to [[Barovia]] and it to him in a way few rulers or [[Darklords]] understand. As part of this relationship, [[NPCs/Strahd/Strahd|Strahd]] knows when any creature enters or dies violently within [[Barovia]]-and takes personal offense when his agents or the domain's wolves are slain. [[NPCs/Strahd/Strahd|Strahd]] can also manifest a variety of dramatic effects, such as causing his voice to be heard on the wind, making his visage appear in the clouds, changing the weather, and so forth. He can't use these effects to aid him in combat, but they can make his presence known throughout the land.
 
