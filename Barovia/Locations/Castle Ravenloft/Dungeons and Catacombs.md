@@ -197,7 +197,7 @@ K79. WESTERN STAIR
 _____
 "This staircase of ancient stone is worn smooth. Thick dust covers its steps, and cobwebs choke the passage."
 _____
-The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, leading to a 10 foot square landing (see below). A second set of stairs continuis.upwar.d}o_t�_ e east at a similar angle for p0 di13fan<::�- of 30'fee�liorizon­ tally, ending at a-se.cret.door thai:"c:Stiens-irito:a"rea Kn
+The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, leading to a 10 foot square landing (see below). A second set of stairs continues upward to the east at a similar angle for a distance of 30 feet horizontally, ending at a secret door that Stiens-irito:a"rea Kn
 
 LANDING
 Inscribed on the landing, hidden 'under years of dust, is a glyph of warding. If the characters brush away the dust, someone can spot the glyph with a successful DC 15 Intelligence (Investigation) check.
