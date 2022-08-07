@@ -75,14 +75,14 @@ If your card reading reveals that a treasure is here, it is inside one of the em
 
 K64. GUARDS' STAIR
 ____
-The long, hollow sigh of the wind breathes a semblance of life into this otherwise featureless staircase.
+"The long, hollow sigh of the wind breathes a semblance of life into this otherwise featureless staircase."
 ____
 The stairway starts at area K68 and goes up past area K13 to area K46.
 
 K65. KITCHEN
-
-A horrible odor of decay fills this steaming hot room. A huge pot bubbles over a blazing fire pit in the center of the room, its green, muddy contents churning. The far wall is lined with pegs, hanging from which are numerous large cooking implements-some of which could easily double as implements of torture.
-
+______
+"A horrible odor of decay fills this steaming hot room. A huge pot bubbles over a blazing fire pit in the center of the room, its green, muddy contents churning. The far wall is lined with pegs, hanging from which are numerous large cooking implements-some of which could easily double as implements of torture."
+______
 If a character looks into the pot, three human zombies rise up from the bubbling depths and attack. The zombies are slowly being boiled to death, and each has only 13 hit points remaining. If Cyrus Belview (see area K62) is present when the zombies attack, he grabs a heavy club and tries to beat them back into the pot. Cyrus explains that he just isn't the cook he used to be, and his meals tend to get out of hand these days.
 
 K66. BUTLER'S UARTERS
