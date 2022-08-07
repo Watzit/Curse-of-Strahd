@@ -82,7 +82,7 @@ The sword's purpose is to fight evil. The sword has the following additional pro
 
 The sword continually sheds bright light in a 15-foot radius and dim light for an additional 15 feet. Only by destroying the sword can this light be extinguished.
 
-, Alawfulgoodcreaturecanattuneitselftothesword in 1 minute.  
+- lawfulgoodcreaturecanattuneitselftothesword in 1 minute.  
 While attuned to the weapon, the sword's wielder can use the sword to cast the crusader's mantle spell. Once used, this property of the sword can't be used again until the next dawn.
 
 K75. SOUTH DUNGEON
