@@ -50,16 +50,17 @@ ____
 ____
 This cell is linked to a teleport trap in area K73.
 
-Treasure. A search of the corpse yields a sheathed longsword and two belt pouches, one containing five gemstones (50 gp each) and the other containing a po­ tion ofheroism.
+Treasure. A search of the corpse yields a sheathed longsword and two belt pouches, one containing five gemstones (50 gp each) and the other containing a potion of heroism.
 
 K74D. EMPTY CELL
 
 This cell contains nothing of interest.
 
-K74E. END OFTHE RIDE·  
-This cell is linked to a telt,port trap in are.a K73.
+K74E. END OFTHE RIDE
 
-Secret Door. A secret door is:s fe.et up from the floor on the north wall of this cell. Tlie secret door can't be opened from this side without.the use of a knock spell or similar magic. Behind the secret door 1s a chute of pol­ ished black marble that slants upward (area K82).
+This cell is linked to a teleport trap in are.a K73.
+
+Secret Door. A secret door is:s fe.et up from the floor on the north wall of this cell. The secret door can't be opened from this side without.the use of a knock spell or similar magic. Behind the secret door 1s a chute of polished black marble that slants upward (area K82).
 
 K74F. EMPTY CELL
 
