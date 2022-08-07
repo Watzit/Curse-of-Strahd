@@ -7,9 +7,9 @@ _____
 "The stairs descend into black, still water that fills an arched hallway before you. The water's surface is like dark, mirrored glass, disturbed only occasionally by the "thwick" of a drop falling from the ceiling. Twenty feet ahead, arched doorways lead downward from each side of the hallway. In each arched doorway, an iron door stands closed and partially submerged. You hear a weak cry for help from beyond the south door."
 _____
 The water is 3 feet deep in the hallway and opaque. 
+The steps on both sides of the hallway descend another 2 feet before ending at the iron doors to the north and south.
 
-
-anct�"a:ihh�:\> ,\�".'-_,.,.·:->,·.·:,. :'(htilo:oibt:°ne;i'tfi'the.'water'.isq\_afs'dUd.asonemight-expect' : J"h�;e is a ifafe path. a;d�'nd �iverif w.'eight- sensitive trapdoors (see the Traps in Area K73 diagram), but the water makes it impossible to see where the trap­ doors are. For every 10 pounds of weight on a trapdoor, there is a 5 percent chance that the trapdoor will open. The 10-foot-deep pit under each trapdoor contains a magic teleport trap that activates as soon as the trap­ door opens. Any Medium or smaller creature on a trap­ door when it opens plunges into the pit and is teleported to a cell in either area K74 or K75, as the diagram indicates.
+The floor beneath the water isn't as solid as one might expect. There is a safe patweight- sensitive trapdoors (see the Traps in Area K73 diagram), but the water makes it impossible to see where the trap­ doors are. For every 10 pounds of weight on a trapdoor, there is a 5 percent chance that the trapdoor will open. The 10-foot-deep pit under each trapdoor contains a magic teleport trap that activates as soon as the trap­ door opens. Any Medium or smaller creature on a trap­ door when it opens plunges into the pit and is teleported to a cell in either area K74 or K75, as the diagram indicates.
 
 When a character sets off a trap, other characters in the hall see an explosion of air and water fly up around the triggering character (air that was trapped in the  
 pit is released suddenly when the trapdoor opens).  
