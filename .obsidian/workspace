@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
+            "file": "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
+                "file": "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
     "Barovia/Locations/Castle Ravenloft/Main Floor.md",
     "Barovia/Locations/Castle Ravenloft/Walls of Ravenloft.md",
     "Barovia/Locations/Castle Ravenloft/Spires of Ravenloft.md",
@@ -113,7 +114,6 @@
     "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
     "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
     "Darklord.md",
-    "Plane of Shadow/Plane of Shadow.md",
-    "Plane of Shadow/Domains of Dread/Domains of Dread.md"
+    "Plane of Shadow/Plane of Shadow.md"
   ]
 }
