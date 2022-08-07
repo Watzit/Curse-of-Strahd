@@ -139,17 +139,17 @@ K76. TORTURE CHAMBER
 ____
 "Dark, low shapes thrust up out of the still, brackish water that fills this fifty-foot-square room, the ceiling of which is festooned with hanging chains that look like thick, black web strands. A balcony set into the north wall overlooks the room and has two large thrones atop it, with a red velvet curtain behind them."
 ____
-The ceiling is 17 feet above the surface of the water, which is 3 feet deep. The balcony to the north stands 7 feet above the water's surface, IO.feet.above· the floor.
+The ceiling is 17 feet above the surface of the water, which is 3 feet deep. The balcony to the north stands 7 feet above the water's surface, 10 feet above the floor.
 If the characters approach the "dark, low shapes" in the water read:
-
-The dark shapes in the water are racks, iron maidens, stocks, and other instruments of torture. The skeletons of their last victims lie within them, their jaws seemingly frozen open in silent screams.
-
+____
+"The dark shapes in the water are racks, iron maidens, stocks, and other instruments of torture. The skeletons of their last victims lie within them, their jaws seemingly frozen open in silent screams."
+____
 As soon as one or more characters move more than 10 feet into the room, six [[Strahd]] zombies rise slowly out of the water, their slime-gray arms clawing upward through the water as they attack.
 
 K77. OBSERVATION BALCONY ·
-
-Two large, wooden thrones rest on this balcony. Behind the thrones hangs a red velvet curtain thirty feet long. The ceiling here is ten feet high.
-
+____
+"Two large, wooden thrones rest on this balcony. Behind the thrones hangs a red velvet curtain thirty feet long. The ceiling here is ten feet high."
+____
 The room continues behind the curtain an additional 10 feet to a wall that has a door in its center.
 
 K78. BRAZIER ROOM
