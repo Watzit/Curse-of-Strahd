@@ -85,10 +85,10 @@ ______
 ______
 If a character looks into the pot, three human zombies rise up from the bubbling depths and attack. The zombies are slowly being boiled to death, and each has only 13 hit points remaining. If Cyrus Belview (see area K62) is present when the zombies attack, he grabs a heavy club and tries to beat them back into the pot. Cyrus explains that he just isn't the cook he used to be, and his meals tend to get out of hand these days.
 
-K66. BUTLER'S UARTERS
-
-This twenty-foot-square room is filled wall to wall with clutter. A long, sagging bed sits to one side under a huge faded tapestry that depicts [[Castle Ravenloft]]. Dusty lanterns sit in various places, and bright curtains are draped haphazardly about the room. Thousands of pieces of junk cover the Aoor. Broken swords, crumpled shields, and helmets lie in piles all about.
-
+K66. BUTLER'S QUARTERS
+____
+"This twenty-foot-square room is filled wall to wall with clutter. A long, sagging bed sits to one side under a huge faded tapestry that depicts [[Castle Ravenloft]]. Dusty lanterns sit in various places, and bright curtains are draped haphazardly about the room. Thousands of pieces of junk cover the floor. Broken swords, crumpled shields, and helmets lie in piles all about."
+____
 Cyrus Belview (see area K62) uses this room as his lair. There is nothing of value here.
 
 If Cyrus is with the party, the characters notice that he is caressing their equipment and chuckling to himself. Cyrus has been salvaging equipment from dead adventurers for years. He looks forward to adding to his collection after [[Strahd]] gets through with the characters.
