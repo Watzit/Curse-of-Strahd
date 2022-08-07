@@ -113,29 +113,29 @@ FORTUNES OF RAVENLOFT
 If your card reading reveals that a treasure is here, it is lying on the bone table. If your card reading indicates' an encounter with [[Strahd]] in this area, he is sitting comfortably at one end of the table, holding the skull of a long-dead foe.
 
 K68. GUARDS' RUN
-
-This ten-foot-wide arched corridor is cold and moist. The cold seems to emanate from an open archway in the west wall.
-
+____
+"This ten-foot-wide arched corridor is cold and moist. The cold seems to emanate from an open archway in the west wall."
+____
 The archway leads to area K69. A door at the north end of the hall opens into area K67. To the south, the hallway ends at the foot of a staircase (area K64) that spirals upward.
 
 K69. GUARDS' QUARTERS
-
-Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten-foot-square alcoves that contain rotting cots, rags, and the skeletal remains of castle guards. A deathly silence fills the hall.
-
+____
+"Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten-foot-square alcoves that contain rotting cots, rags, and the skeletal remains of castle guards. A deathly silence fills the hall."
+____
 The yellow lichen is harmless. When one or more characters reach the midpoint of the hall, ten human skeletons leap from the alcoves and attack.
 
 K70. KINGSMEN HALL
+____
+"This thirty-foot-square room is a shambles. Scattered furniture lies in heaps near the walls. Broken bones lie scattered amid crumpled and crushed plate armor. Shields and swords jut from the walls as if driven into them by some tremendous force.
 
-This thirty-foot-square room is a shambles. Scattered furniture lies in heaps near the walls. Broken bones lie scattered amid crumpled and crushed plate armor. Shields and swords jut from the walls as if driven into them by some tremendous force.
-
-Two doors stand opposite one another in the center of the north wall and the south wall. A dark archway leads out through the east wall.
-
+Two doors stand opposite one another in the center of the north wall and the south wall. A dark archway leads out through the east wall."
+____
 After [[Strahd]] was transformed into a vampire, several of the castle guards retreated to this room, but [[Strahd]] caught them and slaughtered them in a brutal show of violence. Removing one of the shields or swords from the wall requires a successful DC 10 Strength check. None of the items found here are valuable.
 
 K71. KINGSMEN QUARTERS
-
-This dark passage runs for twenty feet, connecting an archway to the west with an ascending stone staircase to the east. To the north and south are four ten-foot-square alcoves cluttered with rotting cots and dirty rags. The ceilings here are covered with yellow lichen.
-
+____
+"This dark passage runs for twenty feet, connecting an archway to the west with an ascending stone staircase to the east. To the north and south are four ten-foot-square alcoves cluttered with rotting cots and dirty rags. The ceilings here are covered with yellow lichen."
+____
 The yellow lichens. harmless Beyondthearchwayto
 
 the west is area E:'7.0, The'�taircase (area_K20a) that
