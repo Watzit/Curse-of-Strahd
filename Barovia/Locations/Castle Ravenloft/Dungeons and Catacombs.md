@@ -225,7 +225,7 @@ ____
 ____
 
 Characters who have knowledge of stonecutting can tell that this passage is a relatively pew construction compared to other areas of Ravenloft. The tunnels-120 feet long, with a stone door at its eastern end.
-Nearthemidpointofthe'turu'i�lis·iitrapdoorhidden under a layer 9f fog. Characters can't spot the trap­ door passively, but art ��tive search accompanied by a successful DC 20 Wisdom (Perception) check locates it. Unless the tr�pdoor is fastened shut with an iron spike or by some other means, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone who is standing on it slides into the marble chute below (area K82). The trapdoor then resets.
+Near the midpoint of the 'turu'i�lis·iitrapdoorhidden under a layer 9f fog. Characters can't spot the trap­ door passively, but art ��tive search accompanied by a successful DC 20 Wisdom (Perception) check locates it. Unless the tr�pdoor is fastened shut with an iron spike or by some other means, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone who is standing on it slides into the marble chute below (area K82). The trapdoor then resets.
 
 K82. MARBLE SLIDE
 
