@@ -173,16 +173,19 @@ Indigo to the master's bride
 Blue to ancient magic's womb
 Yellow to the master's tomb.
 
-The braziers flame is magical and sheds no warmth. A successful casting of dispel magic (DC 16) extinguishes the flame for 1 hour. The fire is permanently extinguished the brazier is destroyed. The brazier.has AC 17, 25 hit points, immunity to poison and psychic damage, and resistance to all other damage.
-The stones set into the brazier's rim are colored red, orange, yellow, green, blue, indigo, and violet, respec­ tively. Tossing one into the brazier causes its flame to change from white to the color of the stone, and the sand begins falling through the hourglass. Any creature that touches the colored flame is teleported to a location within [[Strahd]]'s domain, as determined by the color:
+The braziers flame is magical and sheds no warmth. A successful casting of dispel magic (DC 16) extinguishes the flame for 1 hour. The fire is permanently extinguished if the brazier is destroyed. The brazier has AC 17, 25 hit points, immunity to poison and psychic damage, and resistance to all other damage.
 
-Flame Color
+The stones set into the brazier's rim are colored red, orange, yellow, green, blue, indigo, and violet, respectively. Tossing one into the brazier causes its flame to change from white to the color of the stone, and the sand begins falling through the hourglass. Any creature that touches the colored flame is teleported to a location within [[Strahd]]'s domain, as determined by the color:
+
+| Flame Color | Teleports to ... |
+| ----------- | ---------------- |
+|             |                  |
 
 Red
 
 Orange Yellow Green Blue Indigo Violet
 
-Teleports to ...
+
 
 Study (area K37)
 
