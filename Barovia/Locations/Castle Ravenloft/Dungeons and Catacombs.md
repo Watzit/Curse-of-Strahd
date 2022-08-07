@@ -45,9 +45,9 @@ Characters who enter the cell can feel coins shifting beneath their feet.
 Treasure. Scattered across the floor of this cell are 300 pp. The coins have the profiled visage of [[Strahd]] von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
 
 K74c. ROTTING CORPSE 
-
+____
 Clinging to the bars of this otherwise empty cell is the rotting corpse of a male half-elf dressed in leather armor.
-
+____
 This cell is linked to a teleport trap in area K73.
 
 Treasure. A search of the corpse yields a sheathed longsword and two belt pouches, one containing five gemstones (50 gp each) and the other containing a po­ tion ofheroism.
