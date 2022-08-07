@@ -68,15 +68,15 @@ This cell contains nothing of interest.
 
 K74G. GRAY OOZE
 
-Clinging to the floor of this cell is a gray ooze that at­ tacks anything that enters. While underwater, the ooze is effectively invisible. 
+Clinging to the floor of this cell is a gray ooze that attacks anything that enters. While underwater, the ooze is effectively invisible. 
 
 K74H. LOST SWORD
-
-A glowing blade can be seen beneath the water near the back of the cell.
-
+____
+"A glowing blade can be seen beneath the water near the back of the cell."
+____
 This cell is linked to a teleport trap in area K73.
 
-Treasure. The source of the underwater glow is a sen­ tient lawful good +1 shortsword (Intelligence 11, Wis­ dom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmit­ ting emotion to the creature carrying or wielding it.
+Treasure. The source of the underwater glow is a sentient lawful good +1 shortsword (Intelligence 11, Wis­ dom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmit­ ting emotion to the creature carrying or wielding it.
 
 The sword's purpose is to fight evil. The sword has the following additional properties:
 
