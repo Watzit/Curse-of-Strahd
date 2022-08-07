@@ -89,16 +89,15 @@ The sword's purpose is to fight evil. The sword has the following additional pro
 K75. SOUTH DUNGEON
 
 The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength (Athletics) check to open.
-
-A mold-covered ceiling hangs three feet above the still, black water that fills this dungeon corridor. The water  
-is five feet deep. Ten-foot-square cells, their entrances blocked by iron bars, line both sides of the hall. From one of the cells, you hear a gruff voice ask, "Who's there?"
-
+_____
+"A mold-covered ceiling hangs three feet above the still, black water that fills this dungeon corridor. The water is five feet deep. Ten-foot-square cells, their entrances blocked by iron bars, line both sides of the hall. From one of the cells, you hear a gruff voice ask, "Who's there?""
+_____
 The corridor is 40 feet long. Branching off it are eight cells, four along each wall. The voice comes from one of the southernmost cells (area K75a).
 
 K75A. PRISONER
-
-A strong young man clutches the bars of his cell while struggling to keep his teeth from chattering. His clothes are shredded, and he is soaked from head to toe.
-
+____
+"A strong young man clutches the bars of his cell while struggling to keep his teeth from chattering. His clothes are shredded, and he is soaked from head to toe."
+____
 The man is Emil Toranescu, a werewolf with 72 hit points. He claims to be a resident of [[Vallaki]] who was chased by dire wolves to the castle. He begs the charac­ ters to rescue him, offering to help them in exchange.
 
 In truth, [[Strahd]] locked Emil here as punishment for causing a schism in his werewolf pack (see chapter 15). Anxious to prove his worth to [[Strahd]], Emil rewards the characters for freeing him by attacking them when a good opportunity arises. Emil doesn't turn against the characters if they claim to be allies of his wife, Zuleika (see chapter 15, area Z7). In that case, he tries to leave the castle and reunite with her, staying with the charac­ ters only until an opportunity to leave presents itself.
