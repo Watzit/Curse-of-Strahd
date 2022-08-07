@@ -210,20 +210,21 @@ Have the characters roll initiative. Any attack or spell that hits "[[Strahd]]" 
 
 K80. CENTER STAIR  
 If the characters enter this area through the door at the bottom of the stairs read:
-
-The door creaks open to reveal a stone staircase between rough masonry walls. There is little dust on the steps, but light fog tumbles down the steps from above.
-
-If the characters enter this area at the top of the stair­ case, read:
-
-The rough-hewn corridor ends at a stone staircase that descends to the south. Flanked by walls of rough ma­ sonry and relatively free of dust, these stairs descend before ending at a lonely door.
-
+____
+"The door creaks open to reveal a stone staircase between rough masonry walls. There is little dust on the steps, but light fog tumbles down the steps from above."
+____
+If the characters enter this area at the top of the staircase, read:
+____
+"The rough-hewn corridor ends at a stone staircase that descends to the south. Flanked by walls of rough masonry and relatively free of dust, these stairs descend before ending at a lonely door."
+____
 The stairs slope at a 45-degree angle for a distance of 20 feet horizontally, connecting areas K78 and K81.
 
-K81. TuNNEL
+K81. TUNNEL
+____
+"This tunnel is cut into the [[Pillarstone of Ravenloft]] itself. Its surface is slick, and its ceiling is barely 6 feet high. A lingering fog limits visibility to a few feet."
+____
 
-This tunnel is cut into the [[Pillarstone of Ravenloft]] itself. Its surface is slick, and its ceiling is barely 6 feet high. A lingering fog limits visibility to a few feet.
-
-Characte�s who have knoJi�dge. of stdnecutting'dm tell· .- ._· that this passage is a relatively°pew consfr.uction tom-. pared to other areas of Ravenlofi;. The t�nn�Us-120 feet long, with a stone door at its·easte�n end.
+Characters who have knoJi�dge. of stdnecutting'dm tell· .- ._· that this passage is a relatively°pew consfr.uction tom-. pared to other areas of Ravenlofi;. The t�nn�Us-120 feet long, with a stone door at its·easte�n end.
 Nearthemidpointofthe'turu'i�lis·iitrapdoorhidden under a layer 9f fog. Characters can't spot the trap­ door passively, but art ��tive search accompanied by a successful DC 20 Wisdom (Perception) check locates it. Unless the tr�pdoor is fastened shut with an iron spike or by some other means, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone who is standing on it slides into the marble chute below (area K82). The trapdoor then resets.
 
 K82. MARBLE SLIDE
