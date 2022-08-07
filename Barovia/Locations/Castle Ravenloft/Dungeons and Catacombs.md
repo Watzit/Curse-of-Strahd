@@ -179,19 +179,19 @@ The stones set into the brazier's rim are colored red, orange, yellow, green, bl
 
 | Flame Color | Teleports to ... |
 | ----------- | ---------------- |
-|             |                  |
+| Red         |      Study (area K37)            |
+| Orange      |        North tower peak (area K60)            |
+| Yellow      |    [[Strahd]]'s tomb (area K86)                |
+| Green       |     Coffin maker's shop (chapter 5, area N6f)             |
+| Blue        |                  |
+| Indigo      |                  |
+| Violet            |                  |
 
-Red
-
-Orange Yellow Green Blue Indigo Violet
 
 
 
-Study (area K37)
 
-North tower peak (area K60)  
-[[Strahd]]'s tomb (area K86)  
-Coffin maker's shop (chapter 5, area N6f) Amber Temple (chapter 13, area X42)  
+ Amber Temple (chapter 13, area X42)  
 [[Abbey of Saint Markovia]] (chapter 8, area S17) [[Tsolenka Pass]] (chapter 9, area T4)
 
 After 5 rounds, the sand runs out, and the color of the flame returns to white. When the flame does so, the sand instantly reappears in the top part of the hourglass (provided the hourglass is intact), and the stone that was cast into the fire reappears in the brazier's rim.
