@@ -194,10 +194,10 @@ DEVELOPMENT
 If the brazier, the hourglass, or either golem is attacked, the doors of the room magically slam shut and lock (unless they are being held or wedged open), and the golems animate and attack. On the first round, the golems fill the room with their poison breath, which issues from the horses' mouths. (Each creature in the room must make two saving throws, one for each breath weapon.) On subsequent rounds, each golem makes one attack with its sword and one slam attack with its hoof. When there are no creatures left to fight in the room, the golems return to their alcoves, and the doors unlock. Forcing open a locked door requires a successful DC 25 Strength (Athletics) check. Each door has AC 15, 25 hit points, and immunity to poison and psychic damage.
 
 K79. WESTERN STAIR
-
-This staircase of ancient stone is worn smooth. Thick dust covers its steps, and cobwebs choke the passage.
-
-The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, leading to a· 10�foot�square landing (see below).A·secondset-of.stairscontjnuis.upwar.d}o_t�_ e east at a similar angle for p0 di13fan<::�- of 30'fee�liorizon­ tally, ending at a-se.cret.door thai:"c:Stiens-irito:a"rea Kn
+_____
+"This staircase of ancient stone is worn smooth. Thick dust covers its steps, and cobwebs choke the passage."
+_____
+The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, leading to a 10 foot square landing (see below). A second set of stairs continuis.upwar.d}o_t�_ e east at a similar angle for p0 di13fan<::�- of 30'fee�liorizon­ tally, ending at a-se.cret.door thai:"c:Stiens-irito:a"rea Kn
 
 LANDING
 Inscribed on the landing, hidden 'under years of dust, is a glyph of warding. If the characters brush away the dust, someone can spot the glyph with a successful DC 15 Intelligence (Investigation) check.
