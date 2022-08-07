@@ -20,9 +20,9 @@ Characters who fall victim to the teleport traps are transported to dungeon cell
 K74. NORTH DUNGEON
 
 The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength (Athletics) check to open.
-
-A mold-covered ceiling hangs three feet above the still, black water that fills this dungeon corridor. The water is five feet deep. Ten-foot-square cells, their entrances blocked by iron bars, line both sides of the hall. One of the cells is dimly lit.
-
+_____
+"A mold-covered ceiling hangs three feet above the still, black water that fills this dungeon corridor. The water is five feet deep. Ten-foot-square cells, their entrances blocked by iron bars, line both sides of the hall. One of the cells is dimly lit."
+_____
 The corridor is 40 feet long. Branching off it are eight cells, four along each wall. Light spills out of cell K74h.
 
 A hinged door made up of 1-inch-thick rusted iron bars spaced 4 inches apart, with horizontal crossbars spaced 6 inches apart, closes off each cell. Each door is fitted with an iron lock. A character using thieves' tools can try to pick a lock, which requires 1 minute and a successful DC 20 Dexterity check. The check is made with disadvantage if the character is trying to pick the lock from inside the cell. If the check fails, the character can try again.
@@ -31,15 +31,15 @@ A character can force open a barred door by using an action and succeeding on a 
 
 [[Strahd]] visits the dungeon occasionally to see whether any characters have become trapped here. He can enter a cell by entering mist form.
 
-K74A . FORGOTTEN''TREASUR,E.
+K74A . FORGOTTEN TREASURE.
 
 This cell is linked to a teleport trap in area K73: Characters who enter the cell can feel coins shifting beneath their feet.  
 Treasure. Scattered across the floor of this cell are 3,000 ep. The coins have the profiled visage of [[Strahd]] von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
 
-K74B. FORGOTTEN 'TREASURE
-
-The rusted door to this cell hangs open slightly.
-
+K74B. FORGOTTEN TREASURE
+____
+"The rusted door to this cell hangs open slightly."
+____
 Characters who enter the cell can feel coins shifting beneath their feet.
 
 Treasure. Scattered across the floor of this cell are 300 pp. The coins have the profiled visage of [[Strahd]] von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
