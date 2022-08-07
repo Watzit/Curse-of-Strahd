@@ -3,11 +3,11 @@ Refer to map 12 of the castle for areas K73 through K88.
 K73. DUNGEON HALL
 
 The following boxed text assumes that the characters arrive by way of the staircase to the east (area K21). Adjust as needed if the characters enter this hall from another direction.
+_____
+"The stairs descend into black, still water that fills an arched hallway before you. The water's surface is like dark, mirrored glass, disturbed only occasionally by the "thwick" of a drop falling from the ceiling. Twenty feet ahead, arched doorways lead downward from each side of the hallway. In each arched doorway, an iron door stands closed and partially submerged. You hear a weak cry for help from beyond the south door."
+_____
+The water is 3 feet deep in the hallway and opaque. 
 
-The stairs descend into black, still water that fills an arched hallway before you. The water's surface is like dark, mirrored glass, disturbed only occasionally by the "thwick" of a drop falling from the ceiling. Twenty feet ahead, arched doorways lead downward from each side of the hallway. In each arched doorway, an iron door stands closed and partially submerged. You hear a weak cry for help from beyond the south door.
-
-: :thi }Yater is3 feet deep in tJe_hallway an_ d·�p�que:
-Tht,.ste-ps .on'both sjd�i of thih:�!l\Vay/descend an:
 
 anct�"a:ihh�:\> ,\�".'-_,.,.·:->,·.·:,. :'(htilo:oibt:°ne;i'tfi'the.'water'.isq\_afs'dUd.asonemight-expect' : J"h�;e is a ifafe path. a;d�'nd �iverif w.'eight- sensitive trapdoors (see the Traps in Area K73 diagram), but the water makes it impossible to see where the trap­ doors are. For every 10 pounds of weight on a trapdoor, there is a 5 percent chance that the trapdoor will open. The 10-foot-deep pit under each trapdoor contains a magic teleport trap that activates as soon as the trap­ door opens. Any Medium or smaller creature on a trap­ door when it opens plunges into the pit and is teleported to a cell in either area K74 or K75, as the diagram indicates.
 
