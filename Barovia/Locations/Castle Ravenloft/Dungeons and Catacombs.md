@@ -136,10 +136,10 @@ K75H. EMPTY CELL
 This cell contains nothing of interest.
 
 K76. TORTURE CHAMBER
-
-Dark, low shapes thrust up out of the still, brackish water that fills this fifty-foot-square room, the ceiling of which is festooned with hanging chains that look like thick, black web strands. A balcony set into the north wall over­ looks the room and has two large thrones atop it, with a red velvet curtain behind them.
-
-The ceiling is 17 feet above the surface of the \\'.ater, which is 3 feet deep. The balcony to the north stands 7 feet above the water's surface, IO.feet.above· the floor.
+____
+"Dark, low shapes thrust up out of the still, brackish water that fills this fifty-foot-square room, the ceiling of which is festooned with hanging chains that look like thick, black web strands. A balcony set into the north wall overlooks the room and has two large thrones atop it, with a red velvet curtain behind them."
+____
+The ceiling is 17 feet above the surface of the water, which is 3 feet deep. The balcony to the north stands 7 feet above the water's surface, IO.feet.above· the floor.
 If the characters approach the "dark, low shapes" in the water read:
 
 The dark shapes in the water are racks, iron maidens, stocks, and other instruments of torture. The skeletons of their last victims lie within them, their jaws seemingly frozen open in silent screams.
