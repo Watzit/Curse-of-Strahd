@@ -98,13 +98,13 @@ K75A. PRISONER
 ____
 "A strong young man clutches the bars of his cell while struggling to keep his teeth from chattering. His clothes are shredded, and he is soaked from head to toe."
 ____
-The man is Emil Toranescu, a werewolf with 72 hit points. He claims to be a resident of [[Vallaki]] who was chased by dire wolves to the castle. He begs the charac­ ters to rescue him, offering to help them in exchange.
+The man is Emil Toranescu, a werewolf with 72 hit points. He claims to be a resident of [[Vallaki]] who was chased by dire wolves to the castle. He begs the characters to rescue him, offering to help them in exchange.
 
-In truth, [[Strahd]] locked Emil here as punishment for causing a schism in his werewolf pack (see chapter 15). Anxious to prove his worth to [[Strahd]], Emil rewards the characters for freeing him by attacking them when a good opportunity arises. Emil doesn't turn against the characters if they claim to be allies of his wife, Zuleika (see chapter 15, area Z7). In that case, he tries to leave the castle and reunite with her, staying with the charac­ ters only until an opportunity to leave presents itself.
+In truth, [[Strahd]] locked Emil here as punishment for causing a schism in his werewolf pack (see chapter 15). Anxious to prove his worth to [[Strahd]], Emil rewards the characters for freeing him by attacking them when a good opportunity arises. Emil doesn't turn against the characters if they claim to be allies of his wife, Zuleika (see chapter 15, area Z7). In that case, he tries to leave the castle and reunite with her, staying with the characters only until an opportunity to leave presents itself.
 
 K75B. FORGOTTEN TREASURE
 
-Characters who enter the cell can feel coins shifting be­ neath their feet.
+Characters who enter the cell can feel coins shifting beneath their feet.
 
 Treasure. Scattered across the floor of this cell are 2,100 ep. The coins have the profiled visage of [[Strahd]] von Zarovich stamped on them. A character can scoop up one hundred coins every minute.
 
@@ -114,7 +114,7 @@ This cell contains nothing of interest.
 
 K75D. DEAD DWARF
 
-This cell is linked to a teleport trap in area K73. The skeletal remains of a dwarf fighter lie at the bottom of the cell, enclosed in ru�ted plate armor. The dwarf's nonmagical but usable battleax� lies i:iearby.
+This cell is linked to a teleport trap in area K73. The skeletal remains of a dwarf fighter lie at the bottom of the cell, enclosed in rusted plate armor. The dwarf's nonmagical but usable battleaxe lies nearby.
 
 K75e. EMPTY CELL
 This cell contains nothing of interest.
