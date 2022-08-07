@@ -73,7 +73,7 @@ FORTUNES OF RAVENLOFT
 
 If your card reading reveals that a treasure is here, it is inside one of the empty casks along the north wall, hidden there by Cyrus Belview.
 
-K64. GUARDS' STAIR l
+K64. GUARDS' STAIR
 
 The long, hollow sigh of the wind breathes a semblance of life into this otherwise featureless staircase.
 

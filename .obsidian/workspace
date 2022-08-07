@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Castle Ravenloft/Court of the Count.md",
+            "file": "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
             "mode": "source",
             "source": false
           }
@@ -19,70 +19,100 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1483432681b64260",
-    "type": "mobile-drawer",
+    "id": "f32ddc32ed93022c",
+    "type": "split",
     "children": [
       {
-        "id": "12aa45cc131f578e",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "6ae767d16637a281",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "d7d9e5d1cf6de6dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1708bbb3a2696065",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a8341cef46b1fc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "f87959b6193d56a0",
-    "type": "mobile-drawer",
+    "id": "6468675c58852a74",
+    "type": "split",
     "children": [
       {
-        "id": "8a16d1980c63b5d1",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Barovia/Locations/Castle Ravenloft/Court of the Count.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "9ed8c3bd107470f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e638f93647b6f7d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1ee8c9b5289ea0cb",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7858ef7ac7a35ef",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "Barovia/Locations/Castle Ravenloft/Main Floor.md",
+    "Barovia/Locations/Castle Ravenloft/Walls of Ravenloft.md",
+    "Barovia/Locations/Castle Ravenloft/Spires of Ravenloft.md",
+    "Barovia/Locations/Castle Ravenloft/Rooms of Weeping.md",
+    "Barovia/Locations/Castle Ravenloft/Court of the Count.md",
     "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
-    "NPCs/Strahd/Strahd.md",
-    "Barovia/Barovia.md",
+    "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
+    "Darklord.md",
     "Plane of Shadow/Plane of Shadow.md",
-    "Plane of Shadow/Domains of Dread/Domains of Dread.md",
-    "Plane of Shadow/Domains of Dread/Darklords.md",
-    "Plane of Shadow/Domains of Dread/Dark Powers.md",
-    "Plane of Shadow/Domains of Dread/Dark Gifts.md",
-    "Plane of Shadow/Domains of Dread/Ravenloft/Ravenloft.md",
-    "Plane of Shadow/Domains of Dread/Bluetspur/Lake Zarovich.md"
+    "Plane of Shadow/Domains of Dread/Domains of Dread.md"
   ]
 }
