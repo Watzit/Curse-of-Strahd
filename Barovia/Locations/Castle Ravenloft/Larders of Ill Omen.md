@@ -136,16 +136,16 @@ K71. KINGSMEN QUARTERS
 ____
 "This dark passage runs for twenty feet, connecting an archway to the west with an ascending stone staircase to the east. To the north and south are four ten-foot-square alcoves cluttered with rotting cots and dirty rags. The ceilings here are covered with yellow lichen."
 ____
-The yellow lichen is harmless. Beyond the archway to the west is area K70, The staircase (area K70a) that goes up along the east wall leads to area K20.-
+The yellow lichen is harmless. Beyond the archway to the west is area K70, The staircase (area K20a) that goes up along the east wall leads to area K20.
 
 TREASURE
 
-Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cu byhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of [[Strahd]] von Zarovich stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom (Perception) check.
+Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cubbyhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of [[Strahd]] von Zarovich stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom (Perception) check.
 
 K72. CHAMBERLAIN'S OFFICE
-
-This shadowy room is in perfect order. A great table stands here with its chair, inkwell, and quill set carefully in place. Lances, swords, and shields that bear the Baro­ vian crest are hung neatly on the dark, oak-paneled walls.
-
+____
+"This shadowy room is in perfect order. A great table stands here with its chair, inkwell, and quill set carefully in place. Lances, swords, and shields that bear the Barovian crest are hung neatly on the dark, oak-paneled walls."
+____
 If he has not been defeated elsewhere, Rahadin (see appendix D) is here, waiting for the characters to arrive so he can kill them.
 
 A shadow demon also haunts this room. In the round after the characters engage Rahadin, the demon leaps out and attacks the nearest character from behind.  
@@ -153,4 +153,4 @@ The character doesn't notice the demon, unless the character's passive Wisdom (P
 
 A secret door is set into the north end of the west wall.
 
-It can be pulled open to reveal a dusty, web-choked stair­ case of ancient, worn stone (area K79) that descends into darkness.
+It can be pulled open to reveal a dusty, web-choked staircase of ancient, worn stone (area K79) that descends into darkness.
