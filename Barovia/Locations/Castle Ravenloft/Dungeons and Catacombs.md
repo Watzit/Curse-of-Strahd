@@ -46,7 +46,7 @@ Treasure. Scattered across the floor of this cell are 300 pp. The coins have the
 
 K74c. ROTTING CORPSE 
 ____
-Clinging to the bars of this otherwise empty cell is the rotting corpse of a male half-elf dressed in leather armor.
+"Clinging to the bars of this otherwise empty cell is the rotting corpse of a male half-elf dressed in leather armor."
 ____
 This cell is linked to a teleport trap in area K73.
 
