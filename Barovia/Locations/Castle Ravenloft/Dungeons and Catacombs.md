@@ -153,16 +153,16 @@ ____
 The room continues behind the curtain an additional 10 feet to a wall that has a door in its center.
 
 K78. BRAZIER ROOM
-
-This room is thirty feet square, rising to a twenty-foot-tall flat ceiling. A stone brazier burns fiercely in the center of the room, but its tall white flame produces no heat. The rim of the brazier is carved with seven cup-shaped inden­ tations spaced evenly around the circumference. Within each indentation is a spherical stone, twice the diameter of a human eyeball and made of a colored crystal. No two stones are the same color.
+____
+"This room is thirty feet square, rising to a twenty-foot-tall flat ceiling. A stone brazier burns fiercely in the center of the room, but its tall white flame produces no heat. The rim of the brazier is carved with seven cup-shaped indentations spaced evenly around the circumference. Within each indentation is a spherical stone, twice the diameter of a human eyeball and made of a colored crystal. No two stones are the same color.
 
 Overhead, a wood-framed hourglass as tall and wide as a dwarf hangs ten feet above the brazier, suspended from the ceiling by thick iron chains. All the sand is stuck in the upper portion of the hourglass, seemingly unable to run down into the bottom. Written in glowing script on the base of the hourglass is a verse in Common.
 
-Two nine-foot-tall iron statues of knights on horseback, poised to charge with swords drawn, stand in deep al­ coves facing each other. The brazier sits between them.
+Two nine-foot-tall iron statues of knights on horseback, poised to charge with swords drawn, stand in deep alcoves facing each other. The brazier sits between them."
+____
+The two statues are iron golems. Each horse and rider is considered one creature, and they are inseparable. The golems will not leave the room under any circumstances, and they attack only under specific conditions (see the "Development" section that follows).
 
-The two statues are iron golems. Each horse and rider is considered one creature, and they are inseparable. The golems will not leave the room under any circum­ stances, and they attack only under specific conditions (see the "Development" section that follows).
-
-The hourglass has AC 12, 20 hit points, immunity to poison and psychic damage, and vulnerability to thunder damage. If the·hourglass is-reduced to O hif points, its glass shatt!!fS, ·causing the sand within it to fall to the floor. The magic writing on the base of the hourglass reads as follows:
+The hourglass has AC 12, 20 hit points, immunity to poison and psychic damage, and vulnerability to thunder damage. If the hourglass is-reduced to 0 hit points, its glass shatters, causing the sand within it to fall to the floor. The magic writing on the base of the hourglass reads as follows:
 
 Cast a stone into the fire:
 Violet leads to the mountain spire
@@ -173,9 +173,7 @@ Indigo to the master's bride
 Blue to ancient magic's womb
 Yellow to the master's tomb.
 
-The brazier;s flame is magical and sheds no war'mth. A .. successful casting of dispel magic (DC 16) extinguishes. . the fl_ame· for 1 bour. The fire is permanently extin-
-
-. ··-guisnecHf the brazier is destroyed. The brazier.has AC 17, 25 hit points, immunity to poison and psychic damage, and resistance to all other damage.
+The braziers flame is magical and sheds no warmth. A successful casting of dispel magic (DC 16) extinguishes the flame for 1 hour. The fire is permanently extinguished the brazier is destroyed. The brazier.has AC 17, 25 hit points, immunity to poison and psychic damage, and resistance to all other damage.
 The stones set into the brazier's rim are colored red, orange, yellow, green, blue, indigo, and violet, respec­ tively. Tossing one into the brazier causes its flame to change from white to the color of the stone, and the sand begins falling through the hourglass. Any creature that touches the colored flame is teleported to a location within [[Strahd]]'s domain, as determined by the color:
 
 Flame Color
