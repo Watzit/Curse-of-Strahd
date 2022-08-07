@@ -136,15 +136,11 @@ K71. KINGSMEN QUARTERS
 ____
 "This dark passage runs for twenty feet, connecting an archway to the west with an ascending stone staircase to the east. To the north and south are four ten-foot-square alcoves cluttered with rotting cots and dirty rags. The ceilings here are covered with yellow lichen."
 ____
-The yellow lichens. harmless Beyondthearchwayto
-
-the west is area E:'7.0, The'�taircase (area_K20a) that
-
-goes up along'the'e. astwaUle_ adsto area.K20.-
+The yellow lichen is harmless. Beyond the archway to the west is area K70, The staircase (area K70a) that goes up along the east wall leads to area K20.-
 
 TREASURE
 
-Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cub­ byhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of [[Strahd]] von Zarovich stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom (Perception) check.
+Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cu byhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of [[Strahd]] von Zarovich stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom (Perception) check.
 
 K72. CHAMBERLAIN'S OFFICE
 
