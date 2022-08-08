@@ -266,15 +266,15 @@ The catacombs fill an area roughly 110 feet east to west by 180 feet north to so
 
 - A barred archway to the south (connecting with area K86 but warded by teleport traps)
 
-- The high towerstair(areaK18)ortheshaft(area K18a) to the west
+- The high tower stair (areaK18) or the shaft(area K18a) to the west
 
-, Abarredarchwaytotheeast(connecting with area K87)
+- A barred archway to the east (connecting with area K87)
 
-Each crypt is sealed with a chiseled stone "door"-ac­ tually a tight-fitting stone slab measuring 3 feet wide, 5 feet tall, and 3 inches thick. Removing or resetting a stone slab requires an action and a successful DC 15 Strength check.
+Each crypt is sealed with a chiseled stone "door"-actually a tight-fitting stone slab measuring 3 feet wide, 5 feet tall, and 3 inches thick. Removing or resetting a stone slab requires an action and a successful DC 15 Strength check.
 
-Each crypt houses the remains of the person or per­ sons whose epitaph is inscribed on the front of the slab. The crypts are described in the following sections, their epitaphs noted under the crypt's number in italics.
+Each crypt houses the remains of the person or persons whose epitaph is inscribed on the front of the slab. The crypts are described in the following sections, their epitaphs noted under the crypt's number in italics.
 
-Unless noted otherwise, each crypt contains a 3-foot­ by-6-foot rectangular bier of marble, 3 feet high, with a skeleton draped in rags lying atop it.
+Unless noted otherwise, each crypt contains a 3-foot by-6-foot rectangular bier of marble, 3 feet high, with a skeleton draped in rags lying atop it.
 
 The catacombs are home to tens of thousands of bats.
 
@@ -282,7 +282,7 @@ The bats hang here during daytime hours and fly out in the evening through the h
 
 TELEPORT TRAPS
 
-Invisible teleport traps are lo.cated between crypts 37 and 38, .between crypt 3� and the wall south of it, and · between crypt 38 and the wa!Lsciuth of it. The. traps can'tbeperceiveqexcepf�it1{�f}a¢;cfpiagic'spell, whtih.i:ey_�13ii,ran',a1,1ra of cd�}ur�tlonr· iiagic in the trapped areas. Although the traps can't be disarmed, a successful casting of dispel magic (DC 16) on a trap sup­ presses its magic for 1 minute, allowing characters to move safely through its area. A trap is also suppressed while wholly or partly in the area of an antimagic field.
+Invisible teleport traps are located between crypts 37 and 38, .between crypt 3� and the wall south of it, and · between crypt 38 and the wa!Lsciuth of it. The. traps can'tbeperceiveqexcepf�it1{�f}a¢;cfpiagic'spell, whtih.i:ey_�13ii,ran',a1,1ra of cd�}ur�tlonr· iiagic in the trapped areas. Although the traps can't be disarmed, a successful casting of dispel magic (DC 16) on a trap sup­ presses its magic for 1 minute, allowing characters to move safely through its area. A trap is also suppressed while wholly or partly in the area of an antimagic field.
 
 These teleport traps form a protective ring around the entrance to [[Strahd]]'s tomb (area K86). Any creature that enters one of these 10-foot-square spaces is instantly teleported away, switching places with one of the wights in crypt 14. The wight materializes in the creature's pre­ vious location and attacks any living creature it sees.
 
