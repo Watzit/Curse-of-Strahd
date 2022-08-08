@@ -376,7 +376,7 @@ Treasure. If the characters explore this crypt after summoning the ghost of Pidl
 Crypt 10
 Sir Leonid Krushkin (Sir Lee the Crusher): Bigger than life, he loved his jewelry
 ____
-An oversized skeleton draped in jewelry and rags lies atop an elongated marble slab in the center of the crypt. Leaning against the slab is a bloodstained maul strung with cobwebs.
+"An oversized skeleton draped in jewelry and rags lies atop an elongated marble slab in the center of the crypt. Leaning against the slab is a bloodstained maul strung with cobwebs."
 ____
 Sir Lee stood well over seven feet tall. His maul might give the characters pause, but it is harmless and nonmagical.
 
@@ -385,16 +385,16 @@ Three jeweled necklaces (worth 750 gp each) are lying across Sir Lee's skeleton.
 
 CRYPT 11
 
-Tasha Petrovna - Healer ofKings, Light unto the West, Servant, Companion
-
-A skeleton wearing tattered priestly vestments lies atop a marble slab in the center of the crypt. The domed ceiling overhead is painted with a glorious sun mural.
-
+Tasha Petrovna - Healer of Kings, Light unto the West, Servant, Companion
+____
+"A skeleton wearing tattered priestly vestments lies atop a marble slab in the center of the crypt. The domed ceiling overhead is painted with a glorious sun mural."
+____
 Creatures that would take damage from exposure to sunlight (such as vampires) have disadvantage on all ability checks, attack rolls, and saving throws while inside this crypt.
 
 **Treasure**. Draped around the neck of the skeleton is a sun-shaped holy symbol (worth 25 gp). A good-aligned character who picks up the holy symbol hears a ghostly female voice. It whispers the following message
-
+____
 "There is a grave to the west, with roses that never die, in a place built by healers, in a village called [[Krezk]]. When all turns to darkness, touch this holy symbol to the grave to summon the light and find a treasure long lost."
-
+____
 The message refers to a gravestone in the [[Abbey of Saint Markovia]]
 
 CRYPT 12
