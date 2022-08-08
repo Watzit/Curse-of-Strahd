@@ -523,9 +523,9 @@ Development. If she is restored to life by her brother (see "Kasimir's Dark Gift
 CRYPT 22
 
 Sir Erik Vonderbucks
-
+___
 "A gilded man lies atop a marble slab in the center of this otherwise barren crypt."
-
+___
 Sir Erik Vonderbucks was a wealthy noble whose dying wish was to have his corpse dipped in molten gold.
 
 Treasure. The thin layer of gold, if peeled from Sir Erik's desiccated corpse, is worth 500 gp.
@@ -537,7 +537,7 @@ The first time the characters happen upon this crypt, they see one of their name
 CRYPT 24
 Ivan lvliskovich, Champion of Winter Dog Racing: The race may go to the swift, but vengeance is for the loser's relatives
 
-A skeleton draped in bits of fur lies atop a marble slab in the center of the crypt. The walls and ceiling are covered with plaster painted to make the crypt seem as if it stands in an evergreen forest, surrounded by snow. The plaster has peeled and fallen away in many places, shat- tering the illusion.
+A skeleton draped in bits of fur lies atop a marble slab in the center of the crypt. The walls and ceiling are covered with plaster painted to make the crypt seem as if it stands in an evergreen forest, surrounded by snow. The plaster has peeled and fallen away in many places, shattering the illusion.
 
 This crypt contains nothing of interest
 
