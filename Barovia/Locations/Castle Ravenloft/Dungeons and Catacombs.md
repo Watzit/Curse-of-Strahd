@@ -609,9 +609,10 @@ If your card reading reveals that a treasure is here, it is lying next to the sk
 CRYPT 32
 
 The door to this crypt has no name or epitaph on it.
-
-This crypt is empty except for two alcoves in the back wall. Above the alcoves are carved the following words: PASS Nor THESE PORTALS YE FOOLISH MORTALS
-
+____
+"This crypt is empty except for two alcoves in the back wall. Above the alcoves are carved the following words: 
+PASS NOT THESE PORTALS YE FOOLISH MORTALS"
+____
 A detect magic spell reveals that both alcoves radiate strong auras of conjuration magic.
 
 Creatures that enter the eastern alcove of this crypt are teleported to the eastern alcove of [[Strahd]]'s tomb (area K86). Stepping into the western alcove of this crypt has no effect, but any creature that teleports from the western alcove of area K86 appears here.
