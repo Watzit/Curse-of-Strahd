@@ -461,22 +461,22 @@ Any creature that stands inside the crypt and boldly speaks the name "Khazan" ca
 
 CRYPT 16  
 Elsa Fallona von Twitterberg (Beloved Actor): She had many followers
-
-A skeleton draped in rags lies atop a marble slab in the· center of the crypt. Nine shallow alcoves are carved into the surrounding walls. The back wall of each alcove is painted with a full-body image of a handsome man. Some of the men wear fine clothes; others wear armor. At the feet of each painting rests a skull atop a pile of bones.
-
+_____
+"A skeleton draped in rags lies atop a marble slab in the· center of the crypt. Nine shallow alcoves are carved into the surrounding walls. The back wall of each alcove is painted with a full-body image of a handsome man. Some of the men wear fine clothes; others wear armor. At the feet of each painting rests a skull atop a pile of bones."
+_____
 The bones in the niches belong to Elsa's nine consorts. There is nothing of value here.
 
 CRYPT 17
 
 Sir Sedrik Spinwitovich (Admiral Spinwitovich): Con­ fused though he was, he built the greatest naval force ever assembled in a landlocked country
-
+____
 "An eleven-foot-long funeral barge dominates this crypt, wedged diagonally into the available space. Lying in the boat is a skeleton draped in rags, with hundreds of gold coins piled around it."
-
-The coins are made of clay painted gold and are worth­ less. The funeral barge, whi�h was assembled inside the crypt, is too big to fit through the door.
+____
+The coins are made of clay painted gold and are worthless. The funeral barge, which was assembled inside the crypt, is too big to fit through the door.
 
 CRYPT 18
 
-The stone door of this crypt has been carefully laid to one side. Through the swirly �ists of the perpetual fog, freshlyengravedlettersspelloutthewords"[[Ireena]] Kolyana: Wife." · ·
+The stone door of this crypt has been carefully laid to one side. Through the swirly mists of the perpetual fog, freshly engraved letters spell out the words "[[Ireena]] Kolyana: Wife."
 
 The crypt is empty and has �een swept clean. This is where [[Strahd]] intends to keep [[Ireena]] once he turns her into a vampire spawn
 
