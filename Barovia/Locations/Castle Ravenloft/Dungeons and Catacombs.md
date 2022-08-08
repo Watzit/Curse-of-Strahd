@@ -256,7 +256,7 @@ The tapestry depicts [[Strahd]]'s father, King Barov, leading his fearsome knigh
 
 K84. CATACOMBS
 _____
-Buried deep beneath the �eep of Ravenloft lie ancient catacombs, with arched ceilings supported by wide, hol­ low columns that double as crypts. Cobwebs hang limp in the musty air. A thick fog clings to the Acor, which is covered in putrid waste. The black ceiling is moving.
+"Buried deep beneath the keep of Ravenloft lie ancient catacombs, with arched ceilings supported by wide, hollow columns that double as crypts. Cobwebs hang limp in the musty air. A thick fog clings to the floor, which is covered in putrid waste. The black ceiling is moving."
 _____
 The catacombs fill an area roughly 110 feet east to west by 180 feet north to south, and the floor is covered in several inches of bat guano. The catacombs are made up of 10-foot-wide arched walkways running between 10-foot-square crypts, which serve as pillars that sup­ port the 20-foot-high ceiling. The area has five means of entry and exit:
 
