@@ -427,21 +427,21 @@ CRYPT 14
 
 Stahbal Indi-Bhak: A truer friend no ruler ever had. Here lies his family in honor.
 
-If the characters open the door to this crypt, read: I
-
-A ten-foot-square shaft plunges into darkness. The sound of slowly dripping water echoes up the shaft.
-
-Characters who have darkvision or a sufficient light source can see that the shaft descends 40 feet to some kind of vault deep in the [[Pillarstone of Ravenloft]]. Stones protrude from the shaft at regular intervals, offering handholds and footholds. The stones are slippery, how­ ever, so a character who tries to scale the wall without the aid of magic or the use of a climber's kit must make a successful DC 10 Strength (Athletics) check.
+If the characters open the door to this crypt, read:
+____
+"A ten-foot-square shaft plunges into darkness. The sound of slowly dripping water echoes up the shaft."
+____
+Characters who have darkvision or a sufficient light source can see that the shaft descends 40 feet to some kind of vault deep in the [[Pillarstone of Ravenloft]]. Stones protrude from the shaft at regular intervals, offering handholds and footholds. The stones are slippery, however, so a character who tries to scale the wall without the aid of magic or the use of a climber's kit must make a successful DC 10 Strength (Athletics) check.
 
 Vault. When the characters reach the bottom of the shaft, read:
-
-At the bottom of the shaft is a dank vault with a ten-foot­ high ceiling. The room is awkwardly shaped and smells of rotten meat. Fifteen stone coffins are scattered through­ out the vault, all oriented with their heads pointed north. The floor is covered with human bones and rusty swords.
-
+____
+"At the bottom of the shaft is a dank vault with a ten-foot high ceiling. The room is awkwardly shaped and smells of rotten meat. Fifteen stone coffins are scattered throughout the vault, all oriented with their heads pointed north. The floor is covered with human bones and rusty swords."
+____
 If a character teleports into a coffin from one of the tele, port traps that protect [[Strahd]]'s tomb (area K86), read the following to that character's player:
-
-A flash of light explodes around you, and then you are plunged into absolute darkness, suddenly lying in a con­ fined space choked with dust.
-
-This vault contains fifteen wights (one per coffin), minus any that have been teleported away (see "Tele­ port Traps" at the start of this section). Lifting a cof­ fin's lid requires an action and a successful DC 15 Strength check.
+____
+"A flash of light explodes around you, and then you are plunged into absolute darkness, suddenly lying in a confined space choked with dust."
+____
+This vault contains fifteen wights (one per coffin), minus any that have been teleported away (see "Teleport Traps" at the start of this section). Lifting a cof fin's lid requires an action and a successful DC 15 Strength check.
 
 Each wight remains inactive until it is teleported away or until its coffin is opened, whereupon it attacks.
 
