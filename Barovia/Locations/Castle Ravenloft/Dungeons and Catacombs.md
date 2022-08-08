@@ -287,9 +287,9 @@ Invisible teleport traps are located between crypts 37 and 38, between crypt 37 
 These teleport traps form a protective ring around the entrance to [[Strahd]]'s tomb (area K86). Any creature that enters one of these 10-foot-square spaces is instantly teleported away, switching places with one of the wights in crypt 14. The wight materializes in the creature's previous location and attacks any living creature it sees.
 
 CRYPT 1
-
-Herein lie the ones who walk the path ofpain and torment
-
+____
+"Herein lie the ones who walk the path of pain and torment"
+____
 The stone door connects not with a crypt, but with a hewn tunnel of stone (area K81).
 
 CRYPT2
