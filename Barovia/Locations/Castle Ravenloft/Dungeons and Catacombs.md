@@ -547,7 +547,7 @@ Stefan Gregorovich: First Counselor to King Barov van Zarovich
 ___
 "A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished."
 ___
-A detect magic spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well in­ formed. If the skull is questioned about [[Strahd]] or [[Castle Ravenloft]], all the information it provides is untrue.
+A detect magic spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well informed. If the skull is questioned about [[Strahd]] or [[Castle Ravenloft]], all the information it provides is untrue.
 
 CRYPT 26
 
@@ -555,20 +555,20 @@ Intree Sik-Valoo: He spurned wealth for the knowledge he could take to heaven
 _____
 "A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished."
 _____
-A detect magic spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about [[Strahd]] or the castle, the information it provides is true.
+A detect magic spell cast here reveals that Intree's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about [[Strahd]] or the castle, the information it provides is true.
 
 CRYPT 27
-
+___
 "This crypt is missing its door."
-
+___
 Three giant wolf spiders infest this otherwise empty crypt. The spiders make no noise and leap out to attack anyone who moves in front of the crypt's gap- ing doorway.
 
 CRYPT 28.  
 Bascal Ofenheiss - Chef Deluxe
-
+____
 "A skeleton draped in white linen lies atop a marble slab in the center of the crypt, clutching a bell to its sunken chest. Fitted over its skull is a tall chef's hat."
-
-If the beII is rung insidet4e c}yp/�agic fire sweeps through th�· crypt to search Chef Ofenheiss's bones. A c(eatμre iv. .the.cryptmust make a DC 17 Dexterity sav- · ing throw, taking 2i (4d10) fire damage on a failed save, br h�lf·�arrn1ge .9n a successful one. Any creature that fails its save catches fire, taking 5 (ldlO) fire damage at the end of each of its turns until it or another creature uses an action to douse the flames.
+____
+If the beII is rung inside the crypt magic fire sweeps through th�· crypt to search Chef Ofenheiss's bones. A c(eatμre iv. .the.cryptmust make a DC 17 Dexterity sav- · ing throw, taking 2i (4d10) fire damage on a failed save, br h�lf·�arrn1ge .9n a successful one. Any creature that fails its save catches fire, taking 5 (ldlO) fire damage at the end of each of its turns until it or another creature uses an action to douse the flames.
 
 Treasure. Tucked under the chef's hat is an electrum spork with a bejeweled handle (worth 250 gp).
 
