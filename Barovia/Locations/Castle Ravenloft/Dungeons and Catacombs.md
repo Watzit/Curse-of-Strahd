@@ -568,7 +568,7 @@ Bascal Ofenheiss - Chef Deluxe
 ____
 "A skeleton draped in white linen lies atop a marble slab in the center of the crypt, clutching a bell to its sunken chest. Fitted over its skull is a tall chef's hat."
 ____
-If the beII is rung inside the crypt magic fire sweeps through the crypt to search Chef Ofenheiss's bones. A c(eatμre iv. .the.cryptmust make a DC 17 Dexterity sav- · ing throw, taking 2i (4d10) fire damage on a failed save, br h�lf·�arrn1ge .9n a successful one. Any creature that fails its save catches fire, taking 5 (ldlO) fire damage at the end of each of its turns until it or another creature uses an action to douse the flames.
+If the beII is rung inside the crypt magic fire sweeps through the crypt to search Chef Ofenheiss's bones. A creature in the crypt must make a DC 17 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half damage on a successful one. Any creature that fails its save catches fire, taking 5 (ldlO) fire damage at the end of each of its turns until it or another creature uses an action to douse the flames.
 
 Treasure. Tucked under the chef's hat is an electrum spork with a bejeweled handle (worth 250 gp).
 
