@@ -369,7 +369,7 @@ Pidlwick - Fool of Dorfniya
 ____
 "A small skeleton wearing the remains of a fool's costume lies atop a stumpy marble slab in the center of the crypt."
 ____
-If Pidlwick II (see area K59) is with the party, it refuses to enter the crypt. slab in this crypt is 4 feet long (in- stead of the usua· 1 ,6 feitJ�ng/'rhe bones atop the slab belong to the fool sen:ant _of Duc. hess Dorfniya Dilisnya (see crypt 8).
+If Pidlwick II (see area K59) is with the party, it refuses to enter the crypt. The slab in this crypt is 4 feet long (instead of the usual 6 feet long) The bones atop the slab belong to the fool sen:ant _of Duc. hess Dorfniya Dilisnya (see crypt 8).
 
 Treasure. If the characters explore this crypt after summoning the ghost of Pidlwick in area K36, they find a small, flat wooden box on the marble slab next to Pidlwick's bones. The box contains a full deck of illusions.
 
