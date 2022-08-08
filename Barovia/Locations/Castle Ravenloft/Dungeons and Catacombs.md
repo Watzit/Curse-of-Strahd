@@ -316,11 +316,11 @@ ____
 Prince Ariel was a terrible man who longed to fly. He attached artificial wings to a harness and empowered the device with magic, but the apparatus still couldn't bear his weight, and he plunged from the [[Pillarstone of Ravenloft]] to his death. His evil ghost attacks the characters on sight. If Ariel succeeds in possessing a character, his host climbs the high tower (area K18) until it reaches the peak (area K59), then hurls itself down the tower's central shaft (area K18a), screaming, "I can fly!" the whole way down.
 
 CRYPT 5
-
+_____
 Artank Swilovich: Friend and member ofthe Barovian Wine Distillers Guild
 
-You are greeted by the faint smell of wine. A skeleton draped in rags lies atop a marble slab in the center of the crypt. Heaped around it, covering the entire floor, are thousands of empty wine bottles.
-
+"You are greeted by the faint smell of wine. A skeleton draped in rags lies atop a marble slab in the center of the crypt. Heaped around it, covering the entire floor, are thousands of empty wine bottles."
+_____
 Each bottle's label shows that it is from [[the Wizard of Wines]] winery, and the label names the wine inside: Champagne du le Stomp, Red Dragon Crush, or Purple Grapemash No. 3.
 
 FORTUNES OF RAVENLOFT
@@ -331,7 +331,7 @@ CRYPT 6
 
 Saint Markovia: Dead for all time
 
-The 10-foot-square section of floor in front of this crypt is a pressure plate that releases four poison darts hid­ den in tiny holes in the north wall. (See "Sample Traps" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide for the rules on how this trap functions.) The trap resets when the weight is lifted and can be triggered a total of four times before its supply of darts is depleted.
+The 10-foot-square section of floor in front of this crypt is a pressure plate that releases four poison darts hid den in tiny holes in the north wall. (See "Sample Traps" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide for the rules on how this trap functions.) The trap resets when the weight is lifted and can be triggered a total of four times before its supply of darts is depleted.
 
 If the door to the crypt is opened, read:
 
