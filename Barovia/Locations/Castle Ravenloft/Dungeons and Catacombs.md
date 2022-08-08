@@ -399,21 +399,21 @@ The message refers to a gravestone in the [[Abbey of Saint Markovia]]
 
 CRYPT 12
 King Troisky - The Three Faced King
-
+____
 "There are no bones atop the marble slab in this crypt, only a steel helm with a visor shaped line an angry face."
-
+____
 The helm has three evenly spaced visors crafted to look like human faces - one sad, one happy, and one angry. Only the angry visage is visible from the crypt's doorway. King Troisky wore this three helm in battle, earning him the moniker of Three-Faced King. The helm is nonmagical and weighs 10 pounds.
 
-The slab upon which the helm rests is weight-sensi­ tive. If the helm is removed from the slab without 10 pounds of weight immediately being added, poisonous gas pours out of the slab's hollow interior and fills the crypt. A character who searches the slab for traps and succeeds on a DC 12 Wisdom (Perception) check spots tiny holes bored into the slab's marble base. It's from these holes that the gas spews forth.
+The slab upon which the helm rests is weight-sensitive. If the helm is removed from the slab without 10 pounds of weight immediately being added, poisonous gas pours out of the slab's hollow interior and fills the crypt. A character who searches the slab for traps and succeeds on a DC 12 Wisdom (Perception) check spots tiny holes bored into the slab's marble base. It's from these holes that the gas spews forth.
 
 A creature in the crypt when the gas is released must make a DC 14 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
 CRYPT 13
 
 King Katsky (Katsky the Bright): Ruler, inventor, and self-proclaimed time traveler
-
-A skeleton draped in rags lies atop a marble slab in the center of the crypt. Lying amid the bones is a stoppered drinking horn, a fat pouch, and a weird-looking scepter made of metal and wood. Above the bones, hanging from the domed ceiling by wires, is a wooden flying contraption that looks like a set of folding dragon wings fitted with leather straps, metal buckles, and taut leather wing flaps.
-
+____
+"A skeleton draped in rags lies atop a marble slab in the center of the crypt. Lying amid the bones is a stoppered drinking horn, a fat pouch, and a weird-looking scepter made of metal and wood. Above the bones, hanging from the domed ceiling by wires, is a wooden flying contraption that looks like a set of folding dragon wings fitted with leather straps, metal buckles, and taut leather wing flaps."
+____
 The stoppered drinking horn is a water-resistant pow­ der horn loaded with gunpowder, and the "weird-looking scepter" is a musket. The fat pouch contains 20 silver marbles (silvered bullets for the musket). For more information on firearms and explosives, see chapter 9, "Dungeon Master's Workshop," of the Dungeon Mas­ ter's Guide.
 
 Glider. Any Small or Medium humanoid can wear the dragon-wing glider. (It takes 1 minute to don or doff the glider.) It can't support more than 80 pounds, although the amount of weight it can carry is not evident. A char­ acter who inspects the glider in an attempt to discern its maximum weight allowance can do so accurately with a successful DC 15 Intelligence check.
