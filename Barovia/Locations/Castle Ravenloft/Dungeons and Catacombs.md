@@ -595,9 +595,9 @@ Treasure. The prefect's gold holy symbol is festooned with tiny gemstones and is
 
 CRYPT 31 
 We knew him only by his wealth
-
-This crypt is empty. Its walls are painted to depict moun­ tains of gold coins.
-
+____
+"This crypt is empty. Its walls are painted to depict moun­ tains of gold coins."
+____
 The floor of the crypt is actually the cover of a 30-foot­ deep spiked pit. The cover opens if 100 pounds of weight or more are placed on it. It splits down the mid­ dle, east to west, and its doors are spring-loaded. After  
 a victim or victims fall into the pit, its doors snap shut. (See "Sample Traps" in chapter 5, "Adventure Environ­ ments," of the Dungeon Master's Guide for the rules on locking pits and spiked pits.) The spikes at the bottom of the pit are made of iron but aren't poisoned.
 
