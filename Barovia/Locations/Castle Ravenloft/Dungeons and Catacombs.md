@@ -246,7 +246,7 @@ K83A. SPIRAL STAIR LANDING
 
 An extension of area K83, this landing is shown on map 11.
 ____
-"This forty-foot-long corridor connects two spiral stairways, one leading up and the other descending into the depths of [[Castle Ravenloft]]. Hanging from an iron rod bolted to the eastern wall is a dusty, ten-foot-square tapestry depicting knights on horseback charging across a battlefield under a bloodred sky. The lead knight rides a black horse and wears a fur-lined black cloak, dark gray armor, and a visored helm shaped like a wolf's head. His sword glows with the light of the sun."
+"This forty-foot-long corridor connects two spiral stairways, one leading up and the other descending into the depths of [[Castle Ravenloft]]. Hanging from an iron rod bolted to the eastern wall is a dusty, ten-foot-square tapestry depicting knights on horseback charging across a battlefield under a blood red sky. The lead knight rides a black horse and wears a fur-lined black cloak, dark gray armor, and a visored helm shaped like a wolf's head. His sword glows with the light of the sun."
 ____
 The stairs at the nor.th end of the west wall descends to a door leading to area K78. The stairs at the south end of the west wall lead up, ending at door that opens into area K37.
 
