@@ -544,18 +544,18 @@ This crypt contains nothing of interest
 CRYPT 25
 
 Stefan Gregorovich: First Counselor to King Barov van Zarovich
-
+___
 "A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished."
-
+___
 A detect magic spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well in­ formed. If the skull is questioned about [[Strahd]] or [[Castle Ravenloft]], all the information it provides is untrue.
 
 CRYPT 26
 
 Intree Sik-Valoo: He spurned wealth for the knowledge he could take to heaven
-
-A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished.
-
-A detect magic spell cast here reveals that Intree's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about [[Strahd]] or the castle, the information it provides is true.
+_____
+"A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished."
+_____
+A detect magic spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about [[Strahd]] or the castle, the information it provides is true.
 
 CRYPT 27
 
