@@ -293,12 +293,11 @@ ____
 The stone door connects not with a crypt, but with a hewn tunnel of stone (area K81).
 
 CRYPT2
-
+____
 Artista DeSlop - Court Ceiling Painter  
-The domed ceiling of this crypt is painted with an image
 
-of imps holding bouquets of colorful flowers. A skeleton draped in rags lies atop a marble slab in the center of the crypt. A wooden box is tucked under one bony hand.
-
+"The domed ceiling of this crypt is painted with an image of imps holding bouquets of colorful flowers. A skeleton draped in rags lies atop a marble slab in the center of the crypt. A wooden box is tucked under one bony hand."
+____
 The box is unlocked. It contains seven wood-handled paintbrushes and seven small gourds of dried-up paint.
 
 CRYPT 3  
