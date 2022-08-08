@@ -258,15 +258,15 @@ K84. CATACOMBS
 _____
 "Buried deep beneath the keep of Ravenloft lie ancient catacombs, with arched ceilings supported by wide, hollow columns that double as crypts. Cobwebs hang limp in the musty air. A thick fog clings to the floor, which is covered in putrid waste. The black ceiling is moving."
 _____
-The catacombs fill an area roughly 110 feet east to west by 180 feet north to south, and the floor is covered in several inches of bat guano. The catacombs are made up of 10-foot-wide arched walkways running between 10-foot-square crypts, which serve as pillars that sup­ port the 20-foot-high ceiling. The area has five means of entry and exit:
+The catacombs fill an area roughly 110 feet east to west by 180 feet north to south, and the floor is covered in several inches of bat guano. The catacombs are made up of 10-foot-wide arched walkways running between 10-foot-square crypts, which serve as pillars that support the 20-foot-high ceiling. The area has five means of entry and exit:
 
-Thedooradjacenttocrypt1(connecting with area K81)
+- The door adjacent to crypt 1 (connecting with area K81)
 
-, Abarredarchwaytothenorth(connecting with area K85)
+- A barred archway to the north (connecting with area K85)
 
-A barred archway to the south (connecting with area K86 but warded by teleport traps)
+- A barred archway to the south (connecting with area K86 but warded by teleport traps)
 
-• Thehightowerstair(areaK18)ortheshaft(area K18a) to the west
+- The high towerstair(areaK18)ortheshaft(area K18a) to the west
 
 , Abarredarchwaytotheeast(connecting with area K87)
 
