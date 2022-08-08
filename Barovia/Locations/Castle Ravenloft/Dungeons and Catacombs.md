@@ -441,11 +441,11 @@ If a character teleports into a coffin from one of the tele, port traps that pro
 ____
 "A flash of light explodes around you, and then you are plunged into absolute darkness, suddenly lying in a confined space choked with dust."
 ____
-This vault contains fifteen wights (one per coffin), minus any that have been teleported away (see "Teleport Traps" at the start of this section). Lifting a cof fin's lid requires an action and a successful DC 15 Strength check.
+This vault contains fifteen wights (one per coffin), minus any that have been teleported away (see "Teleport Traps" at the start of this section). Lifting a coffin's lid requires an action and a successful DC 15 Strength check.
 
 Each wight remains inactive until it is teleported away or until its coffin is opened, whereupon it attacks.
 
-The bones and rusty swords cover the floor to a depth of 6 inches, and are the remains of ser.vants who swore to avenge Stahbal Indi-B'1ak's family. Wh�never a wight is killed in this vault, some of the bones knit together, forming 2d6 animated human skeieforis. These skel­ etons attack intruders on s,ight but h·aye no ranged at­ tacks. There are enough·bones and sw:ords in the·r· oom for one hundred skeletons tb for' rti in this,tnanner.
+The bones and rusty swords cover the floor to a depth of 6 inches, and are the remains of servants who swore to avenge Stahbal Indi-Bhak's family. Whenever a wight is killed in this vault, some of the bones knit together, forming 2d6 animated human skeletons. These skeletons attack intruders on sight but have no ranged attacks. There are enough bones and swords in the room for one hundred skeletons tb for' rti in this,tnanner.
 
 CRYPT 15
 
