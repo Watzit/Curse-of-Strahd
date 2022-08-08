@@ -478,27 +478,26 @@ CRYPT 18
 
 The stone door of this crypt has been carefully laid to one side. Through the swirly mists of the perpetual fog, freshly engraved letters spell out the words "[[Ireena]] Kolyana: Wife."
 
-The crypt is empty and has �een swept clean. This is where [[Strahd]] intends to keep [[Ireena]] once he turns her into a vampire spawn
+The crypt is empty and has been swept clean. This is where [[Strahd]] intends to keep [[Ireena]] once he turns her into a vampire spawn
 
 CRYPT 19  
 Artimus (Builder of the Keep): T hou standest amidst the monument to his life
-
-A skeleton draped in rags lies atop a marble slab in the  
-l centerofthecrypt. ]
-
+_____
+"A skeleton draped in rags lies atop a marble slab in the center of the crypt. "
+_____
 This crypt contains nothing of interest.
 
 CRYPT 20
 
 Sasha Jvliskova - Wife
-
+_____
 "Webs as thick and pale as linen cover a shapely female form lying atop a marble slab in the center of this dusty, web-filled crypt. You hear a voice issue from the darkness.
 
 "My love, have you come to set me free?"
 
 The woman rises, the shroud of webs clinging to her in a ghastly fashion."
-
-This vampire spawn is an old wife of [[Strahd]]'s. Once she realizes that the characters aren't her husband, Sa­ sha tears away her web shroud like an _unloved wedding dress and attacks.
+_____
+This vampire spawn is an old wife of [[Strahd]]'s. Once she realizes that the characters aren't her husband, Sasha tears away her web shroud like an unloved wedding dress and attacks.
 
 CRYPT 21  
 Patrina Velikovna - Bride
