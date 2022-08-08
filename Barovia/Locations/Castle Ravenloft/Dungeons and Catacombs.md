@@ -335,11 +335,11 @@ The 10-foot-square section of floor in front of this crypt is a pressure plate t
 
 If the door to the crypt is opened, read:
 ____
-""This crypt smells of roses. The remains atop its marble slab have disintegrated, except for one thighbone.""
+"This crypt smells of roses. The remains atop its marble slab have disintegrated, except for one thighbone."
 ____
 If the characters disturb Saint Markovia's remains, add: 
 ____
-A ghostly form appears above the dust, so faint that you can barely discern more than part of a face. From this apparition comes the faintest of whispers: "The vampire must be destroyed. Use me as your weapon." With that, it fades away.""
+"A ghostly form appears above the dust, so faint that you can barely discern more than part of a face. From this apparition comes the faintest of whispers: "The vampire must be destroyed. Use me as your weapon." With that, it fades away."
 ____
 Treasure
 A detect magic spell reveals that the thighbone radiates an aura of evocation magic. See appendix C for more information on Saint Markovia's thighbone.
@@ -359,19 +359,15 @@ If your card reading reveals that a treasure is here, it is contained in a secre
 CRYPT 8
 
 Duchess Dorfniya Dilisnya
-
-A skeleton draped in rags lies atop a marble slab in the center of the crypt. Hanging on the back wall is a hand­ some quilt that depicts a royal feast.
-
+_____
+"A skeleton draped in rags lies atop a marble slab in the center of the crypt. Hanging on the back wall is a handsome quilt that depicts a royal feast."
+_____
 The quilt is magically preserved but not valuable.
 
 CRYPT 9
 Pidlwick - Fool of Dorfniya
 
-A small skeleton wearing the remains of a fool's costume
-
-lies atop a stumpy marble slab in the center of the crypt.
-
-to enter the crypt. .Tlie slab in this crypt is 4 feet long (in- stead of the usua· 1 ,6 feitJ�ng/'rhe bones atop the slab belong to the fool sen:ant _of Duc. hess Dorfniya Dilisnya (see crypt 8).
+A small skeleton wearing the remains of a fool's costume lies atop a stumpy marble slab in the center of the crypt. to enter the crypt. .Tlie slab in this crypt is 4 feet long (in- stead of the usua· 1 ,6 feitJ�ng/'rhe bones atop the slab belong to the fool sen:ant _of Duc. hess Dorfniya Dilisnya (see crypt 8).
 
 Treasure. If the characters explore this crypt after summoning the ghost of Pidlwick in area K36, they find a small, flat wooden box on the marble slab next to Pidlwick's bones. The box contains a full deck of illusions.
 
