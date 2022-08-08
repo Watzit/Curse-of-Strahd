@@ -282,7 +282,7 @@ The bats hang here during daytime hours and fly out in the evening through the h
 
 TELEPORT TRAPS
 
-Invisible teleport traps are located between crypts 37 and 38, between crypt 37 and the wall south of it, and between crypt 38 and the wall south of it. The traps can't be perceived qexcepf�it1{�f}a¢;cfpiagic'spell, whtih.i:ey_�13ii,ran',a1,1ra of cd�}ur�tlonr· iiagic in the trapped areas. Although the traps can't be disarmed, a successful casting of dispel magic (DC 16) on a trap sup­ presses its magic for 1 minute, allowing characters to move safely through its area. A trap is also suppressed while wholly or partly in the area of an antimagic field.
+Invisible teleport traps are located between crypts 37 and 38, between crypt 37 and the wall south of it, and between crypt 38 and the wall south of it. The traps can't be perceived except with a detect magic spell, which reveals of cd�}ur�tlonr· iiagic in the trapped areas. Although the traps can't be disarmed, a successful casting of dispel magic (DC 16) on a trap sup­ presses its magic for 1 minute, allowing characters to move safely through its area. A trap is also suppressed while wholly or partly in the area of an antimagic field.
 
 These teleport traps form a protective ring around the entrance to [[Strahd]]'s tomb (area K86). Any creature that enters one of these 10-foot-square spaces is instantly teleported away, switching places with one of the wights in crypt 14. The wight materializes in the creature's pre­ vious location and attacks any living creature it sees.
 
