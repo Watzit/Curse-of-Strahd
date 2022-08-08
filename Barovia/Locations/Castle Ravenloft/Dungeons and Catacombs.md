@@ -445,14 +445,14 @@ This vault contains fifteen wights (one per coffin), minus any that have been te
 
 Each wight remains inactive until it is teleported away or until its coffin is opened, whereupon it attacks.
 
-The bones and rusty swords cover the floor to a depth of 6 inches, and are the remains of servants who swore to avenge Stahbal Indi-Bhak's family. Whenever a wight is killed in this vault, some of the bones knit together, forming 2d6 animated human skeletons. These skeletons attack intruders on sight but have no ranged attacks. There are enough bones and swords in the room for one hundred skeletons tb for' rti in this,tnanner.
+The bones and rusty swords cover the floor to a depth of 6 inches, and are the remains of servants who swore to avenge Stahbal Indi-Bhak's family. Whenever a wight is killed in this vault, some of the bones knit together, forming 2d6 animated human skeletons. These skeletons attack intruders on sight but have no ranged attacks. There are enough bones and swords in the room for one hundred skeletons to form in this manner.
 
 CRYPT 15
 
-Khazan: His word was po.Wer-:·-..·: ..
-
-A skeleton draped in rags lies atop a marble slab in the center of the crypt. The skull has black opals set in its eye sockets and shards of amber where its teeth should be.
-
+Khazan: His word was power
+____
+"A skeleton draped in rags lies atop a marble slab in the center of the crypt. The skull has black opals set in its eye sockets and shards of amber where its teeth should be."
+____
 Khazan was a powerful archmage who unlocked the secrets of lichdom, then later tried to become a demilich and failed. Neither his skull nor his bones pose any threat, but the gems embedded in the skull are valuable.
 
 Treasure. The skull's black opal eye-gems are worth 1,000 gp apiece. The skull also has eight amber teeth worth 100 gp each.
