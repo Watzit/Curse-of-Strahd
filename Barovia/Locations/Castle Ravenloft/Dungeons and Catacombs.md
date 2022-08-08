@@ -302,9 +302,9 @@ The box is unlocked. It contains seven wood-handled paintbrushes and seven small
 
 CRYPT 3  
 Lady Isolde Yunk (Isolde the Incredible): Purveyor of antiques and imports
-
-A skeleton draped in rags lies atop a marble slab in the center of the crypt. Piled all around it, covering the floor, are heaps of old baskets, braziers, bundled tapestries, candlesticks, chairs, chests, cooking utensils, cressets, curtain rods, decanters, dishes, jugs, lamps, scroll cases, tankards, and tinderboxes. None of the junk looks valu­ able. An old chandelier hangs from the domed ceiling.
-
+____
+"A skeleton draped in rags lies atop a marble slab in the center of the crypt. Piled all around it, covering the floor, are heaps of old baskets, braziers, bundled tapestries, candlesticks, chairs, chests, cooking utensils, cressets, curtain rods, decanters, dishes, jugs, lamps, scroll cases, tankards, and tinderboxes. None of the junk looks valuable. An old chandelier hangs from the domed ceiling."
+____
 Characters could spend hours searching the crypt. Though the antiques here might fetch a fair amount of coin, they are hardly worth the trouble to transport.
 
 CRYPT 4
