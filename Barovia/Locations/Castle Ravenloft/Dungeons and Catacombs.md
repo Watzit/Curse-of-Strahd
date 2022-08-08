@@ -489,7 +489,7 @@ This crypt contains nothing of interest.
 
 CRYPT 20
 
-Sasha Jvliskova - Wife
+Sasha Ivliskova - Wife
 _____
 "Webs as thick and pale as linen cover a shapely female form lying atop a marble slab in the center of this dusty, web-filled crypt. You hear a voice issue from the darkness.
 
@@ -503,10 +503,10 @@ CRYPT 21
 Patrina Velikovna - Bride
 
 The creature inside this crypt attacks as soon as the door is opened.
-
-From the darkness comes a horrifying visage, a spectral elf maiden twisted by the horror of her undead existence. She wails, and the very sound claws at your soul.
-
-The spectral elr'is a banshee that attacks the characters on sight, using her wail immediately. Once awakened, the banshee is free to roam [[Castle Ravenloft]], but she can't travel more than 5 miles from this crypt.
+_____
+"From the darkness comes a horrifying visage, a spectral elf maiden twisted by the horror of her undead existence. She wails, and the very sound claws at your soul."
+_____
+The spectral elf is a banshee that attacks the characters on sight, using her wail immediately. Once awakened, the banshee is free to roam [[Castle Ravenloft]], but she can't travel more than 5 miles from this crypt.
 
 In life, Patrina Velikovna was a dusk elf who, having learned a great deal about the black arts, was nearly a match for [[Strahd]]'s powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, [[Strahd]] consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart [[Strahd]]'s plans. [[Strahd]] demanded, and got, Patrina's body. She then became the banshee trapped here.
 
