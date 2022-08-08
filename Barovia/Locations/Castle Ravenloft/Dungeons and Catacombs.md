@@ -574,9 +574,9 @@ Treasure. Tucked under the chef's hat is an electrum spork with a bejeweled hand
 
 CRYPT 29  
 Baron Eisglaze Driif
-
-Opening the door causes the air around you to turn as cold as the coldest hell you can imagine. Every surface inside the crypt is covered with thick, brownish mold.
-
+____
+"Opening the door causes the air around you to turn as cold as the coldest hell you can imagine. Every surface inside the crypt is covered with thick, brownish mold."
+____
 A patch of brown mold (see "Dungeon Hazards" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide) fills the crypt. Characters within 5 feet of the crypt's open doorway are affected.
 
 If the brown mold is killed off, characters can dig through the moldy crust to find the bones of Baron Driif lying atop a marble slab.
@@ -586,14 +586,15 @@ Treasure. Hidden under the brown mold next to the baron's bones is a luck blade 
 CRYPT 30
 
 Prefect Ciril Romulich (Beloved of King Barov and Queen Ravenovia): High Priest of the Most Holy Order
-
-A marble slab in the center of the crypt displays a skel­ eton draped in red vestments, a golden holy symbol clutched in one bony hand. The domed ceiling fifteen feet above is painted to look like a canopy of trees with bright autumn leaves. A narrow stone ledge encircles the crypt ten feet above the floor. Perched on it are dozens of stone ravens, their eyes fixed on the marble slab.
-
+____
+"A marble slab in the center of the crypt displays a skeleton draped in red vestments, a golden holy symbol clutched in one bony hand. The domed ceiling fifteen feet above is painted to look like a canopy of trees with bright autumn leaves. A narrow stone ledge encircles the crypt ten feet above the floor. Perched on it are dozens of stone ravens, their eyes fixed on the marble slab."
+____
 The carved ravens are ominous yet harmless.
 
 Treasure. The prefect's gold holy symbol is festooned with tiny gemstones and is worth 750 gp. If touched by an evil creature, the holy symbol is consumed in a blast of intense light that deals 11 (2d10) radiant damage to all creatures within 5 feet of it. Characters familiar with Barovian religion recognize the symbol as that of the Morninglord.
 
-lCRYPT 31 l We knew him onlybyhis wealth
+CRYPT 31 
+We knew him only by his wealth
 
 This crypt is empty. Its walls are painted to depict moun­ tains of gold coins.
 
