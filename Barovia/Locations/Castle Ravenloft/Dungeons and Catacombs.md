@@ -308,11 +308,11 @@ ____
 Characters could spend hours searching the crypt. Though the antiques here might fetch a fair amount of coin, they are hardly worth the trouble to transport.
 
 CRYPT 4
-Prince Ariel du Plumette (Ariel.t,heHeaD'f.  
-If the characters. open tti(d�o�\9-)�_is,crypt,·r_e�d:
-
-The apparition of a large, rotund man forms within the dark crypt, its eyes wild with insanity. Large, artificial wings unfold from its back.
-
+Prince Ariel du Plumette (Ariel the Heavy)  
+If the characters open the door to this crypt, read:
+____
+"The apparition of a large, rotund man forms within the dark crypt, its eyes wild with insanity. Large, artificial wings unfold from its back."
+____
 Prince Ariel was a terrible man who longed to fly. He attached artificial wings to a harness and empowered the device with magic, but the apparatus still couldn't bear his weight, and he plunged from the [[Pillarstone of Ravenloft]] to his death. His evil ghost attacks the char­ acters on sight. If Ariel succeeds in possessing a char­ acter, his host climbs the high tower (area K18) until it reaches the peak (area K59), then hurls itself down the tower's central shaft (area K18a), screaming, "I can fly!" the whole way down.
 
 CRYPT 5
