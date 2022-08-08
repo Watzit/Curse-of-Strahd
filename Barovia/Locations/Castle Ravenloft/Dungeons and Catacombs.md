@@ -510,7 +510,7 @@ The spectral elf is a banshee that attacks the characters on sight, using her wa
 
 In life, Patrina Velikovna was a dusk elf who, having learned a great deal about the black arts, was nearly a match for [[Strahd]]'s powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, [[Strahd]] consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart [[Strahd]]'s plans. [[Strahd]] demanded, and got, Patrina's body. She then became the banshee trapped here.
 
-. ·ReducingthebansheetoOhitpointscausesittodis­ corporate. Patrina's spirit can: 't rest, howevtr, until she is formally wed to [[Strahd]];· the.banshee re-forms iri her crypt 24 J;tpurs later. Casting; ha1Joi1i'�1>ell on.the_cr,ypt prevents the:baqshee fromreturning·for.as long:as the. spell lasts.
+Reducing the banshee to 0 hit points causes it to discorporate. Patrina's spirit can't rest however, until she is formally wed to [[Strahd]]; the banshee re-forms in her crypt 24 hours later. Casting; ha1Joi1i'�1>ell on.the_cr,ypt prevents the:baqshee fromreturning·for.as long:as the. spell lasts.
 
 Treasure. Read the following text when the charac­ ters investigate Patrina's crypt: 
 
