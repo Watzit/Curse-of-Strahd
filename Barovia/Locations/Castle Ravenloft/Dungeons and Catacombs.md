@@ -375,9 +375,9 @@ Treasure. If the characters explore this crypt after summoning the ghost of Pidl
 
 Crypt 10
 Sir Leonid Krushkin (Sir Lee the Crusher): Bigger than life, he loved his jewelry
-
+____
 An oversized skeleton draped in jewelry and rags lies atop an elongated marble slab in the center of the crypt. Leaning against the slab is a bloodstained maul strung with cobwebs.
-
+____
 Sir Lee stood well over seven feet tall. His maul might give the characters pause, but it is harmless and nonmagical.
 
 TREASURE
