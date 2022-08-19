@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
+            "file": "NPCs/Strahd/Strahd.md",
             "mode": "source",
             "source": false
           }
@@ -19,95 +19,63 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f32ddc32ed93022c",
-    "type": "split",
+    "id": "0d3e76572200d540",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "d7d9e5d1cf6de6dc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1708bbb3a2696065",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "0a8341cef46b1fc0",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "1c9852cf441b9d5e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "aa7cc5d6a8b4f625",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "right": {
-    "id": "6468675c58852a74",
-    "type": "split",
+    "id": "5585ebf1a8e79d29",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "9ed8c3bd107470f5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e638f93647b6f7d9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1ee8c9b5289ea0cb",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "a7858ef7ac7a35ef",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
+        "id": "2ec2d164d42ecd33",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NPCs/Strahd/Strahd.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
-    "Barovia/Locations/Argynvostholt/Argynvostholt.md",
     "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
+    "Barovia/Locations/Argynvostholt/Argynvostholt.md",
     "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
     "NPCs/Strahd/Strahd.md",
     "Barovia/Locations/Castle Ravenloft/Spires of Ravenloft.md",
