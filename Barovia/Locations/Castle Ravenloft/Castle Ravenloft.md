@@ -219,13 +219,19 @@ Creatures with pale flesh scuttle across the ceiling like spiders, their red eye
 These minions of Strahd - former adventurers all creep along ceilings and drop down on unsuspecting prey. The vampire spawn fight until destroyed.
 
 VISTANI THUGS
+____
+"You hear voices with thick accents"
+____
+A small group of Vistani (NE male and female humans) claim that they were the vampire's captives, only recently escaped from the castle's dungeon, and they offer to help the party. In truth, they are loyal to Strahd and betray the characters as soon as he appears. If the characters accept their offer, the thugs pretend to be the party's allies for as long as they remain with the party, or until Strahd appears. If the characters leave the castle, the thugs accompany them, since choosing to remain in the castle would likely arouse the characters' suspicion.
 
-I
+Treasure
+One Vistani thug carries a pouch that holds 2d8 small gemstones (50 gp each).
 
-I
 
-•• .r;-·.••
+WIGHTS I The air grows much colder, and you can hear the march
 
-You hear voices with thick accents
+of footsteps drawing near.
 
-A small group ofVistani (NE male and female humans) claim that they were the vampire's captives, only re­ cently escaped from the castle's dungeon, and they offer to help the party. In truth, they are loyal to Strahd and betray the characters as soon as he appears. If the char­ acters accept their offer, the thugs pretend to be the par-
+If the characters are moving quietly and not carrying light sources, they can try to hide from the wights. These undead soldiers once served as guard captains in Castle Ravenloft. They still wear bits of tattered livery, and they attack the living on sight.
+
+Treasure. The wights carry longswords that have the crest of Barovia worked into their cross guards. Each wight also carries a pouch holding 2d20 ep, each coin of Barovian mintage and featuring the profiled visage of Strahd von Zarovich.
