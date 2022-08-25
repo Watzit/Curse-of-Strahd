@@ -166,6 +166,9 @@ Rahadin directs the characters to a random location in the castle, determined by
 
 If the characters ask Rahadin to lead the way, he declines. If the characters ask for directions, he tells them whether they need to ascend, descend, or remain on the level they're at. If they attack him, he fights to the death. Otherwise, he doesn't leave until after they do.
 
+SHADOWS
+
+
 [[Strahd]] makes a surprise appearance.
 
 A crack of thunder shakes the castle, stirring the dust and cobwebs. You hear a voice: "Good evening."
