@@ -184,18 +184,19 @@ Any character who has a passive Wisdom (Perception) score lower than 19 is surpr
 
 SWARM OF BATS
 
+_____
+"You hear a peal of thunder, followed by the flapping of tiny black wings. Suddenly, a dark cloud of bats descends upon you!"
+____
+These bats are the servants of [[Strahd]]. They attack the characters without provocation.
 
-tiny black wings. Suddenly, a dark cloud of bats descends Iter, this encounter doesn't occur. Otherwise, [[Strahd]]'s I upon you!
 
-
-
-I You kick something-a trinket buried in the dust. I
+I You kick something - a trinket buried in the dust. I
 
 To determine what the character finds, roll on the Trinkets table in appendix A.I
 
 
 
-These bats are the servants of [[Strahd]]. They attack the characters without provocation.
+
 
 TRINKET
 
