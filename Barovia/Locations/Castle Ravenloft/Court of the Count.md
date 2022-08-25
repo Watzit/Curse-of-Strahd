@@ -58,7 +58,7 @@ _____
 "A sculpted stone railing encloses this long balcony, which overlooks Ravenloft's chapel. Two ornate thrones stand side by side in the center of the balcony, covered with dust and strung with cobwebs. The thrones face away from the double doors that give access to the balcony."
 _____
 
-Two [[Strahd]] zombies (see appendix D) are slouched on the thrones. They remain motionless until one of them is disturbed or another creature comes within a zom­ bie's reach, whereupon they attack.
+Two [[Strahd]] zombies (see appendix D) are slouched on the thrones. They remain motionless until one of them is disturbed or another creature comes within a zombie's reach, whereupon they attack.
 
 The balcony is 50 feet above the floor of the chapel (area K15). A staircase north of the double doors leads down to area K29.
 

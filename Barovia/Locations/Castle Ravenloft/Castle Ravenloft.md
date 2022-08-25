@@ -174,7 +174,9 @@ tiny black wings. Suddenly, a dark cloud of bats descends Iter, this encounter d
 
 
 
-I You kick something-a trinket buried in the dust. I ITo determine what the character finds, roll on the Trin­ I
+I You kick something-a trinket buried in the dust. I
+
+To determine what the character finds, roll on the Trinkets table in appendix A.I
 
 
 
@@ -182,7 +184,7 @@ These bats are the servants of [[Strahd]]. They attack the characters without pr
 
 TRINKET
 
-kets table in appendix A.
+
 
 UNSEEN SERVANT
 
