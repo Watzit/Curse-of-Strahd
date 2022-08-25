@@ -201,13 +201,18 @@ A curious object drifts into view, as though held aloft by an invisible force.
 
 This unseen servant was created by Strahd and is per­ manent until destroyed (see the unseen servant spell in the Player's Handbook). Roll a d6 to determine what the servant is carrying, or choose one of the options below.
 
-d6 Items
+| d6  | Items                                                                                                                                                                                                                                                                                                                            |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | A tarnished silver platter with a lid (worth 25 gp). If a character comes within S feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a crawling claw that attacks the nearest character. |
+| 2   | A silver goblet (worth SO gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 (8dl0) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a potion of healing.             |
+| 3   |                                                                                                                                                                                                                                                                                                                                  |
+| 4    |                                                                                                                                                                                                                                                                                                                                  |
 
-A tarnished silver platter with a lid (worth 25 gp). If a character comes within S feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a crawling claw that attacks the nearest character.
 
-2.  2  A silver goblet (worth SO gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 (8dl0) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a potion ofhealing.
+
+2.  2  
     
-3.  3  A gold candelabrum (worth 150 gp) with three branches, each one holding an unlit candle.
+3.  3  
     
 4.  4  A purple silk handkerchief with white ruffled edges (worth l gp). On future occurrences of this encounter, the handkerchief is smeared with fresh blood.
     
