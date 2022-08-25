@@ -104,9 +104,9 @@ Double doors stand at both ends of the hall. Above the doors leading to area K15
 
 K15. CHAPEL
 _______
-"Dim, colored light filters through tall, broken, and board­ ed-up windows of stained glass, illuminating the ancient chapel of Ravenloft. A few bats flutter about near the top of the ninety-foot-high domed ceiling. A balcony runs the length of the west wall, fifty feet above the floor. In the center of the balcony, two dark shapes are slumped in tall chairs.
+"Dim, colored light filters through tall, broken, and boarded-up windows of stained glass, illuminating the ancient chapel of Ravenloft. A few bats flutter about near the top of the ninety-foot-high domed ceiling. A balcony runs the length of the west wall, fifty feet above the floor. In the center of the balcony, two dark shapes are slumped in tall chairs.
 
-Benches coated with centuries of dust lie about the floor in jumbled disarray. Beyond this debris, lit by a piercing shaft of light, an altar stands upon a stone plat­ form. The sides of the altar are carved with bas-reliefs of angelic figures entwined with grape vines. The light from above falls directly on a silver statuette. A cloaked figure is draped over the altar, and a black mace lies on the floor near its feet."
+Benches coated with centuries of dust lie about the floor in jumbled disarray. Beyond this debris, lit by a piercing shaft of light, an altar stands upon a stone platform. The sides of the altar are carved with bas-reliefs of angelic figures entwined with grape vines. The light from above falls directly on a silver statuette. A cloaked figure is draped over the altar, and a black mace lies on the floor near its feet."
 _______
 
 The figure slumped on the altar is all that remains of Gustav Herrenghast, a lawful evil human cleric who tried to obtain the Icon of Ravenloft and did not survive the attempt. See "Treasure" below for more information on the icon and Gustav's possessions.
@@ -115,7 +115,7 @@ A sculpted stone railing cordons off the upstairs balcony, which is described in
 
 TREASURE
 
-The statuette on the altar is an artifact called the Icon ofRavenloft (see appendix C). Any evil creature that touches the statuette must make a DC 17 Constitution saving throw, taking 88 (16d10) radiant damage on a failed save, or half as much damage on a successful one. The statuette is safe for all creatures to handle once it is no longer in contact with the altar.
+The statuette on the altar is an artifact called the Icon of Ravenloft (see appendix C). Any evil creature that touches the statuette must make a DC 17 Constitution saving throw, taking 88 (16d10) radiant damage on a failed save, or half as much damage on a successful one. The statuette is safe for all creatures to handle once it is no longer in contact with the altar.
 
 Gustav's corpse wears a handsome, fur-lined black cloak embroidered with golden thread (worth 250 gp) and a suit of chain mail, both nonmagical. Gustav's black mace is a mace of terror.
 

@@ -109,7 +109,7 @@ The secret door to the west is set into the back wall of the fireplace (area K37
 
 The secret door at the northern end of the east wall
 
-is sealed shut. If the torch is taken from the skeleton's hand and placed back in the empty sconce, the secret door swings inward, revealing area K39 beyond. Re­ moving the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before. Characters can locate this secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a knock spell or similar magic.
+is sealed shut. If the torch is taken from the skeleton's hand and placed back in the empty sconce, the secret door swings inward, revealing area K39 beyond. Removing the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before. Characters can locate this secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a knock spell or similar magic.
 
 K39. HALL OF WEBS 
 _____
