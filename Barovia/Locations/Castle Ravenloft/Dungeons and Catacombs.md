@@ -621,14 +621,11 @@ CRYPT 33
 
 Sir Klutz Tripalotsky: He fell on his own sword
 ____
-In the center of this crypt, atop a marble slab, human bones lie amid the empty shell of a suit of rusty plate armor. Plunged through the armor's breastplate is a longsword.
+"In the center of this crypt, atop a marble slab, human bones lie amid the empty shell of a suit of rusty plate armor. Plunged through the armor's breastplate is a longsword."
 ____
 Neither Sir Klutz's armor nor his longsword are magical or valuable.
 
-If the sword is pulled from the armor, Sir Klutz ap­ pears as a phantom warrior (see appendix D), thanks whoever pulled his weapon free, ?nd agrees to fight alongside that character for the next seven days. Sir
-
-· Klutz perished years before [[Strahd]]'became a va_mpire,  
-··. so the phantom \IVarrior kno�� nothing of St�ahd's ...: ..
+If the sword is pulled from the armor, Sir Klutz appears as a phantom warrior (see appendix D), thanks whoever pulled his weapon free, and agrees to fight alongside that character for the next seven days. Sir Klutz perished years before [[Strahd]] became a vampire, so the phantom warrior knows nothing of Strahd's downfall or the curse afflicting Barovia.
 
 dowilf'!!I or the cu,r.se �fflicttfig:l;!atpvfa.
 
