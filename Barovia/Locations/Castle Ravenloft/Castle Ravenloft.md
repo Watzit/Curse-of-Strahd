@@ -174,11 +174,16 @@ ____
 _____
 If more than one shadow is present, the others are close by but hidden in the darkness. These undead shadows follow the characters but do not attack unless attacked first. They otherwise obey Strahd's commands.
 
-
+STRAHD VON ZAROVICH
 
 [[Strahd]] makes a surprise appearance.
+____
+"A crack of thunder shakes the castle, stirring the dust and cobwebs. You hear a voice: "Good evening.""
+____
+Any character who has a passive Wisdom (Perception) score lower than 19 is surprised as Strahd appears seemingly out of nowhere. The vampire prefers to attack a surprised character, choosing the one closest to him. Otherwise, see appendix D for the vampire's tactics.
 
-A crack of thunder shakes the castle, stirring the dust and cobwebs. You hear a voice: "Good evening."
+SWARM OF BATS
+
 
 tiny black wings. Suddenly, a dark cloud of bats descends Iter, this encounter doesn't occur. Otherwise, [[Strahd]]'s I upon you!
 
