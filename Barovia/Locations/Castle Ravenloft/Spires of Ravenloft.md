@@ -195,7 +195,7 @@ If your card reading indicates an encounter with [[Strahd]] in this area, he is 
 
 K60A. NORTH TOWER ROOFTOP
 ______
-"A cold wind greets you atop the tower roof, its rainslicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. The thunderclouds above sud­ denly coalesce into the terrible visage of [[Strahd]]. The face utters a ghastly moan as thousands of bats fly out of its gaping maw and descend upon the tower."
+"A cold wind greets you atop the tower roof, its rain slicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. The thunderclouds above suddenly coalesce into the terrible visage of [[Strahd]]. The face utters a ghastly moan as thousands of bats fly out of its gaping maw and descend upon the tower."
 ______
 Characters who remain on the roof are accosted by ten swarms of bats, which arrive in 3 rounds. If the characters descend into the tower, the bats don't follow and instead fly into the high tower (area K59), descend its central shaft (area K 18a), and roost in the catacombs (area K84).
 
