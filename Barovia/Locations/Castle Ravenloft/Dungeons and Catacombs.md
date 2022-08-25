@@ -653,22 +653,22 @@ Treasure. Sir Jarnwald was "entombed" he_ re, so far as he was pushed into the c
 CRYPT 36
 
 Claw marks obliterate the name on this crypt's door.. .·] 
-
-"A skeleton draped inragsliesatopamarbleslabinthe center of the crypt."
-
+____
+"A skeleton draped in rags lies atop a marble slab in the center of the crypt."
+____
 This crypt contains nothing of interest.
 
 CRYPT 37
 
 Gralmore Nimblenobs - Wizard Ordinaire
-
-Lying on a marble slab in the center of this crypt is the corpse of a man with a long white beard. His skin clings tightly to his skull and bones, and he wears dusty red robes. Clutched to his chest is a wooden staff that has a brass knob on one end and a marble knob on the other.
-
+_____
+"Lying on a marble slab in the center of this crypt is the corpse of a man with a long white beard. His skin clings tightly to his skull and bones, and he wears dusty red robes. Clutched to his chest is a wooden staff that has a brass knob on one end and a marble knob on the other."
+_____
 The staff is a nonmagical quarterstaff.
 
-Inspection of the marble slab reveals a shallow, con­ cave recess at one end. If the marble-knobbed end of Gralmore's staff is placed in the recess, the slab levitates 5 feet upward, revealing a compartment underneath (see "Treasure" below). The slab slowly sinks back into place after 1 minute. If the brass-knobbed end of the staff is placed in the recess, the holder of the staff takes 22 (4dl0) lightning damage.
+Inspection of the marble slab reveals a shallow, concave recess at one end. If the marble-knobbed end of Gralmore's staff is placed in the recess, the slab levitates 5 feet upward, revealing a compartment underneath (see "Treasure" below). The slab slowly sinks back into place after 1 minute. If the brass-knobbed end of the staff is placed in the recess, the holder of the staff takes 22 (4d10) lightning damage.
 
-Treasure. The compartment under the slab holds a small, black leather case containing three spell scrolls (cone ofcold, fireball, and lightning bolt).
+Treasure. The compartment under the slab holds a small, black leather case containing three spell scrolls (cone of cold, fireball, and lightning bolt).
 
 FORTUNES OF RAVENLOFT
 
