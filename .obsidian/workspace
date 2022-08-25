@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "NPCs/Strahd/Strahd.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -19,58 +19,81 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0d3e76572200d540",
-    "type": "mobile-drawer",
+    "id": "7ae281ed43aef4a3",
+    "type": "split",
     "children": [
       {
-        "id": "1c9852cf441b9d5e",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "aa7cc5d6a8b4f625",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "23d87310316517e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a159a6ed0388bfe9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "262476a552c4a03d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "5585ebf1a8e79d29",
-    "type": "mobile-drawer",
+    "id": "ba5f6c15388fafde",
+    "type": "split",
     "children": [
       {
-        "id": "2ec2d164d42ecd33",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "NPCs/Strahd/Strahd.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "eeb58106bb73af45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df8ecb0518af9157",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPCs/Strahd/Strahd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee9f73cb1ef80780",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
