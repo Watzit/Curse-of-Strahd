@@ -208,16 +208,4 @@ This unseen servant was created by Strahd and is per­ manent until destroyed (s
 | 3   | A gold candelabrum (worth 150 gp) with three branches, each one holding an unlit candle.                                                                                                                                                                                                                                         |
 | 4   | A purple silk handkerchief with white ruffled edges (worth l gp). On future occurrences of this encounter, the handkerchief is smeared with fresh blood.                                                                                                                                                                         |
 | 5   | A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts 1d4 hungry vampire spawn (see below), which arrive in 1d4 + l rounds.                                                                                                                                                                                                                                                                                                                                 |
-|     |                                                                                                                                                                                                                                                                                                                                  |
-
-
-2.  2  
-    
-3.  3  
-    
-4.  4  
-    
-
-S 
-
-6 A wizard's spellbook with a black velvet dust jacket over its stitched leather cover. The book contains all the spells Strahd has prepared (see appendix D). On subsequent occurrences of this encounter, the tome is a nonmagical leather-bound storybook worth 25 gp.
+| 6    | A wizard's spellbook with a black velvet dust jacket over its stitched leather cover. The book contains all the spells Strahd has prepared (see appendix D). On subsequent occurrences of this encounter, the tome is a nonmagical leather-bound storybook worth 25 gp.                                                                                                                                                                                                                                                                                                                                 |
