@@ -228,10 +228,10 @@ Treasure
 One Vistani thug carries a pouch that holds 2d8 small gemstones (50 gp each).
 
 
-WIGHTS I The air grows much colder, and you can hear the march
-
-of footsteps drawing near.
-
+WIGHTS 
+____
+"The air grows much colder, and you can hear the march of footsteps drawing near."
+____
 If the characters are moving quietly and not carrying light sources, they can try to hide from the wights. These undead soldiers once served as guard captains in Castle Ravenloft. They still wear bits of tattered livery, and they attack the living on sight.
 
 Treasure. The wights carry longswords that have the crest of Barovia worked into their cross guards. Each wight also carries a pouch holding 2d20 ep, each coin of Barovian mintage and featuring the profiled visage of Strahd von Zarovich.

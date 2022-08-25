@@ -620,9 +620,9 @@ Creatures that enter the eastern alcove of this crypt are teleported to the east
 CRYPT 33
 
 Sir Klutz Tripalotsky: He fell on his own sword
-
+____
 In the center of this crypt, atop a marble slab, human bones lie amid the empty shell of a suit of rusty plate armor. Plunged through the armor's breastplate is a longsword.
-
+____
 Neither Sir Klutz's armor nor his longsword are magical or valuable.
 
 If the sword is pulled from the armor, Sir Klutz ap­ pears as a phantom warrior (see appendix D), thanks whoever pulled his weapon free, ?nd agrees to fight alongside that character for the next seven days. Sir
