@@ -19,13 +19,13 @@ RANDOM ENCOUNTERS IN CASTLE RAVENLOFT
 | 6        | 1 d4 + 1 flying swords    |
 | 7        | Blinsky toy               |
 | 8        | Unseen servant            |
-| 9        | ld4 Barovian commoners    |
+| 9        | 1d4 Barovian commoners    |
 | 10       | 2d6 crawling claws        |
-| 11       | ld6 shadows               |
-| 12       | ld6 swarms ofbats         |
+| 11       | 1d6 shadows               |
+| 12       | 1d6 swarms ofbats         |
 | 13       | 1 crawling [[Strahd]] zombie  |
-| 14       | ld4 + 1 [[Vistani]] thugs     |
-| 15       | ld4 wights                |
+| 14       | 1d4 + 1 [[Vistani]] thugs     |
+| 15       | 1d4 wights                |
 | 16       | Trinket                   |
 | 17       | Giant spider cocoon       |
 | 18       | 1 Barovian witch          |

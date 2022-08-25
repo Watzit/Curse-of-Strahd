@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Strahd/Strahd.md",
-            "mode": "preview",
+            "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Strahd/Strahd.md",
+                "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +97,10 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "NPCs/Strahd/Strahd.md",
     "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
     "Barovia/Locations/Argynvostholt/Argynvostholt.md",
     "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
-    "NPCs/Strahd/Strahd.md",
     "Barovia/Locations/Castle Ravenloft/Spires of Ravenloft.md",
     "Barovia/Locations/Castle Ravenloft/Main Floor.md",
     "Barovia/Locations/Castle Ravenloft/Walls of Ravenloft.md",
