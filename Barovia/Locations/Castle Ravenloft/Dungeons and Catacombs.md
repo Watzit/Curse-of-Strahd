@@ -640,15 +640,15 @@ An invisible imp is perched atop the owlbear. If someone tries to open the sarco
 Treasure. Characters who take the time to pry the gold from the sarcophagus can amass 500 gp worth of the precious metal, weighing 10 pounds.
 
 CRYPT 35  
-SirJarnwald the Trickster: The joke was on him
-
+Sir Jarnwald the Trickster: The joke was on him
+____
 "A charnel stench fills this empty crypt."
-
+____
 The floor here is an illusion that hides a 20-foot-deep
 
-pit. The sides of the pit are polished smooth; a creature without a climbing speed can't move along them without the aid of magic or a climber's kit. At the bottom of the pit are six starving ghouls. A permanent silence spell suppresses sound in the pit. The silence can be dis­ pelled, as can the illusory floor (DC 14 for both).
+pit. The sides of the pit are polished smooth; a creature without a climbing speed can't move along them without the aid of magic or a climber's kit. At the bottom of the pit are six starving ghouls. A permanent silence spell suppresses sound in the pit. The silence can be dispelled, as can the illusory floor (DC 14 for both).
 
-Treasure. Sir Jarnwald was "entombed" he_ re, so far as he was pushed into the crypt-and devoured by the ghouls. What remains o( him lies scattered o� the pit floor: a few scraps ofclcfthirrn:..a�ha�dful cifJeeth, and a· . signet ring that b_ears e ��ylize_d}�?(wpr.t� 2·s·:gi>).
+Treasure. Sir Jarnwald was "entombed" he_ re, so far as he was pushed into the crypt-and devoured by the ghouls. What remains of him lies scattered on the pit floor: a few scraps of clothing and a handful of Jeeth, and a· . signet ring that b_ears e ��ylize_d}�?(wpr.t� 2·s·:gi>).
 
 CRYPT 36
 
