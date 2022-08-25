@@ -627,17 +627,15 @@ Neither Sir Klutz's armor nor his longsword are magical or valuable.
 
 If the sword is pulled from the armor, Sir Klutz appears as a phantom warrior (see appendix D), thanks whoever pulled his weapon free, and agrees to fight alongside that character for the next seven days. Sir Klutz perished years before [[Strahd]] became a vampire, so the phantom warrior knows nothing of Strahd's downfall or the curse afflicting Barovia.
 
-dowilf'!!I or the cu,r.se �fflicttfig:l;!atpvfa.
-
 CRYPT 34
 
 King Dostron the Hellborn
-
-Resting in the center of this crypt is a seven-foot-long gilded sarcophagus, its lid painted with the likeness of a screaming king wearing a crown of horns. Looming behind the sarcophagus is a stuffed owlbear frozen in a roar, with claws outstretched.
-
+_____
+"Resting in the center of this crypt is a seven-foot-long gilded sarcophagus, its lid painted with the likeness of a screaming king wearing a crown of horns. Looming behind the sarcophagus is a stuffed owlbear frozen in a roar, with claws outstretched."
+_____
 King Dostron was an ancient ruler of this land, long before the arrival of [[Strahd]]. He claimed descent from a duke of the Nine Hells, and his deeds did justice to this ancestry. His sarcophagus is made of beaten lead and encased in gold (see "Treasure" below). Its lid can be pried open with a crowbar or similar tool, revealing nothing but dust within. The stuffed owlbear is a late addition to the crypt's decor-a gift given to [[Strahd]] that wound up here. It looks almost alive but is harmless.
 
-An invisible imp is perched atop the owlbear. If some­ one tries to open the sarcophagus, the imp says in Com­ mon, "I wouldn't do that if I were you!" The imp is mag­ ically bound to King Dostron's remains and must watch over them for several more centuries before its contract are fulfilled. It isn't obligated to protect the contents of the crypt (so it will not attack), and it delights in telling lies and engaging in mischief. For instance, it warns the characters that the sarcophagus is trapped, and that opening the lid will free a pit fiend bound within.
+An invisible imp is perched atop the owlbear. If someone tries to open the sarcophagus, the imp says in Common, "I wouldn't do that if I were you!" The imp is magically bound to King Dostron's remains and must watch over them for several more centuries before its contract are fulfilled. It isn't obligated to protect the contents of the crypt (so it will not attack), and it delights in telling lies and engaging in mischief. For instance, it warns the characters that the sarcophagus is trapped, and that opening the lid will free a pit fiend bound within.
 
 Treasure. Characters who take the time to pry the gold from the sarcophagus can amass 500 gp worth of the precious metal, weighing 10 pounds.
 
