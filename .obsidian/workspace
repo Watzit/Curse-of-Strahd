@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
+            "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
+                "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,13 +95,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "946dd50b65031a6c",
+  "active": "c2b68ace8a4833a3",
   "lastOpenFiles": [
+    "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
     "Barovia/Locations/Castle Ravenloft/Main Floor.md",
     "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
     "NPCs/Strahd/Strahd.md",
     "Barovia/Barovia.md",
-    "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
     "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
     "Barovia/Locations/Castle Ravenloft/Court of the Count.md",
     "Barovia/Locations/Castle Ravenloft/Rooms of Weeping.md",
