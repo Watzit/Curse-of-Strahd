@@ -739,7 +739,7 @@ A heavy portcullis stands closed in the archway leading to this tomb. Lifting it
 
 Black marble steps descend to a dark tomb that has a vaulted ceiling thirty feet overhead. The essence of evil permeates the very air. The smell of freshly turned earth is here. Settled into the dirt on the floor is a shining black coffin of finely waxed wood. The coffin's fittings are of brilliant brass, and the lid is closed. South of the coffin are three gloomy alcoves. An iron lever protrudes from the north wall, east of the tomb's entrance.
 
-Raising the lever lifts the Potcullis at the top of the ,stairs..Pullipgitdownlowersthepor.tcU' llis.
+Raising the lever lifts the Portcullis at the top of the ,stairs Pullipgitdownlowersthepor.tcU' llis.
 
 Lying-an4er the ea;t\l:n�;r the east wall of the· tomb:are three vampire spawn°br1deitdressed in SQiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who ap­ proaches [[Strahd]]'s coffin.
 
