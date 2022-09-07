@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
+            "file": "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7ae281ed43aef4a3",
+    "id": "6d1d5078c8b601c5",
     "type": "split",
     "children": [
       {
-        "id": "23d87310316517e0",
+        "id": "4952b7ef0387cebb",
         "type": "tabs",
         "children": [
           {
-            "id": "a159a6ed0388bfe9",
+            "id": "c2b68ace8a4833a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "262476a552c4a03d",
+            "id": "3dafe69d7370d04e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba5f6c15388fafde",
+    "id": "e723cdc1f170f2a3",
     "type": "split",
     "children": [
       {
-        "id": "eeb58106bb73af45",
+        "id": "cd3f56e4f2eda0a6",
         "type": "tabs",
         "children": [
           {
-            "id": "df8ecb0518af9157",
+            "id": "6a803ed13d402b1f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
+                "file": "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "ee9f73cb1ef80780",
+            "id": "cc3519437744a5be",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -97,15 +97,15 @@
   },
   "active": "946dd50b65031a6c",
   "lastOpenFiles": [
+    "NPCs/Strahd/Strahd.md",
+    "Barovia/Barovia.md",
+    "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
     "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
     "Barovia/Locations/Castle Ravenloft/Court of the Count.md",
-    "Barovia/Locations/Castle Ravenloft/Dungeons and Catacombs.md",
     "Barovia/Locations/Castle Ravenloft/Larders of Ill Omen.md",
     "Barovia/Locations/Castle Ravenloft/Main Floor.md",
     "Barovia/Locations/Castle Ravenloft/Rooms of Weeping.md",
     "Barovia/Locations/Castle Ravenloft/Spires of Ravenloft.md",
-    "Barovia/Locations/Castle Ravenloft/Walls of Ravenloft.md",
-    "NPCs/Strahd/Strahd.md",
-    "Barovia/Locations/Argynvostholt/Argynvostholt.md"
+    "Barovia/Locations/Castle Ravenloft/Walls of Ravenloft.md"
   ]
 }
