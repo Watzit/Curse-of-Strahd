@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "946dd50b65031a6c",
+        "id": "83705ded0ee7d3d9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +90,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "946dd50b65031a6c",
+  "active": "83705ded0ee7d3d9",
   "lastOpenFiles": [
+    "README.md",
     "Untitled.md",
     "Barovia/Locations/Town of Vallaki/Vallaki.md",
     "Barovia/Locations/Gates of Barovia.md",
@@ -105,7 +101,6 @@
     "Barovia/Locations/Tser Pool Encampment.md",
     "Barovia/Locations/Tser Falls.md",
     "Barovia/Locations/Svalich Woods.md",
-    "Barovia/Locations/River Ivlis Crossroads.md",
-    "Barovia/Locations/River Ivlis.md"
+    "Barovia/Locations/River Ivlis Crossroads.md"
   ]
 }
