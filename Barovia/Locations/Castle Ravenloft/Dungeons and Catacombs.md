@@ -678,18 +678,17 @@ CRYPT 38
 General Kroval "Mad Dog" Grislek (Master ofthe Hunt): A leader ofhounds and men
 
 When the characters open the door to this crypt, read:
-
+____
 "The stench of brimstone and burnt fur spills from this crypt. In this darkness are three pairs of glowing read eyes."
+____
 
 Three hell hounds lunge forth and attack, fighting to the death. In the round after they attack, General Grislek's wraith emerges from the crypt, uttering commands to the hounds in Infernal. Once these evil creatures are slain, the characters can inspect the crypt more closely.
 
-Bits of incinerated bone lie strewn atop a marble slab in the center of the crypt. Lying amid the bones are frag­ ments of a shattered spear with a silvered head. The walls and domed ceiling of the crypt are covered with scorched murals that depict legions of infantry and cav­ alry clashing on battlefields.
+_____
+Bits of incinerated bone lie strewn atop a marble slab in the center of the crypt. Lying amid the bones are fragments of a shattered spear with a silvered head. The walls and domed ceiling of the crypt are covered with scorched murals that depict legions of infantry and cavalry clashing on battlefields.
+_____
 
-A mending cantrip can rep.air. 'the spear;which ls broken
-
-intothreepiecesofroughlyequallengtldfrepafred_ ;it
-
-can be wielded as a silvered; :nonfu�gicafspear.. .......
+A mending cantrip can repair the spear which ls broken into three pieces of roughly equal length. If repaired, it can be wielded as a silvered, nonfu�gicafspear.. .......
 
 FORTUNES OF RAVENLO]"T .  
 . If your card reading reveals that a treasure is here, it is . in·a secret comriartment �nder Grislek's remains. Once
