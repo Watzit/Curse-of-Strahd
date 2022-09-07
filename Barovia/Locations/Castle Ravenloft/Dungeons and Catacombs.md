@@ -688,36 +688,35 @@ _____
 Bits of incinerated bone lie strewn atop a marble slab in the center of the crypt. Lying amid the bones are fragments of a shattered spear with a silvered head. The walls and domed ceiling of the crypt are covered with scorched murals that depict legions of infantry and cavalry clashing on battlefields.
 _____
 
-A mending cantrip can repair the spear which ls broken into three pieces of roughly equal length. If repaired, it can be wielded as a silvered, nonfu�gicafspear.. .......
+A mending cantrip can repair the spear which ls broken into three pieces of roughly equal length. If repaired, it can be wielded as a silvered, nonmagical spear.
 
-FORTUNES OF RAVENLO]"T .  
-. If your card reading reveals that a treasure is here, it is . in·a secret comriartment �nder Grislek's remains. Once
+FORTUNES OF RAVENLOFT
 
-. hischarredbonesateclearedaway,thecompartment :·,c�ntie. ·foμr.:idaridopenedwithoutanabilitycheck.
+If your card reading reveals that a treasure is here, it is in a secret compartment under Grislek's remains. Once his charred bones are cleared away, the compartment can be found and opened without an ability check.
 
 CRYPT 39  
 Beucephalus, the Wonder Horse: May the flowers grow ever brighter where he trods
 
 The door to this crypt is larger than all the others, 6 feet wide by 8 feet tall. Removing or resetting the slab requires a successful DC 20 Strength check. When the door is opened, read:
-
-Dry, hot air and smoke billow from the crypt as a black horse with a flaming mane and fiery hooves emerges. Smoke billows from its nostrils as it rears up to attack.
-
+____
+"Dry, hot air and smoke billow from the crypt as a black horse with a flaming mane and fiery hooves emerges. Smoke billows from its nostrils as it rears up to attack."
+____
 The nightmare, Beucephalus, is [[Strahd]]'s steed. It has 104 hit points. If the characters slay it, [[Strahd]] hunts them down mercilessly. When the steed wants to leave the castle, it flies up the central shaft of the high tower (area K18a), exiting through the gash in the tower roof (area K59).
 
 CRYPT 40  
 Tatsaul Eris - Last ofthe Line
-
-A skeleton draped in rags lies atop a marble slab in the center of the crypt. Mounted on the north, east, and south walls are three unlit torches in iron brackets.
-
+____
+"A skeleton draped in rags lies atop a marble slab in the center of the crypt. Mounted on the north, east, and south walls are three unlit torches in iron brackets."
+____
 When a creature enters this tomb for the first time, the torches burst into flame and continue to burn until they are spent or extinguished.
 
 Examination of the skull and bones reveals that they are plaster facsimiles.
 
 K85. SERGEI'S TOMB  
 A portcullis is closed in the archway into this tomb. Lifting it requires a successful DC 25 Strength check.
-
-White marble steps descend to a tomb that has a vaulted ceiling thirty feet overhead. A stillness-a calm amid the storm-is felt here. In the center of the tomb, a white marble slab supports an intricately inlaid coffin. Chiseled into the slab is a name: Sergei von Zarovich. To the north, behind the coffin, are three alcoves. A beautifully carved statue stands in each alcove-a stunning young man flanked by two angels-looking as polished and new as the day each was placed there. An iron lever protrudes from the south wall, west of the tomb's entrance.
-
+____
+"White marble steps descend to a tomb that has a vaulted ceiling thirty feet overhead. A stillness-a calm amid the storm-is felt here. In the center of the tomb, a white marble slab supports an intricately inlaid coffin. Chiseled into the slab is a name: Sergei von Zarovich. To the north, behind the coffin, are three alcoves. A beautifully carved statue stands in each alcove-a stunning young man flanked by two angels-looking as polished and new as the day each was placed there. An iron lever protrudes from the south wall, west of the tomb's entrance."
+____
 Raising the lever lifts the portcullis at the top of the stairs. Pulling it down lowers the portcullis.
 
 The coffin opens easily to the touch of a lawful good creature. Otherwise, opening it requires a successful DC 15 Strength check Sergei's flesh has been magically preserved, and at first glance it looks like he is sleeping in his casket.
@@ -735,12 +734,12 @@ If your card reading indicates an encounter with [[Strahd]] in this area, he is 
 K86. [[STRAHD]]'S TOMB
 
 A heavy portcullis stands closed in the archway leading to this tomb. Lifting it requires a successful DC 25 Strength check.
+____
+"Black marble steps descend to a dark tomb that has a vaulted ceiling thirty feet overhead. The essence of evil permeates the very air. The smell of freshly turned earth is here. Settled into the dirt on the floor is a shining black coffin of finely waxed wood. The coffin's fittings are of brilliant brass, and the lid is closed. South of the coffin are three gloomy alcoves. An iron lever protrudes from the north wall, east of the tomb's entrance."
+____
+Raising the lever lifts the Portcullis at the top of the ,stairs Pulling it down lowers the portcullis.
 
-Black marble steps descend to a dark tomb that has a vaulted ceiling thirty feet overhead. The essence of evil permeates the very air. The smell of freshly turned earth is here. Settled into the dirt on the floor is a shining black coffin of finely waxed wood. The coffin's fittings are of brilliant brass, and the lid is closed. South of the coffin are three gloomy alcoves. An iron lever protrudes from the north wall, east of the tomb's entrance.
-
-Raising the lever lifts the Portcullis at the top of the ,stairs Pullipgitdownlowersthepor.tcU' llis.
-
-Lying-an4er the ea;t\l:n�;r the east wall of the· tomb:are three vampire spawn°br1deitdressed in SQiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who ap­ proaches [[Strahd]]'s coffin.
+Lying under the earth near the east wall of the· tomb:are three vampire spawn°br1deitdressed in SQiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who ap­ proaches [[Strahd]]'s coffin.
 
 A detect magic spell reveals that the western and east­ ern alcoves radiate strong auras of conjuration magic. The central alcove is nonmagical.
 
