@@ -739,9 +739,9 @@ ____
 ____
 Raising the lever lifts the Portcullis at the top of the ,stairs Pulling it down lowers the portcullis.
 
-Lying under the earth near the east wall of the· tomb:are three vampire spawn°br1deitdressed in SQiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who ap­ proaches [[Strahd]]'s coffin.
+Lying under the earth near the east wall of the tomb are three vampire spawn brides dressed in soiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who approaches [[Strahd]]'s coffin.
 
-A detect magic spell reveals that the western and east­ ern alcoves radiate strong auras of conjuration magic. The central alcove is nonmagical.
+A detect magic spell reveals that the western and eastern alcoves radiate strong auras of conjuration magic. The central alcove is nonmagical.
 
 Creatures that enter the western alcove are instantly teleported to the western alcove of crypt 32 in area K84. Stepping into the eastern alcove has no effect, but any creature that teleports from the eastern alcove of crypt 32 appears here.
 
