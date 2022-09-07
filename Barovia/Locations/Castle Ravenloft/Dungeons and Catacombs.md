@@ -771,23 +771,21 @@ The following text assumes that the characters are approaching from area K84. If
 ____
 "Wide steps descend to a landing flanked by two alcoves. Within each alcove, taking up the full thirty-foot height of the ceiling, is a bronze statue of a warrior holding a spear. A soft blue curtain of light flows between the two alcoves. Dimly visible on the other side of the curtain are more descending stairs."
 ____
-The curtain has no effect on creatures that move east to west (from area K88 to area :K84).
+The curtain has no effect on creatures that move east to west (from area K88 to area K84).
 
 A creature of lawful good. alignment that moves west to east through the curtain can do so without difficulty, but creatures of other alignments that do so are teleported back to the top of the stairs behind them. A Small creature can squeeze behind and around one of the bronze statues to circumvent the light curtain.
 
-K88. TOMB OF KING BAROV AND UEEN RAVENOVIA
-
-This tomb rests in hushed silence. Tall, stained glass windows dominate the eastern walls, allowing dim light to fall on two coffins resting atop white marble slabs. The one against the north wall is marked King Barov von Zarovich, and the one against the south wall is marked Queen Ravenovia van Roeyen. The vaulted ceiling thirty feet overhead is inlaid with a beautiful gold mosaic.
-
-The stained glass windows are so dirty on the outside
-
-as to be nearly opaque. The windows don't open, but they can be smashed easily. Anyone who looks upward through a window can see, 110 feet above, the castle's stone overlook (area K6). Anyone who falls out a window here plummets almost 900 feet to the base of the Pillar­ stone of Ravenloft.
+K88. TOMB OF KING BAROV AND QUEEN RAVENOVIA
+_____
+"This tomb rests in hushed silence. Tall, stained glass windows dominate the eastern walls, allowing dim light to fall on two coffins resting atop white marble slabs. The one against the north wall is marked King Barov von Zarovich, and the one against the south wall is marked Queen Ravenovia van Roeyen. The vaulted ceiling thirty feet overhead is inlaid with a beautiful gold mosaic."
+_____
+The stained glass windows are so dirty on the outside as to be nearly opaque. The windows don't open, but they can be smashed easily. Anyone who looks upward through a window can see, 110 feet above, the castle's stone overlook (area K6). Anyone who falls out a window here plummets almost 900 feet to the base of the Pillarstone of Ravenloft.
 
 Prying the gold from the ceiling of this tomb would be a long and tedious effort for little reward.
 
 The north coffin holds a beautifully sculpted, life-sized wax effigy of [[Strahd]]'s father, King Barov. The old king's bones lie in a compartment beneath his effigy.
 
-The south coffin holds the skeleton of [[Strahd]]'s mother, Queen Ravenovia. (The magic that was meant to pre­ serve her earthly remains failed years ago.) A tattered white shroud covers her bones.
+The south coffin holds the skeleton of [[Strahd]]'s mother, Queen Ravenovia. (The magic that was meant to preserve her earthly remains failed years ago.) A tattered white shroud covers her bones.
 
 FORTUNES OF RAVENLOFT
 

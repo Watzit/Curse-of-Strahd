@@ -18,4 +18,4 @@ One random character sees him- or herself hanging from the gallows. The other ch
 
 FORTUNES OF [[RAVENLOFT]]
 
-If your card reading reveals that a treasure is here, it is buried in one of the graves. For each grave the charac­ ters dig up, there's a cumulative 10 percent chance of finding the treasure.
+If your card reading reveals that a treasure is here, it is buried in one of the graves. For each grave the characters dig up, there's a cumulative 10 percent chance of finding the treasure.
