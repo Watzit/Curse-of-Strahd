@@ -721,7 +721,7 @@ White marble steps descend to a tomb that has a vaulted ceiling thirty feet over
 
 Raising the lever lifts the portcullis at the top of the stairs. Pulling it down lowers the portcullis.
 
-The coffin opens ea.sily to the touch of a lawful good creature. Otherwise, 9pe_ning it requires a successful DC 15 Strength cfieck.·._S�' rgei's flesh has been mag­ ically preserved, and at fir�t glance it looks like he i_s sleeping in his·casket.
+The coffin opens easily to the touch of a lawful good creature. Otherwise, opening it requires a successful DC 15 Strength check Sergei's flesh has been magically preserved, and at first glance it looks like he is sleeping in his casket.
 
 TREASURE
 
@@ -731,15 +731,15 @@ FORTUNES OF RAVENLOFT
 
 If your card reading reveals that a treasure is here, it is inside the coffin next to Sergei's body.
 
-If your card reading indicates an encounter with [[Strahd]] in this area, he is lying across Sergei's cof­ fin, weeping.
+If your card reading indicates an encounter with [[Strahd]] in this area, he is lying across Sergei's coffin, weeping.
 
 K86. [[STRAHD]]'S TOMB
 
-A heavy portcullis stands closed in the archway lead­ ing to this tomb. Lifting it requires a successful DC 25 Strength check.
+A heavy portcullis stands closed in the archway leading to this tomb. Lifting it requires a successful DC 25 Strength check.
 
 Black marble steps descend to a dark tomb that has a vaulted ceiling thirty feet overhead. The essence of evil permeates the very air. The smell of freshly turned earth is here. Settled into the dirt on the floor is a shining black coffin of finely waxed wood. The coffin's fittings are of brilliant brass, and the lid is closed. South of the coffin are three gloomy alcoves. An iron lever protrudes from the north wall, east of the tomb's entrance.
 
-Raising the lever lifts the J?Ortcullis· at the top of the ,stairs..Pullipgitdownlowersthepor.tcU' llis.
+Raising the lever lifts the Potcullis at the top of the ,stairs..Pullipgitdownlowersthepor.tcU' llis.
 
 Lying-an4er the ea;t\l:n�;r the east wall of the· tomb:are three vampire spawn°br1deitdressed in SQiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who ap­ proaches [[Strahd]]'s coffin.
 
