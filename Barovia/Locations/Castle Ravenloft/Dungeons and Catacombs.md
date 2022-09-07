@@ -768,12 +768,12 @@ If your card reading indicates an encounter with [[Strahd]] in this area, he is 
 K87. GUARDIANS
 
 The following text assumes that the characters are approaching from area K84. If they approach this area from area K88, references to descending stairs should be changed to ascending stairs.
+____
+"Wide steps descend to a landing flanked by two alcoves. Within each alcove, taking up the full thirty-foot height of the ceiling, is a bronze statue of a warrior holding a spear. A soft blue curtain of light flows between the two alcoves. Dimly visible on the other side of the curtain are more descending stairs."
+____
+The curtain has no effect on creatures that move east to west (from area K88 to area :K84).
 
-Wide steps descend to a landing flanked by two alcoves. Within each alcove, taking up the full thirty-foot height of the ceiling, is a bronze statue of a warrior holding a spear. A soft blue curtain of light flows between the two alcoves. Dimly visible on the other side of the curtain are more descending stairs.
-
-The curtain has no effect �-� cr�·att.i'res,that mo· ve east to west (from area K88 to area :K84)'.
-
-A creature of lawful good. alignment that moves west to east through the curtain can do so without difficulty, but creatures of other alignments that do so are tele­ por:ted back to the top of the stairs behind them. A Small creature can squeeze behind and around one of the bronze statues to circumvent the light curtain.
+A creature of lawful good. alignment that moves west to east through the curtain can do so without difficulty, but creatures of other alignments that do so are teleported back to the top of the stairs behind them. A Small creature can squeeze behind and around one of the bronze statues to circumvent the light curtain.
 
 K88. TOMB OF KING BAROV AND UEEN RAVENOVIA
 
