@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Strahd/Roleplaying Strahd.md",
-            "mode": "preview",
+            "file": "Barovia/Locations/Black Carriage.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6d1d5078c8b601c5",
+    "id": "0c061ac68a50af5a",
     "type": "split",
     "children": [
       {
-        "id": "4952b7ef0387cebb",
+        "id": "77d40b46a56c86b7",
         "type": "tabs",
         "children": [
           {
-            "id": "c2b68ace8a4833a3",
+            "id": "a978c05b66f01b8a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "3dafe69d7370d04e",
+            "id": "430cab604a7cc917",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "e723cdc1f170f2a3",
+    "id": "a7c7e95d3f5e7dfa",
     "type": "split",
     "children": [
       {
-        "id": "cd3f56e4f2eda0a6",
+        "id": "dae0538ccca5d26d",
         "type": "tabs",
         "children": [
           {
-            "id": "6a803ed13d402b1f",
+            "id": "a1b1ebe2402e3200",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Strahd/Roleplaying Strahd.md",
+                "file": "Barovia/Locations/Black Carriage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,14 +78,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "cc3519437744a5be",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
             }
           }
         ]
@@ -97,15 +89,15 @@
   },
   "active": "83705ded0ee7d3d9",
   "lastOpenFiles": [
+    "Barovia/Barovia.md",
+    "NPCs/Strahd/Strahd.md",
+    "NPCs/Strahd/Roleplaying Strahd.md",
     "README.md",
     "Untitled.md",
     "Barovia/Locations/Town of Vallaki/Vallaki.md",
     "Barovia/Locations/Gates of Barovia.md",
     "Barovia/Locations/Old Svalich Road.md",
     "Barovia/Locations/Abbey of Saint Markovia.md",
-    "Barovia/Locations/Tser Pool Encampment.md",
-    "Barovia/Locations/Tser Falls.md",
-    "Barovia/Locations/Svalich Woods.md",
-    "Barovia/Locations/River Ivlis Crossroads.md"
+    "Barovia/Locations/Tser Pool Encampment.md"
   ]
 }
