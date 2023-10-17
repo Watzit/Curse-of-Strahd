@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "60b21383c8968312",
+    "type": "split",
+    "children": [
+      {
+        "id": "f28ca84c5024383e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83705ded0ee7d3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "61ace4708132b4d2"
+          }
+        ]
+      },
+      {
+        "id": "59dfc6d95ee8563f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "def7d9545459f4da",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "61ace4708132b4d2"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c258ef28f61fe2e7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6deb58b10244d15b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b10244df7dba8d30",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a1f1063ec172e5f3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "591fae4d6453c0de",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "83705ded0ee7d3d9",
+  "lastOpenFiles": [
+    "NPCs/Strahd/Strahd.md",
+    "NPCs/Barovians.md",
+    "NPCs/Vistani.md",
+    "Barovia/Locations/Black Carriage.md",
+    "Barovia/Barovia.md",
+    "NPCs/Strahd/Roleplaying Strahd.md",
+    "README.md",
+    "Untitled.md",
+    "Barovia/Locations/Town of Vallaki/Vallaki.md",
+    "Barovia/Locations/Gates of Barovia.md"
+  ]
+}
