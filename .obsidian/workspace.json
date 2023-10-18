@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2dee2d5d1973c4b2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +133,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "83705ded0ee7d3d9",
+  "active": "2dee2d5d1973c4b2",
   "lastOpenFiles": [
     "Untitled.md",
     "Barovia/Locations/Black Carriage.md",
