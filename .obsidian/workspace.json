@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Darklord.md",
+                "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Darklord.md",
+                "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +132,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2dee2d5d1973c4b2",
+  "active": "83705ded0ee7d3d9",
   "lastOpenFiles": [
+    "Darklord.md",
     "Untitled.md",
     "Barovia/Locations/Black Carriage.md",
     "Barovia/Barovia.md",
