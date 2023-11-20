@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Running Curse of Strahd/Running Curse of Strahd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Running Curse of Strahd/Running Curse of Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,10 +123,11 @@
   },
   "active": "83705ded0ee7d3d9",
   "lastOpenFiles": [
+    "Running Curse of Strahd",
     "Barovia/Alterations to Magic.md",
     "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
     "Darklord.md",
-    "Untitled.md",
+    "Running Curse of Strahd/Running Curse of Strahd.md",
     "Barovia/Locations/Black Carriage.md",
     "Barovia/Barovia.md",
     "NPCs/Strahd/Strahd.md",
