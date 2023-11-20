@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2dee2d5d1973c4b2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +124,8 @@
   },
   "active": "83705ded0ee7d3d9",
   "lastOpenFiles": [
+    "Barovia/Alterations to Magic.md",
+    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
     "Darklord.md",
     "Untitled.md",
     "Barovia/Locations/Black Carriage.md",
