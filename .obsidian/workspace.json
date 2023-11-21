@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1006ccd1dec2fdd6",
+        "id": "ba4e0bdbf20f752e",
         "type": "tabs",
         "children": [
           {
-            "id": "83705ded0ee7d3d9",
+            "id": "46015fdb1f609ff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ireena.md",
+                "file": "Party/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ireena.md",
+                "file": "Party/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +121,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "83705ded0ee7d3d9",
+  "active": "46015fdb1f609ff9",
   "lastOpenFiles": [
+    "Party/Colt.md",
+    "Party/Untitled.md",
+    "Party/Faang.md",
+    "Party/Steel.md",
+    "NPCs/Ireena.md",
+    "Untitled",
     "Running Curse of Strahd/PDFs.md",
     "Running Curse of Strahd/Running Curse of Strahd.md",
     "Running Curse of Strahd/Dark Powers.md",
@@ -144,7 +150,6 @@
     "Running Curse of Strahd/Chapter 5",
     "Running Curse of Strahd/Chapter 3/1525652-FOCoS_ch3_VillageOfBarovia.pdf",
     "Running Curse of Strahd/Chapter 4",
-    "Running Curse of Strahd/Chapter 2/1525652-FOCoS_ch2_DeathHouse.pdf",
     "Running Curse of Strahd/St Andrals Orphenage/1525652-MandyMod_orphanage_guide.jpg",
     "Running Curse of Strahd/Tomb of Strahd.md",
     "Barovia/Alterations to Magic.md",
