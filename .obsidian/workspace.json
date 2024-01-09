@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ba4e0bdbf20f752e",
+        "id": "512358eef06b6580",
         "type": "tabs",
         "children": [
           {
-            "id": "46015fdb1f609ff9",
+            "id": "2a52d97b6cc63b11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -121,7 +117,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "46015fdb1f609ff9",
+  "active": "a978c05b66f01b8a",
   "lastOpenFiles": [
     "Party/Steel.md",
     "Party/Faang.md",
