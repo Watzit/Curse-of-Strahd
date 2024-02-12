@@ -11,8 +11,10 @@
             "id": "2a52d97b6cc63b11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer.pdf"
+              }
             }
           }
         ]
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Untitled.md",
+                "file": "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,12 +119,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a978c05b66f01b8a",
+  "active": "2a52d97b6cc63b11",
   "lastOpenFiles": [
+    "Running Curse of Strahd/Player Primer/1525652-FOCoS_PlayerPrimer.pdf",
+    "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer_PF.pdf",
+    "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer.pdf",
+    "Running Curse of Strahd/1525652-MrsDurstsLetter.jpg",
+    "Running Curse of Strahd/1525652-MrDurstsSuicideLetter_PF.jpg",
+    "Running Curse of Strahd/1525652-MrDurstsSuicideLetter.jpg",
+    "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure.pdf",
+    "Party/Locket.md",
     "Party/Steel.md",
     "Party/Faang.md",
     "Party/Colt.md",
-    "Party/Untitled.md",
     "NPCs/Ireena.md",
     "Untitled",
     "Running Curse of Strahd/PDFs.md",
@@ -132,20 +141,14 @@
     "Running Curse of Strahd/1525652-StrahdsLetterToDursts_PF.jpg",
     "Running Curse of Strahd/1525652-StrahdsLetterToDursts.jpg",
     "Running Curse of Strahd/1525652-MrsDurstsLetter_PF.jpg",
-    "Running Curse of Strahd/1525652-MrsDurstsLetter.jpg",
-    "Running Curse of Strahd/1525652-MrDurstsSuicideLetter_PF.jpg",
-    "Running Curse of Strahd/1525652-MrDurstsSuicideLetter.jpg",
     "Running Curse of Strahd/St Andrals Orphenage/1525652-MandyMod_orphanage_nogrid.jpg",
     "Running Curse of Strahd/St Andrals Orphenage/1525652-MandyMod_orphanage_grid.jpg",
     "Running Curse of Strahd/St Andrals Orphenage/1525652-FOCoS_St_Andrals_Orphanage_Print.pdf",
-    "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer_PF.pdf",
     "Running Curse of Strahd/St Andrals Orphenage",
-    "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer.pdf",
     "Running Curse of Strahd/Chapter 5/1525652-FOCoS_ch5_OldBonegrinder.pdf",
     "Running Curse of Strahd/Chapter 4/1525652-FOCoS_ch4_VistaniAndTarokka_PF.pdf",
     "Running Curse of Strahd/Chapter 5",
     "Running Curse of Strahd/Chapter 3/1525652-FOCoS_ch3_VillageOfBarovia.pdf",
-    "Running Curse of Strahd/Chapter 4",
     "Running Curse of Strahd/St Andrals Orphenage/1525652-MandyMod_orphanage_guide.jpg",
     "Running Curse of Strahd/Tomb of Strahd.md",
     "Barovia/Alterations to Magic.md",
