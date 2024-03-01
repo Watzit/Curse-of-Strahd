@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Locket.md",
+                "file": "Party/Colt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Locket.md",
+                "file": "Party/Colt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,11 +121,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2a52d97b6cc63b11",
+  "active": "a978c05b66f01b8a",
   "lastOpenFiles": [
-    "Party/Steel.md",
-    "Party/Locket.md",
     "Party/Faang.md",
+    "Party/Locket.md",
+    "Party/Steel.md",
     "Party/Colt.md",
     "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer.pdf",
     "Running Curse of Strahd/Player Primer/1525652-FOCoS_PlayerPrimer.pdf",
