@@ -11,8 +11,10 @@
             "id": "dbb0e215cef20a06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,13 +121,14 @@
   },
   "active": "dbb0e215cef20a06",
   "lastOpenFiles": [
+    "Running Curse of Strahd/Running Curse of Strahd.md",
+    "Running Curse of Strahd/Player Primer/1525652-FOCoS_PlayerPrimer.pdf",
+    "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer.pdf",
     "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure_PF.pdf",
     "Party/Colt.md",
     "Party/Faang.md",
     "Party/Locket.md",
     "Party/Steel.md",
-    "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer.pdf",
-    "Running Curse of Strahd/Player Primer/1525652-FOCoS_PlayerPrimer.pdf",
     "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer_PF.pdf",
     "Running Curse of Strahd/1525652-MrsDurstsLetter.jpg",
     "Running Curse of Strahd/1525652-MrDurstsSuicideLetter_PF.jpg",
@@ -133,7 +137,6 @@
     "NPCs/Ireena.md",
     "Untitled",
     "Running Curse of Strahd/PDFs.md",
-    "Running Curse of Strahd/Running Curse of Strahd.md",
     "Running Curse of Strahd/Dark Powers.md",
     "Darklord.md",
     "Running Curse of Strahd/1525652-StrahdsLetterToDursts_PF.jpg",
@@ -145,7 +148,6 @@
     "Running Curse of Strahd/St Andrals Orphenage",
     "Running Curse of Strahd/Chapter 5/1525652-FOCoS_ch5_OldBonegrinder.pdf",
     "Running Curse of Strahd/Chapter 4/1525652-FOCoS_ch4_VistaniAndTarokka_PF.pdf",
-    "Running Curse of Strahd/Chapter 5",
     "Running Curse of Strahd/St Andrals Orphenage/1525652-MandyMod_orphanage_guide.jpg",
     "Running Curse of Strahd/Tomb of Strahd.md",
     "Barovia/Alterations to Magic.md",
