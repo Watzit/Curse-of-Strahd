@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8046d4aed16c197",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +142,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "71f4a31c5f2cdd57",
+  "active": "b8046d4aed16c197",
   "lastOpenFiles": [
     "Party/Steel.md",
     "Running Curse of Strahd/Running Curse of Strahd.md",
