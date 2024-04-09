@@ -16,31 +16,8 @@
                 "file": "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure.pdf"
               }
             }
-          },
-          {
-            "id": "71f4a31c5f2cdd57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Locket.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8046d4aed16c197",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Locket.md",
+                "file": "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +119,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b8046d4aed16c197",
+  "active": "dbb0e215cef20a06",
   "lastOpenFiles": [
+    "Party/Locket.md",
     "Party/Steel.md",
     "Running Curse of Strahd/Running Curse of Strahd.md",
     "Running Curse of Strahd/Player Primer/1525652-FOCoS_PlayerPrimer.pdf",
@@ -151,7 +129,6 @@
     "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure_PF.pdf",
     "Party/Colt.md",
     "Party/Faang.md",
-    "Party/Locket.md",
     "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer_PF.pdf",
     "Running Curse of Strahd/1525652-MrsDurstsLetter.jpg",
     "Running Curse of Strahd/1525652-MrDurstsSuicideLetter_PF.jpg",
