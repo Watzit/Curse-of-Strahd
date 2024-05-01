@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "86ee2a28afa25a9e",
+        "id": "1d1b200545493bc3",
         "type": "tabs",
         "children": [
           {
-            "id": "dbb0e215cef20a06",
+            "id": "b8cf68a536134018",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,11 +116,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dbb0e215cef20a06",
+  "active": "b8cf68a536134018",
   "lastOpenFiles": [
+    "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure.pdf",
     "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer.pdf",
     "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure_PF.pdf",
-    "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure.pdf",
     "Party/Locket.md",
     "Party/Steel.md",
     "Running Curse of Strahd/Running Curse of Strahd.md",
