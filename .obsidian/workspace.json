@@ -11,12 +11,8 @@
             "id": "032f69c43894e268",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plane of Shadow/Domains of Dread/Domains of Dread.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plane of Shadow/Domains of Dread/Domains of Dread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +118,9 @@
   },
   "active": "032f69c43894e268",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Plane of Shadow/Domains of Dread/Domains of Dread.md",
     "Plane of Shadow/Domains of Dread/Dark Powers.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Ravenloft.md",
     "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
@@ -165,8 +163,6 @@
     "README.md",
     "Barovia/Locations/Town of Vallaki/Vallaki.md",
     "Barovia/Locations/Gates of Barovia.md",
-    "Barovia/Locations/Old Svalich Road.md",
-    "Barovia/Locations/Abbey of Saint Markovia.md",
-    "Barovia/Locations/Tser Pool Encampment.md"
+    "Barovia/Locations/Old Svalich Road.md"
   ]
 }
