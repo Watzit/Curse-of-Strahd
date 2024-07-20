@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1d1b200545493bc3",
+        "id": "a4416f8952345dee",
         "type": "tabs",
         "children": [
           {
-            "id": "b8cf68a536134018",
+            "id": "032f69c43894e268",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Plane of Shadow/Domains of Dread/Domains of Dread.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plane of Shadow/Domains of Dread/Domains of Dread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +121,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b8cf68a536134018",
+  "active": "032f69c43894e268",
   "lastOpenFiles": [
+    "Plane of Shadow/Domains of Dread/Dark Powers.md",
+    "Plane of Shadow/Domains of Dread/Ravenloft/Ravenloft.md",
+    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+    "NPCs/Strahd/Strahd.md",
+    "Barovia/Locations/Argynvostholt/Argynvostholt.md",
+    "Barovia/Locations/Luna River Crossroads.md",
     "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure.pdf",
     "Running Curse of Strahd/Player Primer/1525652-FOCoS_BarovianPlayerPrimer.pdf",
     "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure_PF.pdf",
@@ -148,10 +159,8 @@
     "Running Curse of Strahd/St Andrals Orphenage/1525652-MandyMod_orphanage_guide.jpg",
     "Running Curse of Strahd/Tomb of Strahd.md",
     "Barovia/Alterations to Magic.md",
-    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
     "Barovia/Locations/Black Carriage.md",
     "Barovia/Barovia.md",
-    "NPCs/Strahd/Strahd.md",
     "NPCs/Strahd/Roleplaying Strahd.md",
     "README.md",
     "Barovia/Locations/Town of Vallaki/Vallaki.md",
