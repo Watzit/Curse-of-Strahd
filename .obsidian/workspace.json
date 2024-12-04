@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "c528bef2fd8b4cb5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +127,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "032f69c43894e268",
+  "active": "c528bef2fd8b4cb5",
   "lastOpenFiles": [
     "Untitled 1.canvas",
     "Untitled.canvas",
