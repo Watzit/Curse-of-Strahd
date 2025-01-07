@@ -41,8 +41,7 @@
               "title": "Release Notes 1.7.7"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +152,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fd99abc0f59043ff",
+  "active": "032f69c43894e268",
   "lastOpenFiles": [
     "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
     "NPCs/Strahd/Strahd.md",
