@@ -41,7 +41,8 @@
               "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,15 +153,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "032f69c43894e268",
+  "active": "fd99abc0f59043ff",
   "lastOpenFiles": [
+    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
+    "NPCs/Strahd/Strahd.md",
+    "NPCs/Vistani.md",
+    "Barovia/Locations/Village of Barovia/Bildrath's Mercantile.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Plane of Shadow/Domains of Dread/Domains of Dread.md",
     "Plane of Shadow/Domains of Dread/Dark Powers.md",
     "Plane of Shadow/Domains of Dread/Ravenloft/Ravenloft.md",
-    "Barovia/Locations/Castle Ravenloft/Castle Ravenloft.md",
-    "NPCs/Strahd/Strahd.md",
     "Barovia/Locations/Argynvostholt/Argynvostholt.md",
     "Barovia/Locations/Luna River Crossroads.md",
     "Running Curse of Strahd/Chapter 1/1525652-FOCoS_ch1_PreppingtheAdventure.pdf",
@@ -198,7 +201,6 @@
     "NPCs/Strahd/Roleplaying Strahd.md",
     "README.md",
     "Barovia/Locations/Town of Vallaki/Vallaki.md",
-    "Barovia/Locations/Gates of Barovia.md",
-    "Barovia/Locations/Old Svalich Road.md"
+    "Barovia/Locations/Gates of Barovia.md"
   ]
 }
